@@ -1,5 +1,7 @@
 # Startup Radar
 
+最新進度：[2026-11-03 紀錄](docs/progress-2026-11-03.md)，包含 Layer 1、篩選決定、分類修正、公開部署及尚未實作的 UI／UX 建議。
+
 網站：[Startup Radar](https://vcstseng.github.io/startup-radar/)（GitHub Pages）。專案儲存庫：[vcstseng/startup-radar](https://github.com/vcstseng/startup-radar)（公開）。來源資料與上傳範圍見 [GitHub 說明](docs/github-repository.md)，本機啟動方式見 [Layer 1 操作說明](docs/layer-one-portal.md)。
 
 從新創公司名錄整理高層次 trends 與 ideas，透過網站探索；使用者查看個別公司時，再按需取得詳細資訊。
