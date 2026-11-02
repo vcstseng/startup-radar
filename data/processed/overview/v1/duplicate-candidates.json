@@ -1,0 +1,5679 @@
+{
+  "policy": "候選清單，不表示同一公司，不合併、不刪除、不推定更名。網域為完整 hostname，不解析註冊主網域。",
+  "same_name": [
+    {
+      "normalized_name": "abeja",
+      "record_count": 2,
+      "distinct_descriptions": 1,
+      "members": [
+        {
+          "id": "upstream-18839",
+          "name": "ABEJA",
+          "source": "plugandplay",
+          "website": "http://www.abejainc.com",
+          "batch_file": "data/processed/companies/batches/round-014.json",
+          "summary_zh": "提供整合物聯網、大數據及深度學習的 AI 平台。"
+        },
+        {
+          "id": "upstream-18870",
+          "name": "ABEJA",
+          "source": "plugandplay",
+          "website": "http://www.abejainc.com",
+          "batch_file": "data/processed/companies/batches/round-018.json",
+          "summary_zh": "提供整合物聯網、大數據及深度學習的 AI 平台。"
+        }
+      ]
+    },
+    {
+      "normalized_name": "accend",
+      "record_count": 2,
+      "distinct_descriptions": 2,
+      "members": [
+        {
+          "id": "upstream-20357",
+          "name": "Accend",
+          "source": "plugandplay",
+          "website": "https://www.withaccend.com/",
+          "batch_file": "data/processed/companies/batches/round-010.json",
+          "summary_zh": "以人工確認的 AI agents 進行企業信用審查及客戶導入。"
+        },
+        {
+          "id": "upstream-09230",
+          "name": "Accend",
+          "source": "yc",
+          "website": "https://www.withaccend.com/",
+          "batch_file": "data/processed/companies/batches/round-019.json",
+          "summary_zh": "為銀行及金融科技公司提供商業授信評估 AI agents。"
+        }
+      ]
+    },
+    {
+      "normalized_name": "acerta",
+      "record_count": 2,
+      "distinct_descriptions": 2,
+      "members": [
+        {
+          "id": "upstream-00341",
+          "name": "Acerta",
+          "source": "techstars",
+          "website": "https://acerta.ca",
+          "batch_file": "data/processed/companies/batches/round-016.json",
+          "summary_zh": "以機器學習即時偵測生產線及行駛車輛的異常並預測故障。"
+        },
+        {
+          "id": "upstream-16547",
+          "name": "Acerta",
+          "source": "plugandplay",
+          "website": "http://acerta.ca",
+          "batch_file": "data/processed/companies/batches/round-019.json",
+          "summary_zh": "為製造及汽車業提供機器學習軟體技術。"
+        }
+      ]
+    },
+    {
+      "normalized_name": "ai medical service",
+      "record_count": 2,
+      "distinct_descriptions": 1,
+      "members": [
+        {
+          "id": "upstream-18739",
+          "name": "AI Medical Service",
+          "source": "plugandplay",
+          "website": "https://en.ai-ms.com",
+          "batch_file": "data/processed/companies/batches/round-001.json",
+          "summary_zh": "以 AI 軟體協助偵測胃癌。"
+        },
+        {
+          "id": "upstream-18827",
+          "name": "AI Medical Service",
+          "source": "plugandplay",
+          "website": "http://ai-ms.com/en",
+          "batch_file": "data/processed/companies/batches/round-003.json",
+          "summary_zh": "以 AI 軟體協助偵測胃癌。"
+        }
+      ]
+    },
+    {
+      "normalized_name": "armilla ai",
+      "record_count": 2,
+      "distinct_descriptions": 2,
+      "members": [
+        {
+          "id": "upstream-08462",
+          "name": "Armilla AI",
+          "source": "yc",
+          "website": "http://www.armilla.ai",
+          "batch_file": "data/processed/companies/batches/round-013.json",
+          "summary_zh": "為生成式 AI 及 agents 提供責任保險。"
+        },
+        {
+          "id": "upstream-19314",
+          "name": "Armilla AI",
+          "source": "plugandplay",
+          "website": "https://www.armilla.insure",
+          "batch_file": "data/processed/companies/batches/round-015.json",
+          "summary_zh": "協助組織防範 AI 風險。"
+        }
+      ]
+    },
+    {
+      "normalized_name": "ashita-team",
+      "record_count": 2,
+      "distinct_descriptions": 1,
+      "members": [
+        {
+          "id": "upstream-17319",
+          "name": "ASHITA-TEAM",
+          "source": "plugandplay",
+          "website": "https://www.ashita-team.com/",
+          "batch_file": "data/processed/companies/batches/round-011.json",
+          "summary_zh": "以 AI 雲端平台進行人資評估。"
+        },
+        {
+          "id": "upstream-17940",
+          "name": "ASHITA-TEAM",
+          "source": "plugandplay",
+          "website": "https://www.ashita-team.com/",
+          "batch_file": "data/processed/companies/batches/round-012.json",
+          "summary_zh": "以 AI 雲端平台進行人資評估。"
+        }
+      ]
+    },
+    {
+      "normalized_name": "askporter",
+      "record_count": 2,
+      "distinct_descriptions": 1,
+      "members": [
+        {
+          "id": "upstream-18368",
+          "name": "askporter",
+          "source": "plugandplay",
+          "website": "http://askporter.com",
+          "batch_file": "data/processed/companies/batches/round-016.json",
+          "summary_zh": "為實體資產提供 AI 助理及管理平台。"
+        },
+        {
+          "id": "upstream-20159",
+          "name": "askporter",
+          "source": "plugandplay",
+          "website": "http://askporter.com",
+          "batch_file": "data/processed/companies/batches/round-020.json",
+          "summary_zh": "為實體資產提供 AI 助理及管理平台。"
+        }
+      ]
+    },
+    {
+      "normalized_name": "attestiv",
+      "record_count": 2,
+      "distinct_descriptions": 1,
+      "members": [
+        {
+          "id": "upstream-18255",
+          "name": "Attestiv",
+          "source": "plugandplay",
+          "website": "http://attestiv.com",
+          "batch_file": "data/processed/companies/batches/round-001.json",
+          "summary_zh": "檢驗照片、影片與文件，防範詐欺及深偽。"
+        },
+        {
+          "id": "upstream-20250",
+          "name": "Attestiv",
+          "source": "plugandplay",
+          "website": "http://attestiv.com",
+          "batch_file": "data/processed/companies/batches/round-007.json",
+          "summary_zh": "分析及鑑識照片、影片與文件以防詐欺及深偽。"
+        }
+      ]
+    },
+    {
+      "normalized_name": "automation hero",
+      "record_count": 2,
+      "distinct_descriptions": 1,
+      "members": [
+        {
+          "id": "upstream-18234",
+          "name": "Automation Hero",
+          "source": "plugandplay",
+          "website": "http://automationhero.ai",
+          "batch_file": "data/processed/companies/batches/round-005.json",
+          "summary_zh": "以 AI 平台處理文件。"
+        },
+        {
+          "id": "upstream-19894",
+          "name": "Automation Hero",
+          "source": "plugandplay",
+          "website": "http://automationhero.ai",
+          "batch_file": "data/processed/companies/batches/round-011.json",
+          "summary_zh": "以 AI 平台處理文件。"
+        }
+      ]
+    },
+    {
+      "normalized_name": "axle",
+      "record_count": 2,
+      "distinct_descriptions": 2,
+      "members": [
+        {
+          "id": "upstream-16530",
+          "name": "Axle",
+          "source": "plugandplay",
+          "website": "http://axlepayments.com",
+          "batch_file": "data/processed/companies/batches/round-019.json",
+          "summary_zh": "以 AI 貨運應收帳款承購服務，為小型貨運經紀商提供短期營運資金。"
+        },
+        {
+          "id": "upstream-08925",
+          "name": "Axle",
+          "source": "yc",
+          "website": "https://axle.insure",
+          "batch_file": "data/processed/companies/batches/round-019.json",
+          "summary_zh": "提供保險業 AI 原生清算交換平台。"
+        }
+      ]
+    },
+    {
+      "normalized_name": "bigid",
+      "record_count": 2,
+      "distinct_descriptions": 1,
+      "members": [
+        {
+          "id": "upstream-21276",
+          "name": "BigID",
+          "source": "plugandplay",
+          "website": "http://bigid.com",
+          "batch_file": "data/processed/companies/batches/round-011.json",
+          "summary_zh": "協助組織探索、管理、治理及保護資料，涵蓋安全、隱私與 AI。"
+        },
+        {
+          "id": "upstream-20658",
+          "name": "BigID",
+          "source": "plugandplay",
+          "website": "http://bigid.com",
+          "batch_file": "data/processed/companies/batches/round-012.json",
+          "summary_zh": "協助企業探索、管理、治理及保護資料，涵蓋安全、隱私與 AI。"
+        }
+      ]
+    },
+    {
+      "normalized_name": "bitgrit",
+      "record_count": 2,
+      "distinct_descriptions": 2,
+      "members": [
+        {
+          "id": "upstream-18698",
+          "name": "bitgrit",
+          "source": "plugandplay",
+          "website": "https://www.bitgrit.net",
+          "batch_file": "data/processed/companies/batches/round-004.json",
+          "summary_zh": null
+        },
+        {
+          "id": "upstream-15734",
+          "name": "Bitgrit",
+          "source": "alchemist",
+          "website": "",
+          "batch_file": "data/processed/companies/batches/round-013.json",
+          "summary_zh": null
+        }
+      ]
+    },
+    {
+      "normalized_name": "celus",
+      "record_count": 2,
+      "distinct_descriptions": 1,
+      "members": [
+        {
+          "id": "upstream-20138",
+          "name": "Celus",
+          "source": "plugandplay",
+          "website": "https://www.celus.io",
+          "batch_file": "data/processed/companies/batches/round-001.json",
+          "summary_zh": "以 AI 自動產出電路圖、物料表與 PCB 佈局。"
+        },
+        {
+          "id": "upstream-18428",
+          "name": "Celus",
+          "source": "plugandplay",
+          "website": "https://www.celus.io",
+          "batch_file": "data/processed/companies/batches/round-013.json",
+          "summary_zh": "自動設計電路圖、物料表及 PCB 佈局。"
+        }
+      ]
+    },
+    {
+      "normalized_name": "circle",
+      "record_count": 2,
+      "distinct_descriptions": 1,
+      "members": [
+        {
+          "id": "upstream-18398",
+          "name": "Circle",
+          "source": "plugandplay",
+          "website": "http://www.circleengage.ai",
+          "batch_file": "data/processed/companies/batches/round-005.json",
+          "summary_zh": "協助健康計畫、經紀與醫療提供者整合資料及提升會員互動。"
+        },
+        {
+          "id": "upstream-20189",
+          "name": "Circle",
+          "source": "plugandplay",
+          "website": "http://www.circleengage.ai",
+          "batch_file": "data/processed/companies/batches/round-015.json",
+          "summary_zh": "協助健康保險計畫、經紀商及服務提供者整合資料與提升會員互動。"
+        }
+      ]
+    },
+    {
+      "normalized_name": "circuit mind",
+      "record_count": 2,
+      "distinct_descriptions": 2,
+      "members": [
+        {
+          "id": "upstream-14868",
+          "name": "Circuit Mind",
+          "source": "ef",
+          "website": "",
+          "batch_file": "data/processed/companies/batches/round-009.json",
+          "summary_zh": "以 AI 生成電路圖。"
+        },
+        {
+          "id": "upstream-18988",
+          "name": "Circuit Mind",
+          "source": "plugandplay",
+          "website": "http://circuitmind.io/",
+          "batch_file": "data/processed/companies/batches/round-017.json",
+          "summary_zh": "以 AI 自動生成及最佳化電子電路設計。"
+        }
+      ]
+    },
+    {
+      "normalized_name": "comet",
+      "record_count": 2,
+      "distinct_descriptions": 2,
+      "members": [
+        {
+          "id": "upstream-11664",
+          "name": "Comet",
+          "source": "antler",
+          "website": "https://comet.rocks/",
+          "batch_file": "data/processed/companies/batches/round-002.json",
+          "summary_zh": "為直營電商品牌提供 agentic 商務介面。"
+        },
+        {
+          "id": "upstream-00047",
+          "name": "Comet",
+          "source": "techstars",
+          "website": "https://comet.com",
+          "batch_file": "data/processed/companies/batches/round-002.json",
+          "summary_zh": "以成為 AI 領域的 GitHub 為定位。"
+        }
+      ]
+    },
+    {
+      "normalized_name": "concertio",
+      "record_count": 2,
+      "distinct_descriptions": 1,
+      "members": [
+        {
+          "id": "upstream-20128",
+          "name": "Concertio",
+          "source": "plugandplay",
+          "website": "https://concertio.com/",
+          "batch_file": "data/processed/companies/batches/round-015.json",
+          "summary_zh": "提供 AI 效能最佳化工具。"
+        },
+        {
+          "id": "upstream-18418",
+          "name": "Concertio",
+          "source": "plugandplay",
+          "website": "https://concertio.com/",
+          "batch_file": "data/processed/companies/batches/round-018.json",
+          "summary_zh": "提供 AI 效能最佳化工具。"
+        }
+      ]
+    },
+    {
+      "normalized_name": "datagusto",
+      "record_count": 2,
+      "distinct_descriptions": 2,
+      "members": [
+        {
+          "id": "upstream-15510",
+          "name": "datagusto",
+          "source": "alchemist",
+          "website": "",
+          "batch_file": "data/processed/companies/batches/round-012.json",
+          "summary_zh": "為 LLM 提供無程式碼資料擷取、轉換及載入。"
+        },
+        {
+          "id": "upstream-18533",
+          "name": "Datagusto",
+          "source": "plugandplay",
+          "website": "http://www.datagusto.jp",
+          "batch_file": "data/processed/companies/batches/round-013.json",
+          "summary_zh": "依業務目標自動分析輸入資料。"
+        }
+      ]
+    },
+    {
+      "normalized_name": "decawork",
+      "record_count": 2,
+      "distinct_descriptions": 2,
+      "members": [
+        {
+          "id": "upstream-11234",
+          "name": "Decawork",
+          "source": "yc",
+          "website": "https://decawork.ai/",
+          "batch_file": "data/processed/companies/batches/round-010.json",
+          "summary_zh": "訓練企業專屬模型以核准 AI 行動。"
+        },
+        {
+          "id": "upstream-15233",
+          "name": "Decawork",
+          "source": "ef",
+          "website": "",
+          "batch_file": "data/processed/companies/batches/round-017.json",
+          "summary_zh": "為 IT 團隊提供 AI agents。"
+        }
+      ]
+    },
+    {
+      "normalized_name": "deepvu",
+      "record_count": 2,
+      "distinct_descriptions": 1,
+      "members": [
+        {
+          "id": "upstream-19891",
+          "name": "DeepVu",
+          "source": "plugandplay",
+          "website": "http://deepvu.co",
+          "batch_file": "data/processed/companies/batches/round-009.json",
+          "summary_zh": "以 AI 最佳化供應鏈與利潤。"
+        },
+        {
+          "id": "upstream-18231",
+          "name": "DeepVu",
+          "source": "plugandplay",
+          "website": "http://deepvu.co",
+          "batch_file": "data/processed/companies/batches/round-021.json",
+          "summary_zh": "以 AI 最佳化供應鏈及利潤率。"
+        }
+      ]
+    },
+    {
+      "normalized_name": "delt.ai",
+      "record_count": 2,
+      "distinct_descriptions": 1,
+      "members": [
+        {
+          "id": "upstream-19923",
+          "name": "delt.ai",
+          "source": "plugandplay",
+          "website": "https://delt.ai",
+          "batch_file": "data/processed/companies/batches/round-002.json",
+          "summary_zh": "以 AI 平台管理交易至紀錄的財務流程。"
+        },
+        {
+          "id": "upstream-18302",
+          "name": "delt.ai",
+          "source": "plugandplay",
+          "website": "https://delt.ai",
+          "batch_file": "data/processed/companies/batches/round-017.json",
+          "summary_zh": "提供從交易到紀錄的 AI 財務管理平台。"
+        }
+      ]
+    },
+    {
+      "normalized_name": "dimaag",
+      "record_count": 2,
+      "distinct_descriptions": 1,
+      "members": [
+        {
+          "id": "upstream-18242",
+          "name": "DIMAAG",
+          "source": "plugandplay",
+          "website": "http://dimaag.ai",
+          "batch_file": "data/processed/companies/batches/round-005.json",
+          "summary_zh": "提供涵蓋 AI、自主導航、電動車及機器人的產品與軟體服務。"
+        },
+        {
+          "id": "upstream-20155",
+          "name": "DIMAAG",
+          "source": "plugandplay",
+          "website": "http://dimaag.ai",
+          "batch_file": "data/processed/companies/batches/round-016.json",
+          "summary_zh": "開發涵蓋 AI、自主導航、電動車及機器人的產品與軟體服務。"
+        }
+      ]
+    },
+    {
+      "normalized_name": "drafted",
+      "record_count": 2,
+      "distinct_descriptions": 2,
+      "members": [
+        {
+          "id": "upstream-01834",
+          "name": "Drafted",
+          "source": "techstars",
+          "website": "https://joindrafted.com",
+          "batch_file": "data/processed/companies/batches/round-001.json",
+          "summary_zh": "提供 AI 原生招募產品。"
+        },
+        {
+          "id": "upstream-10762",
+          "name": "Drafted",
+          "source": "yc",
+          "website": "https://www.drafted.ai/",
+          "batch_file": "data/processed/companies/batches/round-002.json",
+          "summary_zh": "以 AI 設計住家。"
+        }
+      ]
+    },
+    {
+      "normalized_name": "drivex",
+      "record_count": 2,
+      "distinct_descriptions": 1,
+      "members": [
+        {
+          "id": "upstream-18309",
+          "name": "DriveX",
+          "source": "plugandplay",
+          "website": "http://drivex.ee",
+          "batch_file": "data/processed/companies/batches/round-012.json",
+          "summary_zh": "以 AI 協助保險銷售或理賠中的車輛驗證。"
+        },
+        {
+          "id": "upstream-19930",
+          "name": "DriveX",
+          "source": "plugandplay",
+          "website": "http://drivex.ee",
+          "batch_file": "data/processed/companies/batches/round-012.json",
+          "summary_zh": "以 AI 協助保險銷售或理賠中的車輛驗證。"
+        }
+      ]
+    },
+    {
+      "normalized_name": "dyad",
+      "record_count": 2,
+      "distinct_descriptions": 1,
+      "members": [
+        {
+          "id": "upstream-18055",
+          "name": "Dyad",
+          "source": "plugandplay",
+          "website": "https://www.dyad.net",
+          "batch_file": "data/processed/companies/batches/round-005.json",
+          "summary_zh": "將非結構化臨床資料轉為結構化代碼與洞察。"
+        },
+        {
+          "id": "upstream-20210",
+          "name": "Dyad",
+          "source": "plugandplay",
+          "website": "https://www.dyad.net",
+          "batch_file": "data/processed/companies/batches/round-007.json",
+          "summary_zh": "把非結構化臨床資料轉成結構化代碼及洞察。"
+        }
+      ]
+    },
+    {
+      "normalized_name": "e-ai",
+      "record_count": 2,
+      "distinct_descriptions": 1,
+      "members": [
+        {
+          "id": "upstream-18396",
+          "name": "E-AI",
+          "source": "plugandplay",
+          "website": "http://www.e-ai.com.cn/guan/first.html",
+          "batch_file": "data/processed/companies/batches/round-013.json",
+          "summary_zh": "為保險及醫療提供字元辨識技術。"
+        },
+        {
+          "id": "upstream-20187",
+          "name": "E-AI",
+          "source": "plugandplay",
+          "website": "http://www.e-ai.com.cn/guan/first.html",
+          "batch_file": "data/processed/companies/batches/round-015.json",
+          "summary_zh": "為保險及醫療產業提供結合深度學習、自然語言處理及 OCR 的智慧文字辨識。"
+        }
+      ]
+    },
+    {
+      "normalized_name": "edmuse",
+      "record_count": 2,
+      "distinct_descriptions": 1,
+      "members": [
+        {
+          "id": "upstream-18577",
+          "name": "EdMuse",
+          "source": "plugandplay",
+          "website": "https://www.edmuse.co.jp",
+          "batch_file": "data/processed/companies/batches/round-006.json",
+          "summary_zh": "開發 AI、物聯網及分散式帳本技術。"
+        },
+        {
+          "id": "upstream-18928",
+          "name": "EdMuse",
+          "source": "plugandplay",
+          "website": "https://www.edmuse.co.jp",
+          "batch_file": "data/processed/companies/batches/round-016.json",
+          "summary_zh": "開發 AI、物聯網及分散式帳本等資訊技術。"
+        }
+      ]
+    },
+    {
+      "normalized_name": "ejenta",
+      "record_count": 2,
+      "distinct_descriptions": 2,
+      "members": [
+        {
+          "id": "upstream-15781",
+          "name": "Ejenta",
+          "source": "alchemist",
+          "website": "",
+          "batch_file": "data/processed/companies/batches/round-020.json",
+          "summary_zh": "將授權自 NASA 的 AI 用於遠端健康監測。"
+        },
+        {
+          "id": "upstream-02315",
+          "name": "Ejenta",
+          "source": "techstars",
+          "website": "https://ejenta.com",
+          "batch_file": "data/processed/companies/batches/round-021.json",
+          "summary_zh": "提供遠端健康監測與連結照護的 AI 平台。"
+        }
+      ]
+    },
+    {
+      "normalized_name": "elix, inc",
+      "record_count": 2,
+      "distinct_descriptions": 1,
+      "members": [
+        {
+          "id": "upstream-20820",
+          "name": "Elix, Inc",
+          "source": "plugandplay",
+          "website": "https://www.elix-inc.com/jp/",
+          "batch_file": "data/processed/companies/batches/round-008.json",
+          "summary_zh": "研發深度學習技術。"
+        },
+        {
+          "id": "upstream-21155",
+          "name": "Elix, Inc",
+          "source": "plugandplay",
+          "website": "https://www.elix-inc.com/jp/",
+          "batch_file": "data/processed/companies/batches/round-015.json",
+          "summary_zh": "專注深度學習的研究型技術公司。"
+        }
+      ]
+    },
+    {
+      "normalized_name": "emagin (acq. by innovyze)",
+      "record_count": 2,
+      "distinct_descriptions": 1,
+      "members": [
+        {
+          "id": "upstream-20195",
+          "name": "EMAGIN (acq. by Innovyze)",
+          "source": "plugandplay",
+          "website": "http://www.emagin.ca",
+          "batch_file": "data/processed/companies/batches/round-013.json",
+          "summary_zh": "為供水與污水系統提供 AI。"
+        },
+        {
+          "id": "upstream-18203",
+          "name": "EMAGIN (acq. by Innovyze)",
+          "source": "plugandplay",
+          "website": "http://www.emagin.ca",
+          "batch_file": "data/processed/companies/batches/round-016.json",
+          "summary_zh": "為供水及污水系統提供 AI。"
+        }
+      ]
+    },
+    {
+      "normalized_name": "evolve",
+      "record_count": 2,
+      "distinct_descriptions": 2,
+      "members": [
+        {
+          "id": "upstream-03893",
+          "name": "Evolve",
+          "source": "techstars",
+          "website": "https://evolveapp.com",
+          "batch_file": "data/processed/companies/batches/round-017.json",
+          "summary_zh": "以機器學習分析約會習慣，提供感情決策建議。"
+        },
+        {
+          "id": "upstream-13033",
+          "name": "Evolve",
+          "source": "500",
+          "website": "https://evolveplatform.ai",
+          "batch_file": "data/processed/companies/batches/round-019.json",
+          "summary_zh": "以 AI 將內容轉為培訓課程。"
+        }
+      ]
+    },
+    {
+      "normalized_name": "fabrisight",
+      "record_count": 2,
+      "distinct_descriptions": 2,
+      "members": [
+        {
+          "id": "upstream-01547",
+          "name": "FabriSight",
+          "source": "techstars",
+          "website": "https://tryfabrisight.com",
+          "batch_file": "data/processed/companies/batches/round-013.json",
+          "summary_zh": "以電腦視覺改善高混合消費品生產線效率及浪費。"
+        },
+        {
+          "id": "upstream-19389",
+          "name": "FabriSight",
+          "source": "plugandplay",
+          "website": "http://www.tryfabrisight.com",
+          "batch_file": "data/processed/companies/batches/round-018.json",
+          "summary_zh": "以視覺 AI 協助生產團隊發掘製造產線的潛在產能。"
+        }
+      ]
+    },
+    {
+      "normalized_name": "flexiv robotics",
+      "record_count": 2,
+      "distinct_descriptions": 1,
+      "members": [
+        {
+          "id": "upstream-16437",
+          "name": "Flexiv Robotics",
+          "source": "plugandplay",
+          "website": "http://www.flexiv.com",
+          "batch_file": "data/processed/companies/batches/round-005.json",
+          "summary_zh": "開發整合力控制、電腦視覺與 AI 的自適應機器人。"
+        },
+        {
+          "id": "upstream-21289",
+          "name": "Flexiv Robotics",
+          "source": "plugandplay",
+          "website": "http://www.flexiv.com",
+          "batch_file": "data/processed/companies/batches/round-015.json",
+          "summary_zh": "開發結合力控制、電腦視覺及 AI 的自適應機器人。"
+        }
+      ]
+    },
+    {
+      "normalized_name": "flyr",
+      "record_count": 2,
+      "distinct_descriptions": 1,
+      "members": [
+        {
+          "id": "upstream-21284",
+          "name": "Flyr",
+          "source": "plugandplay",
+          "website": "http://www.flyrlabs.com",
+          "batch_file": "data/processed/companies/batches/round-006.json",
+          "summary_zh": "為航空與旅遊業者建立定價及優惠管理系統。"
+        },
+        {
+          "id": "upstream-20666",
+          "name": "Flyr",
+          "source": "plugandplay",
+          "website": "http://www.flyrlabs.com",
+          "batch_file": "data/processed/companies/batches/round-016.json",
+          "summary_zh": "以機器學習為航空及旅遊業建立定價與方案管理系統。"
+        }
+      ]
+    },
+    {
+      "normalized_name": "formotiv",
+      "record_count": 2,
+      "distinct_descriptions": 1,
+      "members": [
+        {
+          "id": "upstream-20134",
+          "name": "ForMotiv",
+          "source": "plugandplay",
+          "website": "http://formotiv.com",
+          "batch_file": "data/processed/companies/batches/round-008.json",
+          "summary_zh": "分析數位行為以最佳化體驗並預測風險及詐欺。"
+        },
+        {
+          "id": "upstream-18424",
+          "name": "ForMotiv",
+          "source": "plugandplay",
+          "website": "http://formotiv.com",
+          "batch_file": "data/processed/companies/batches/round-017.json",
+          "summary_zh": "分析使用者行為，以機器學習改善數位體驗並預測風險與詐欺。"
+        }
+      ]
+    },
+    {
+      "normalized_name": "freestyle",
+      "record_count": 2,
+      "distinct_descriptions": 2,
+      "members": [
+        {
+          "id": "upstream-10028",
+          "name": "Freestyle",
+          "source": "yc",
+          "website": "https://freestyle.ai/yc",
+          "batch_file": "data/processed/companies/batches/round-001.json",
+          "summary_zh": "提供 Gmail AI 助理。"
+        },
+        {
+          "id": "upstream-09931",
+          "name": "Freestyle",
+          "source": "yc",
+          "website": "https://www.freestyle.sh",
+          "batch_file": "data/processed/companies/batches/round-012.json",
+          "summary_zh": "為 AI agents 提供沙盒。"
+        }
+      ]
+    },
+    {
+      "normalized_name": "fundguard",
+      "record_count": 2,
+      "distinct_descriptions": 1,
+      "members": [
+        {
+          "id": "upstream-18378",
+          "name": "FundGuard",
+          "source": "plugandplay",
+          "website": "http://www.fundguard.com",
+          "batch_file": "data/processed/companies/batches/round-003.json",
+          "summary_zh": "為資產管理者等機構提供投資管理營運平台。"
+        },
+        {
+          "id": "upstream-20169",
+          "name": "FundGuard",
+          "source": "plugandplay",
+          "website": "http://www.fundguard.com",
+          "batch_file": "data/processed/companies/batches/round-013.json",
+          "summary_zh": "為金融資產管理、託管及基金機構提供 AI 投資管理平台。"
+        }
+      ]
+    },
+    {
+      "normalized_name": "fuse",
+      "record_count": 2,
+      "distinct_descriptions": 2,
+      "members": [
+        {
+          "id": "upstream-09549",
+          "name": "Fuse",
+          "source": "yc",
+          "website": "http://www.fuseinsight.com",
+          "batch_file": "data/processed/companies/batches/round-013.json",
+          "summary_zh": "為美國醫療提供者自動化工作流程。"
+        },
+        {
+          "id": "upstream-15547",
+          "name": "FUSE",
+          "source": "alchemist",
+          "website": "",
+          "batch_file": "data/processed/companies/batches/round-020.json",
+          "summary_zh": "提供 AI 商業智慧平台，結合反幻覺信任層 Emet 檢查資料分析。"
+        }
+      ]
+    },
+    {
+      "normalized_name": "futurocket co.",
+      "record_count": 2,
+      "distinct_descriptions": 1,
+      "members": [
+        {
+          "id": "upstream-18836",
+          "name": "FutuRocket Co.",
+          "source": "plugandplay",
+          "website": "http://www.futurocket.co",
+          "batch_file": "data/processed/companies/batches/round-003.json",
+          "summary_zh": "為小企業提供零售 AI 攝影機等物聯網硬體。"
+        },
+        {
+          "id": "upstream-18867",
+          "name": "FutuRocket Co.",
+          "source": "plugandplay",
+          "website": "http://www.futurocket.co",
+          "batch_file": "data/processed/companies/batches/round-010.json",
+          "summary_zh": "為小企業開發零售 AI 攝影機等物聯網硬體。"
+        }
+      ]
+    },
+    {
+      "normalized_name": "gali health inc.",
+      "record_count": 2,
+      "distinct_descriptions": 1,
+      "members": [
+        {
+          "id": "upstream-18373",
+          "name": "Gali Health Inc.",
+          "source": "plugandplay",
+          "website": "http://www.galihealth.com",
+          "batch_file": "data/processed/companies/batches/round-008.json",
+          "summary_zh": "彙整病人與醫療社群健康資料，為慢性病使用者提供個人化支持。"
+        },
+        {
+          "id": "upstream-20164",
+          "name": "Gali Health Inc.",
+          "source": "plugandplay",
+          "website": "http://www.galihealth.com",
+          "batch_file": "data/processed/companies/batches/round-015.json",
+          "summary_zh": "以 AI 及行動技術整合病患與醫療社群健康資料，並為慢性病患者提供個人化支援。"
+        }
+      ]
+    },
+    {
+      "normalized_name": "got it",
+      "record_count": 2,
+      "distinct_descriptions": 1,
+      "members": [
+        {
+          "id": "upstream-19969",
+          "name": "Got It",
+          "source": "plugandplay",
+          "website": "https://www.gotitapp.co",
+          "batch_file": "data/processed/companies/batches/round-008.json",
+          "summary_zh": "以 Transformer 提供具自我訓練及最佳化能力的對話式 AI。"
+        },
+        {
+          "id": "upstream-18188",
+          "name": "Got It",
+          "source": "plugandplay",
+          "website": "https://www.gotitapp.co",
+          "batch_file": "data/processed/companies/batches/round-018.json",
+          "summary_zh": "以 Transformer 開發具自我探索、訓練及最佳化能力的對話 AI。"
+        }
+      ]
+    },
+    {
+      "normalized_name": "greenai",
+      "record_count": 2,
+      "distinct_descriptions": 1,
+      "members": [
+        {
+          "id": "upstream-20919",
+          "name": "GreenAI",
+          "source": "plugandplay",
+          "website": "https://green-ai.co.jp",
+          "batch_file": "data/processed/companies/batches/round-002.json",
+          "summary_zh": "協助企業建立減碳計畫。"
+        },
+        {
+          "id": "upstream-20808",
+          "name": "GreenAI",
+          "source": "plugandplay",
+          "website": "https://green-ai.co.jp",
+          "batch_file": "data/processed/companies/batches/round-009.json",
+          "summary_zh": "以 AI 協助企業建立減碳計畫。"
+        }
+      ]
+    },
+    {
+      "normalized_name": "ha-ppy co., ltd",
+      "record_count": 2,
+      "distinct_descriptions": 2,
+      "members": [
+        {
+          "id": "upstream-19648",
+          "name": "HA-PPY Co., Ltd",
+          "source": "plugandplay",
+          "website": "https://plaque-detection.jimdofree.com/",
+          "batch_file": "data/processed/companies/batches/round-004.json",
+          "summary_zh": "以手機照片預測口腔環境狀態。"
+        },
+        {
+          "id": "upstream-18766",
+          "name": "HA-PPY Co., Ltd",
+          "source": "plugandplay",
+          "website": "https://www.plaque-detection.jimdo.com",
+          "batch_file": "data/processed/companies/batches/round-019.json",
+          "summary_zh": "提供醫療相關裝置、AI 及物聯網。"
+        }
+      ]
+    },
+    {
+      "normalized_name": "hanomi",
+      "record_count": 2,
+      "distinct_descriptions": 2,
+      "members": [
+        {
+          "id": "upstream-14931",
+          "name": "Hanomi",
+          "source": "ef",
+          "website": "",
+          "batch_file": "data/processed/companies/batches/round-015.json",
+          "summary_zh": "提供 3D 硬體設計 AI 助理。"
+        },
+        {
+          "id": "upstream-19142",
+          "name": "Hanomi",
+          "source": "plugandplay",
+          "website": "https://www.hanomi.ai/",
+          "batch_file": "data/processed/companies/batches/round-015.json",
+          "summary_zh": "以多模態 AI 支援硬體設計。"
+        }
+      ]
+    },
+    {
+      "normalized_name": "harper",
+      "record_count": 2,
+      "distinct_descriptions": 2,
+      "members": [
+        {
+          "id": "upstream-10146",
+          "name": "Harper",
+          "source": "yc",
+          "website": "https://www.harperinsure.com/",
+          "batch_file": "data/processed/companies/batches/round-003.json",
+          "summary_zh": "提供 AI 原生商業保險經紀。"
+        },
+        {
+          "id": "upstream-11850",
+          "name": "Harper",
+          "source": "antler",
+          "website": "https://www.harperinsure.com/",
+          "batch_file": "data/processed/companies/batches/round-010.json",
+          "summary_zh": "提供具自動化工作流程的 AI 商業保險經紀。"
+        }
+      ]
+    },
+    {
+      "normalized_name": "hatapro",
+      "record_count": 2,
+      "distinct_descriptions": 1,
+      "members": [
+        {
+          "id": "upstream-18855",
+          "name": "Hatapro",
+          "source": "plugandplay",
+          "website": "http://www.hatapro.co.jp",
+          "batch_file": "data/processed/companies/batches/round-002.json",
+          "summary_zh": "以 AI、物聯網、機器人及醫療為方向。"
+        },
+        {
+          "id": "upstream-18676",
+          "name": "Hatapro",
+          "source": "plugandplay",
+          "website": "http://www.hatapro.co.jp",
+          "batch_file": "data/processed/companies/batches/round-006.json",
+          "summary_zh": "以 AI、物聯網、機器人及醫療為方向。"
+        }
+      ]
+    },
+    {
+      "normalized_name": "hutzper",
+      "record_count": 2,
+      "distinct_descriptions": 1,
+      "members": [
+        {
+          "id": "upstream-18843",
+          "name": "Hutzper",
+          "source": "plugandplay",
+          "website": "http://www.hutzper.com",
+          "batch_file": "data/processed/companies/batches/round-006.json",
+          "summary_zh": "提供邊緣 AI。"
+        },
+        {
+          "id": "upstream-18664",
+          "name": "Hutzper",
+          "source": "plugandplay",
+          "website": "http://www.hutzper.com",
+          "batch_file": "data/processed/companies/batches/round-017.json",
+          "summary_zh": "提供邊緣 AI。"
+        }
+      ]
+    },
+    {
+      "normalized_name": "hypatos",
+      "record_count": 2,
+      "distinct_descriptions": 1,
+      "members": [
+        {
+          "id": "upstream-19931",
+          "name": "Hypatos",
+          "source": "plugandplay",
+          "website": "http://hypatos.ai",
+          "batch_file": "data/processed/companies/batches/round-012.json",
+          "summary_zh": "自動分類、擷取、驗證及補充後勤文件資料。"
+        },
+        {
+          "id": "upstream-18310",
+          "name": "Hypatos",
+          "source": "plugandplay",
+          "website": "http://hypatos.ai",
+          "batch_file": "data/processed/companies/batches/round-017.json",
+          "summary_zh": "以深度學習自動化文件後台流程，涵蓋分類、資料擷取、驗證及資料補充。"
+        }
+      ]
+    },
+    {
+      "normalized_name": "idnow",
+      "record_count": 4,
+      "distinct_descriptions": 2,
+      "members": [
+        {
+          "id": "upstream-18339",
+          "name": "IDnow",
+          "source": "plugandplay",
+          "website": "http://idnow.io",
+          "batch_file": "data/processed/companies/batches/round-009.json",
+          "summary_zh": "以機器學習提供身分驗證服務。"
+        },
+        {
+          "id": "upstream-20004",
+          "name": "IDnow",
+          "source": "plugandplay",
+          "website": "http://idnow.io",
+          "batch_file": "data/processed/companies/batches/round-010.json",
+          "summary_zh": "以機器學習提供身分驗證服務。"
+        },
+        {
+          "id": "upstream-19879",
+          "name": "IDnow",
+          "source": "plugandplay",
+          "website": "http://www.idnow.de",
+          "batch_file": "data/processed/companies/batches/round-018.json",
+          "summary_zh": "以 AI 及機器學習提供即時自動身分辨識。"
+        },
+        {
+          "id": "upstream-18219",
+          "name": "IDnow",
+          "source": "plugandplay",
+          "website": "http://www.idnow.de",
+          "batch_file": "data/processed/companies/batches/round-020.json",
+          "summary_zh": "以 AI 及機器學習提供即時自動身分辨識。"
+        }
+      ]
+    },
+    {
+      "normalized_name": "industrial next",
+      "record_count": 2,
+      "distinct_descriptions": 2,
+      "members": [
+        {
+          "id": "upstream-08397",
+          "name": "Industrial Next",
+          "source": "yc",
+          "website": "https://www.industrialnext.ai",
+          "batch_file": "data/processed/companies/batches/round-001.json",
+          "summary_zh": "為製造業打造 AI brain。"
+        },
+        {
+          "id": "upstream-16906",
+          "name": "Industrial Next",
+          "source": "plugandplay",
+          "website": "https://www.industrialnext.ai",
+          "batch_file": "data/processed/companies/batches/round-014.json",
+          "summary_zh": "以結合學習、視覺及控制軟體的 AI 工作站自動化人工組裝。"
+        }
+      ]
+    },
+    {
+      "normalized_name": "infrasai",
+      "record_count": 2,
+      "distinct_descriptions": 1,
+      "members": [
+        {
+          "id": "upstream-20213",
+          "name": "InfrasAI",
+          "source": "plugandplay",
+          "website": "https://www.infrasai.io",
+          "batch_file": "data/processed/companies/batches/round-011.json",
+          "summary_zh": "為金融與保險業建立及檢查複雜流程映射。"
+        },
+        {
+          "id": "upstream-18058",
+          "name": "InfrasAI",
+          "source": "plugandplay",
+          "website": "https://www.infrasai.io",
+          "batch_file": "data/processed/companies/batches/round-018.json",
+          "summary_zh": "為金融及保險公司提供 AI agents，建立及檢查複雜流程圖，並結合人工覆核。"
+        }
+      ]
+    },
+    {
+      "normalized_name": "intellectible",
+      "record_count": 2,
+      "distinct_descriptions": 2,
+      "members": [
+        {
+          "id": "upstream-00722",
+          "name": "Intellectible",
+          "source": "techstars",
+          "website": "https://intellectible.com",
+          "batch_file": "data/processed/companies/batches/round-003.json",
+          "summary_zh": "蒐集來源、研究並撰寫補助、RFP 與提案文件。"
+        },
+        {
+          "id": "upstream-16878",
+          "name": "Intellectible",
+          "source": "plugandplay",
+          "website": "https://intellectible.com/",
+          "batch_file": "data/processed/companies/batches/round-019.json",
+          "summary_zh": "提供 AI 自動化平台。"
+        }
+      ]
+    },
+    {
+      "normalized_name": "inytcer",
+      "record_count": 2,
+      "distinct_descriptions": 1,
+      "members": [
+        {
+          "id": "upstream-18137",
+          "name": "Inytcer",
+          "source": "plugandplay",
+          "website": "http://inytcer.com.br",
+          "batch_file": "data/processed/companies/batches/round-005.json",
+          "summary_zh": "結合心理學、神經學、哲學與 AI 技術開發系統。"
+        },
+        {
+          "id": "upstream-20047",
+          "name": "Inytcer",
+          "source": "plugandplay",
+          "website": "http://inytcer.com.br",
+          "batch_file": "data/processed/companies/batches/round-012.json",
+          "summary_zh": "結合心理學、神經學、哲學與 AI 開發系統。"
+        }
+      ]
+    },
+    {
+      "normalized_name": "iterative health",
+      "record_count": 2,
+      "distinct_descriptions": 1,
+      "members": [
+        {
+          "id": "upstream-20094",
+          "name": "Iterative Health",
+          "source": "plugandplay",
+          "website": "https://iterative.health/",
+          "batch_file": "data/processed/companies/batches/round-003.json",
+          "summary_zh": "以電腦視覺輔助腸胃科決策。"
+        },
+        {
+          "id": "upstream-18098",
+          "name": "Iterative Health",
+          "source": "plugandplay",
+          "website": "https://iterative.health/",
+          "batch_file": "data/processed/companies/batches/round-009.json",
+          "summary_zh": "以電腦視覺支援腸胃科決策。"
+        }
+      ]
+    },
+    {
+      "normalized_name": "jack & jill",
+      "record_count": 2,
+      "distinct_descriptions": 2,
+      "members": [
+        {
+          "id": "upstream-11919",
+          "name": "Jack & Jill",
+          "source": "antler",
+          "website": "https://www.jackandjill.ai/",
+          "batch_file": "data/processed/companies/batches/round-006.json",
+          "summary_zh": "提供 AI 招募員。"
+        },
+        {
+          "id": "upstream-14877",
+          "name": "Jack & Jill",
+          "source": "ef",
+          "website": "",
+          "batch_file": "data/processed/companies/batches/round-010.json",
+          "summary_zh": "以對話式 AI agents 支援求職與招募。"
+        }
+      ]
+    },
+    {
+      "normalized_name": "jerry",
+      "record_count": 3,
+      "distinct_descriptions": 2,
+      "members": [
+        {
+          "id": "upstream-18213",
+          "name": "Jerry",
+          "source": "plugandplay",
+          "website": "https://www.getjerry.com/",
+          "batch_file": "data/processed/companies/batches/round-007.json",
+          "summary_zh": "為美國家庭協商貸款與保險。"
+        },
+        {
+          "id": "upstream-19873",
+          "name": "Jerry",
+          "source": "plugandplay",
+          "website": "https://www.getjerry.com/",
+          "batch_file": "data/processed/companies/batches/round-015.json",
+          "summary_zh": "為美國家庭提供以 AI 協商貸款與保險的金融服務。"
+        },
+        {
+          "id": "upstream-06366",
+          "name": "Jerry",
+          "source": "yc",
+          "website": "https://jerry.ai/",
+          "batch_file": "data/processed/companies/batches/round-018.json",
+          "summary_zh": "建立管理實體資產的 AI agent。"
+        }
+      ]
+    },
+    {
+      "normalized_name": "kinta ai",
+      "record_count": 2,
+      "distinct_descriptions": 1,
+      "members": [
+        {
+          "id": "upstream-20255",
+          "name": "Kinta AI",
+          "source": "plugandplay",
+          "website": "http://www.kinta-ai.com/",
+          "batch_file": "data/processed/companies/batches/round-001.json",
+          "summary_zh": "以 AI 平台支援數位工廠。"
+        },
+        {
+          "id": "upstream-18260",
+          "name": "Kinta AI",
+          "source": "plugandplay",
+          "website": "http://www.kinta-ai.com/",
+          "batch_file": "data/processed/companies/batches/round-007.json",
+          "summary_zh": "以 AI 平台支援數位工廠。"
+        }
+      ]
+    },
+    {
+      "normalized_name": "kintsugi",
+      "record_count": 2,
+      "distinct_descriptions": 2,
+      "members": [
+        {
+          "id": "upstream-04610",
+          "name": "Kintsugi",
+          "source": "techstars",
+          "website": "",
+          "batch_file": "data/processed/companies/batches/round-006.json",
+          "summary_zh": "以機器學習與聲音生物標記偵測憂鬱及焦慮跡象。"
+        },
+        {
+          "id": "upstream-20577",
+          "name": "Kintsugi",
+          "source": "plugandplay",
+          "website": "https://trykintsugi.com/",
+          "batch_file": "data/processed/companies/batches/round-015.json",
+          "summary_zh": "提供 AI 稅務助理，涵蓋課稅連結追蹤、報告、申報及整合服務。"
+        }
+      ]
+    },
+    {
+      "normalized_name": "kisui tech",
+      "record_count": 2,
+      "distinct_descriptions": 1,
+      "members": [
+        {
+          "id": "upstream-20904",
+          "name": "Kisui Tech",
+          "source": "plugandplay",
+          "website": "https://kisuitech.com/en",
+          "batch_file": "data/processed/companies/batches/round-004.json",
+          "summary_zh": "以不需人類操作的機器，協助中小型家庭農場因應人力不足。"
+        },
+        {
+          "id": "upstream-20793",
+          "name": "Kisui Tech",
+          "source": "plugandplay",
+          "website": "https://kisuitech.com/en",
+          "batch_file": "data/processed/companies/batches/round-020.json",
+          "summary_zh": "為中小型家庭農場提供無需操作員的 AI 機器人服務，支援農務。"
+        }
+      ]
+    },
+    {
+      "normalized_name": "kular",
+      "record_count": 2,
+      "distinct_descriptions": 2,
+      "members": [
+        {
+          "id": "upstream-14840",
+          "name": "Kular",
+          "source": "ef",
+          "website": "",
+          "batch_file": "data/processed/companies/batches/round-002.json",
+          "summary_zh": "為小型團隊提供 AI 潛在客戶開發。"
+        },
+        {
+          "id": "upstream-08581",
+          "name": "Kular",
+          "source": "yc",
+          "website": "https://www.kular.ai",
+          "batch_file": "data/processed/companies/batches/round-008.json",
+          "summary_zh": "以 AI 開發潛在客戶。"
+        }
+      ]
+    },
+    {
+      "normalized_name": "kwikkart",
+      "record_count": 2,
+      "distinct_descriptions": 2,
+      "members": [
+        {
+          "id": "upstream-02978",
+          "name": "Kwikkart",
+          "source": "techstars",
+          "website": "https://kwikkart.co",
+          "batch_file": "data/processed/companies/batches/round-005.json",
+          "summary_zh": "以購物車硬體提供店內情報、媒體及消費者分析。"
+        },
+        {
+          "id": "upstream-15533",
+          "name": "KwikKart",
+          "source": "alchemist",
+          "website": "",
+          "batch_file": "data/processed/companies/batches/round-015.json",
+          "summary_zh": "將購物車轉為智慧硬體 AI 平台，支援食品零售的即時店內情報、數位媒體及資料分析。"
+        }
+      ]
+    },
+    {
+      "normalized_name": "lark",
+      "record_count": 2,
+      "distinct_descriptions": 2,
+      "members": [
+        {
+          "id": "upstream-10379",
+          "name": "Lark",
+          "source": "yc",
+          "website": "https://getlark.ai/",
+          "batch_file": "data/processed/companies/batches/round-015.json",
+          "summary_zh": "為 AI 驅動開發提供端到端測試層。"
+        },
+        {
+          "id": "upstream-11435",
+          "name": "Lark",
+          "source": "yc",
+          "website": "https://larkagents.com",
+          "batch_file": "data/processed/companies/batches/round-016.json",
+          "summary_zh": "以 AI agents 自動化經銷商工作流程。"
+        }
+      ]
+    },
+    {
+      "normalized_name": "lasiina",
+      "record_count": 2,
+      "distinct_descriptions": 1,
+      "members": [
+        {
+          "id": "upstream-20907",
+          "name": "Lasiina",
+          "source": "plugandplay",
+          "website": "https://lasiina.com",
+          "batch_file": "data/processed/companies/batches/round-012.json",
+          "summary_zh": "結合物聯網與 AI 開發女性醫療裝置。"
+        },
+        {
+          "id": "upstream-20796",
+          "name": "Lasiina",
+          "source": "plugandplay",
+          "website": "https://lasiina.com",
+          "batch_file": "data/processed/companies/batches/round-014.json",
+          "summary_zh": "運用物聯網與 AI 開發女性醫療裝置。"
+        }
+      ]
+    },
+    {
+      "normalized_name": "lazarus ai",
+      "record_count": 2,
+      "distinct_descriptions": 1,
+      "members": [
+        {
+          "id": "upstream-16486",
+          "name": "Lazarus AI",
+          "source": "plugandplay",
+          "website": "http://lazarusai.com",
+          "batch_file": "data/processed/companies/batches/round-014.json",
+          "summary_zh": "為多種產業的複雜資料問題開發可擴展 AI 系統。"
+        },
+        {
+          "id": "upstream-21234",
+          "name": "Lazarus AI",
+          "source": "plugandplay",
+          "website": "http://lazarusai.com",
+          "batch_file": "data/processed/companies/batches/round-018.json",
+          "summary_zh": "為多種產業的複雜資料問題開發可擴展 AI 系統。"
+        }
+      ]
+    },
+    {
+      "normalized_name": "linquip",
+      "record_count": 2,
+      "distinct_descriptions": 1,
+      "members": [
+        {
+          "id": "upstream-18289",
+          "name": "LinQuip",
+          "source": "plugandplay",
+          "website": "https://www.linquip.com",
+          "batch_file": "data/processed/companies/batches/round-001.json",
+          "summary_zh": "連接設備製造商、工業使用者與服務商。"
+        },
+        {
+          "id": "upstream-19910",
+          "name": "LinQuip",
+          "source": "plugandplay",
+          "website": "https://www.linquip.com",
+          "batch_file": "data/processed/companies/batches/round-003.json",
+          "summary_zh": "連接設備製造商、工業使用者與服務商的 AI 專業網路。"
+        }
+      ]
+    },
+    {
+      "normalized_name": "maia",
+      "record_count": 2,
+      "distinct_descriptions": 2,
+      "members": [
+        {
+          "id": "upstream-12009",
+          "name": "MAIA",
+          "source": "antler",
+          "website": "https://www.maia.care/",
+          "batch_file": "data/processed/companies/batches/round-005.json",
+          "summary_zh": "為緊急醫療服務提供營收情報，連接照護與費用補償。"
+        },
+        {
+          "id": "upstream-09466",
+          "name": "Maia",
+          "source": "yc",
+          "website": "https://www.ourmaia.com/",
+          "batch_file": "data/processed/companies/batches/round-008.json",
+          "summary_zh": "以 AI 關係應用支援伴侶維繫關係。"
+        }
+      ]
+    },
+    {
+      "normalized_name": "markable",
+      "record_count": 2,
+      "distinct_descriptions": 1,
+      "members": [
+        {
+          "id": "upstream-20256",
+          "name": "Markable",
+          "source": "plugandplay",
+          "website": "http://markable.ai",
+          "batch_file": "data/processed/companies/batches/round-013.json",
+          "summary_zh": "以 AI 影片辨識連接數位內容與購物。"
+        },
+        {
+          "id": "upstream-18261",
+          "name": "Markable",
+          "source": "plugandplay",
+          "website": "http://markable.ai",
+          "batch_file": "data/processed/companies/batches/round-018.json",
+          "summary_zh": "以自動 AI 影片辨識技術連接數位內容與電商購物。"
+        }
+      ]
+    },
+    {
+      "normalized_name": "metabob",
+      "record_count": 2,
+      "distinct_descriptions": 2,
+      "members": [
+        {
+          "id": "upstream-12032",
+          "name": "Metabob",
+          "source": "antler",
+          "website": "https://metabob.com/",
+          "batch_file": "data/processed/companies/batches/round-003.json",
+          "summary_zh": "以 AI 靜態程式碼分析追蹤並改善開發者生產力。"
+        },
+        {
+          "id": "upstream-15494",
+          "name": "Metabob",
+          "source": "alchemist",
+          "website": "",
+          "batch_file": "data/processed/companies/batches/round-013.json",
+          "summary_zh": "提供 AI 程式碼情報工具。"
+        }
+      ]
+    },
+    {
+      "normalized_name": "metal",
+      "record_count": 2,
+      "distinct_descriptions": 2,
+      "members": [
+        {
+          "id": "upstream-09182",
+          "name": "Metal",
+          "source": "yc",
+          "website": "https://metal.ai/",
+          "batch_file": "data/processed/companies/batches/round-004.json",
+          "summary_zh": "為私募資本提供 AI context 平台。"
+        },
+        {
+          "id": "upstream-09210",
+          "name": "Metal",
+          "source": "yc",
+          "website": "http://www.metal.so",
+          "batch_file": "data/processed/companies/batches/round-019.json",
+          "summary_zh": "提供 AI 募資營運系統。"
+        }
+      ]
+    },
+    {
+      "normalized_name": "modicus prime",
+      "record_count": 2,
+      "distinct_descriptions": 2,
+      "members": [
+        {
+          "id": "upstream-16418",
+          "name": "Modicus Prime",
+          "source": "plugandplay",
+          "website": "https://www.modicusprime.com",
+          "batch_file": "data/processed/companies/batches/round-012.json",
+          "summary_zh": "以 mpVision 即時處理影像，支援生命科學品質管理及研發。"
+        },
+        {
+          "id": "upstream-00648",
+          "name": "Modicus Prime",
+          "source": "techstars",
+          "website": "https://modicusprime.com",
+          "batch_file": "data/processed/companies/batches/round-019.json",
+          "summary_zh": "整合多種生命科學資料，以 AI 及機器學習支援異常偵測、監測與決策。"
+        }
+      ]
+    },
+    {
+      "normalized_name": "monitaur",
+      "record_count": 2,
+      "distinct_descriptions": 2,
+      "members": [
+        {
+          "id": "upstream-16640",
+          "name": "Monitaur",
+          "source": "plugandplay",
+          "website": "https://www.monitaur.ai",
+          "batch_file": "data/processed/companies/batches/round-007.json",
+          "summary_zh": "集中管理 AI 模型風險、合規及效能監控。"
+        },
+        {
+          "id": "upstream-00348",
+          "name": "Monitaur",
+          "source": "techstars",
+          "website": "https://monitaur.ai",
+          "batch_file": "data/processed/companies/batches/round-018.json",
+          "summary_zh": "提供 AI 透明度及保證軟體。"
+        }
+      ]
+    },
+    {
+      "normalized_name": "mycroft",
+      "record_count": 2,
+      "distinct_descriptions": 2,
+      "members": [
+        {
+          "id": "upstream-04488",
+          "name": "Mycroft",
+          "source": "techstars",
+          "website": "",
+          "batch_file": "data/processed/companies/batches/round-005.json",
+          "summary_zh": "為聯網家庭等場景提供開源 AI 平台。"
+        },
+        {
+          "id": "upstream-12057",
+          "name": "Mycroft",
+          "source": "antler",
+          "website": "https://mycroft.io/",
+          "batch_file": "data/processed/companies/batches/round-019.json",
+          "summary_zh": "提供以 AI agents 驅動的自主資安平台。"
+        }
+      ]
+    },
+    {
+      "normalized_name": "narrative",
+      "record_count": 3,
+      "distinct_descriptions": 3,
+      "members": [
+        {
+          "id": "upstream-09008",
+          "name": "Narrative",
+          "source": "yc",
+          "website": "https://www.trynarrative.com/",
+          "batch_file": "data/processed/companies/batches/round-002.json",
+          "summary_zh": "以 AI agents 執行端到端測試。"
+        },
+        {
+          "id": "upstream-18983",
+          "name": "Narrative",
+          "source": "plugandplay",
+          "website": "https://www.thenarrative.dev/",
+          "batch_file": "data/processed/companies/batches/round-004.json",
+          "summary_zh": "為合規、風控及防詐團隊提供 AI。"
+        },
+        {
+          "id": "upstream-10626",
+          "name": "Narrative",
+          "source": "yc",
+          "website": "http://www.usenarrative.ai",
+          "batch_file": "data/processed/companies/batches/round-004.json",
+          "summary_zh": "提供 AI 影片編輯器。"
+        }
+      ]
+    },
+    {
+      "normalized_name": "nflux",
+      "record_count": 2,
+      "distinct_descriptions": 1,
+      "members": [
+        {
+          "id": "upstream-18271",
+          "name": "nFlux",
+          "source": "plugandplay",
+          "website": "http://nflux.ai",
+          "batch_file": "data/processed/companies/batches/round-012.json",
+          "summary_zh": "以 AI 協助製造業工作者提高生產力。"
+        },
+        {
+          "id": "upstream-20266",
+          "name": "nFlux",
+          "source": "plugandplay",
+          "website": "http://nflux.ai",
+          "batch_file": "data/processed/companies/batches/round-018.json",
+          "summary_zh": "以 AI 協助製造業工作人員提高生產力。"
+        }
+      ]
+    },
+    {
+      "normalized_name": "nova",
+      "record_count": 2,
+      "distinct_descriptions": 2,
+      "members": [
+        {
+          "id": "upstream-06127",
+          "name": "Nova",
+          "source": "yc",
+          "website": "http://www.nova.ai",
+          "batch_file": "data/processed/companies/batches/round-005.json",
+          "summary_zh": null
+        },
+        {
+          "id": "upstream-12087",
+          "name": "Nova",
+          "source": "antler",
+          "website": "https://nova-doc.com/",
+          "batch_file": "data/processed/companies/batches/round-018.json",
+          "summary_zh": "提供 AI 合約情報平台，支援合約分析、生成及簽署。"
+        }
+      ]
+    },
+    {
+      "normalized_name": "oncorevive",
+      "record_count": 2,
+      "distinct_descriptions": 2,
+      "members": [
+        {
+          "id": "upstream-01905",
+          "name": "OncoRevive",
+          "source": "techstars",
+          "website": "https://oncorevive.com",
+          "batch_file": "data/processed/companies/batches/round-010.json",
+          "summary_zh": "開發以奈米技術及 AI 進行癌症監控的血液檢測。"
+        },
+        {
+          "id": "upstream-12112",
+          "name": "OncoRevive",
+          "source": "antler",
+          "website": "http://www.oncorevive.com/",
+          "batch_file": "data/processed/companies/batches/round-015.json",
+          "summary_zh": "以 AI 液態切片支援癌症早期偵測及個人化治療。"
+        }
+      ]
+    },
+    {
+      "normalized_name": "oneroots",
+      "record_count": 2,
+      "distinct_descriptions": 1,
+      "members": [
+        {
+          "id": "upstream-17844",
+          "name": "Oneroots",
+          "source": "plugandplay",
+          "website": "https://oneroots.company/",
+          "batch_file": "data/processed/companies/batches/round-008.json",
+          "summary_zh": "以 AI 提供商品推薦、線上媒合與 withdrawal prediction。"
+        },
+        {
+          "id": "upstream-17592",
+          "name": "Oneroots",
+          "source": "plugandplay",
+          "website": "https://oneroots.company/",
+          "batch_file": "data/processed/companies/batches/round-021.json",
+          "summary_zh": "以 AI 提供產品推薦、線上媒合及 withdrawal 預測。"
+        }
+      ]
+    },
+    {
+      "normalized_name": "opensilo",
+      "record_count": 2,
+      "distinct_descriptions": 1,
+      "members": [
+        {
+          "id": "upstream-18332",
+          "name": "OpenSilo",
+          "source": "plugandplay",
+          "website": "http://www.opensilo.co",
+          "batch_file": "data/processed/companies/batches/round-005.json",
+          "summary_zh": "以企業群組聊天及 AI 描繪員工專長，協助尋找答案。"
+        },
+        {
+          "id": "upstream-19997",
+          "name": "OpenSilo",
+          "source": "plugandplay",
+          "website": "http://www.opensilo.co",
+          "batch_file": "data/processed/companies/batches/round-008.json",
+          "summary_zh": "在企業群組聊天中描繪員工專長並協助尋找答案。"
+        }
+      ]
+    },
+    {
+      "normalized_name": "origin wireless japan",
+      "record_count": 2,
+      "distinct_descriptions": 1,
+      "members": [
+        {
+          "id": "upstream-18681",
+          "name": "Origin Wireless Japan",
+          "source": "plugandplay",
+          "website": "https://www.japan.originwirelessai.com",
+          "batch_file": "data/processed/companies/batches/round-009.json",
+          "summary_zh": "分析 Wi-Fi 無線電傳播，偵測室內人與物體移動、呼吸及位置。"
+        },
+        {
+          "id": "upstream-18860",
+          "name": "Origin Wireless Japan",
+          "source": "plugandplay",
+          "website": "https://www.japan.originwirelessai.com",
+          "batch_file": "data/processed/companies/batches/round-019.json",
+          "summary_zh": "以 AI 分析 Wi-Fi 波傳播，偵測室內人與物體移動、臥床呼吸及位置。"
+        }
+      ]
+    },
+    {
+      "normalized_name": "owkin",
+      "record_count": 2,
+      "distinct_descriptions": 1,
+      "members": [
+        {
+          "id": "upstream-16535",
+          "name": "Owkin",
+          "source": "plugandplay",
+          "website": "http://www.owkin.com",
+          "batch_file": "data/processed/companies/batches/round-013.json",
+          "summary_zh": "以機器學習支援藥物與試驗設計，預測疾病演變及治療結果。"
+        },
+        {
+          "id": "upstream-21288",
+          "name": "Owkin",
+          "source": "plugandplay",
+          "website": "http://www.owkin.com",
+          "batch_file": "data/processed/companies/batches/round-015.json",
+          "summary_zh": "結合生命科學與機器學習支援藥物開發及臨床試驗設計，預測疾病進展與治療結果。"
+        }
+      ]
+    },
+    {
+      "normalized_name": "palisade",
+      "record_count": 2,
+      "distinct_descriptions": 2,
+      "members": [
+        {
+          "id": "upstream-11106",
+          "name": "Palisade",
+          "source": "yc",
+          "website": "https://palisade.run",
+          "batch_file": "data/processed/companies/batches/round-018.json",
+          "summary_zh": "以 AI 銷售 agents 經營交易市集。"
+        },
+        {
+          "id": "upstream-11243",
+          "name": "Palisade",
+          "source": "yc",
+          "website": "https://palisade-ai.com/",
+          "batch_file": "data/processed/companies/batches/round-018.json",
+          "summary_zh": "以 AI 找出並修復設備群的作業系統層漏洞。"
+        }
+      ]
+    },
+    {
+      "normalized_name": "passionate genius",
+      "record_count": 2,
+      "distinct_descriptions": 1,
+      "members": [
+        {
+          "id": "upstream-17600",
+          "name": "Passionate Genius",
+          "source": "plugandplay",
+          "website": "https://passionategenius.com/",
+          "batch_file": "data/processed/companies/batches/round-016.json",
+          "summary_zh": "以生成式 AI 開發應用程式及網路服務。"
+        },
+        {
+          "id": "upstream-17944",
+          "name": "Passionate Genius",
+          "source": "plugandplay",
+          "website": "https://passionategenius.com/",
+          "batch_file": "data/processed/companies/batches/round-017.json",
+          "summary_zh": "以生成式 AI 開發應用程式及網路服務。"
+        }
+      ]
+    },
+    {
+      "normalized_name": "peakflo",
+      "record_count": 2,
+      "distinct_descriptions": 2,
+      "members": [
+        {
+          "id": "upstream-08351",
+          "name": "Peakflo",
+          "source": "yc",
+          "website": "https://peakflo.co",
+          "batch_file": "data/processed/companies/batches/round-001.json",
+          "summary_zh": "以 agentic 流程自動化後勤作業。"
+        },
+        {
+          "id": "upstream-15049",
+          "name": "Peakflo",
+          "source": "ef",
+          "website": "",
+          "batch_file": "data/processed/companies/batches/round-016.json",
+          "summary_zh": "以 AI 自動化財務營運。"
+        }
+      ]
+    },
+    {
+      "normalized_name": "penguin ai",
+      "record_count": 2,
+      "distinct_descriptions": 2,
+      "members": [
+        {
+          "id": "upstream-08734",
+          "name": "Penguin AI",
+          "source": "yc",
+          "website": "http://penguinai.app",
+          "batch_file": "data/processed/companies/batches/round-006.json",
+          "summary_zh": "以 AI 銷售代表利用網站意圖訊號。"
+        },
+        {
+          "id": "upstream-19172",
+          "name": "Penguin AI",
+          "source": "plugandplay",
+          "website": "https://penguinai.co/",
+          "batch_file": "data/processed/companies/batches/round-010.json",
+          "summary_zh": "為醫療支付方與提供者自動化行政工作。"
+        }
+      ]
+    },
+    {
+      "normalized_name": "pipra ag",
+      "record_count": 2,
+      "distinct_descriptions": 1,
+      "members": [
+        {
+          "id": "upstream-19936",
+          "name": "Pipra AG",
+          "source": "plugandplay",
+          "website": "http://www.pipra.ch",
+          "batch_file": "data/processed/companies/batches/round-006.json",
+          "summary_zh": "以術前 AI 工具評估術後譫妄風險。"
+        },
+        {
+          "id": "upstream-18315",
+          "name": "Pipra AG",
+          "source": "plugandplay",
+          "website": "http://www.pipra.ch",
+          "batch_file": "data/processed/companies/batches/round-012.json",
+          "summary_zh": "以術前 AI 工具評估術後譫妄風險。"
+        }
+      ]
+    },
+    {
+      "normalized_name": "ponicode",
+      "record_count": 2,
+      "distinct_descriptions": 1,
+      "members": [
+        {
+          "id": "upstream-19928",
+          "name": "Ponicode",
+          "source": "plugandplay",
+          "website": "http://ponicode.com",
+          "batch_file": "data/processed/companies/batches/round-017.json",
+          "summary_zh": "以 AI 介面協助建立、修改及視覺化 JavaScript 單元測試。"
+        },
+        {
+          "id": "upstream-18307",
+          "name": "Ponicode",
+          "source": "plugandplay",
+          "website": "http://ponicode.com",
+          "batch_file": "data/processed/companies/batches/round-019.json",
+          "summary_zh": "以 AI 介面協助建立、修改及視覺化 JavaScript 單元測試。"
+        }
+      ]
+    },
+    {
+      "normalized_name": "power dime",
+      "record_count": 2,
+      "distinct_descriptions": 2,
+      "members": [
+        {
+          "id": "upstream-12190",
+          "name": "Power Dime",
+          "source": "antler",
+          "website": "https://powerdime.io/",
+          "batch_file": "data/processed/companies/batches/round-001.json",
+          "summary_zh": "協助資料中心採購無碳電力。"
+        },
+        {
+          "id": "upstream-01476",
+          "name": "Power Dime",
+          "source": "techstars",
+          "website": "https://powerdime.io",
+          "batch_file": "data/processed/companies/batches/round-010.json",
+          "summary_zh": "協助資料中心規劃能源採購策略並購電。"
+        }
+      ]
+    },
+    {
+      "normalized_name": "preferred networks",
+      "record_count": 2,
+      "distinct_descriptions": 1,
+      "members": [
+        {
+          "id": "upstream-17609",
+          "name": "Preferred Networks",
+          "source": "plugandplay",
+          "website": "https://preferred.jp/",
+          "batch_file": "data/processed/companies/batches/round-012.json",
+          "summary_zh": "開發深度學習、機器人等技術的實際應用。"
+        },
+        {
+          "id": "upstream-17953",
+          "name": "Preferred Networks",
+          "source": "plugandplay",
+          "website": "https://preferred.jp/",
+          "batch_file": "data/processed/companies/batches/round-019.json",
+          "summary_zh": "開發深度學習及機器人等技術的實際應用。"
+        }
+      ]
+    },
+    {
+      "normalized_name": "pros cons",
+      "record_count": 2,
+      "distinct_descriptions": 1,
+      "members": [
+        {
+          "id": "upstream-17957",
+          "name": "Pros Cons",
+          "source": "plugandplay",
+          "website": "https://proscons.co.jp/",
+          "batch_file": "data/processed/companies/batches/round-013.json",
+          "summary_zh": "提供 AI 系統規劃、設計及開發。"
+        },
+        {
+          "id": "upstream-17613",
+          "name": "Pros Cons",
+          "source": "plugandplay",
+          "website": "https://proscons.co.jp/",
+          "batch_file": "data/processed/companies/batches/round-018.json",
+          "summary_zh": "提供 AI 系統規劃、設計及開發服務。"
+        }
+      ]
+    },
+    {
+      "normalized_name": "pyrenee",
+      "record_count": 2,
+      "distinct_descriptions": 1,
+      "members": [
+        {
+          "id": "upstream-17959",
+          "name": "Pyrenee",
+          "source": "plugandplay",
+          "website": "https://www.pyrenee.net/",
+          "batch_file": "data/processed/companies/batches/round-012.json",
+          "summary_zh": "開發、製造及銷售 AI 駕駛助理。"
+        },
+        {
+          "id": "upstream-17615",
+          "name": "Pyrenee",
+          "source": "plugandplay",
+          "website": "https://www.pyrenee.net/",
+          "batch_file": "data/processed/companies/batches/round-020.json",
+          "summary_zh": "開發、生產及銷售 AI 駕駛助理。"
+        }
+      ]
+    },
+    {
+      "normalized_name": "qantev",
+      "record_count": 2,
+      "distinct_descriptions": 2,
+      "members": [
+        {
+          "id": "upstream-20558",
+          "name": "Qantev",
+          "source": "plugandplay",
+          "website": "https://www.qantev.com",
+          "batch_file": "data/processed/companies/batches/round-001.json",
+          "summary_zh": "自動處理醫療保險理賠並支援決策。"
+        },
+        {
+          "id": "upstream-14797",
+          "name": "Qantev",
+          "source": "ef",
+          "website": "",
+          "batch_file": "data/processed/companies/batches/round-018.json",
+          "summary_zh": "為健康及人壽保險提供 AI 理賠平台。"
+        }
+      ]
+    },
+    {
+      "normalized_name": "qiznalo",
+      "record_count": 2,
+      "distinct_descriptions": 1,
+      "members": [
+        {
+          "id": "upstream-17157",
+          "name": "Qiznalo",
+          "source": "plugandplay",
+          "website": "http://www.qiznalo.com/",
+          "batch_file": "data/processed/companies/batches/round-007.json",
+          "summary_zh": "以 AI 支援照護相關創新。"
+        },
+        {
+          "id": "upstream-17875",
+          "name": "Qiznalo",
+          "source": "plugandplay",
+          "website": "http://www.qiznalo.com/",
+          "batch_file": "data/processed/companies/batches/round-007.json",
+          "summary_zh": "以 AI 支援照護相關創新。"
+        }
+      ]
+    },
+    {
+      "normalized_name": "qosmo, inc",
+      "record_count": 2,
+      "distinct_descriptions": 1,
+      "members": [
+        {
+          "id": "upstream-17478",
+          "name": "Qosmo, Inc",
+          "source": "plugandplay",
+          "website": "http://qosmo.jp/",
+          "batch_file": "data/processed/companies/batches/round-010.json",
+          "summary_zh": "結合數位技術、研究與 AI 製作藝術及廣告作品。"
+        },
+        {
+          "id": "upstream-17960",
+          "name": "Qosmo, Inc",
+          "source": "plugandplay",
+          "website": "http://qosmo.jp/",
+          "batch_file": "data/processed/companies/batches/round-012.json",
+          "summary_zh": "以數位技術、研究及 AI 製作藝術與廣告作品。"
+        }
+      ]
+    },
+    {
+      "normalized_name": "quadfi",
+      "record_count": 2,
+      "distinct_descriptions": 1,
+      "members": [
+        {
+          "id": "upstream-18442",
+          "name": "QuadFi",
+          "source": "plugandplay",
+          "website": "https://www.quadfi.com",
+          "batch_file": "data/processed/companies/batches/round-007.json",
+          "summary_zh": "以教育資料及機器學習評估北美薄信用紀錄族群的信用。"
+        },
+        {
+          "id": "upstream-20152",
+          "name": "QuadFi",
+          "source": "plugandplay",
+          "website": "https://www.quadfi.com",
+          "batch_file": "data/processed/companies/batches/round-017.json",
+          "summary_zh": "以教育資料及機器學習評估北美薄信用紀錄族群的信用狀況。"
+        }
+      ]
+    },
+    {
+      "normalized_name": "query vary",
+      "record_count": 2,
+      "distinct_descriptions": 2,
+      "members": [
+        {
+          "id": "upstream-08663",
+          "name": "Query Vary",
+          "source": "yc",
+          "website": "https://queryvary.com",
+          "batch_file": "data/processed/companies/batches/round-011.json",
+          "summary_zh": "以無程式碼建立 LLM 應用與流程。"
+        },
+        {
+          "id": "upstream-20302",
+          "name": "Query Vary",
+          "source": "plugandplay",
+          "website": "https://www.queryvary.com/",
+          "batch_file": "data/processed/companies/batches/round-021.json",
+          "summary_zh": "支援建立可信賴的企業級大型語言模型應用。"
+        }
+      ]
+    },
+    {
+      "normalized_name": "raven",
+      "record_count": 2,
+      "distinct_descriptions": 2,
+      "members": [
+        {
+          "id": "upstream-08793",
+          "name": "Raven",
+          "source": "yc",
+          "website": "https://startraven.com",
+          "batch_file": "data/processed/companies/batches/round-003.json",
+          "summary_zh": "為製造營運提供 AI 助理。"
+        },
+        {
+          "id": "upstream-11346",
+          "name": "Raven",
+          "source": "yc",
+          "website": "https://ravenphone.com",
+          "batch_file": "data/processed/companies/batches/round-018.json",
+          "summary_zh": "提供可處理繁瑣工作的 agentic 手機。"
+        }
+      ]
+    },
+    {
+      "normalized_name": "reactiv",
+      "record_count": 2,
+      "distinct_descriptions": 2,
+      "members": [
+        {
+          "id": "upstream-19324",
+          "name": "Reactiv",
+          "source": "plugandplay",
+          "website": "https://reactivapp.com/",
+          "batch_file": "data/processed/companies/batches/round-004.json",
+          "summary_zh": "以 AI 平台建立 iOS 與 Android 購物應用。"
+        },
+        {
+          "id": "upstream-02657",
+          "name": "Reactiv",
+          "source": "techstars",
+          "website": "https://reactivrehab.com",
+          "batch_file": "data/processed/companies/batches/round-018.json",
+          "summary_zh": "提供虛擬復健診所，結合電腦視覺及遊戲提升復健參與。"
+        }
+      ]
+    },
+    {
+      "normalized_name": "recogni",
+      "record_count": 2,
+      "distinct_descriptions": 1,
+      "members": [
+        {
+          "id": "upstream-18383",
+          "name": "Recogni",
+          "source": "plugandplay",
+          "website": "http://recogni.com",
+          "batch_file": "data/processed/companies/batches/round-003.json",
+          "summary_zh": "為自主車輛提供 AI 視覺辨識模組。"
+        },
+        {
+          "id": "upstream-20174",
+          "name": "Recogni",
+          "source": "plugandplay",
+          "website": "http://recogni.com",
+          "batch_file": "data/processed/companies/batches/round-015.json",
+          "summary_zh": "為自駕車提供 AI 視覺辨識模組。"
+        }
+      ]
+    },
+    {
+      "normalized_name": "ricos",
+      "record_count": 2,
+      "distinct_descriptions": 1,
+      "members": [
+        {
+          "id": "upstream-17490",
+          "name": "RICOS",
+          "source": "plugandplay",
+          "website": "https://www.ricos.co.jp/",
+          "batch_file": "data/processed/companies/batches/round-011.json",
+          "summary_zh": "結合 AI、模擬及高效能運算最佳化製造流程。"
+        },
+        {
+          "id": "upstream-17972",
+          "name": "RICOS",
+          "source": "plugandplay",
+          "website": "https://www.ricos.co.jp/",
+          "batch_file": "data/processed/companies/batches/round-018.json",
+          "summary_zh": "結合 AI、模擬及高效能運算最佳化製造流程。"
+        }
+      ]
+    },
+    {
+      "normalized_name": "sapplym (jv between sony and m3)",
+      "record_count": 2,
+      "distinct_descriptions": 1,
+      "members": [
+        {
+          "id": "upstream-15929",
+          "name": "SapplyM\n(JV between Sony and M3)",
+          "source": "plugandplay",
+          "website": "https://www.sapplym.com/company.html",
+          "batch_file": "data/processed/companies/batches/round-015.json",
+          "summary_zh": "提供行動感測及 AI 分析技術以處理醫療問題。"
+        },
+        {
+          "id": "upstream-20861",
+          "name": "SapplyM\n(JV between Sony and M3)",
+          "source": "plugandplay",
+          "website": "https://www.sapplym.com/company.html",
+          "batch_file": "data/processed/companies/batches/round-020.json",
+          "summary_zh": "提供行動感測及 AI 分析技術以處理醫療問題。"
+        }
+      ]
+    },
+    {
+      "normalized_name": "saveexpats",
+      "record_count": 2,
+      "distinct_descriptions": 1,
+      "members": [
+        {
+          "id": "upstream-17498",
+          "name": "SaveExpats",
+          "source": "plugandplay",
+          "website": "http://saveexpats.com/",
+          "batch_file": "data/processed/companies/batches/round-017.json",
+          "summary_zh": "為旅外人士提供 AI 健康評估、檢測套件配送及醫師諮詢平台。"
+        },
+        {
+          "id": "upstream-17980",
+          "name": "SaveExpats",
+          "source": "plugandplay",
+          "website": "http://saveexpats.com/",
+          "batch_file": "data/processed/companies/batches/round-021.json",
+          "summary_zh": "為旅外人士提供 AI 健康評估、檢測套件配送及醫師諮詢平台。"
+        }
+      ]
+    },
+    {
+      "normalized_name": "scentmatic",
+      "record_count": 2,
+      "distinct_descriptions": 1,
+      "members": [
+        {
+          "id": "upstream-18932",
+          "name": "Scentmatic",
+          "source": "plugandplay",
+          "website": "https://www.scentmatic.co.jp",
+          "batch_file": "data/processed/companies/batches/round-004.json",
+          "summary_zh": "以 AI 用語言描述氣味與風味，並用於顧客體驗。"
+        },
+        {
+          "id": "upstream-18581",
+          "name": "Scentmatic",
+          "source": "plugandplay",
+          "website": "https://www.scentmatic.co.jp",
+          "batch_file": "data/processed/companies/batches/round-013.json",
+          "summary_zh": "以 AI 用語言描述氣味與風味，支援客戶體驗。"
+        }
+      ]
+    },
+    {
+      "normalized_name": "scope",
+      "record_count": 2,
+      "distinct_descriptions": 2,
+      "members": [
+        {
+          "id": "upstream-14842",
+          "name": "Scope",
+          "source": "ef",
+          "website": "",
+          "batch_file": "data/processed/companies/batches/round-002.json",
+          "summary_zh": "以 AI 進行供應鏈檢查。"
+        },
+        {
+          "id": "upstream-10911",
+          "name": "Scope",
+          "source": "yc",
+          "website": "https://tryscope.com",
+          "batch_file": "data/processed/companies/batches/round-013.json",
+          "summary_zh": "協助軟體公司被 AI agents 探索及使用。"
+        }
+      ]
+    },
+    {
+      "normalized_name": "scout",
+      "record_count": 3,
+      "distinct_descriptions": 3,
+      "members": [
+        {
+          "id": "upstream-10069",
+          "name": "Scout",
+          "source": "yc",
+          "website": "https://scoutforschools.com/",
+          "batch_file": "data/processed/companies/batches/round-004.json",
+          "summary_zh": "為 K-12 學校提供 AI 學生資訊系統。"
+        },
+        {
+          "id": "upstream-09538",
+          "name": "Scout",
+          "source": "yc",
+          "website": "https://cpgscout.ai/",
+          "batch_file": "data/processed/companies/batches/round-011.json",
+          "summary_zh": "為消費產品提供 AI 洞察。"
+        },
+        {
+          "id": "upstream-09190",
+          "name": "Scout",
+          "source": "yc",
+          "website": "https://thedailyscout.com",
+          "batch_file": "data/processed/companies/batches/round-012.json",
+          "summary_zh": "以 AI 聚合符合角色及產業的新聞。"
+        }
+      ]
+    },
+    {
+      "normalized_name": "senseye",
+      "record_count": 2,
+      "distinct_descriptions": 1,
+      "members": [
+        {
+          "id": "upstream-20191",
+          "name": "Senseye",
+          "source": "plugandplay",
+          "website": "https://www.senseye.io",
+          "batch_file": "data/processed/companies/batches/round-007.json",
+          "summary_zh": "以機器學習監控設備狀態並預測維護需求。"
+        },
+        {
+          "id": "upstream-18400",
+          "name": "Senseye",
+          "source": "plugandplay",
+          "website": "https://www.senseye.io",
+          "batch_file": "data/processed/companies/batches/round-017.json",
+          "summary_zh": "以機器學習進行狀態監測及預後分析，支援預測性維護。"
+        }
+      ]
+    },
+    {
+      "normalized_name": "simpliroute",
+      "record_count": 2,
+      "distinct_descriptions": 1,
+      "members": [
+        {
+          "id": "upstream-18321",
+          "name": "SimpliRoute",
+          "source": "plugandplay",
+          "website": "http://simpliroute.com",
+          "batch_file": "data/processed/companies/batches/round-008.json",
+          "summary_zh": "以機器學習與最佳化引擎規劃及追蹤最後一哩路線。"
+        },
+        {
+          "id": "upstream-19942",
+          "name": "SimpliRoute",
+          "source": "plugandplay",
+          "website": "http://simpliroute.com",
+          "batch_file": "data/processed/companies/batches/round-011.json",
+          "summary_zh": "以機器學習與最佳化工具規劃並追蹤最後一哩路線。"
+        }
+      ]
+    },
+    {
+      "normalized_name": "singularity.ai",
+      "record_count": 2,
+      "distinct_descriptions": 1,
+      "members": [
+        {
+          "id": "upstream-20225",
+          "name": "Singularity.AI",
+          "source": "plugandplay",
+          "website": "http://singularity.ai",
+          "batch_file": "data/processed/companies/batches/round-002.json",
+          "summary_zh": "以協作平台從影像與資料擷取洞察，支援醫療創新。"
+        },
+        {
+          "id": "upstream-18070",
+          "name": "Singularity.AI",
+          "source": "plugandplay",
+          "website": "http://singularity.ai",
+          "batch_file": "data/processed/companies/batches/round-004.json",
+          "summary_zh": "以 AI 協作平台從影像及資料擷取洞察，支援醫療創新。"
+        }
+      ]
+    },
+    {
+      "normalized_name": "skan ai",
+      "record_count": 2,
+      "distinct_descriptions": 1,
+      "members": [
+        {
+          "id": "upstream-18211",
+          "name": "Skan AI",
+          "source": "plugandplay",
+          "website": "http://skan.ai",
+          "batch_file": "data/processed/companies/batches/round-007.json",
+          "summary_zh": "以 AI 洞察最佳化企業流程與營運。"
+        },
+        {
+          "id": "upstream-19871",
+          "name": "Skan AI",
+          "source": "plugandplay",
+          "website": "http://skan.ai",
+          "batch_file": "data/processed/companies/batches/round-014.json",
+          "summary_zh": "提供 AI 洞察以優化業務流程與營運效率。"
+        }
+      ]
+    },
+    {
+      "normalized_name": "solideon",
+      "record_count": 2,
+      "distinct_descriptions": 2,
+      "members": [
+        {
+          "id": "upstream-02155",
+          "name": "Solideon",
+          "source": "techstars",
+          "website": "https://solideon.com",
+          "batch_file": "data/processed/companies/batches/round-003.json",
+          "summary_zh": "以機器學習協作系統支援積層製造。"
+        },
+        {
+          "id": "upstream-16891",
+          "name": "Solideon",
+          "source": "plugandplay",
+          "website": "https://solideon.com",
+          "batch_file": "data/processed/companies/batches/round-017.json",
+          "summary_zh": "以機器學習協作系統建造地球、月球或火星上的載具及設施。"
+        }
+      ]
+    },
+    {
+      "normalized_name": "soundhound",
+      "record_count": 2,
+      "distinct_descriptions": 1,
+      "members": [
+        {
+          "id": "upstream-21298",
+          "name": "SoundHound",
+          "source": "plugandplay",
+          "website": "http://www.soundhound.com/",
+          "batch_file": "data/processed/companies/batches/round-011.json",
+          "summary_zh": "開發語音 AI 與對話情報技術。"
+        },
+        {
+          "id": "upstream-17036",
+          "name": "SoundHound",
+          "source": "plugandplay",
+          "website": "http://www.soundhound.com/",
+          "batch_file": "data/processed/companies/batches/round-016.json",
+          "summary_zh": "開發語音 AI 及對話智慧技術。"
+        }
+      ]
+    },
+    {
+      "normalized_name": "sparkcognition",
+      "record_count": 2,
+      "distinct_descriptions": 1,
+      "members": [
+        {
+          "id": "upstream-18233",
+          "name": "SparkCognition",
+          "source": "plugandplay",
+          "website": "http://sparkcognition.com",
+          "batch_file": "data/processed/companies/batches/round-005.json",
+          "summary_zh": null
+        },
+        {
+          "id": "upstream-19893",
+          "name": "SparkCognition",
+          "source": "plugandplay",
+          "website": "http://sparkcognition.com",
+          "batch_file": "data/processed/companies/batches/round-009.json",
+          "summary_zh": null
+        }
+      ]
+    },
+    {
+      "normalized_name": "sportsseam",
+      "record_count": 2,
+      "distinct_descriptions": 1,
+      "members": [
+        {
+          "id": "upstream-20245",
+          "name": "SportsSeam",
+          "source": "plugandplay",
+          "website": "http://www.sportsseam.com",
+          "batch_file": "data/processed/companies/batches/round-006.json",
+          "summary_zh": "為 fantasy 遊戲玩家提供 AI 決策工具。"
+        },
+        {
+          "id": "upstream-18250",
+          "name": "SportsSeam",
+          "source": "plugandplay",
+          "website": "http://www.sportsseam.com",
+          "batch_file": "data/processed/companies/batches/round-016.json",
+          "summary_zh": "為夢幻體育玩家提供 AI 決策工具。"
+        }
+      ]
+    },
+    {
+      "normalized_name": "strala",
+      "record_count": 2,
+      "distinct_descriptions": 2,
+      "members": [
+        {
+          "id": "upstream-19196",
+          "name": "Strala",
+          "source": "plugandplay",
+          "website": "https://strala.ai/",
+          "batch_file": "data/processed/companies/batches/round-007.json",
+          "summary_zh": "以 AI 協助處理理賠。"
+        },
+        {
+          "id": "upstream-14849",
+          "name": "Strala",
+          "source": "ef",
+          "website": "",
+          "batch_file": "data/processed/companies/batches/round-021.json",
+          "summary_zh": "為保險團隊提供 AI 理賠處理。"
+        }
+      ]
+    },
+    {
+      "normalized_name": "superannotate ai",
+      "record_count": 2,
+      "distinct_descriptions": 1,
+      "members": [
+        {
+          "id": "upstream-18214",
+          "name": "SuperAnnotate AI",
+          "source": "plugandplay",
+          "website": "http://www.superannotate.ai",
+          "batch_file": "data/processed/companies/batches/round-017.json",
+          "summary_zh": "提供電腦視覺流程的資料標註、訓練及自動化平台。"
+        },
+        {
+          "id": "upstream-19874",
+          "name": "SuperAnnotate AI",
+          "source": "plugandplay",
+          "website": "http://www.superannotate.ai",
+          "batch_file": "data/processed/companies/batches/round-017.json",
+          "summary_zh": "提供電腦視覺流程的資料標註、訓練及自動化平台。"
+        }
+      ]
+    },
+    {
+      "normalized_name": "sustainable lab inc.",
+      "record_count": 2,
+      "distinct_descriptions": 1,
+      "members": [
+        {
+          "id": "upstream-18573",
+          "name": "Sustainable Lab Inc.",
+          "source": "plugandplay",
+          "website": "http://www.suslab.net",
+          "batch_file": "data/processed/companies/batches/round-015.json",
+          "summary_zh": "提供使用 AI 的資料庫服務，支援 SDG、ESG 目標及投資。"
+        },
+        {
+          "id": "upstream-18924",
+          "name": "Sustainable Lab Inc.",
+          "source": "plugandplay",
+          "website": "http://www.suslab.net",
+          "batch_file": "data/processed/companies/batches/round-017.json",
+          "summary_zh": "提供使用 AI 的資料庫服務，支援 SDG、ESG 目標及投資。"
+        }
+      ]
+    },
+    {
+      "normalized_name": "syn2core",
+      "record_count": 2,
+      "distinct_descriptions": 2,
+      "members": [
+        {
+          "id": "upstream-14991",
+          "name": "syn2core",
+          "source": "ef",
+          "website": "",
+          "batch_file": "data/processed/companies/batches/round-003.json",
+          "summary_zh": "為汽車組裝團隊提供 AI copilot。"
+        },
+        {
+          "id": "upstream-18994",
+          "name": "Syn2core",
+          "source": "plugandplay",
+          "website": "http://syn2core.com",
+          "batch_file": "data/processed/companies/batches/round-004.json",
+          "summary_zh": "以智慧眼鏡 AI copilot 協助汽車組裝。"
+        }
+      ]
+    },
+    {
+      "normalized_name": "tegaki",
+      "record_count": 2,
+      "distinct_descriptions": 1,
+      "members": [
+        {
+          "id": "upstream-18667",
+          "name": "Tegaki",
+          "source": "plugandplay",
+          "website": "http://www.tegaki.ai/",
+          "batch_file": "data/processed/companies/batches/round-005.json",
+          "summary_zh": "以 AI 將手寫文件轉成資料。"
+        },
+        {
+          "id": "upstream-18846",
+          "name": "Tegaki",
+          "source": "plugandplay",
+          "website": "http://www.tegaki.ai/",
+          "batch_file": "data/processed/companies/batches/round-016.json",
+          "summary_zh": "以 AI 將手寫文件轉為資料。"
+        }
+      ]
+    },
+    {
+      "normalized_name": "tempo",
+      "record_count": 2,
+      "distinct_descriptions": 2,
+      "members": [
+        {
+          "id": "upstream-05855",
+          "name": "Tempo",
+          "source": "yc",
+          "website": "https://tempo.fit/",
+          "batch_file": "data/processed/companies/batches/round-010.json",
+          "summary_zh": "以電腦視覺提供即時居家健身訓練。"
+        },
+        {
+          "id": "upstream-09425",
+          "name": "Tempo",
+          "source": "yc",
+          "website": "https://www.tempo.new",
+          "batch_file": "data/processed/companies/batches/round-013.json",
+          "summary_zh": "以 AI 提供 React 視覺編輯器。"
+        }
+      ]
+    },
+    {
+      "normalized_name": "tint",
+      "record_count": 2,
+      "distinct_descriptions": 1,
+      "members": [
+        {
+          "id": "upstream-18226",
+          "name": "Tint",
+          "source": "plugandplay",
+          "website": "http://www.tint.ai",
+          "batch_file": "data/processed/companies/batches/round-006.json",
+          "summary_zh": "協助科技公司把客製保險嵌入使用流程。"
+        },
+        {
+          "id": "upstream-19886",
+          "name": "Tint",
+          "source": "plugandplay",
+          "website": "http://www.tint.ai",
+          "batch_file": "data/processed/companies/batches/round-012.json",
+          "summary_zh": "協助科技公司把客製保險嵌入使用流程。"
+        }
+      ]
+    },
+    {
+      "normalized_name": "tiwaki",
+      "record_count": 2,
+      "distinct_descriptions": 1,
+      "members": [
+        {
+          "id": "upstream-18008",
+          "name": "Tiwaki",
+          "source": "plugandplay",
+          "website": "https://www.tiwaki.com/",
+          "batch_file": "data/processed/companies/batches/round-001.json",
+          "summary_zh": "研發機器學習與影像辨識核心技術。"
+        },
+        {
+          "id": "upstream-17203",
+          "name": "Tiwaki",
+          "source": "plugandplay",
+          "website": "https://www.tiwaki.com/",
+          "batch_file": "data/processed/companies/batches/round-020.json",
+          "summary_zh": "開發機器學習及影像辨識等 AI 核心技術。"
+        }
+      ]
+    },
+    {
+      "normalized_name": "tractable",
+      "record_count": 3,
+      "distinct_descriptions": 2,
+      "members": [
+        {
+          "id": "upstream-21237",
+          "name": "Tractable",
+          "source": "plugandplay",
+          "website": "http://tractable.ai",
+          "batch_file": "data/processed/companies/batches/round-003.json",
+          "summary_zh": "以 AI 評估、維修與保護汽車及住宅。"
+        },
+        {
+          "id": "upstream-14783",
+          "name": "Tractable",
+          "source": "ef",
+          "website": "",
+          "batch_file": "data/processed/companies/batches/round-013.json",
+          "summary_zh": "以 AI 支援事故及災害復原。"
+        },
+        {
+          "id": "upstream-16435",
+          "name": "Tractable",
+          "source": "plugandplay",
+          "website": "http://tractable.ai",
+          "batch_file": "data/processed/companies/batches/round-020.json",
+          "summary_zh": "以 AI 支援車輛及房屋評估、修復與保護。"
+        }
+      ]
+    },
+    {
+      "normalized_name": "turing",
+      "record_count": 2,
+      "distinct_descriptions": 1,
+      "members": [
+        {
+          "id": "upstream-18218",
+          "name": "Turing",
+          "source": "plugandplay",
+          "website": "https://www.turing.com/",
+          "batch_file": "data/processed/companies/batches/round-003.json",
+          "summary_zh": "提供前沿模型訓練與企業 AI 部署。"
+        },
+        {
+          "id": "upstream-19878",
+          "name": "Turing",
+          "source": "plugandplay",
+          "website": "https://www.turing.com/",
+          "batch_file": "data/processed/companies/batches/round-013.json",
+          "summary_zh": "訓練前沿 AI 模型並部署企業 AI。"
+        }
+      ]
+    },
+    {
+      "normalized_name": "ubitone inc.",
+      "record_count": 2,
+      "distinct_descriptions": 1,
+      "members": [
+        {
+          "id": "upstream-18646",
+          "name": "Ubitone Inc.",
+          "source": "plugandplay",
+          "website": "http://www.ubitone.com",
+          "batch_file": "data/processed/companies/batches/round-008.json",
+          "summary_zh": "開發結合穿戴裝置與 AI 的通訊系統。"
+        },
+        {
+          "id": "upstream-18864",
+          "name": "Ubitone Inc.",
+          "source": "plugandplay",
+          "website": "http://www.ubitone.com",
+          "batch_file": "data/processed/companies/batches/round-020.json",
+          "summary_zh": "開發結合穿戴裝置及 AI 的通訊系統。"
+        }
+      ]
+    },
+    {
+      "normalized_name": "vara",
+      "record_count": 3,
+      "distinct_descriptions": 2,
+      "members": [
+        {
+          "id": "upstream-15697",
+          "name": "Vara ",
+          "source": "alchemist",
+          "website": "",
+          "batch_file": "data/processed/companies/batches/round-003.json",
+          "summary_zh": "為製造商提供環境合規 AI。"
+        },
+        {
+          "id": "upstream-18316",
+          "name": "Vara",
+          "source": "plugandplay",
+          "website": "https://www.varahealthcare.com",
+          "batch_file": "data/processed/companies/batches/round-016.json",
+          "summary_zh": "以 AI 工作流程平台簡化乳癌篩檢。"
+        },
+        {
+          "id": "upstream-19937",
+          "name": "Vara",
+          "source": "plugandplay",
+          "website": "https://www.varahealthcare.com",
+          "batch_file": "data/processed/companies/batches/round-021.json",
+          "summary_zh": "以 AI 工作流程平台簡化乳癌篩檢。"
+        }
+      ]
+    },
+    {
+      "normalized_name": "verbal",
+      "record_count": 3,
+      "distinct_descriptions": 3,
+      "members": [
+        {
+          "id": "upstream-14151",
+          "name": "Verbal",
+          "source": "500",
+          "website": "https://tryverbal.com",
+          "batch_file": "data/processed/companies/batches/round-005.json",
+          "summary_zh": "分析照護通話與組織規範，自動化行政並即時指導照護人員。"
+        },
+        {
+          "id": "upstream-01413",
+          "name": "Verbal",
+          "source": "techstars",
+          "website": "https://tryverbal.com",
+          "batch_file": "data/processed/companies/batches/round-005.json",
+          "summary_zh": "以 AI 合規平台檢視人類與 AI 的病人互動。"
+        },
+        {
+          "id": "upstream-16413",
+          "name": "Verbal",
+          "source": "plugandplay",
+          "website": "https://www.tryverbal.com",
+          "batch_file": "data/processed/companies/batches/round-019.json",
+          "summary_zh": "以 AI 即時分析人員及 AI 的病患互動，檢查品質、安全及照護規範遵循。"
+        }
+      ]
+    },
+    {
+      "normalized_name": "visionairy health",
+      "record_count": 2,
+      "distinct_descriptions": 1,
+      "members": [
+        {
+          "id": "upstream-18349",
+          "name": "Visionairy Health",
+          "source": "plugandplay",
+          "website": "https://www.visionairyhealth.com",
+          "batch_file": "data/processed/companies/batches/round-012.json",
+          "summary_zh": "從事醫療影像與深度學習相關業務。"
+        },
+        {
+          "id": "upstream-20014",
+          "name": "Visionairy Health",
+          "source": "plugandplay",
+          "website": "https://www.visionairyhealth.com",
+          "batch_file": "data/processed/companies/batches/round-013.json",
+          "summary_zh": "從事 AI、深度學習與醫療影像業務。"
+        }
+      ]
+    },
+    {
+      "normalized_name": "we",
+      "record_count": 2,
+      "distinct_descriptions": 2,
+      "members": [
+        {
+          "id": "upstream-17558",
+          "name": "We",
+          "source": "plugandplay",
+          "website": "https://www.mee-cap.com/",
+          "batch_file": "data/processed/companies/batches/round-002.json",
+          "summary_zh": "提供使用 AI 的流程探勘軟體 MeeCap。"
+        },
+        {
+          "id": "upstream-17194",
+          "name": "We",
+          "source": "plugandplay",
+          "website": "https://www.cooori.com/",
+          "batch_file": "data/processed/companies/batches/round-011.json",
+          "summary_zh": "以 AI 教育平台提供語言學習產品。"
+        }
+      ]
+    },
+    {
+      "normalized_name": "weave",
+      "record_count": 2,
+      "distinct_descriptions": 2,
+      "members": [
+        {
+          "id": "upstream-05794",
+          "name": "Weave",
+          "source": "yc",
+          "website": "http://weave.in",
+          "batch_file": "data/processed/companies/batches/round-002.json",
+          "summary_zh": "以 AI 支援專業人脈連結。"
+        },
+        {
+          "id": "upstream-10088",
+          "name": "Weave",
+          "source": "yc",
+          "website": "https://weaveos.com",
+          "batch_file": "data/processed/companies/batches/round-020.json",
+          "summary_zh": "以 AI 理解並分派工程工作。"
+        }
+      ]
+    },
+    {
+      "normalized_name": "xatoms",
+      "record_count": 2,
+      "distinct_descriptions": 1,
+      "members": [
+        {
+          "id": "upstream-21218",
+          "name": "Xatoms",
+          "source": "plugandplay",
+          "website": "https://www.xatoms.com/",
+          "batch_file": "data/processed/companies/batches/round-009.json",
+          "summary_zh": "結合 AI 與量子化學預測光觸媒結構 3D 模型，用於污水處理研究。"
+        },
+        {
+          "id": "upstream-20514",
+          "name": "Xatoms",
+          "source": "plugandplay",
+          "website": "https://www.xatoms.com/",
+          "batch_file": "data/processed/companies/batches/round-019.json",
+          "summary_zh": "結合 AI 及量子化學預測光觸媒結構 3D 模型，支援污水淨化。"
+        }
+      ]
+    },
+    {
+      "normalized_name": "yamato",
+      "record_count": 2,
+      "distinct_descriptions": 1,
+      "members": [
+        {
+          "id": "upstream-17238",
+          "name": "YAMATO",
+          "source": "plugandplay",
+          "website": "https://yamato.inc/",
+          "batch_file": "data/processed/companies/batches/round-001.json",
+          "summary_zh": "為金融產業提供 AI 服務。"
+        },
+        {
+          "id": "upstream-17907",
+          "name": "YAMATO",
+          "source": "plugandplay",
+          "website": "https://yamato.inc/",
+          "batch_file": "data/processed/companies/batches/round-011.json",
+          "summary_zh": "為金融產業提供 AI 服務。"
+        }
+      ]
+    },
+    {
+      "normalized_name": "yourika",
+      "record_count": 2,
+      "distinct_descriptions": 1,
+      "members": [
+        {
+          "id": "upstream-18335",
+          "name": "YOURIKA",
+          "source": "plugandplay",
+          "website": "http://yourika.ai",
+          "batch_file": "data/processed/companies/batches/round-004.json",
+          "summary_zh": "提供用於學習的對話式 AI SaaS。"
+        },
+        {
+          "id": "upstream-20000",
+          "name": "YOURIKA",
+          "source": "plugandplay",
+          "website": "http://yourika.ai",
+          "batch_file": "data/processed/companies/batches/round-004.json",
+          "summary_zh": "提供用於學習的對話式 AI SaaS。"
+        }
+      ]
+    },
+    {
+      "normalized_name": "zama",
+      "record_count": 3,
+      "distinct_descriptions": 1,
+      "members": [
+        {
+          "id": "upstream-18272",
+          "name": "Zama",
+          "source": "plugandplay",
+          "website": "https://zama.ai/",
+          "batch_file": "data/processed/companies/batches/round-005.json",
+          "summary_zh": "為 AI 提供端到端加密。"
+        },
+        {
+          "id": "upstream-21301",
+          "name": "Zama",
+          "source": "plugandplay",
+          "website": "https://zama.ai/",
+          "batch_file": "data/processed/companies/batches/round-008.json",
+          "summary_zh": "為 AI 提供端到端加密。"
+        },
+        {
+          "id": "upstream-20267",
+          "name": "Zama",
+          "source": "plugandplay",
+          "website": "https://zama.ai/",
+          "batch_file": "data/processed/companies/batches/round-019.json",
+          "summary_zh": "為 AI 提供端到端加密。"
+        }
+      ]
+    },
+    {
+      "normalized_name": "zesty.ai",
+      "record_count": 2,
+      "distinct_descriptions": 1,
+      "members": [
+        {
+          "id": "upstream-21233",
+          "name": "Zesty.ai",
+          "source": "plugandplay",
+          "website": "http://www.zesty.ai",
+          "batch_file": "data/processed/companies/batches/round-002.json",
+          "summary_zh": "以 AI 洞察支援保險核保與風險管理。"
+        },
+        {
+          "id": "upstream-16560",
+          "name": "Zesty.ai",
+          "source": "plugandplay",
+          "website": "http://www.zesty.ai",
+          "batch_file": "data/processed/companies/batches/round-015.json",
+          "summary_zh": "以 AI 洞察支援保險核保及風險管理。"
+        }
+      ]
+    },
+    {
+      "normalized_name": "zypl.ai",
+      "record_count": 2,
+      "distinct_descriptions": 1,
+      "members": [
+        {
+          "id": "upstream-20390",
+          "name": "zypl.ai",
+          "source": "plugandplay",
+          "website": "https://zypl.ai/",
+          "batch_file": "data/processed/companies/batches/round-008.json",
+          "summary_zh": "生成合成資料，最佳化金融機構零售及中小企業授信模型。"
+        },
+        {
+          "id": "upstream-21305",
+          "name": "zypl.ai",
+          "source": "plugandplay",
+          "website": "https://zypl.ai/",
+          "batch_file": "data/processed/companies/batches/round-021.json",
+          "summary_zh": "以 AI SaaS 生成合成資料，改善金融機構對消費者及中小企業的信用決策模型。"
+        }
+      ]
+    },
+    {
+      "normalized_name": "株式会社アイズファクトリー",
+      "record_count": 2,
+      "distinct_descriptions": 1,
+      "members": [
+        {
+          "id": "upstream-17923",
+          "name": "株式会社アイズファクトリー",
+          "source": "plugandplay",
+          "website": "https://bodais.com/",
+          "batch_file": "data/processed/companies/batches/round-007.json",
+          "summary_zh": "提供內建機器學習的自動演進資料分析平台。"
+        },
+        {
+          "id": "upstream-17302",
+          "name": "株式会社アイズファクトリー",
+          "source": "plugandplay",
+          "website": "https://bodais.com/",
+          "batch_file": "data/processed/companies/batches/round-008.json",
+          "summary_zh": "提供內建機器學習的自動演進資料分析平台。"
+        }
+      ]
+    }
+  ],
+  "same_website_host": [
+    {
+      "hostname": "abejainc.com",
+      "record_count": 2,
+      "shared_source_host": false,
+      "members": [
+        {
+          "id": "upstream-18839",
+          "name": "ABEJA",
+          "source": "plugandplay",
+          "website": "http://www.abejainc.com",
+          "batch_file": "data/processed/companies/batches/round-014.json",
+          "summary_zh": "提供整合物聯網、大數據及深度學習的 AI 平台。"
+        },
+        {
+          "id": "upstream-18870",
+          "name": "ABEJA",
+          "source": "plugandplay",
+          "website": "http://www.abejainc.com",
+          "batch_file": "data/processed/companies/batches/round-018.json",
+          "summary_zh": "提供整合物聯網、大數據及深度學習的 AI 平台。"
+        }
+      ]
+    },
+    {
+      "hostname": "acerta.ca",
+      "record_count": 2,
+      "shared_source_host": false,
+      "members": [
+        {
+          "id": "upstream-00341",
+          "name": "Acerta",
+          "source": "techstars",
+          "website": "https://acerta.ca",
+          "batch_file": "data/processed/companies/batches/round-016.json",
+          "summary_zh": "以機器學習即時偵測生產線及行駛車輛的異常並預測故障。"
+        },
+        {
+          "id": "upstream-16547",
+          "name": "Acerta",
+          "source": "plugandplay",
+          "website": "http://acerta.ca",
+          "batch_file": "data/processed/companies/batches/round-019.json",
+          "summary_zh": "為製造及汽車業提供機器學習軟體技術。"
+        }
+      ]
+    },
+    {
+      "hostname": "akidolabs.com",
+      "record_count": 2,
+      "shared_source_host": false,
+      "members": [
+        {
+          "id": "upstream-20655",
+          "name": "Akido",
+          "source": "plugandplay",
+          "website": "https://www.akidolabs.com/",
+          "batch_file": "data/processed/companies/batches/round-006.json",
+          "summary_zh": "結合 AI 與臨床營運，支援非醫師人員及醫師監督。"
+        },
+        {
+          "id": "upstream-05817",
+          "name": "Akido Labs",
+          "source": "yc",
+          "website": "http://akidolabs.com",
+          "batch_file": "data/processed/companies/batches/round-009.json",
+          "summary_zh": "以 AI 為核心重建醫療服務。"
+        }
+      ]
+    },
+    {
+      "hostname": "antler.co",
+      "record_count": 9,
+      "shared_source_host": true,
+      "members": [
+        {
+          "id": "upstream-11706",
+          "name": "Dispatcher",
+          "source": "antler",
+          "website": "https://www.antler.co/portfolio#",
+          "batch_file": "data/processed/companies/batches/round-002.json",
+          "summary_zh": "為私人實體保全產業提供 agentic AI 無人機。"
+        },
+        {
+          "id": "upstream-11645",
+          "name": "Circular Route",
+          "source": "antler",
+          "website": "https://www.antler.co/www.circularroute.com",
+          "batch_file": "data/processed/companies/batches/round-004.json",
+          "summary_zh": "結合 AI、零工與物流平台支援企業循環營運。"
+        },
+        {
+          "id": "upstream-11603",
+          "name": "Buildas",
+          "source": "antler",
+          "website": "https://www.antler.co/www.buildas.io",
+          "batch_file": "data/processed/companies/batches/round-005.json",
+          "summary_zh": "以真人協助的 AI 平台規劃、客製及維護軟體。"
+        },
+        {
+          "id": "upstream-11474",
+          "name": "Adamata",
+          "source": "antler",
+          "website": "https://www.antler.co/portfolio#",
+          "batch_file": "data/processed/companies/batches/round-006.json",
+          "summary_zh": "以 AI 機器人分揀印尼混合廢棄物。"
+        },
+        {
+          "id": "upstream-12478",
+          "name": "Viable",
+          "source": "antler",
+          "website": "https://www.antler.co/portfolio#",
+          "batch_file": "data/processed/companies/batches/round-006.json",
+          "summary_zh": "結合 AI 與真人為非技術創業者建立網頁應用。"
+        },
+        {
+          "id": "upstream-11836",
+          "name": "Greenthread",
+          "source": "antler",
+          "website": "https://www.antler.co/portfolio#",
+          "batch_file": "data/processed/companies/batches/round-008.json",
+          "summary_zh": "在同一 GPU 共享運行並切換多個大型及小型語言模型。"
+        },
+        {
+          "id": "upstream-11717",
+          "name": "Doowii Inc",
+          "source": "antler",
+          "website": "https://www.antler.co/doowii.io",
+          "batch_file": "data/processed/companies/batches/round-011.json",
+          "summary_zh": "讓教育工作者以問答介面查詢教育資料。"
+        },
+        {
+          "id": "upstream-11803",
+          "name": "Frontier",
+          "source": "antler",
+          "website": "https://www.antler.co/getfrontier.co",
+          "batch_file": "data/processed/companies/batches/round-014.json",
+          "summary_zh": "提供可接入 ERP 的 AI 採購外掛。"
+        },
+        {
+          "id": "upstream-12493",
+          "name": "Vucar",
+          "source": "antler",
+          "website": "https://www.antler.co/www.vucar.vn",
+          "batch_file": "data/processed/companies/batches/round-020.json",
+          "summary_zh": "提供 C2B AI 二手車交易市集。"
+        }
+      ]
+    },
+    {
+      "hostname": "appsamurai.com",
+      "record_count": 2,
+      "shared_source_host": false,
+      "members": [
+        {
+          "id": "upstream-00092",
+          "name": "App Samurai",
+          "source": "techstars",
+          "website": "https://appsamurai.com",
+          "batch_file": "data/processed/companies/batches/round-003.json",
+          "summary_zh": "結合 AI 與團隊支援行動業務成長。"
+        },
+        {
+          "id": "upstream-12633",
+          "name": "Appsamurai",
+          "source": "500",
+          "website": "https://appsamurai.com",
+          "batch_file": "data/processed/companies/batches/round-018.json",
+          "summary_zh": "為應用擁有者及行銷人員提供 AI 行動獲客平台，整合廣告活動、應用商店表現及應用事件追蹤。"
+        }
+      ]
+    },
+    {
+      "hostname": "ashita-team.com",
+      "record_count": 2,
+      "shared_source_host": false,
+      "members": [
+        {
+          "id": "upstream-17319",
+          "name": "ASHITA-TEAM",
+          "source": "plugandplay",
+          "website": "https://www.ashita-team.com/",
+          "batch_file": "data/processed/companies/batches/round-011.json",
+          "summary_zh": "以 AI 雲端平台進行人資評估。"
+        },
+        {
+          "id": "upstream-17940",
+          "name": "ASHITA-TEAM",
+          "source": "plugandplay",
+          "website": "https://www.ashita-team.com/",
+          "batch_file": "data/processed/companies/batches/round-012.json",
+          "summary_zh": "以 AI 雲端平台進行人資評估。"
+        }
+      ]
+    },
+    {
+      "hostname": "askporter.com",
+      "record_count": 2,
+      "shared_source_host": false,
+      "members": [
+        {
+          "id": "upstream-18368",
+          "name": "askporter",
+          "source": "plugandplay",
+          "website": "http://askporter.com",
+          "batch_file": "data/processed/companies/batches/round-016.json",
+          "summary_zh": "為實體資產提供 AI 助理及管理平台。"
+        },
+        {
+          "id": "upstream-20159",
+          "name": "askporter",
+          "source": "plugandplay",
+          "website": "http://askporter.com",
+          "batch_file": "data/processed/companies/batches/round-020.json",
+          "summary_zh": "為實體資產提供 AI 助理及管理平台。"
+        }
+      ]
+    },
+    {
+      "hostname": "attestiv.com",
+      "record_count": 2,
+      "shared_source_host": false,
+      "members": [
+        {
+          "id": "upstream-18255",
+          "name": "Attestiv",
+          "source": "plugandplay",
+          "website": "http://attestiv.com",
+          "batch_file": "data/processed/companies/batches/round-001.json",
+          "summary_zh": "檢驗照片、影片與文件，防範詐欺及深偽。"
+        },
+        {
+          "id": "upstream-20250",
+          "name": "Attestiv",
+          "source": "plugandplay",
+          "website": "http://attestiv.com",
+          "batch_file": "data/processed/companies/batches/round-007.json",
+          "summary_zh": "分析及鑑識照片、影片與文件以防詐欺及深偽。"
+        }
+      ]
+    },
+    {
+      "hostname": "automationhero.ai",
+      "record_count": 2,
+      "shared_source_host": false,
+      "members": [
+        {
+          "id": "upstream-18234",
+          "name": "Automation Hero",
+          "source": "plugandplay",
+          "website": "http://automationhero.ai",
+          "batch_file": "data/processed/companies/batches/round-005.json",
+          "summary_zh": "以 AI 平台處理文件。"
+        },
+        {
+          "id": "upstream-19894",
+          "name": "Automation Hero",
+          "source": "plugandplay",
+          "website": "http://automationhero.ai",
+          "batch_file": "data/processed/companies/batches/round-011.json",
+          "summary_zh": "以 AI 平台處理文件。"
+        }
+      ]
+    },
+    {
+      "hostname": "bigid.com",
+      "record_count": 2,
+      "shared_source_host": false,
+      "members": [
+        {
+          "id": "upstream-21276",
+          "name": "BigID",
+          "source": "plugandplay",
+          "website": "http://bigid.com",
+          "batch_file": "data/processed/companies/batches/round-011.json",
+          "summary_zh": "協助組織探索、管理、治理及保護資料，涵蓋安全、隱私與 AI。"
+        },
+        {
+          "id": "upstream-20658",
+          "name": "BigID",
+          "source": "plugandplay",
+          "website": "http://bigid.com",
+          "batch_file": "data/processed/companies/batches/round-012.json",
+          "summary_zh": "協助企業探索、管理、治理及保護資料，涵蓋安全、隱私與 AI。"
+        }
+      ]
+    },
+    {
+      "hostname": "bodais.com",
+      "record_count": 2,
+      "shared_source_host": false,
+      "members": [
+        {
+          "id": "upstream-17923",
+          "name": "株式会社アイズファクトリー",
+          "source": "plugandplay",
+          "website": "https://bodais.com/",
+          "batch_file": "data/processed/companies/batches/round-007.json",
+          "summary_zh": "提供內建機器學習的自動演進資料分析平台。"
+        },
+        {
+          "id": "upstream-17302",
+          "name": "株式会社アイズファクトリー",
+          "source": "plugandplay",
+          "website": "https://bodais.com/",
+          "batch_file": "data/processed/companies/batches/round-008.json",
+          "summary_zh": "提供內建機器學習的自動演進資料分析平台。"
+        }
+      ]
+    },
+    {
+      "hostname": "celus.io",
+      "record_count": 2,
+      "shared_source_host": false,
+      "members": [
+        {
+          "id": "upstream-20138",
+          "name": "Celus",
+          "source": "plugandplay",
+          "website": "https://www.celus.io",
+          "batch_file": "data/processed/companies/batches/round-001.json",
+          "summary_zh": "以 AI 自動產出電路圖、物料表與 PCB 佈局。"
+        },
+        {
+          "id": "upstream-18428",
+          "name": "Celus",
+          "source": "plugandplay",
+          "website": "https://www.celus.io",
+          "batch_file": "data/processed/companies/batches/round-013.json",
+          "summary_zh": "自動設計電路圖、物料表及 PCB 佈局。"
+        }
+      ]
+    },
+    {
+      "hostname": "circleengage.ai",
+      "record_count": 2,
+      "shared_source_host": false,
+      "members": [
+        {
+          "id": "upstream-18398",
+          "name": "Circle",
+          "source": "plugandplay",
+          "website": "http://www.circleengage.ai",
+          "batch_file": "data/processed/companies/batches/round-005.json",
+          "summary_zh": "協助健康計畫、經紀與醫療提供者整合資料及提升會員互動。"
+        },
+        {
+          "id": "upstream-20189",
+          "name": "Circle",
+          "source": "plugandplay",
+          "website": "http://www.circleengage.ai",
+          "batch_file": "data/processed/companies/batches/round-015.json",
+          "summary_zh": "協助健康保險計畫、經紀商及服務提供者整合資料與提升會員互動。"
+        }
+      ]
+    },
+    {
+      "hostname": "concertio.com",
+      "record_count": 2,
+      "shared_source_host": false,
+      "members": [
+        {
+          "id": "upstream-20128",
+          "name": "Concertio",
+          "source": "plugandplay",
+          "website": "https://concertio.com/",
+          "batch_file": "data/processed/companies/batches/round-015.json",
+          "summary_zh": "提供 AI 效能最佳化工具。"
+        },
+        {
+          "id": "upstream-18418",
+          "name": "Concertio",
+          "source": "plugandplay",
+          "website": "https://concertio.com/",
+          "batch_file": "data/processed/companies/batches/round-018.json",
+          "summary_zh": "提供 AI 效能最佳化工具。"
+        }
+      ]
+    },
+    {
+      "hostname": "copysight.ai",
+      "record_count": 2,
+      "shared_source_host": false,
+      "members": [
+        {
+          "id": "upstream-19326",
+          "name": "Copysight",
+          "source": "plugandplay",
+          "website": "https://copysight.ai/",
+          "batch_file": "data/processed/companies/batches/round-010.json",
+          "summary_zh": "為企業提供生成式 AI 內容。"
+        },
+        {
+          "id": "upstream-11674",
+          "name": "CopySight AI",
+          "source": "antler",
+          "website": "https://copysight.ai/",
+          "batch_file": "data/processed/companies/batches/round-016.json",
+          "summary_zh": "為 AI 生成內容提供智慧財產評分與授權。"
+        }
+      ]
+    },
+    {
+      "hostname": "deepvu.co",
+      "record_count": 2,
+      "shared_source_host": false,
+      "members": [
+        {
+          "id": "upstream-19891",
+          "name": "DeepVu",
+          "source": "plugandplay",
+          "website": "http://deepvu.co",
+          "batch_file": "data/processed/companies/batches/round-009.json",
+          "summary_zh": "以 AI 最佳化供應鏈與利潤。"
+        },
+        {
+          "id": "upstream-18231",
+          "name": "DeepVu",
+          "source": "plugandplay",
+          "website": "http://deepvu.co",
+          "batch_file": "data/processed/companies/batches/round-021.json",
+          "summary_zh": "以 AI 最佳化供應鏈及利潤率。"
+        }
+      ]
+    },
+    {
+      "hostname": "delt.ai",
+      "record_count": 2,
+      "shared_source_host": false,
+      "members": [
+        {
+          "id": "upstream-19923",
+          "name": "delt.ai",
+          "source": "plugandplay",
+          "website": "https://delt.ai",
+          "batch_file": "data/processed/companies/batches/round-002.json",
+          "summary_zh": "以 AI 平台管理交易至紀錄的財務流程。"
+        },
+        {
+          "id": "upstream-18302",
+          "name": "delt.ai",
+          "source": "plugandplay",
+          "website": "https://delt.ai",
+          "batch_file": "data/processed/companies/batches/round-017.json",
+          "summary_zh": "提供從交易到紀錄的 AI 財務管理平台。"
+        }
+      ]
+    },
+    {
+      "hostname": "dimaag.ai",
+      "record_count": 2,
+      "shared_source_host": false,
+      "members": [
+        {
+          "id": "upstream-18242",
+          "name": "DIMAAG",
+          "source": "plugandplay",
+          "website": "http://dimaag.ai",
+          "batch_file": "data/processed/companies/batches/round-005.json",
+          "summary_zh": "提供涵蓋 AI、自主導航、電動車及機器人的產品與軟體服務。"
+        },
+        {
+          "id": "upstream-20155",
+          "name": "DIMAAG",
+          "source": "plugandplay",
+          "website": "http://dimaag.ai",
+          "batch_file": "data/processed/companies/batches/round-016.json",
+          "summary_zh": "開發涵蓋 AI、自主導航、電動車及機器人的產品與軟體服務。"
+        }
+      ]
+    },
+    {
+      "hostname": "drivex.ee",
+      "record_count": 2,
+      "shared_source_host": false,
+      "members": [
+        {
+          "id": "upstream-18309",
+          "name": "DriveX",
+          "source": "plugandplay",
+          "website": "http://drivex.ee",
+          "batch_file": "data/processed/companies/batches/round-012.json",
+          "summary_zh": "以 AI 協助保險銷售或理賠中的車輛驗證。"
+        },
+        {
+          "id": "upstream-19930",
+          "name": "DriveX",
+          "source": "plugandplay",
+          "website": "http://drivex.ee",
+          "batch_file": "data/processed/companies/batches/round-012.json",
+          "summary_zh": "以 AI 協助保險銷售或理賠中的車輛驗證。"
+        }
+      ]
+    },
+    {
+      "hostname": "dyad.net",
+      "record_count": 2,
+      "shared_source_host": false,
+      "members": [
+        {
+          "id": "upstream-18055",
+          "name": "Dyad",
+          "source": "plugandplay",
+          "website": "https://www.dyad.net",
+          "batch_file": "data/processed/companies/batches/round-005.json",
+          "summary_zh": "將非結構化臨床資料轉為結構化代碼與洞察。"
+        },
+        {
+          "id": "upstream-20210",
+          "name": "Dyad",
+          "source": "plugandplay",
+          "website": "https://www.dyad.net",
+          "batch_file": "data/processed/companies/batches/round-007.json",
+          "summary_zh": "把非結構化臨床資料轉成結構化代碼及洞察。"
+        }
+      ]
+    },
+    {
+      "hostname": "e-ai.com.cn",
+      "record_count": 2,
+      "shared_source_host": false,
+      "members": [
+        {
+          "id": "upstream-18396",
+          "name": "E-AI",
+          "source": "plugandplay",
+          "website": "http://www.e-ai.com.cn/guan/first.html",
+          "batch_file": "data/processed/companies/batches/round-013.json",
+          "summary_zh": "為保險及醫療提供字元辨識技術。"
+        },
+        {
+          "id": "upstream-20187",
+          "name": "E-AI",
+          "source": "plugandplay",
+          "website": "http://www.e-ai.com.cn/guan/first.html",
+          "batch_file": "data/processed/companies/batches/round-015.json",
+          "summary_zh": "為保險及醫療產業提供結合深度學習、自然語言處理及 OCR 的智慧文字辨識。"
+        }
+      ]
+    },
+    {
+      "hostname": "edmuse.co.jp",
+      "record_count": 2,
+      "shared_source_host": false,
+      "members": [
+        {
+          "id": "upstream-18577",
+          "name": "EdMuse",
+          "source": "plugandplay",
+          "website": "https://www.edmuse.co.jp",
+          "batch_file": "data/processed/companies/batches/round-006.json",
+          "summary_zh": "開發 AI、物聯網及分散式帳本技術。"
+        },
+        {
+          "id": "upstream-18928",
+          "name": "EdMuse",
+          "source": "plugandplay",
+          "website": "https://www.edmuse.co.jp",
+          "batch_file": "data/processed/companies/batches/round-016.json",
+          "summary_zh": "開發 AI、物聯網及分散式帳本等資訊技術。"
+        }
+      ]
+    },
+    {
+      "hostname": "elix-inc.com",
+      "record_count": 2,
+      "shared_source_host": false,
+      "members": [
+        {
+          "id": "upstream-20820",
+          "name": "Elix, Inc",
+          "source": "plugandplay",
+          "website": "https://www.elix-inc.com/jp/",
+          "batch_file": "data/processed/companies/batches/round-008.json",
+          "summary_zh": "研發深度學習技術。"
+        },
+        {
+          "id": "upstream-21155",
+          "name": "Elix, Inc",
+          "source": "plugandplay",
+          "website": "https://www.elix-inc.com/jp/",
+          "batch_file": "data/processed/companies/batches/round-015.json",
+          "summary_zh": "專注深度學習的研究型技術公司。"
+        }
+      ]
+    },
+    {
+      "hostname": "emagin.ca",
+      "record_count": 2,
+      "shared_source_host": false,
+      "members": [
+        {
+          "id": "upstream-20195",
+          "name": "EMAGIN (acq. by Innovyze)",
+          "source": "plugandplay",
+          "website": "http://www.emagin.ca",
+          "batch_file": "data/processed/companies/batches/round-013.json",
+          "summary_zh": "為供水與污水系統提供 AI。"
+        },
+        {
+          "id": "upstream-18203",
+          "name": "EMAGIN (acq. by Innovyze)",
+          "source": "plugandplay",
+          "website": "http://www.emagin.ca",
+          "batch_file": "data/processed/companies/batches/round-016.json",
+          "summary_zh": "為供水及污水系統提供 AI。"
+        }
+      ]
+    },
+    {
+      "hostname": "flexiv.com",
+      "record_count": 2,
+      "shared_source_host": false,
+      "members": [
+        {
+          "id": "upstream-16437",
+          "name": "Flexiv Robotics",
+          "source": "plugandplay",
+          "website": "http://www.flexiv.com",
+          "batch_file": "data/processed/companies/batches/round-005.json",
+          "summary_zh": "開發整合力控制、電腦視覺與 AI 的自適應機器人。"
+        },
+        {
+          "id": "upstream-21289",
+          "name": "Flexiv Robotics",
+          "source": "plugandplay",
+          "website": "http://www.flexiv.com",
+          "batch_file": "data/processed/companies/batches/round-015.json",
+          "summary_zh": "開發結合力控制、電腦視覺及 AI 的自適應機器人。"
+        }
+      ]
+    },
+    {
+      "hostname": "flyrlabs.com",
+      "record_count": 2,
+      "shared_source_host": false,
+      "members": [
+        {
+          "id": "upstream-21284",
+          "name": "Flyr",
+          "source": "plugandplay",
+          "website": "http://www.flyrlabs.com",
+          "batch_file": "data/processed/companies/batches/round-006.json",
+          "summary_zh": "為航空與旅遊業者建立定價及優惠管理系統。"
+        },
+        {
+          "id": "upstream-20666",
+          "name": "Flyr",
+          "source": "plugandplay",
+          "website": "http://www.flyrlabs.com",
+          "batch_file": "data/processed/companies/batches/round-016.json",
+          "summary_zh": "以機器學習為航空及旅遊業建立定價與方案管理系統。"
+        }
+      ]
+    },
+    {
+      "hostname": "formotiv.com",
+      "record_count": 2,
+      "shared_source_host": false,
+      "members": [
+        {
+          "id": "upstream-20134",
+          "name": "ForMotiv",
+          "source": "plugandplay",
+          "website": "http://formotiv.com",
+          "batch_file": "data/processed/companies/batches/round-008.json",
+          "summary_zh": "分析數位行為以最佳化體驗並預測風險及詐欺。"
+        },
+        {
+          "id": "upstream-18424",
+          "name": "ForMotiv",
+          "source": "plugandplay",
+          "website": "http://formotiv.com",
+          "batch_file": "data/processed/companies/batches/round-017.json",
+          "summary_zh": "分析使用者行為，以機器學習改善數位體驗並預測風險與詐欺。"
+        }
+      ]
+    },
+    {
+      "hostname": "fundguard.com",
+      "record_count": 2,
+      "shared_source_host": false,
+      "members": [
+        {
+          "id": "upstream-18378",
+          "name": "FundGuard",
+          "source": "plugandplay",
+          "website": "http://www.fundguard.com",
+          "batch_file": "data/processed/companies/batches/round-003.json",
+          "summary_zh": "為資產管理者等機構提供投資管理營運平台。"
+        },
+        {
+          "id": "upstream-20169",
+          "name": "FundGuard",
+          "source": "plugandplay",
+          "website": "http://www.fundguard.com",
+          "batch_file": "data/processed/companies/batches/round-013.json",
+          "summary_zh": "為金融資產管理、託管及基金機構提供 AI 投資管理平台。"
+        }
+      ]
+    },
+    {
+      "hostname": "furtherai.com",
+      "record_count": 2,
+      "shared_source_host": false,
+      "members": [
+        {
+          "id": "upstream-19095",
+          "name": "Further AI",
+          "source": "plugandplay",
+          "website": "https://www.furtherai.com/",
+          "batch_file": "data/processed/companies/batches/round-006.json",
+          "summary_zh": "以 AI agents 自動化商業財產意外保險核保、理賠及合規。"
+        },
+        {
+          "id": "upstream-09497",
+          "name": "FurtherAI",
+          "source": "yc",
+          "website": "https://www.furtherai.com/",
+          "batch_file": "data/processed/companies/batches/round-020.json",
+          "summary_zh": "為保險業提供 AI 工作團隊。"
+        }
+      ]
+    },
+    {
+      "hostname": "futurocket.co",
+      "record_count": 2,
+      "shared_source_host": false,
+      "members": [
+        {
+          "id": "upstream-18836",
+          "name": "FutuRocket Co.",
+          "source": "plugandplay",
+          "website": "http://www.futurocket.co",
+          "batch_file": "data/processed/companies/batches/round-003.json",
+          "summary_zh": "為小企業提供零售 AI 攝影機等物聯網硬體。"
+        },
+        {
+          "id": "upstream-18867",
+          "name": "FutuRocket Co.",
+          "source": "plugandplay",
+          "website": "http://www.futurocket.co",
+          "batch_file": "data/processed/companies/batches/round-010.json",
+          "summary_zh": "為小企業開發零售 AI 攝影機等物聯網硬體。"
+        }
+      ]
+    },
+    {
+      "hostname": "galihealth.com",
+      "record_count": 2,
+      "shared_source_host": false,
+      "members": [
+        {
+          "id": "upstream-18373",
+          "name": "Gali Health Inc.",
+          "source": "plugandplay",
+          "website": "http://www.galihealth.com",
+          "batch_file": "data/processed/companies/batches/round-008.json",
+          "summary_zh": "彙整病人與醫療社群健康資料，為慢性病使用者提供個人化支持。"
+        },
+        {
+          "id": "upstream-20164",
+          "name": "Gali Health Inc.",
+          "source": "plugandplay",
+          "website": "http://www.galihealth.com",
+          "batch_file": "data/processed/companies/batches/round-015.json",
+          "summary_zh": "以 AI 及行動技術整合病患與醫療社群健康資料，並為慢性病患者提供個人化支援。"
+        }
+      ]
+    },
+    {
+      "hostname": "getjerry.com",
+      "record_count": 2,
+      "shared_source_host": false,
+      "members": [
+        {
+          "id": "upstream-18213",
+          "name": "Jerry",
+          "source": "plugandplay",
+          "website": "https://www.getjerry.com/",
+          "batch_file": "data/processed/companies/batches/round-007.json",
+          "summary_zh": "為美國家庭協商貸款與保險。"
+        },
+        {
+          "id": "upstream-19873",
+          "name": "Jerry",
+          "source": "plugandplay",
+          "website": "https://www.getjerry.com/",
+          "batch_file": "data/processed/companies/batches/round-015.json",
+          "summary_zh": "為美國家庭提供以 AI 協商貸款與保險的金融服務。"
+        }
+      ]
+    },
+    {
+      "hostname": "gotitapp.co",
+      "record_count": 2,
+      "shared_source_host": false,
+      "members": [
+        {
+          "id": "upstream-19969",
+          "name": "Got It",
+          "source": "plugandplay",
+          "website": "https://www.gotitapp.co",
+          "batch_file": "data/processed/companies/batches/round-008.json",
+          "summary_zh": "以 Transformer 提供具自我訓練及最佳化能力的對話式 AI。"
+        },
+        {
+          "id": "upstream-18188",
+          "name": "Got It",
+          "source": "plugandplay",
+          "website": "https://www.gotitapp.co",
+          "batch_file": "data/processed/companies/batches/round-018.json",
+          "summary_zh": "以 Transformer 開發具自我探索、訓練及最佳化能力的對話 AI。"
+        }
+      ]
+    },
+    {
+      "hostname": "green-ai.co.jp",
+      "record_count": 2,
+      "shared_source_host": false,
+      "members": [
+        {
+          "id": "upstream-20919",
+          "name": "GreenAI",
+          "source": "plugandplay",
+          "website": "https://green-ai.co.jp",
+          "batch_file": "data/processed/companies/batches/round-002.json",
+          "summary_zh": "協助企業建立減碳計畫。"
+        },
+        {
+          "id": "upstream-20808",
+          "name": "GreenAI",
+          "source": "plugandplay",
+          "website": "https://green-ai.co.jp",
+          "batch_file": "data/processed/companies/batches/round-009.json",
+          "summary_zh": "以 AI 協助企業建立減碳計畫。"
+        }
+      ]
+    },
+    {
+      "hostname": "harperinsure.com",
+      "record_count": 2,
+      "shared_source_host": false,
+      "members": [
+        {
+          "id": "upstream-10146",
+          "name": "Harper",
+          "source": "yc",
+          "website": "https://www.harperinsure.com/",
+          "batch_file": "data/processed/companies/batches/round-003.json",
+          "summary_zh": "提供 AI 原生商業保險經紀。"
+        },
+        {
+          "id": "upstream-11850",
+          "name": "Harper",
+          "source": "antler",
+          "website": "https://www.harperinsure.com/",
+          "batch_file": "data/processed/companies/batches/round-010.json",
+          "summary_zh": "提供具自動化工作流程的 AI 商業保險經紀。"
+        }
+      ]
+    },
+    {
+      "hostname": "hatapro.co.jp",
+      "record_count": 2,
+      "shared_source_host": false,
+      "members": [
+        {
+          "id": "upstream-18855",
+          "name": "Hatapro",
+          "source": "plugandplay",
+          "website": "http://www.hatapro.co.jp",
+          "batch_file": "data/processed/companies/batches/round-002.json",
+          "summary_zh": "以 AI、物聯網、機器人及醫療為方向。"
+        },
+        {
+          "id": "upstream-18676",
+          "name": "Hatapro",
+          "source": "plugandplay",
+          "website": "http://www.hatapro.co.jp",
+          "batch_file": "data/processed/companies/batches/round-006.json",
+          "summary_zh": "以 AI、物聯網、機器人及醫療為方向。"
+        }
+      ]
+    },
+    {
+      "hostname": "hutzper.com",
+      "record_count": 2,
+      "shared_source_host": false,
+      "members": [
+        {
+          "id": "upstream-18843",
+          "name": "Hutzper",
+          "source": "plugandplay",
+          "website": "http://www.hutzper.com",
+          "batch_file": "data/processed/companies/batches/round-006.json",
+          "summary_zh": "提供邊緣 AI。"
+        },
+        {
+          "id": "upstream-18664",
+          "name": "Hutzper",
+          "source": "plugandplay",
+          "website": "http://www.hutzper.com",
+          "batch_file": "data/processed/companies/batches/round-017.json",
+          "summary_zh": "提供邊緣 AI。"
+        }
+      ]
+    },
+    {
+      "hostname": "hypatos.ai",
+      "record_count": 2,
+      "shared_source_host": false,
+      "members": [
+        {
+          "id": "upstream-19931",
+          "name": "Hypatos",
+          "source": "plugandplay",
+          "website": "http://hypatos.ai",
+          "batch_file": "data/processed/companies/batches/round-012.json",
+          "summary_zh": "自動分類、擷取、驗證及補充後勤文件資料。"
+        },
+        {
+          "id": "upstream-18310",
+          "name": "Hypatos",
+          "source": "plugandplay",
+          "website": "http://hypatos.ai",
+          "batch_file": "data/processed/companies/batches/round-017.json",
+          "summary_zh": "以深度學習自動化文件後台流程，涵蓋分類、資料擷取、驗證及資料補充。"
+        }
+      ]
+    },
+    {
+      "hostname": "idnow.de",
+      "record_count": 2,
+      "shared_source_host": false,
+      "members": [
+        {
+          "id": "upstream-19879",
+          "name": "IDnow",
+          "source": "plugandplay",
+          "website": "http://www.idnow.de",
+          "batch_file": "data/processed/companies/batches/round-018.json",
+          "summary_zh": "以 AI 及機器學習提供即時自動身分辨識。"
+        },
+        {
+          "id": "upstream-18219",
+          "name": "IDnow",
+          "source": "plugandplay",
+          "website": "http://www.idnow.de",
+          "batch_file": "data/processed/companies/batches/round-020.json",
+          "summary_zh": "以 AI 及機器學習提供即時自動身分辨識。"
+        }
+      ]
+    },
+    {
+      "hostname": "idnow.io",
+      "record_count": 2,
+      "shared_source_host": false,
+      "members": [
+        {
+          "id": "upstream-18339",
+          "name": "IDnow",
+          "source": "plugandplay",
+          "website": "http://idnow.io",
+          "batch_file": "data/processed/companies/batches/round-009.json",
+          "summary_zh": "以機器學習提供身分驗證服務。"
+        },
+        {
+          "id": "upstream-20004",
+          "name": "IDnow",
+          "source": "plugandplay",
+          "website": "http://idnow.io",
+          "batch_file": "data/processed/companies/batches/round-010.json",
+          "summary_zh": "以機器學習提供身分驗證服務。"
+        }
+      ]
+    },
+    {
+      "hostname": "industrialnext.ai",
+      "record_count": 2,
+      "shared_source_host": false,
+      "members": [
+        {
+          "id": "upstream-08397",
+          "name": "Industrial Next",
+          "source": "yc",
+          "website": "https://www.industrialnext.ai",
+          "batch_file": "data/processed/companies/batches/round-001.json",
+          "summary_zh": "為製造業打造 AI brain。"
+        },
+        {
+          "id": "upstream-16906",
+          "name": "Industrial Next",
+          "source": "plugandplay",
+          "website": "https://www.industrialnext.ai",
+          "batch_file": "data/processed/companies/batches/round-014.json",
+          "summary_zh": "以結合學習、視覺及控制軟體的 AI 工作站自動化人工組裝。"
+        }
+      ]
+    },
+    {
+      "hostname": "infrasai.io",
+      "record_count": 2,
+      "shared_source_host": false,
+      "members": [
+        {
+          "id": "upstream-20213",
+          "name": "InfrasAI",
+          "source": "plugandplay",
+          "website": "https://www.infrasai.io",
+          "batch_file": "data/processed/companies/batches/round-011.json",
+          "summary_zh": "為金融與保險業建立及檢查複雜流程映射。"
+        },
+        {
+          "id": "upstream-18058",
+          "name": "InfrasAI",
+          "source": "plugandplay",
+          "website": "https://www.infrasai.io",
+          "batch_file": "data/processed/companies/batches/round-018.json",
+          "summary_zh": "為金融及保險公司提供 AI agents，建立及檢查複雜流程圖，並結合人工覆核。"
+        }
+      ]
+    },
+    {
+      "hostname": "intelizen.co",
+      "record_count": 2,
+      "shared_source_host": false,
+      "members": [
+        {
+          "id": "upstream-01582",
+          "name": "Intelizen",
+          "source": "techstars",
+          "website": "https://intelizen.co",
+          "batch_file": "data/processed/companies/batches/round-003.json",
+          "summary_zh": "分析醫療支付合約、核對理賠費率並產生少付申訴。"
+        },
+        {
+          "id": "upstream-11907",
+          "name": "Intelizen inc.",
+          "source": "antler",
+          "website": "https://www.intelizen.co/",
+          "batch_file": "data/processed/companies/batches/round-021.json",
+          "summary_zh": "以 AI 將靜態合約轉為動態紀錄系統，提供洞察、風險管理及簽約後工作自動化。"
+        }
+      ]
+    },
+    {
+      "hostname": "intellectible.com",
+      "record_count": 2,
+      "shared_source_host": false,
+      "members": [
+        {
+          "id": "upstream-00722",
+          "name": "Intellectible",
+          "source": "techstars",
+          "website": "https://intellectible.com",
+          "batch_file": "data/processed/companies/batches/round-003.json",
+          "summary_zh": "蒐集來源、研究並撰寫補助、RFP 與提案文件。"
+        },
+        {
+          "id": "upstream-16878",
+          "name": "Intellectible",
+          "source": "plugandplay",
+          "website": "https://intellectible.com/",
+          "batch_file": "data/processed/companies/batches/round-019.json",
+          "summary_zh": "提供 AI 自動化平台。"
+        }
+      ]
+    },
+    {
+      "hostname": "inytcer.com.br",
+      "record_count": 2,
+      "shared_source_host": false,
+      "members": [
+        {
+          "id": "upstream-18137",
+          "name": "Inytcer",
+          "source": "plugandplay",
+          "website": "http://inytcer.com.br",
+          "batch_file": "data/processed/companies/batches/round-005.json",
+          "summary_zh": "結合心理學、神經學、哲學與 AI 技術開發系統。"
+        },
+        {
+          "id": "upstream-20047",
+          "name": "Inytcer",
+          "source": "plugandplay",
+          "website": "http://inytcer.com.br",
+          "batch_file": "data/processed/companies/batches/round-012.json",
+          "summary_zh": "結合心理學、神經學、哲學與 AI 開發系統。"
+        }
+      ]
+    },
+    {
+      "hostname": "iterative.health",
+      "record_count": 2,
+      "shared_source_host": false,
+      "members": [
+        {
+          "id": "upstream-20094",
+          "name": "Iterative Health",
+          "source": "plugandplay",
+          "website": "https://iterative.health/",
+          "batch_file": "data/processed/companies/batches/round-003.json",
+          "summary_zh": "以電腦視覺輔助腸胃科決策。"
+        },
+        {
+          "id": "upstream-18098",
+          "name": "Iterative Health",
+          "source": "plugandplay",
+          "website": "https://iterative.health/",
+          "batch_file": "data/processed/companies/batches/round-009.json",
+          "summary_zh": "以電腦視覺支援腸胃科決策。"
+        }
+      ]
+    },
+    {
+      "hostname": "japan.originwirelessai.com",
+      "record_count": 2,
+      "shared_source_host": false,
+      "members": [
+        {
+          "id": "upstream-18681",
+          "name": "Origin Wireless Japan",
+          "source": "plugandplay",
+          "website": "https://www.japan.originwirelessai.com",
+          "batch_file": "data/processed/companies/batches/round-009.json",
+          "summary_zh": "分析 Wi-Fi 無線電傳播，偵測室內人與物體移動、呼吸及位置。"
+        },
+        {
+          "id": "upstream-18860",
+          "name": "Origin Wireless Japan",
+          "source": "plugandplay",
+          "website": "https://www.japan.originwirelessai.com",
+          "batch_file": "data/processed/companies/batches/round-019.json",
+          "summary_zh": "以 AI 分析 Wi-Fi 波傳播，偵測室內人與物體移動、臥床呼吸及位置。"
+        }
+      ]
+    },
+    {
+      "hostname": "kinta-ai.com",
+      "record_count": 2,
+      "shared_source_host": false,
+      "members": [
+        {
+          "id": "upstream-20255",
+          "name": "Kinta AI",
+          "source": "plugandplay",
+          "website": "http://www.kinta-ai.com/",
+          "batch_file": "data/processed/companies/batches/round-001.json",
+          "summary_zh": "以 AI 平台支援數位工廠。"
+        },
+        {
+          "id": "upstream-18260",
+          "name": "Kinta AI",
+          "source": "plugandplay",
+          "website": "http://www.kinta-ai.com/",
+          "batch_file": "data/processed/companies/batches/round-007.json",
+          "summary_zh": "以 AI 平台支援數位工廠。"
+        }
+      ]
+    },
+    {
+      "hostname": "kisuitech.com",
+      "record_count": 2,
+      "shared_source_host": false,
+      "members": [
+        {
+          "id": "upstream-20904",
+          "name": "Kisui Tech",
+          "source": "plugandplay",
+          "website": "https://kisuitech.com/en",
+          "batch_file": "data/processed/companies/batches/round-004.json",
+          "summary_zh": "以不需人類操作的機器，協助中小型家庭農場因應人力不足。"
+        },
+        {
+          "id": "upstream-20793",
+          "name": "Kisui Tech",
+          "source": "plugandplay",
+          "website": "https://kisuitech.com/en",
+          "batch_file": "data/processed/companies/batches/round-020.json",
+          "summary_zh": "為中小型家庭農場提供無需操作員的 AI 機器人服務，支援農務。"
+        }
+      ]
+    },
+    {
+      "hostname": "lasiina.com",
+      "record_count": 2,
+      "shared_source_host": false,
+      "members": [
+        {
+          "id": "upstream-20907",
+          "name": "Lasiina",
+          "source": "plugandplay",
+          "website": "https://lasiina.com",
+          "batch_file": "data/processed/companies/batches/round-012.json",
+          "summary_zh": "結合物聯網與 AI 開發女性醫療裝置。"
+        },
+        {
+          "id": "upstream-20796",
+          "name": "Lasiina",
+          "source": "plugandplay",
+          "website": "https://lasiina.com",
+          "batch_file": "data/processed/companies/batches/round-014.json",
+          "summary_zh": "運用物聯網與 AI 開發女性醫療裝置。"
+        }
+      ]
+    },
+    {
+      "hostname": "lazarusai.com",
+      "record_count": 3,
+      "shared_source_host": false,
+      "members": [
+        {
+          "id": "upstream-02020",
+          "name": "Lazarus",
+          "source": "techstars",
+          "website": "https://lazarusai.com",
+          "batch_file": "data/processed/companies/batches/round-003.json",
+          "summary_zh": "以歷史病人資料及深度學習預測癌症早期發生。"
+        },
+        {
+          "id": "upstream-16486",
+          "name": "Lazarus AI",
+          "source": "plugandplay",
+          "website": "http://lazarusai.com",
+          "batch_file": "data/processed/companies/batches/round-014.json",
+          "summary_zh": "為多種產業的複雜資料問題開發可擴展 AI 系統。"
+        },
+        {
+          "id": "upstream-21234",
+          "name": "Lazarus AI",
+          "source": "plugandplay",
+          "website": "http://lazarusai.com",
+          "batch_file": "data/processed/companies/batches/round-018.json",
+          "summary_zh": "為多種產業的複雜資料問題開發可擴展 AI 系統。"
+        }
+      ]
+    },
+    {
+      "hostname": "linquip.com",
+      "record_count": 2,
+      "shared_source_host": false,
+      "members": [
+        {
+          "id": "upstream-18289",
+          "name": "LinQuip",
+          "source": "plugandplay",
+          "website": "https://www.linquip.com",
+          "batch_file": "data/processed/companies/batches/round-001.json",
+          "summary_zh": "連接設備製造商、工業使用者與服務商。"
+        },
+        {
+          "id": "upstream-19910",
+          "name": "LinQuip",
+          "source": "plugandplay",
+          "website": "https://www.linquip.com",
+          "batch_file": "data/processed/companies/batches/round-003.json",
+          "summary_zh": "連接設備製造商、工業使用者與服務商的 AI 專業網路。"
+        }
+      ]
+    },
+    {
+      "hostname": "markable.ai",
+      "record_count": 2,
+      "shared_source_host": false,
+      "members": [
+        {
+          "id": "upstream-20256",
+          "name": "Markable",
+          "source": "plugandplay",
+          "website": "http://markable.ai",
+          "batch_file": "data/processed/companies/batches/round-013.json",
+          "summary_zh": "以 AI 影片辨識連接數位內容與購物。"
+        },
+        {
+          "id": "upstream-18261",
+          "name": "Markable",
+          "source": "plugandplay",
+          "website": "http://markable.ai",
+          "batch_file": "data/processed/companies/batches/round-018.json",
+          "summary_zh": "以自動 AI 影片辨識技術連接數位內容與電商購物。"
+        }
+      ]
+    },
+    {
+      "hostname": "modicusprime.com",
+      "record_count": 2,
+      "shared_source_host": false,
+      "members": [
+        {
+          "id": "upstream-16418",
+          "name": "Modicus Prime",
+          "source": "plugandplay",
+          "website": "https://www.modicusprime.com",
+          "batch_file": "data/processed/companies/batches/round-012.json",
+          "summary_zh": "以 mpVision 即時處理影像，支援生命科學品質管理及研發。"
+        },
+        {
+          "id": "upstream-00648",
+          "name": "Modicus Prime",
+          "source": "techstars",
+          "website": "https://modicusprime.com",
+          "batch_file": "data/processed/companies/batches/round-019.json",
+          "summary_zh": "整合多種生命科學資料，以 AI 及機器學習支援異常偵測、監測與決策。"
+        }
+      ]
+    },
+    {
+      "hostname": "monitaur.ai",
+      "record_count": 2,
+      "shared_source_host": false,
+      "members": [
+        {
+          "id": "upstream-16640",
+          "name": "Monitaur",
+          "source": "plugandplay",
+          "website": "https://www.monitaur.ai",
+          "batch_file": "data/processed/companies/batches/round-007.json",
+          "summary_zh": "集中管理 AI 模型風險、合規及效能監控。"
+        },
+        {
+          "id": "upstream-00348",
+          "name": "Monitaur",
+          "source": "techstars",
+          "website": "https://monitaur.ai",
+          "batch_file": "data/processed/companies/batches/round-018.json",
+          "summary_zh": "提供 AI 透明度及保證軟體。"
+        }
+      ]
+    },
+    {
+      "hostname": "nflux.ai",
+      "record_count": 2,
+      "shared_source_host": false,
+      "members": [
+        {
+          "id": "upstream-18271",
+          "name": "nFlux",
+          "source": "plugandplay",
+          "website": "http://nflux.ai",
+          "batch_file": "data/processed/companies/batches/round-012.json",
+          "summary_zh": "以 AI 協助製造業工作者提高生產力。"
+        },
+        {
+          "id": "upstream-20266",
+          "name": "nFlux",
+          "source": "plugandplay",
+          "website": "http://nflux.ai",
+          "batch_file": "data/processed/companies/batches/round-018.json",
+          "summary_zh": "以 AI 協助製造業工作人員提高生產力。"
+        }
+      ]
+    },
+    {
+      "hostname": "oncorevive.com",
+      "record_count": 2,
+      "shared_source_host": false,
+      "members": [
+        {
+          "id": "upstream-01905",
+          "name": "OncoRevive",
+          "source": "techstars",
+          "website": "https://oncorevive.com",
+          "batch_file": "data/processed/companies/batches/round-010.json",
+          "summary_zh": "開發以奈米技術及 AI 進行癌症監控的血液檢測。"
+        },
+        {
+          "id": "upstream-12112",
+          "name": "OncoRevive",
+          "source": "antler",
+          "website": "http://www.oncorevive.com/",
+          "batch_file": "data/processed/companies/batches/round-015.json",
+          "summary_zh": "以 AI 液態切片支援癌症早期偵測及個人化治療。"
+        }
+      ]
+    },
+    {
+      "hostname": "oneroots.company",
+      "record_count": 2,
+      "shared_source_host": false,
+      "members": [
+        {
+          "id": "upstream-17844",
+          "name": "Oneroots",
+          "source": "plugandplay",
+          "website": "https://oneroots.company/",
+          "batch_file": "data/processed/companies/batches/round-008.json",
+          "summary_zh": "以 AI 提供商品推薦、線上媒合與 withdrawal prediction。"
+        },
+        {
+          "id": "upstream-17592",
+          "name": "Oneroots",
+          "source": "plugandplay",
+          "website": "https://oneroots.company/",
+          "batch_file": "data/processed/companies/batches/round-021.json",
+          "summary_zh": "以 AI 提供產品推薦、線上媒合及 withdrawal 預測。"
+        }
+      ]
+    },
+    {
+      "hostname": "opensilo.co",
+      "record_count": 2,
+      "shared_source_host": false,
+      "members": [
+        {
+          "id": "upstream-18332",
+          "name": "OpenSilo",
+          "source": "plugandplay",
+          "website": "http://www.opensilo.co",
+          "batch_file": "data/processed/companies/batches/round-005.json",
+          "summary_zh": "以企業群組聊天及 AI 描繪員工專長，協助尋找答案。"
+        },
+        {
+          "id": "upstream-19997",
+          "name": "OpenSilo",
+          "source": "plugandplay",
+          "website": "http://www.opensilo.co",
+          "batch_file": "data/processed/companies/batches/round-008.json",
+          "summary_zh": "在企業群組聊天中描繪員工專長並協助尋找答案。"
+        }
+      ]
+    },
+    {
+      "hostname": "owkin.com",
+      "record_count": 2,
+      "shared_source_host": false,
+      "members": [
+        {
+          "id": "upstream-16535",
+          "name": "Owkin",
+          "source": "plugandplay",
+          "website": "http://www.owkin.com",
+          "batch_file": "data/processed/companies/batches/round-013.json",
+          "summary_zh": "以機器學習支援藥物與試驗設計，預測疾病演變及治療結果。"
+        },
+        {
+          "id": "upstream-21288",
+          "name": "Owkin",
+          "source": "plugandplay",
+          "website": "http://www.owkin.com",
+          "batch_file": "data/processed/companies/batches/round-015.json",
+          "summary_zh": "結合生命科學與機器學習支援藥物開發及臨床試驗設計，預測疾病進展與治療結果。"
+        }
+      ]
+    },
+    {
+      "hostname": "passionategenius.com",
+      "record_count": 2,
+      "shared_source_host": false,
+      "members": [
+        {
+          "id": "upstream-17600",
+          "name": "Passionate Genius",
+          "source": "plugandplay",
+          "website": "https://passionategenius.com/",
+          "batch_file": "data/processed/companies/batches/round-016.json",
+          "summary_zh": "以生成式 AI 開發應用程式及網路服務。"
+        },
+        {
+          "id": "upstream-17944",
+          "name": "Passionate Genius",
+          "source": "plugandplay",
+          "website": "https://passionategenius.com/",
+          "batch_file": "data/processed/companies/batches/round-017.json",
+          "summary_zh": "以生成式 AI 開發應用程式及網路服務。"
+        }
+      ]
+    },
+    {
+      "hostname": "pipra.ch",
+      "record_count": 2,
+      "shared_source_host": false,
+      "members": [
+        {
+          "id": "upstream-19936",
+          "name": "Pipra AG",
+          "source": "plugandplay",
+          "website": "http://www.pipra.ch",
+          "batch_file": "data/processed/companies/batches/round-006.json",
+          "summary_zh": "以術前 AI 工具評估術後譫妄風險。"
+        },
+        {
+          "id": "upstream-18315",
+          "name": "Pipra AG",
+          "source": "plugandplay",
+          "website": "http://www.pipra.ch",
+          "batch_file": "data/processed/companies/batches/round-012.json",
+          "summary_zh": "以術前 AI 工具評估術後譫妄風險。"
+        }
+      ]
+    },
+    {
+      "hostname": "ponicode.com",
+      "record_count": 2,
+      "shared_source_host": false,
+      "members": [
+        {
+          "id": "upstream-19928",
+          "name": "Ponicode",
+          "source": "plugandplay",
+          "website": "http://ponicode.com",
+          "batch_file": "data/processed/companies/batches/round-017.json",
+          "summary_zh": "以 AI 介面協助建立、修改及視覺化 JavaScript 單元測試。"
+        },
+        {
+          "id": "upstream-18307",
+          "name": "Ponicode",
+          "source": "plugandplay",
+          "website": "http://ponicode.com",
+          "batch_file": "data/processed/companies/batches/round-019.json",
+          "summary_zh": "以 AI 介面協助建立、修改及視覺化 JavaScript 單元測試。"
+        }
+      ]
+    },
+    {
+      "hostname": "powerdime.io",
+      "record_count": 2,
+      "shared_source_host": false,
+      "members": [
+        {
+          "id": "upstream-12190",
+          "name": "Power Dime",
+          "source": "antler",
+          "website": "https://powerdime.io/",
+          "batch_file": "data/processed/companies/batches/round-001.json",
+          "summary_zh": "協助資料中心採購無碳電力。"
+        },
+        {
+          "id": "upstream-01476",
+          "name": "Power Dime",
+          "source": "techstars",
+          "website": "https://powerdime.io",
+          "batch_file": "data/processed/companies/batches/round-010.json",
+          "summary_zh": "協助資料中心規劃能源採購策略並購電。"
+        }
+      ]
+    },
+    {
+      "hostname": "preferred.jp",
+      "record_count": 2,
+      "shared_source_host": false,
+      "members": [
+        {
+          "id": "upstream-17609",
+          "name": "Preferred Networks",
+          "source": "plugandplay",
+          "website": "https://preferred.jp/",
+          "batch_file": "data/processed/companies/batches/round-012.json",
+          "summary_zh": "開發深度學習、機器人等技術的實際應用。"
+        },
+        {
+          "id": "upstream-17953",
+          "name": "Preferred Networks",
+          "source": "plugandplay",
+          "website": "https://preferred.jp/",
+          "batch_file": "data/processed/companies/batches/round-019.json",
+          "summary_zh": "開發深度學習及機器人等技術的實際應用。"
+        }
+      ]
+    },
+    {
+      "hostname": "proscons.co.jp",
+      "record_count": 2,
+      "shared_source_host": false,
+      "members": [
+        {
+          "id": "upstream-17957",
+          "name": "Pros Cons",
+          "source": "plugandplay",
+          "website": "https://proscons.co.jp/",
+          "batch_file": "data/processed/companies/batches/round-013.json",
+          "summary_zh": "提供 AI 系統規劃、設計及開發。"
+        },
+        {
+          "id": "upstream-17613",
+          "name": "Pros Cons",
+          "source": "plugandplay",
+          "website": "https://proscons.co.jp/",
+          "batch_file": "data/processed/companies/batches/round-018.json",
+          "summary_zh": "提供 AI 系統規劃、設計及開發服務。"
+        }
+      ]
+    },
+    {
+      "hostname": "pyrenee.net",
+      "record_count": 2,
+      "shared_source_host": false,
+      "members": [
+        {
+          "id": "upstream-17959",
+          "name": "Pyrenee",
+          "source": "plugandplay",
+          "website": "https://www.pyrenee.net/",
+          "batch_file": "data/processed/companies/batches/round-012.json",
+          "summary_zh": "開發、製造及銷售 AI 駕駛助理。"
+        },
+        {
+          "id": "upstream-17615",
+          "name": "Pyrenee",
+          "source": "plugandplay",
+          "website": "https://www.pyrenee.net/",
+          "batch_file": "data/processed/companies/batches/round-020.json",
+          "summary_zh": "開發、生產及銷售 AI 駕駛助理。"
+        }
+      ]
+    },
+    {
+      "hostname": "qiznalo.com",
+      "record_count": 2,
+      "shared_source_host": false,
+      "members": [
+        {
+          "id": "upstream-17157",
+          "name": "Qiznalo",
+          "source": "plugandplay",
+          "website": "http://www.qiznalo.com/",
+          "batch_file": "data/processed/companies/batches/round-007.json",
+          "summary_zh": "以 AI 支援照護相關創新。"
+        },
+        {
+          "id": "upstream-17875",
+          "name": "Qiznalo",
+          "source": "plugandplay",
+          "website": "http://www.qiznalo.com/",
+          "batch_file": "data/processed/companies/batches/round-007.json",
+          "summary_zh": "以 AI 支援照護相關創新。"
+        }
+      ]
+    },
+    {
+      "hostname": "qosmo.jp",
+      "record_count": 2,
+      "shared_source_host": false,
+      "members": [
+        {
+          "id": "upstream-17478",
+          "name": "Qosmo, Inc",
+          "source": "plugandplay",
+          "website": "http://qosmo.jp/",
+          "batch_file": "data/processed/companies/batches/round-010.json",
+          "summary_zh": "結合數位技術、研究與 AI 製作藝術及廣告作品。"
+        },
+        {
+          "id": "upstream-17960",
+          "name": "Qosmo, Inc",
+          "source": "plugandplay",
+          "website": "http://qosmo.jp/",
+          "batch_file": "data/processed/companies/batches/round-012.json",
+          "summary_zh": "以數位技術、研究及 AI 製作藝術與廣告作品。"
+        }
+      ]
+    },
+    {
+      "hostname": "quadfi.com",
+      "record_count": 2,
+      "shared_source_host": false,
+      "members": [
+        {
+          "id": "upstream-18442",
+          "name": "QuadFi",
+          "source": "plugandplay",
+          "website": "https://www.quadfi.com",
+          "batch_file": "data/processed/companies/batches/round-007.json",
+          "summary_zh": "以教育資料及機器學習評估北美薄信用紀錄族群的信用。"
+        },
+        {
+          "id": "upstream-20152",
+          "name": "QuadFi",
+          "source": "plugandplay",
+          "website": "https://www.quadfi.com",
+          "batch_file": "data/processed/companies/batches/round-017.json",
+          "summary_zh": "以教育資料及機器學習評估北美薄信用紀錄族群的信用狀況。"
+        }
+      ]
+    },
+    {
+      "hostname": "queryvary.com",
+      "record_count": 2,
+      "shared_source_host": false,
+      "members": [
+        {
+          "id": "upstream-08663",
+          "name": "Query Vary",
+          "source": "yc",
+          "website": "https://queryvary.com",
+          "batch_file": "data/processed/companies/batches/round-011.json",
+          "summary_zh": "以無程式碼建立 LLM 應用與流程。"
+        },
+        {
+          "id": "upstream-20302",
+          "name": "Query Vary",
+          "source": "plugandplay",
+          "website": "https://www.queryvary.com/",
+          "batch_file": "data/processed/companies/batches/round-021.json",
+          "summary_zh": "支援建立可信賴的企業級大型語言模型應用。"
+        }
+      ]
+    },
+    {
+      "hostname": "recogni.com",
+      "record_count": 2,
+      "shared_source_host": false,
+      "members": [
+        {
+          "id": "upstream-18383",
+          "name": "Recogni",
+          "source": "plugandplay",
+          "website": "http://recogni.com",
+          "batch_file": "data/processed/companies/batches/round-003.json",
+          "summary_zh": "為自主車輛提供 AI 視覺辨識模組。"
+        },
+        {
+          "id": "upstream-20174",
+          "name": "Recogni",
+          "source": "plugandplay",
+          "website": "http://recogni.com",
+          "batch_file": "data/processed/companies/batches/round-015.json",
+          "summary_zh": "為自駕車提供 AI 視覺辨識模組。"
+        }
+      ]
+    },
+    {
+      "hostname": "ricos.co.jp",
+      "record_count": 2,
+      "shared_source_host": false,
+      "members": [
+        {
+          "id": "upstream-17490",
+          "name": "RICOS",
+          "source": "plugandplay",
+          "website": "https://www.ricos.co.jp/",
+          "batch_file": "data/processed/companies/batches/round-011.json",
+          "summary_zh": "結合 AI、模擬及高效能運算最佳化製造流程。"
+        },
+        {
+          "id": "upstream-17972",
+          "name": "RICOS",
+          "source": "plugandplay",
+          "website": "https://www.ricos.co.jp/",
+          "batch_file": "data/processed/companies/batches/round-018.json",
+          "summary_zh": "結合 AI、模擬及高效能運算最佳化製造流程。"
+        }
+      ]
+    },
+    {
+      "hostname": "sapplym.com",
+      "record_count": 2,
+      "shared_source_host": false,
+      "members": [
+        {
+          "id": "upstream-15929",
+          "name": "SapplyM\n(JV between Sony and M3)",
+          "source": "plugandplay",
+          "website": "https://www.sapplym.com/company.html",
+          "batch_file": "data/processed/companies/batches/round-015.json",
+          "summary_zh": "提供行動感測及 AI 分析技術以處理醫療問題。"
+        },
+        {
+          "id": "upstream-20861",
+          "name": "SapplyM\n(JV between Sony and M3)",
+          "source": "plugandplay",
+          "website": "https://www.sapplym.com/company.html",
+          "batch_file": "data/processed/companies/batches/round-020.json",
+          "summary_zh": "提供行動感測及 AI 分析技術以處理醫療問題。"
+        }
+      ]
+    },
+    {
+      "hostname": "saveexpats.com",
+      "record_count": 2,
+      "shared_source_host": false,
+      "members": [
+        {
+          "id": "upstream-17498",
+          "name": "SaveExpats",
+          "source": "plugandplay",
+          "website": "http://saveexpats.com/",
+          "batch_file": "data/processed/companies/batches/round-017.json",
+          "summary_zh": "為旅外人士提供 AI 健康評估、檢測套件配送及醫師諮詢平台。"
+        },
+        {
+          "id": "upstream-17980",
+          "name": "SaveExpats",
+          "source": "plugandplay",
+          "website": "http://saveexpats.com/",
+          "batch_file": "data/processed/companies/batches/round-021.json",
+          "summary_zh": "為旅外人士提供 AI 健康評估、檢測套件配送及醫師諮詢平台。"
+        }
+      ]
+    },
+    {
+      "hostname": "scentmatic.co.jp",
+      "record_count": 2,
+      "shared_source_host": false,
+      "members": [
+        {
+          "id": "upstream-18932",
+          "name": "Scentmatic",
+          "source": "plugandplay",
+          "website": "https://www.scentmatic.co.jp",
+          "batch_file": "data/processed/companies/batches/round-004.json",
+          "summary_zh": "以 AI 用語言描述氣味與風味，並用於顧客體驗。"
+        },
+        {
+          "id": "upstream-18581",
+          "name": "Scentmatic",
+          "source": "plugandplay",
+          "website": "https://www.scentmatic.co.jp",
+          "batch_file": "data/processed/companies/batches/round-013.json",
+          "summary_zh": "以 AI 用語言描述氣味與風味，支援客戶體驗。"
+        }
+      ]
+    },
+    {
+      "hostname": "senseye.io",
+      "record_count": 2,
+      "shared_source_host": false,
+      "members": [
+        {
+          "id": "upstream-20191",
+          "name": "Senseye",
+          "source": "plugandplay",
+          "website": "https://www.senseye.io",
+          "batch_file": "data/processed/companies/batches/round-007.json",
+          "summary_zh": "以機器學習監控設備狀態並預測維護需求。"
+        },
+        {
+          "id": "upstream-18400",
+          "name": "Senseye",
+          "source": "plugandplay",
+          "website": "https://www.senseye.io",
+          "batch_file": "data/processed/companies/batches/round-017.json",
+          "summary_zh": "以機器學習進行狀態監測及預後分析，支援預測性維護。"
+        }
+      ]
+    },
+    {
+      "hostname": "simpliroute.com",
+      "record_count": 2,
+      "shared_source_host": false,
+      "members": [
+        {
+          "id": "upstream-18321",
+          "name": "SimpliRoute",
+          "source": "plugandplay",
+          "website": "http://simpliroute.com",
+          "batch_file": "data/processed/companies/batches/round-008.json",
+          "summary_zh": "以機器學習與最佳化引擎規劃及追蹤最後一哩路線。"
+        },
+        {
+          "id": "upstream-19942",
+          "name": "SimpliRoute",
+          "source": "plugandplay",
+          "website": "http://simpliroute.com",
+          "batch_file": "data/processed/companies/batches/round-011.json",
+          "summary_zh": "以機器學習與最佳化工具規劃並追蹤最後一哩路線。"
+        }
+      ]
+    },
+    {
+      "hostname": "singularity.ai",
+      "record_count": 2,
+      "shared_source_host": false,
+      "members": [
+        {
+          "id": "upstream-20225",
+          "name": "Singularity.AI",
+          "source": "plugandplay",
+          "website": "http://singularity.ai",
+          "batch_file": "data/processed/companies/batches/round-002.json",
+          "summary_zh": "以協作平台從影像與資料擷取洞察，支援醫療創新。"
+        },
+        {
+          "id": "upstream-18070",
+          "name": "Singularity.AI",
+          "source": "plugandplay",
+          "website": "http://singularity.ai",
+          "batch_file": "data/processed/companies/batches/round-004.json",
+          "summary_zh": "以 AI 協作平台從影像及資料擷取洞察，支援醫療創新。"
+        }
+      ]
+    },
+    {
+      "hostname": "skan.ai",
+      "record_count": 2,
+      "shared_source_host": false,
+      "members": [
+        {
+          "id": "upstream-18211",
+          "name": "Skan AI",
+          "source": "plugandplay",
+          "website": "http://skan.ai",
+          "batch_file": "data/processed/companies/batches/round-007.json",
+          "summary_zh": "以 AI 洞察最佳化企業流程與營運。"
+        },
+        {
+          "id": "upstream-19871",
+          "name": "Skan AI",
+          "source": "plugandplay",
+          "website": "http://skan.ai",
+          "batch_file": "data/processed/companies/batches/round-014.json",
+          "summary_zh": "提供 AI 洞察以優化業務流程與營運效率。"
+        }
+      ]
+    },
+    {
+      "hostname": "solideon.com",
+      "record_count": 2,
+      "shared_source_host": false,
+      "members": [
+        {
+          "id": "upstream-02155",
+          "name": "Solideon",
+          "source": "techstars",
+          "website": "https://solideon.com",
+          "batch_file": "data/processed/companies/batches/round-003.json",
+          "summary_zh": "以機器學習協作系統支援積層製造。"
+        },
+        {
+          "id": "upstream-16891",
+          "name": "Solideon",
+          "source": "plugandplay",
+          "website": "https://solideon.com",
+          "batch_file": "data/processed/companies/batches/round-017.json",
+          "summary_zh": "以機器學習協作系統建造地球、月球或火星上的載具及設施。"
+        }
+      ]
+    },
+    {
+      "hostname": "sorano.co",
+      "record_count": 2,
+      "shared_source_host": false,
+      "members": [
+        {
+          "id": "upstream-21246",
+          "name": "Sorano",
+          "source": "plugandplay",
+          "website": "https://www.sorano.co/",
+          "batch_file": "data/processed/companies/batches/round-004.json",
+          "summary_zh": "以 AI 平台進行天氣預報與分析。"
+        },
+        {
+          "id": "upstream-01728",
+          "name": "SoranoAI",
+          "source": "techstars",
+          "website": "https://sorano.co",
+          "batch_file": "data/processed/companies/batches/round-007.json",
+          "summary_zh": "提供無程式碼天氣情報 AI agent。"
+        }
+      ]
+    },
+    {
+      "hostname": "soundhound.com",
+      "record_count": 2,
+      "shared_source_host": false,
+      "members": [
+        {
+          "id": "upstream-21298",
+          "name": "SoundHound",
+          "source": "plugandplay",
+          "website": "http://www.soundhound.com/",
+          "batch_file": "data/processed/companies/batches/round-011.json",
+          "summary_zh": "開發語音 AI 與對話情報技術。"
+        },
+        {
+          "id": "upstream-17036",
+          "name": "SoundHound",
+          "source": "plugandplay",
+          "website": "http://www.soundhound.com/",
+          "batch_file": "data/processed/companies/batches/round-016.json",
+          "summary_zh": "開發語音 AI 及對話智慧技術。"
+        }
+      ]
+    },
+    {
+      "hostname": "sparkcognition.com",
+      "record_count": 2,
+      "shared_source_host": false,
+      "members": [
+        {
+          "id": "upstream-18233",
+          "name": "SparkCognition",
+          "source": "plugandplay",
+          "website": "http://sparkcognition.com",
+          "batch_file": "data/processed/companies/batches/round-005.json",
+          "summary_zh": null
+        },
+        {
+          "id": "upstream-19893",
+          "name": "SparkCognition",
+          "source": "plugandplay",
+          "website": "http://sparkcognition.com",
+          "batch_file": "data/processed/companies/batches/round-009.json",
+          "summary_zh": null
+        }
+      ]
+    },
+    {
+      "hostname": "sportsseam.com",
+      "record_count": 2,
+      "shared_source_host": false,
+      "members": [
+        {
+          "id": "upstream-20245",
+          "name": "SportsSeam",
+          "source": "plugandplay",
+          "website": "http://www.sportsseam.com",
+          "batch_file": "data/processed/companies/batches/round-006.json",
+          "summary_zh": "為 fantasy 遊戲玩家提供 AI 決策工具。"
+        },
+        {
+          "id": "upstream-18250",
+          "name": "SportsSeam",
+          "source": "plugandplay",
+          "website": "http://www.sportsseam.com",
+          "batch_file": "data/processed/companies/batches/round-016.json",
+          "summary_zh": "為夢幻體育玩家提供 AI 決策工具。"
+        }
+      ]
+    },
+    {
+      "hostname": "sully.ai",
+      "record_count": 2,
+      "shared_source_host": false,
+      "members": [
+        {
+          "id": "upstream-14005",
+          "name": "Sully.ai",
+          "source": "500",
+          "website": "https://www.sully.ai",
+          "batch_file": "data/processed/companies/batches/round-006.json",
+          "summary_zh": "串接病歷，協助醫師處理報到、紀錄及病人指示。"
+        },
+        {
+          "id": "upstream-08302",
+          "name": "Sully",
+          "source": "yc",
+          "website": "https://www.sully.ai",
+          "batch_file": "data/processed/companies/batches/round-016.json",
+          "summary_zh": "以自主 AI agents 團隊支援醫院營運。"
+        }
+      ]
+    },
+    {
+      "hostname": "superannotate.ai",
+      "record_count": 2,
+      "shared_source_host": false,
+      "members": [
+        {
+          "id": "upstream-18214",
+          "name": "SuperAnnotate AI",
+          "source": "plugandplay",
+          "website": "http://www.superannotate.ai",
+          "batch_file": "data/processed/companies/batches/round-017.json",
+          "summary_zh": "提供電腦視覺流程的資料標註、訓練及自動化平台。"
+        },
+        {
+          "id": "upstream-19874",
+          "name": "SuperAnnotate AI",
+          "source": "plugandplay",
+          "website": "http://www.superannotate.ai",
+          "batch_file": "data/processed/companies/batches/round-017.json",
+          "summary_zh": "提供電腦視覺流程的資料標註、訓練及自動化平台。"
+        }
+      ]
+    },
+    {
+      "hostname": "suslab.net",
+      "record_count": 2,
+      "shared_source_host": false,
+      "members": [
+        {
+          "id": "upstream-18573",
+          "name": "Sustainable Lab Inc.",
+          "source": "plugandplay",
+          "website": "http://www.suslab.net",
+          "batch_file": "data/processed/companies/batches/round-015.json",
+          "summary_zh": "提供使用 AI 的資料庫服務，支援 SDG、ESG 目標及投資。"
+        },
+        {
+          "id": "upstream-18924",
+          "name": "Sustainable Lab Inc.",
+          "source": "plugandplay",
+          "website": "http://www.suslab.net",
+          "batch_file": "data/processed/companies/batches/round-017.json",
+          "summary_zh": "提供使用 AI 的資料庫服務，支援 SDG、ESG 目標及投資。"
+        }
+      ]
+    },
+    {
+      "hostname": "tegaki.ai",
+      "record_count": 2,
+      "shared_source_host": false,
+      "members": [
+        {
+          "id": "upstream-18667",
+          "name": "Tegaki",
+          "source": "plugandplay",
+          "website": "http://www.tegaki.ai/",
+          "batch_file": "data/processed/companies/batches/round-005.json",
+          "summary_zh": "以 AI 將手寫文件轉成資料。"
+        },
+        {
+          "id": "upstream-18846",
+          "name": "Tegaki",
+          "source": "plugandplay",
+          "website": "http://www.tegaki.ai/",
+          "batch_file": "data/processed/companies/batches/round-016.json",
+          "summary_zh": "以 AI 將手寫文件轉為資料。"
+        }
+      ]
+    },
+    {
+      "hostname": "tint.ai",
+      "record_count": 2,
+      "shared_source_host": false,
+      "members": [
+        {
+          "id": "upstream-18226",
+          "name": "Tint",
+          "source": "plugandplay",
+          "website": "http://www.tint.ai",
+          "batch_file": "data/processed/companies/batches/round-006.json",
+          "summary_zh": "協助科技公司把客製保險嵌入使用流程。"
+        },
+        {
+          "id": "upstream-19886",
+          "name": "Tint",
+          "source": "plugandplay",
+          "website": "http://www.tint.ai",
+          "batch_file": "data/processed/companies/batches/round-012.json",
+          "summary_zh": "協助科技公司把客製保險嵌入使用流程。"
+        }
+      ]
+    },
+    {
+      "hostname": "tiwaki.com",
+      "record_count": 2,
+      "shared_source_host": false,
+      "members": [
+        {
+          "id": "upstream-18008",
+          "name": "Tiwaki",
+          "source": "plugandplay",
+          "website": "https://www.tiwaki.com/",
+          "batch_file": "data/processed/companies/batches/round-001.json",
+          "summary_zh": "研發機器學習與影像辨識核心技術。"
+        },
+        {
+          "id": "upstream-17203",
+          "name": "Tiwaki",
+          "source": "plugandplay",
+          "website": "https://www.tiwaki.com/",
+          "batch_file": "data/processed/companies/batches/round-020.json",
+          "summary_zh": "開發機器學習及影像辨識等 AI 核心技術。"
+        }
+      ]
+    },
+    {
+      "hostname": "tractable.ai",
+      "record_count": 2,
+      "shared_source_host": false,
+      "members": [
+        {
+          "id": "upstream-21237",
+          "name": "Tractable",
+          "source": "plugandplay",
+          "website": "http://tractable.ai",
+          "batch_file": "data/processed/companies/batches/round-003.json",
+          "summary_zh": "以 AI 評估、維修與保護汽車及住宅。"
+        },
+        {
+          "id": "upstream-16435",
+          "name": "Tractable",
+          "source": "plugandplay",
+          "website": "http://tractable.ai",
+          "batch_file": "data/processed/companies/batches/round-020.json",
+          "summary_zh": "以 AI 支援車輛及房屋評估、修復與保護。"
+        }
+      ]
+    },
+    {
+      "hostname": "tryfabrisight.com",
+      "record_count": 2,
+      "shared_source_host": false,
+      "members": [
+        {
+          "id": "upstream-01547",
+          "name": "FabriSight",
+          "source": "techstars",
+          "website": "https://tryfabrisight.com",
+          "batch_file": "data/processed/companies/batches/round-013.json",
+          "summary_zh": "以電腦視覺改善高混合消費品生產線效率及浪費。"
+        },
+        {
+          "id": "upstream-19389",
+          "name": "FabriSight",
+          "source": "plugandplay",
+          "website": "http://www.tryfabrisight.com",
+          "batch_file": "data/processed/companies/batches/round-018.json",
+          "summary_zh": "以視覺 AI 協助生產團隊發掘製造產線的潛在產能。"
+        }
+      ]
+    },
+    {
+      "hostname": "tryverbal.com",
+      "record_count": 3,
+      "shared_source_host": false,
+      "members": [
+        {
+          "id": "upstream-14151",
+          "name": "Verbal",
+          "source": "500",
+          "website": "https://tryverbal.com",
+          "batch_file": "data/processed/companies/batches/round-005.json",
+          "summary_zh": "分析照護通話與組織規範，自動化行政並即時指導照護人員。"
+        },
+        {
+          "id": "upstream-01413",
+          "name": "Verbal",
+          "source": "techstars",
+          "website": "https://tryverbal.com",
+          "batch_file": "data/processed/companies/batches/round-005.json",
+          "summary_zh": "以 AI 合規平台檢視人類與 AI 的病人互動。"
+        },
+        {
+          "id": "upstream-16413",
+          "name": "Verbal",
+          "source": "plugandplay",
+          "website": "https://www.tryverbal.com",
+          "batch_file": "data/processed/companies/batches/round-019.json",
+          "summary_zh": "以 AI 即時分析人員及 AI 的病患互動，檢查品質、安全及照護規範遵循。"
+        }
+      ]
+    },
+    {
+      "hostname": "turing.com",
+      "record_count": 2,
+      "shared_source_host": false,
+      "members": [
+        {
+          "id": "upstream-18218",
+          "name": "Turing",
+          "source": "plugandplay",
+          "website": "https://www.turing.com/",
+          "batch_file": "data/processed/companies/batches/round-003.json",
+          "summary_zh": "提供前沿模型訓練與企業 AI 部署。"
+        },
+        {
+          "id": "upstream-19878",
+          "name": "Turing",
+          "source": "plugandplay",
+          "website": "https://www.turing.com/",
+          "batch_file": "data/processed/companies/batches/round-013.json",
+          "summary_zh": "訓練前沿 AI 模型並部署企業 AI。"
+        }
+      ]
+    },
+    {
+      "hostname": "ubitone.com",
+      "record_count": 2,
+      "shared_source_host": false,
+      "members": [
+        {
+          "id": "upstream-18646",
+          "name": "Ubitone Inc.",
+          "source": "plugandplay",
+          "website": "http://www.ubitone.com",
+          "batch_file": "data/processed/companies/batches/round-008.json",
+          "summary_zh": "開發結合穿戴裝置與 AI 的通訊系統。"
+        },
+        {
+          "id": "upstream-18864",
+          "name": "Ubitone Inc.",
+          "source": "plugandplay",
+          "website": "http://www.ubitone.com",
+          "batch_file": "data/processed/companies/batches/round-020.json",
+          "summary_zh": "開發結合穿戴裝置及 AI 的通訊系統。"
+        }
+      ]
+    },
+    {
+      "hostname": "varahealthcare.com",
+      "record_count": 2,
+      "shared_source_host": false,
+      "members": [
+        {
+          "id": "upstream-18316",
+          "name": "Vara",
+          "source": "plugandplay",
+          "website": "https://www.varahealthcare.com",
+          "batch_file": "data/processed/companies/batches/round-016.json",
+          "summary_zh": "以 AI 工作流程平台簡化乳癌篩檢。"
+        },
+        {
+          "id": "upstream-19937",
+          "name": "Vara",
+          "source": "plugandplay",
+          "website": "https://www.varahealthcare.com",
+          "batch_file": "data/processed/companies/batches/round-021.json",
+          "summary_zh": "以 AI 工作流程平台簡化乳癌篩檢。"
+        }
+      ]
+    },
+    {
+      "hostname": "visionairyhealth.com",
+      "record_count": 2,
+      "shared_source_host": false,
+      "members": [
+        {
+          "id": "upstream-18349",
+          "name": "Visionairy Health",
+          "source": "plugandplay",
+          "website": "https://www.visionairyhealth.com",
+          "batch_file": "data/processed/companies/batches/round-012.json",
+          "summary_zh": "從事醫療影像與深度學習相關業務。"
+        },
+        {
+          "id": "upstream-20014",
+          "name": "Visionairy Health",
+          "source": "plugandplay",
+          "website": "https://www.visionairyhealth.com",
+          "batch_file": "data/processed/companies/batches/round-013.json",
+          "summary_zh": "從事 AI、深度學習與醫療影像業務。"
+        }
+      ]
+    },
+    {
+      "hostname": "withaccend.com",
+      "record_count": 2,
+      "shared_source_host": false,
+      "members": [
+        {
+          "id": "upstream-20357",
+          "name": "Accend",
+          "source": "plugandplay",
+          "website": "https://www.withaccend.com/",
+          "batch_file": "data/processed/companies/batches/round-010.json",
+          "summary_zh": "以人工確認的 AI agents 進行企業信用審查及客戶導入。"
+        },
+        {
+          "id": "upstream-09230",
+          "name": "Accend",
+          "source": "yc",
+          "website": "https://www.withaccend.com/",
+          "batch_file": "data/processed/companies/batches/round-019.json",
+          "summary_zh": "為銀行及金融科技公司提供商業授信評估 AI agents。"
+        }
+      ]
+    },
+    {
+      "hostname": "xatoms.com",
+      "record_count": 2,
+      "shared_source_host": false,
+      "members": [
+        {
+          "id": "upstream-21218",
+          "name": "Xatoms",
+          "source": "plugandplay",
+          "website": "https://www.xatoms.com/",
+          "batch_file": "data/processed/companies/batches/round-009.json",
+          "summary_zh": "結合 AI 與量子化學預測光觸媒結構 3D 模型，用於污水處理研究。"
+        },
+        {
+          "id": "upstream-20514",
+          "name": "Xatoms",
+          "source": "plugandplay",
+          "website": "https://www.xatoms.com/",
+          "batch_file": "data/processed/companies/batches/round-019.json",
+          "summary_zh": "結合 AI 及量子化學預測光觸媒結構 3D 模型，支援污水淨化。"
+        }
+      ]
+    },
+    {
+      "hostname": "yamato.inc",
+      "record_count": 2,
+      "shared_source_host": false,
+      "members": [
+        {
+          "id": "upstream-17238",
+          "name": "YAMATO",
+          "source": "plugandplay",
+          "website": "https://yamato.inc/",
+          "batch_file": "data/processed/companies/batches/round-001.json",
+          "summary_zh": "為金融產業提供 AI 服務。"
+        },
+        {
+          "id": "upstream-17907",
+          "name": "YAMATO",
+          "source": "plugandplay",
+          "website": "https://yamato.inc/",
+          "batch_file": "data/processed/companies/batches/round-011.json",
+          "summary_zh": "為金融產業提供 AI 服務。"
+        }
+      ]
+    },
+    {
+      "hostname": "yourika.ai",
+      "record_count": 2,
+      "shared_source_host": false,
+      "members": [
+        {
+          "id": "upstream-18335",
+          "name": "YOURIKA",
+          "source": "plugandplay",
+          "website": "http://yourika.ai",
+          "batch_file": "data/processed/companies/batches/round-004.json",
+          "summary_zh": "提供用於學習的對話式 AI SaaS。"
+        },
+        {
+          "id": "upstream-20000",
+          "name": "YOURIKA",
+          "source": "plugandplay",
+          "website": "http://yourika.ai",
+          "batch_file": "data/processed/companies/batches/round-004.json",
+          "summary_zh": "提供用於學習的對話式 AI SaaS。"
+        }
+      ]
+    },
+    {
+      "hostname": "zama.ai",
+      "record_count": 3,
+      "shared_source_host": false,
+      "members": [
+        {
+          "id": "upstream-18272",
+          "name": "Zama",
+          "source": "plugandplay",
+          "website": "https://zama.ai/",
+          "batch_file": "data/processed/companies/batches/round-005.json",
+          "summary_zh": "為 AI 提供端到端加密。"
+        },
+        {
+          "id": "upstream-21301",
+          "name": "Zama",
+          "source": "plugandplay",
+          "website": "https://zama.ai/",
+          "batch_file": "data/processed/companies/batches/round-008.json",
+          "summary_zh": "為 AI 提供端到端加密。"
+        },
+        {
+          "id": "upstream-20267",
+          "name": "Zama",
+          "source": "plugandplay",
+          "website": "https://zama.ai/",
+          "batch_file": "data/processed/companies/batches/round-019.json",
+          "summary_zh": "為 AI 提供端到端加密。"
+        }
+      ]
+    },
+    {
+      "hostname": "zesty.ai",
+      "record_count": 2,
+      "shared_source_host": false,
+      "members": [
+        {
+          "id": "upstream-21233",
+          "name": "Zesty.ai",
+          "source": "plugandplay",
+          "website": "http://www.zesty.ai",
+          "batch_file": "data/processed/companies/batches/round-002.json",
+          "summary_zh": "以 AI 洞察支援保險核保與風險管理。"
+        },
+        {
+          "id": "upstream-16560",
+          "name": "Zesty.ai",
+          "source": "plugandplay",
+          "website": "http://www.zesty.ai",
+          "batch_file": "data/processed/companies/batches/round-015.json",
+          "summary_zh": "以 AI 洞察支援保險核保及風險管理。"
+        }
+      ]
+    },
+    {
+      "hostname": "zypl.ai",
+      "record_count": 2,
+      "shared_source_host": false,
+      "members": [
+        {
+          "id": "upstream-20390",
+          "name": "zypl.ai",
+          "source": "plugandplay",
+          "website": "https://zypl.ai/",
+          "batch_file": "data/processed/companies/batches/round-008.json",
+          "summary_zh": "生成合成資料，最佳化金融機構零售及中小企業授信模型。"
+        },
+        {
+          "id": "upstream-21305",
+          "name": "zypl.ai",
+          "source": "plugandplay",
+          "website": "https://zypl.ai/",
+          "batch_file": "data/processed/companies/batches/round-021.json",
+          "summary_zh": "以 AI SaaS 生成合成資料，改善金融機構對消費者及中小企業的信用決策模型。"
+        }
+      ]
+    }
+  ]
+}

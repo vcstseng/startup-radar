@@ -1,0 +1,225 @@
+{
+  "date": "2026-11-02",
+  "reason": "Chatbots were falsely grouped as physical robots by substring matching.",
+  "taxonomy_version": "catalog-1.0.1",
+  "record_count": 4085,
+  "before_build_id": "76d709232e082d32ab12fbaecb7be34cc2163c09677de682a2bb8a6f891a3669",
+  "after_build_id": "a19de05fb54eef6839fa7fab709ad2addf63252b4202d54419c198845a718cfc",
+  "robotics_before": 64,
+  "robotics_after": 52,
+  "changed_records": [
+    {
+      "id": "upstream-00611",
+      "name": "Imperson",
+      "tags": [
+        "AI 聊天機器人"
+      ],
+      "before": [
+        "robotics",
+        "voice-conversation"
+      ],
+      "after": [
+        "voice-conversation"
+      ]
+    },
+    {
+      "id": "upstream-01806",
+      "name": "Whelp",
+      "tags": [
+        "AI 聊天機器人",
+        "通訊平台"
+      ],
+      "before": [
+        "robotics",
+        "software-platforms",
+        "voice-conversation"
+      ],
+      "after": [
+        "software-platforms",
+        "voice-conversation"
+      ]
+    },
+    {
+      "id": "upstream-02818",
+      "name": "Edifii",
+      "tags": [
+        "AI 聊天機器人",
+        "個人化"
+      ],
+      "before": [
+        "personalization-behavior",
+        "robotics",
+        "voice-conversation"
+      ],
+      "after": [
+        "personalization-behavior",
+        "voice-conversation"
+      ]
+    },
+    {
+      "id": "upstream-11857",
+      "name": "Heltar",
+      "tags": [
+        "無程式碼",
+        "AI 聊天機器人",
+        "自動化"
+      ],
+      "before": [
+        "automation-optimization",
+        "developer-tools",
+        "robotics",
+        "voice-conversation"
+      ],
+      "after": [
+        "automation-optimization",
+        "developer-tools",
+        "voice-conversation"
+      ]
+    },
+    {
+      "id": "upstream-11911",
+      "name": "Introbot",
+      "tags": [
+        "AI 聊天機器人"
+      ],
+      "before": [
+        "robotics",
+        "voice-conversation"
+      ],
+      "after": [
+        "voice-conversation"
+      ]
+    },
+    {
+      "id": "upstream-12167",
+      "name": "Persly",
+      "tags": [
+        "AI 聊天機器人",
+        "大型語言模型",
+        "健康資料整合"
+      ],
+      "before": [
+        "data-tools",
+        "developer-tools",
+        "language-search",
+        "models-compute",
+        "robotics",
+        "voice-conversation"
+      ],
+      "after": [
+        "data-tools",
+        "developer-tools",
+        "language-search",
+        "models-compute",
+        "voice-conversation"
+      ]
+    },
+    {
+      "id": "upstream-12812",
+      "name": "Chatsimple",
+      "tags": [
+        "AI 聊天機器人"
+      ],
+      "before": [
+        "robotics",
+        "voice-conversation"
+      ],
+      "after": [
+        "voice-conversation"
+      ]
+    },
+    {
+      "id": "upstream-13160",
+      "name": "GoSky AI",
+      "tags": [
+        "AI",
+        "聊天機器人",
+        "CRM"
+      ],
+      "before": [
+        "generic-ai",
+        "robotics",
+        "software-platforms",
+        "voice-conversation"
+      ],
+      "after": [
+        "generic-ai",
+        "software-platforms",
+        "voice-conversation"
+      ]
+    },
+    {
+      "id": "upstream-13993",
+      "name": "Storicity",
+      "tags": [
+        "AI 聊天機器人",
+        "音訊導覽"
+      ],
+      "before": [
+        "language-search",
+        "robotics",
+        "voice-conversation"
+      ],
+      "after": [
+        "language-search",
+        "voice-conversation"
+      ]
+    },
+    {
+      "id": "upstream-14304",
+      "name": "Chatter Research",
+      "tags": [
+        "AI",
+        "聊天機器人",
+        "簡訊"
+      ],
+      "before": [
+        "generic-ai",
+        "robotics",
+        "voice-conversation"
+      ],
+      "after": [
+        "generic-ai",
+        "voice-conversation"
+      ]
+    },
+    {
+      "id": "upstream-18617",
+      "name": "Finplanet",
+      "tags": [
+        "AI",
+        "聊天機器人"
+      ],
+      "before": [
+        "generic-ai",
+        "robotics",
+        "voice-conversation"
+      ],
+      "after": [
+        "generic-ai",
+        "voice-conversation"
+      ]
+    },
+    {
+      "id": "upstream-21072",
+      "name": "CITYDATA",
+      "tags": [
+        "地理 AI",
+        "數位複製",
+        "聊天機器人"
+      ],
+      "before": [
+        "robotics",
+        "simulation-twins",
+        "specialized-ai",
+        "voice-conversation"
+      ],
+      "after": [
+        "simulation-twins",
+        "specialized-ai",
+        "voice-conversation"
+      ]
+    }
+  ],
+  "canonical_and_details_unchanged": true
+}

@@ -1,0 +1,89 @@
+{
+  "schema_version": "0.1",
+  "taxonomy_version": "draft-0.1",
+  "analysis_scope": "Local sample descriptions only; no external verification. Tags describe the supplied record, not verified current company activity. Empty arrays mean insufficient information.",
+  "source_file": "data/raw/startups-sample-100.json",
+  "source_file_sha256": "62c6f294ac48a44e30baa64e7d3456199babd9acc3fd849735ffb5ef4793baab",
+  "companies": [
+    {
+      "id": "sample-000",
+      "sample_position": 0,
+      "name": "Loris",
+      "source": "techstars",
+      "summary_zh": "原始描述中的 MFlux 以電池供電的 IoT 燈塔連接工業作業現場，提供現場資訊。此描述是否屬於 Loris 尚未確認。",
+      "tags": {
+        "industry_customer": ["工業", "工業現場營運人員"],
+        "problem_workflow": ["現場資訊掌握"],
+        "solution": ["物聯網", "連網硬體"]
+      },
+      "evidence": "MFlux provides a connected network for industrial job site intelligence using our proprietary battery-powered, IoT light-towers.",
+      "tag_basis": "industry and solution explicit; workflow interpreted from job site intelligence",
+      "review_status": "identity_review",
+      "notes": ["名稱為 Loris、描述為 MFlux，社群連結亦混用名稱；暫存標籤只適用於這段描述。", "不因上游 AI 與油氣標籤就推定具備相關產品能力或限定客群。"]
+    },
+    {
+      "id": "sample-001",
+      "sample_position": 1,
+      "name": "Derq",
+      "source": "techstars",
+      "summary_zh": "以機器學習與 V2X 車聯網技術改善傳統及自駕車交通安全。",
+      "tags": {
+        "industry_customer": ["交通運輸"],
+        "problem_workflow": ["交通安全", "事故預防"],
+        "solution": ["機器學習", "車聯網"]
+      },
+      "evidence": "MIT spin-off w/ a mission to eliminate road accidents and save lives by using machine learning and V2X technology for both conventional and autonomous vehicles",
+      "tag_basis": "explicit description; buyer unspecified",
+      "review_status": "description_sufficient",
+      "notes": ["名錄未說明實際付費者，不推定為政府、車廠或車隊。"]
+    },
+    {
+      "id": "sample-002",
+      "sample_position": 2,
+      "name": "Vessl Prosthetics",
+      "source": "techstars",
+      "summary_zh": "服務截肢者的義肢公司；名錄未交代具體產品差異與技術。",
+      "tags": {
+        "industry_customer": ["醫療器材", "截肢者"],
+        "problem_workflow": ["義肢輔具需求"],
+        "solution": ["義肢輔具"]
+      },
+      "evidence": "Vessl Prosthetics is a prosthetics firm that is driven by the idea of empowering amputees and their champions to overcome challenges.",
+      "tag_basis": "prosthetics and amputees explicit; specific problem unspecified",
+      "review_status": "needs_detail",
+      "notes": ["未說明改善的是舒適度、適配、價格或製造流程。", "上游有 3D printing 標籤，但描述未支持，暫不採用。", "截肢者是受益者，付費者與採購通路不明。"]
+    },
+    {
+      "id": "sample-003",
+      "sample_position": 3,
+      "name": "FINDS",
+      "source": "techstars",
+      "summary_zh": "原始描述中的 The Retouch 為時尚與紡織產業提供循環經濟相關方案，具體產品形式不明。",
+      "tags": {
+        "industry_customer": ["時尚", "紡織"],
+        "problem_workflow": ["資源循環利用"],
+        "solution": []
+      },
+      "evidence": "The Retouch is a publisher of circular solutions for the fashion and textile industry.",
+      "tag_basis": "industry explicit; circular use interpreted from circular solutions; solution mechanism unknown",
+      "review_status": "identity_and_detail_review",
+      "notes": ["名稱 FINDS 與描述 The Retouch 不一致，可能改名或資料混用，尚未確認。", "沒有足夠證據判定是媒合平台、設計工具、回收服務或 AI 產品。"]
+    },
+    {
+      "id": "sample-004",
+      "sample_position": 4,
+      "name": "Cronwell",
+      "source": "techstars",
+      "summary_zh": "為化工廠提供 AI 根因分析，針對故障診斷耗時與非預期停機問題。",
+      "tags": {
+        "industry_customer": ["化工", "製造", "化工廠營運與維護人員"],
+        "problem_workflow": ["故障診斷", "非預期停機"],
+        "solution": ["AI 分析", "根因分析"]
+      },
+      "evidence": "Cronwell prevents costly unplanned shutdowns in chemical plants with AI-driven root cause analysis, reducing diagnosis time from days to hours.",
+      "tag_basis": "industry, problem and solution explicit; operations and maintenance users inferred",
+      "review_status": "description_sufficient",
+      "notes": ["營運與維護人員為根據工作情境推測的使用者。", "診斷由天縮短到小時是名錄中的宣稱，未獨立驗證。", "根因分析不直接等於預測故障，不標為預測性維護。"]
+    }
+  ]
+}

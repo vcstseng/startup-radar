@@ -1,0 +1,27 @@
+# Dependencies and generated website assets
+node_modules/
+dist/
+.test-build/
+.sites-runtime/
+web/public/data/
+
+# Local secrets and machine-specific state
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+.aws/
+.codex/
+.agents/
+.vscode/
+.idea/
+
+# Caches and temporary files
+__pycache__/
+*.py[cod]
+.pytest_cache/
+*.log
+*.tmp
+.DS_Store
+Thumbs.db

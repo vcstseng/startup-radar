@@ -1,0 +1,279 @@
+{
+  "version": "theme-review-1.0",
+  "scope": "第一步主題 review 的編輯建議；不是完整歸類、成長排名或下一步網站實作。",
+  "recommended_theme_ids": [
+    "payment-follow-up",
+    "documents-to-action",
+    "clinic-work-slices"
+  ],
+  "selection_basis_zh": "優先讓讀者看見三種可比較關係：跨客群的同一工作、相似輸入的不同交付、同一客群的不同工作。依介紹的具體程度與展示清晰度選擇，不依市場熱度或公司數量。",
+  "reviews": [
+    {
+      "id": "payment-follow-up",
+      "decision": "recommend",
+      "title_zh": "AI 如何跟進應收款與逾期債務",
+      "reason_zh": "任務、通路與部分工作步驟明確，容易看見跨產業相似工作。",
+      "include_zh": "原文明列提醒、催收、協商、付款跟進等收款工作。",
+      "exclude_zh": "應收帳款融資、一般會計、只稱 AR agent 但未列工作者，不用作完整催收流程證據。",
+      "case_ids": [
+        "upstream-12419",
+        "upstream-08856",
+        "upstream-13436",
+        "upstream-11469"
+      ],
+      "observation_zh": "企業應收帳款、病患帳單及債務催收，採用相似的聯繫與跟進形式；部分產品明列多通路或協商。",
+      "question_zh": "同樣是追款，客群、聯繫方式與介入環節有何不同？",
+      "limits_zh": "不能從描述判定收款率、合法適用範圍、成本效益或完全自主能力。",
+      "cases": [
+        {
+          "id": "upstream-12419",
+          "name": "Tennis Finance",
+          "summary_zh": "以 AI 透過電話、簡訊及電子郵件自動催收應收帳款。",
+          "evidence": {
+            "field": "location",
+            "text": "Automated Collections for Accounts Receivable through AI-driven collections via phone, text, and email."
+          },
+          "batch_file": "data/processed/companies/batches/round-019.json"
+        },
+        {
+          "id": "upstream-08856",
+          "name": "Argovox",
+          "summary_zh": "以語音 AI agents 處理病患帳單及款項催收。",
+          "evidence": {
+            "field": "description",
+            "text": "Voice AI agents for patient billing and collections"
+          },
+          "batch_file": "data/processed/companies/batches/round-017.json"
+        },
+        {
+          "id": "upstream-13436",
+          "name": "MaiCall",
+          "summary_zh": "以自我學習 AI agents 打電話、協商並跟進債務催收。",
+          "evidence": {
+            "field": "description",
+            "text": "Self-learning debt collection system: AI agents call, negotiate and follow up until the money lands"
+          },
+          "batch_file": "data/processed/companies/batches/round-020.json"
+        },
+        {
+          "id": "upstream-11469",
+          "name": "ABIVO",
+          "summary_zh": "以 AI 催收人員透過電話、簡訊及電子郵件跟進客戶逾期發票。",
+          "evidence": {
+            "field": "location",
+            "text": "AI collections staff that can call, text, and email clients ensuring timely follow-ups and reducing overdue invoices."
+          },
+          "batch_file": "data/processed/companies/batches/round-017.json"
+        }
+      ]
+    },
+    {
+      "id": "documents-to-action",
+      "decision": "recommend",
+      "title_zh": "從文件整理到明確工作交付",
+      "reason_zh": "三個案例各有原文明列的交付：談判資料包、風險審閱分派、RFP 回覆。",
+      "include_zh": "描述有具體文件相關工作及交付結果。",
+      "exclude_zh": "只有文件儲存、讀取或一般合約平台定位，以及區塊鏈 smart contract 關鍵詞，不推成完成下游工作。",
+      "case_ids": [
+        "upstream-15557",
+        "upstream-09879",
+        "upstream-09372"
+      ],
+      "observation_zh": "這些介紹的可比較點在交付物，而不只是都能處理文件；各案例的來源與工作不同，並非同一流程的三個連續步驟。",
+      "question_zh": "讀完資料後，產品交付什麼，下一步交給誰？",
+      "case_wording_overrides": {
+        "upstream-15557": "將分散合約或支出資料整理為可用於續約談判的資料包。"
+      },
+      "limits_zh": "RFP 回覆的來源與覆核機制未說明；也不能證明談判或法律決策成效。",
+      "cases": [
+        {
+          "id": "upstream-15557",
+          "name": "Glidely",
+          "summary_zh": "將分散合約或支出資料整理為可用於續約談判的資料包。",
+          "evidence": {
+            "field": "description",
+            "text": "Renewal Readiness AI that turns scattered contracts or spend data  into a negotiation-ready package."
+          },
+          "batch_file": "data/processed/companies/batches/round-020.json"
+        },
+        {
+          "id": "upstream-09879",
+          "name": "Propaya",
+          "summary_zh": "將商業不動產租約及文件轉為有出處引用的結構化資料，辨識風險並交由相關團隊審閱。",
+          "evidence": {
+            "field": "description",
+            "text": "Propaya is an AI-powered commercial real estate intelligence platform that transforms leases and property documents into structured, actionable data. It extracts key terms, obligations, costs, and critical dates with source citations, while identifying legal, operational, environmental, and biological property-risk signals. Teams can customize risk taxonomies, track portfolio-level issues, export structured data, and route flagged findings to property managers, legal teams, or domain specialists for review."
+          },
+          "batch_file": "data/processed/companies/batches/round-017.json"
+        },
+        {
+          "id": "upstream-09372",
+          "name": "Inventive AI",
+          "summary_zh": "以 AI agents 自動回覆提案邀請及問卷。",
+          "evidence": {
+            "field": "description",
+            "text": "AI Agents For RFP and Questionnaire Response Automation "
+          },
+          "batch_file": "data/processed/companies/batches/round-016.json"
+        }
+      ]
+    },
+    {
+      "id": "clinic-work-slices",
+      "decision": "recommend",
+      "title_zh": "牙科診所的非治療工作如何被拆成產品",
+      "reason_zh": "原本一般診所與牙科混用，改用原文明確面向牙科的接待、筆記、帳單及人力媒合案例後，客群一致。",
+      "include_zh": "原文明列牙科／牙醫，並列出非治療工作的案例。",
+      "exclude_zh": "一般診所、臨床試驗、影像診斷、牙齒切削治療，以及只稱牙科 AI 工作團隊者，不補成具體營運能力。",
+      "case_ids": [
+        "upstream-03507",
+        "upstream-15156",
+        "upstream-10079",
+        "upstream-12538"
+      ],
+      "observation_zh": "同一客群的接待、紀錄、保險核驗與帳單、人力配置已有不同產品入口；不代表已構成可整合的完整系統。",
+      "question_zh": "先看同一客群，再比較每個產品接手的是哪份工作。",
+      "limits_zh": "接待員不自動代表有預約、催款或轉錄；沒有出現的工作不能當作市場空缺。",
+      "cases": [
+        {
+          "id": "upstream-03507",
+          "name": "Rondah AI",
+          "summary_zh": "為牙科診所提供 AI 接待。",
+          "evidence": {
+            "field": "description",
+            "text": "Rondah is an AI receptionist for dental practices."
+          },
+          "batch_file": "data/processed/companies/batches/round-006.json"
+        },
+        {
+          "id": "upstream-15156",
+          "name": "Kiroku",
+          "summary_zh": "為牙醫提供 AI 筆記工具。",
+          "evidence": {
+            "field": "description",
+            "text": "AI note-taking for dentists."
+          },
+          "batch_file": "data/processed/companies/batches/round-016.json"
+        },
+        {
+          "id": "upstream-10079",
+          "name": "Toothy AI",
+          "summary_zh": "為牙科診所提供保險驗證與帳單 AI。",
+          "evidence": {
+            "field": "description",
+            "text": "AI for insurance verification & billing at dental clinics"
+          },
+          "batch_file": "data/processed/companies/batches/round-004.json"
+        },
+        {
+          "id": "upstream-12538",
+          "name": "Zooma",
+          "summary_zh": "媒合牙科診所與可彈性接案的專業人員。",
+          "evidence": {
+            "field": "location",
+            "text": "Zooma is an AI-enabled staffing marketplace that connects dental practices with professionals. Our platform allows practices to maximize revenue by accessing qualified workers as they need them, while allowing professionals to pickup work on their own schedule at the tap of a button."
+          },
+          "batch_file": "data/processed/companies/batches/round-008.json"
+        }
+      ]
+    },
+    {
+      "id": "control-ai-actions",
+      "decision": "reserve_narrow",
+      "title_zh": "AI 的權限、核准與資料存取",
+      "reason_zh": "原題把執行控制與訓練改善混在一起；保留授權、核准與存取，將 Agnost AI 移出核心案例。",
+      "case_ids": [
+        "upstream-11069",
+        "upstream-09227",
+        "upstream-19275",
+        "upstream-10581"
+      ],
+      "limits_zh": "多個介紹很短，可先保留為候選；AI 做資安與保護 AI 本身的權限是不同方向。"
+    },
+    {
+      "id": "physical-work-information",
+      "decision": "split_before_use",
+      "title_zh": "現場觀測，另分維修與知識支援",
+      "reason_zh": "店內觀測、庫存資料、機械維修及專家知識是不同工作；原題同時說可觀察、可交接，容易讓讀者以為每個案例都有全部能力。",
+      "suggested_branches": [
+        {
+          "title_zh": "現場觀測與營運資料",
+          "case_ids": [
+            "upstream-12373",
+            "upstream-12160"
+          ]
+        },
+        {
+          "title_zh": "維修協助與工業知識支援",
+          "case_ids": [
+            "upstream-10958",
+            "upstream-15434"
+          ]
+        }
+      ],
+      "limits_zh": "Pairio 原文沒有說擷取或交接專家知識；不把所有工業 AI 都歸到此題。"
+    },
+    {
+      "id": "ai-service-operators",
+      "decision": "cross_cutting_view",
+      "title_zh": "賣工具，還是直接經營服務",
+      "reason_zh": "它是產品與服務定位的比較視角，會橫跨催收、法律、保險等工作，適合加在主題內而非同層工作分類。",
+      "case_ids": [
+        "upstream-09585",
+        "upstream-11367",
+        "upstream-09886",
+        "upstream-11447"
+      ],
+      "limits_zh": "面向事務所的軟體不等於事務所本身；AI 原生定位也無法證明自動化程度或獲利。"
+    },
+    {
+      "id": "software-verification",
+      "decision": "reserve",
+      "title_zh": "程式碼審查、測試與修復",
+      "reason_zh": "證據與任務清楚，可作第二批主題。第一批先用三種不同的比較方式測試資料價值，並非認定本題價值較低。",
+      "case_ids": [
+        "upstream-19928",
+        "upstream-00503",
+        "upstream-11444"
+      ],
+      "limits_zh": "審查、單元測試、端到端測試要分開；同名同介紹 Ponicode 不當成兩個獨立解法。"
+    }
+  ],
+  "findings": [
+    {
+      "id": "R01",
+      "finding_zh": "原本七題混合工作主題、客群瀏覽與服務營運視角。",
+      "action_zh": "這次分別標示用途，不擴充公司 schema。"
+    },
+    {
+      "id": "R02",
+      "finding_zh": "原診所案例 Lyngo 不限牙科，無法當作牙科專用接待證據。",
+      "action_zh": "牙科 review 版改用 Rondah AI，並加入 Toothy AI 與 Zooma；原始批次不改。"
+    },
+    {
+      "id": "R03",
+      "finding_zh": "文件主題 Glidely 的舊角色說明用了合約及支出，原文是 or。",
+      "action_zh": "新 review 版修成合約或支出；既有正式公司摘要已用或，不需重寫批次。"
+    },
+    {
+      "id": "R04",
+      "finding_zh": "原 AI 控制主題包含事後訓練改善的 Agnost AI。",
+      "action_zh": "將授權核准與模型改善分開，加入明列驗證、授權及稽核的 Multifactor 作備選案例。"
+    },
+    {
+      "id": "R05",
+      "finding_zh": "現場觀測、機械維修與專家知識交接被同一標題涵蓋。",
+      "action_zh": "建議拆分；不把 Pairio 擴寫成知識擷取與交接產品。"
+    },
+    {
+      "id": "R06",
+      "finding_zh": "關鍵字會誤收融資、smart contract、眼睛測試、clinical trials 或賣給代理商的工具。",
+      "action_zh": "保存逐筆排除原因；候選命中數不作市場統計。"
+    },
+    {
+      "id": "R07",
+      "finding_zh": "短介紹雖可支持客群或大任務，仍不足以填入完整輸入、執行及交付細節。",
+      "action_zh": "review 保留未知，不為展示補寫流程；未進行全量語意重標。"
+    }
+  ]
+}

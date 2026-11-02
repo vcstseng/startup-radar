@@ -1,0 +1,22 @@
+{
+  "repository_url": "https://github.com/yigitmeteozcan/startups",
+  "source_url": "https://raw.githubusercontent.com/yigitmeteozcan/startups/main/data/all.json",
+  "source_ref": "main",
+  "retrieved_at_utc": "2026-11-01T15:03:48.909497+00:00",
+  "validated_at_utc": "2026-11-01T15:04:09.828038+00:00",
+  "file": "all.json",
+  "bytes": 22175006,
+  "sha256": "d2af24ed6a509b850d4c462f07d52cad3112a1d9b8f178621867c3c06ef14108",
+  "record_count": 21348,
+  "counts_by_source": {
+    "techstars": 5105,
+    "yc": 6361,
+    "antler": 1076,
+    "500": 2241,
+    "ef": 541,
+    "alchemist": 516,
+    "plugandplay": 5508
+  },
+  "processing": "Original downloaded bytes preserved. JSON parsed for validation and counting only. No filtering, deduplication, enrichment or tagging performed.",
+  "provenance_note": "Downloaded from a mutable main-branch URL; commit SHA not captured. File hash identifies this local snapshot."
+}

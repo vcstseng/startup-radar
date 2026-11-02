@@ -1,0 +1,3782 @@
+[
+  {
+    "name": "Loris",
+    "description": "MFlux provides a connected network for industrial job site intelligence using our proprietary battery-powered, IoT light-towers.",
+    "logo": "https://apimg.techstars.com/connect/images/image_files/5f345a6da36c113b60000145/original/Screen_Shot_2019-08-13_at_10.32.19_AM.png",
+    "website": "https://getloris.com",
+    "location": "Columbus, Ohio, United States",
+    "region": "Americas",
+    "subregion": "North America",
+    "tags": [
+      "Artificial intelligence and machine learning",
+      "Internet of Things",
+      "Oil and gas"
+    ],
+    "year": 2020,
+    "program": "The Heritage Group Accelerator powered by Techstars",
+    "programSlugs": [],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "social": {
+      "linkedin": "https://linkedin.com/company/loris-ai",
+      "twitter": "https://twitter.com/MFluxLighting",
+      "facebook": "https://facebook.com/lorisaitech",
+      "crunchbase": "https://crunchbase.com/organization/mflux-lighting"
+    },
+    "extra": {
+      "city": "Columbus",
+      "state_province": "Ohio",
+      "country": "United States"
+    },
+    "source": "techstars"
+  },
+  {
+    "name": "Derq",
+    "description": "MIT spin-off w/ a mission to eliminate road accidents and save lives by using machine learning and V2X technology for both conventional and autonomous vehicles",
+    "logo": "https://apimg.techstars.com/connect/images/image_files/596375c1c9aec74adb00002e/original/derq-logo-282x282.jpg",
+    "website": "https://derq.com",
+    "location": "Dubai, United Arab Emirates",
+    "region": "Middle East",
+    "subregion": "Middle East",
+    "tags": [
+      "Artificial intelligence and machine learning",
+      "Big Data",
+      "Internet of Things"
+    ],
+    "year": 2017,
+    "program": "Techstars Detroit Accelerator",
+    "programSlugs": [],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "social": {
+      "linkedin": "https://linkedin.com/company/derq",
+      "twitter": "https://twitter.com/DerqAI",
+      "facebook": "https://facebook.com/DerqAI",
+      "crunchbase": "https://crunchbase.com/organization/derq#section-overview"
+    },
+    "extra": {
+      "city": "Dubai",
+      "country": "United Arab Emirates"
+    },
+    "source": "techstars"
+  },
+  {
+    "name": "Vessl Prosthetics",
+    "description": "Vessl Prosthetics is a prosthetics firm that is driven by the idea of empowering amputees and their champions to overcome challenges.",
+    "logo": "http://apimg.techstars.com/sf/accounts/logo/Logo_49788e23b020662e4644dbdac.png",
+    "website": "https://vesslpro.com",
+    "location": "Ilderton, Ontario, Canada",
+    "region": "Americas",
+    "subregion": "North America",
+    "tags": [
+      "3D printing",
+      "Healthtech",
+      "Lifestyles of Health and Sustainability and wellness"
+    ],
+    "year": 2023,
+    "program": "Techstars Physical Health Fort Worth",
+    "programSlugs": [
+      "physical-health-fort-worth"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "social": {
+      "linkedin": "https://linkedin.com/company/vessl-prosthetics",
+      "twitter": "",
+      "facebook": "https://facebook.com/VesslProsthetics",
+      "crunchbase": "https://crunchbase.com/organization/vessl-prosthetics"
+    },
+    "extra": {
+      "city": "Ilderton",
+      "state_province": "Ontario",
+      "country": "Canada"
+    },
+    "source": "techstars"
+  },
+  {
+    "name": "FINDS",
+    "description": "The Retouch is a publisher of circular solutions for the fashion and textile industry.",
+    "logo": "http://apimg.techstars.com/sf/accounts/logo/Logo_ccb9eeb563c33b0a9db46c8e5.jpeg",
+    "website": "https://finds-upcycling.com",
+    "location": "Paris, France",
+    "region": "Europe",
+    "subregion": "Western Europe",
+    "tags": [
+      "Artificial intelligence and machine learning",
+      "Cleantech",
+      "Lifestyles of Health and Sustainability and wellness"
+    ],
+    "year": 2022,
+    "program": "Sustainability Paris Techstars Accelerator",
+    "programSlugs": [
+      "paris"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "social": {
+      "linkedin": "https://linkedin.com/company/finds-solutions",
+      "twitter": "",
+      "facebook": "https://facebook.com/theretouch/",
+      "crunchbase": "https://crunchbase.com/organization/the-retouch"
+    },
+    "extra": {
+      "city": "Paris",
+      "country": "France"
+    },
+    "source": "techstars"
+  },
+  {
+    "name": "Cronwell",
+    "description": "Cronwell prevents costly unplanned shutdowns in chemical plants with AI-driven root cause analysis, reducing diagnosis time from days to hours.",
+    "logo": "http://apimg.techstars.com/sf/accounts/logo/Logo_a9fa1dbbdf09053fbd2050de9.png",
+    "website": "https://cronwell.ai",
+    "location": "Atlanta, Georgia, United States",
+    "region": "Americas",
+    "subregion": "North America",
+    "tags": [
+      "Manufacturing"
+    ],
+    "year": 2025,
+    "program": "Techstars New York City Accelerator",
+    "programSlugs": [
+      "nyc"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "social": {
+      "linkedin": "https://linkedin.com/company/cronwell",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "city": "Atlanta",
+      "state_province": "Georgia",
+      "country": "United States"
+    },
+    "source": "techstars"
+  },
+  {
+    "name": "PhoneWagon",
+    "description": "PhoneWagon is call tracking software that helps businesses and digital marketing agencies attribute phone calls back to specific marketing campaigns.",
+    "logo": "https://apimg.techstars.com/connect/images/image_files/59cd10c59c66a940a500009a/original/Phonewagon.png",
+    "website": "https://phonewagon.com",
+    "location": "New York City, New York, United States",
+    "region": "Americas",
+    "subregion": "North America",
+    "tags": [
+      "Technology, media and telecommunications"
+    ],
+    "year": 2017,
+    "program": "Techstars New York City Accelerator",
+    "programSlugs": [
+      "nyc"
+    ],
+    "isExit": true,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "social": {
+      "linkedin": "https://linkedin.com/company/phonewagon",
+      "twitter": "https://twitter.com/phonewagon",
+      "facebook": "https://facebook.com/phonewagon",
+      "crunchbase": "https://crunchbase.com/organization/phonewagon"
+    },
+    "extra": {
+      "city": "New York City",
+      "state_province": "New York",
+      "country": "United States"
+    },
+    "source": "techstars"
+  },
+  {
+    "name": "Mineral Forecast",
+    "description": "Using machine learning to improve drillhole targeting to find the critical metals a greener economy needs.",
+    "logo": "http://apimg.techstars.com/sf/accounts/logo/Logo_83dd2ea52625458193d01b690.png",
+    "website": "https://en.mineralforecast.com",
+    "location": "Santiago, Chile",
+    "region": "Americas",
+    "subregion": "South America",
+    "tags": [
+      "Climate tech",
+      "Industrials"
+    ],
+    "year": 2023,
+    "program": "Techstars Boston Accelerator",
+    "programSlugs": [
+      "boston"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "social": {
+      "linkedin": "https://linkedin.com/company/mineral-forecast",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "city": "Santiago",
+      "country": "Chile"
+    },
+    "source": "techstars"
+  },
+  {
+    "name": "Nido Robotics",
+    "description": "At Nido Robotics we help shipowners, fish farmers, and similar companies reduce their underwater inspection and maintenance costs through robotics.",
+    "logo": "https://apimg.techstars.com/connect/images/image_files/5f867ba444e0823368000001/original/Screen_Shot_2020-10-14_at_12.16.27_PM.png",
+    "website": "",
+    "location": "Murcia, Spain",
+    "region": "Europe",
+    "subregion": "Southern Europe",
+    "tags": [
+      "Industrials",
+      "Infrastructure",
+      "Oil and gas",
+      "Robotics and Drones"
+    ],
+    "year": 2020,
+    "program": "Eastern Pacific Accelerator Powered by Techstars",
+    "programSlugs": [],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "social": {
+      "linkedin": "https://linkedin.com/company/nidorobotics",
+      "twitter": "https://twitter.com/nidorobotics",
+      "facebook": "https://facebook.com/nidorobotics.eu/",
+      "crunchbase": "https://crunchbase.com/organization/nido-robotics"
+    },
+    "extra": {
+      "city": "Murcia",
+      "country": "Spain"
+    },
+    "source": "techstars"
+  },
+  {
+    "name": "Wib",
+    "description": "Based on a new scientific model, Wenspire is the first to introduce a disruptive secure-by-design solution to protect, insure and safely share data with 3rd parties.",
+    "logo": "http://apimg.techstars.com/sf/accounts/logo/Logo_80aed24fa5f605ac48a6f0683.jpeg",
+    "website": "https://wenspiredata.com",
+    "location": "Tel Aviv, Israel",
+    "region": "Middle East",
+    "subregion": "Middle East",
+    "tags": [
+      "Cybersecurity"
+    ],
+    "year": 2019,
+    "program": "Barclays Accelerator, Powered by Techstars - Tel Aviv",
+    "programSlugs": [],
+    "isExit": true,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "social": {
+      "linkedin": "https://linkedin.com/company/wibsecurity",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": "https://crunchbase.com/organization/wenspire"
+    },
+    "extra": {
+      "city": "Tel Aviv",
+      "country": "Israel"
+    },
+    "source": "techstars"
+  },
+  {
+    "name": "Dot Team",
+    "description": "Platform helping employees improve their financial wellbeing through a suite of automated optimizations and tools.",
+    "logo": "https://images.crunchbase.com/image/upload/t_cb-default-original/cnwoopzsvr83dvsuxcxs",
+    "website": "",
+    "location": "New York City, New York, United States",
+    "region": "Americas",
+    "subregion": "North America",
+    "tags": [
+      "Fintech",
+      "HRtech"
+    ],
+    "year": 2020,
+    "program": "MetLife Digital Accelerator powered by Techstars",
+    "programSlugs": [],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "social": {
+      "linkedin": "https://linkedin.com/company/welcomedot",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": "https://crunchbase.com/organization/dot-6ca2"
+    },
+    "extra": {
+      "city": "New York City",
+      "state_province": "New York",
+      "country": "United States"
+    },
+    "source": "techstars"
+  },
+  {
+    "name": "human",
+    "description": "HUMAN is a storytelling and strategy agency that creates media for social impact.",
+    "logo": "https://apimg.techstars.com/profiles/1662742982741_844190.png",
+    "website": "https://myhumanapp.com",
+    "location": "Nashville, Tennessee, United States",
+    "region": "Americas",
+    "subregion": "North America",
+    "tags": [
+      "Artificial intelligence and machine learning",
+      "Big Data",
+      "Internet of Things",
+      "Mobile"
+    ],
+    "year": 2022,
+    "program": "Build in Tulsa Techstars Accelerator",
+    "programSlugs": [
+      "tulsa"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "social": {
+      "linkedin": "https://linkedin.com/company/myhumanapp",
+      "twitter": "https://twitter.com/myhumanapp",
+      "facebook": "https://facebook.com/MyHumanApp/",
+      "crunchbase": "https://crunchbase.com/organization/human-8035"
+    },
+    "extra": {
+      "city": "Nashville",
+      "state_province": "Tennessee",
+      "country": "United States"
+    },
+    "source": "techstars"
+  },
+  {
+    "name": "PlayerData",
+    "description": "PlayerData bridges the gap between elite and amateur, creating professional level technology that's accessible to everyone.",
+    "logo": "https://apimg.techstars.com/connect/images/image_files/60c39b9ee15b8c0f46ae3976/original/Screenshot_2021-06-11_at_18.20.46.png",
+    "website": "https://playerdata.co.uk",
+    "location": "Edinburgh, United Kingdom",
+    "region": "Europe",
+    "subregion": "Western Europe",
+    "tags": [
+      "Internet of Things",
+      "Lifestyles of Health and Sustainability and wellness"
+    ],
+    "year": 2021,
+    "program": "Techstars Sports Accelerator Powered by Indy",
+    "programSlugs": [
+      "indy-sports"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "social": {
+      "linkedin": "https://linkedin.com/company/playerdata",
+      "twitter": "https://twitter.com/playerdatauk",
+      "facebook": "https://facebook.com/playerdatauk",
+      "crunchbase": "https://crunchbase.com/organization/playerdata"
+    },
+    "extra": {
+      "city": "Edinburgh",
+      "country": "United Kingdom"
+    },
+    "source": "techstars"
+  },
+  {
+    "name": "Memrise",
+    "description": "Turns learning into a compulsive sport",
+    "logo": "https://apimg.techstars.com/connect/images/image_files/53d6d58bb5e11e08b500000c/original/memrise.png",
+    "website": "https://memrise.com",
+    "location": "London, United Kingdom",
+    "region": "Europe",
+    "subregion": "Western Europe",
+    "tags": [
+      "Edtech"
+    ],
+    "year": 2011,
+    "program": "Techstars Boston Accelerator",
+    "programSlugs": [
+      "boston"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "social": {
+      "linkedin": "https://linkedin.com/company/memrise",
+      "twitter": "https://twitter.com/memrise",
+      "facebook": "https://facebook.com/memrise",
+      "crunchbase": "https://crunchbase.com/organization/memrise"
+    },
+    "extra": {
+      "city": "London",
+      "country": "United Kingdom"
+    },
+    "source": "techstars"
+  },
+  {
+    "name": "Modern",
+    "description": "My Dealer Service provides software solutions to heavy equipment dealers creating elevated customer experiences, increasing customer retention and revenue.",
+    "logo": "https://apimg.techstars.com/connect/images/image_files/55d4bb78bbe36fe5ad00002e/original/squarelogo_mds.jpg",
+    "website": "https://modernis.com",
+    "location": "Denver, Colorado, United States",
+    "region": "Americas",
+    "subregion": "North America",
+    "tags": [
+      "Fintech",
+      "Mobile"
+    ],
+    "year": 2015,
+    "program": "Techstars Detroit Accelerator",
+    "programSlugs": [],
+    "isExit": true,
+    "isUnicorn": false,
+    "isBCorp": true,
+    "isCurrentSession": false,
+    "social": {
+      "linkedin": "https://linkedin.com/company/modernwallet",
+      "twitter": "https://twitter.com/modernb2b",
+      "facebook": "https://facebook.com/modernb2b",
+      "crunchbase": "https://crunchbase.com/organization/my-dealer-service"
+    },
+    "extra": {
+      "city": "Denver",
+      "state_province": "Colorado",
+      "country": "United States"
+    },
+    "source": "techstars"
+  },
+  {
+    "name": "COVERR",
+    "description": "COVERR is revolutionizing working capital and complementary financial services for Gig-Economy workers.",
+    "logo": "https://apimg.techstars.com/connect/images/image_files/5f03bec1a36c115493000014/original/1.png",
+    "website": "https://getcoverr.com",
+    "location": "New York City, New York, United States",
+    "region": "Americas",
+    "subregion": "North America",
+    "tags": [
+      "Fintech"
+    ],
+    "year": 2020,
+    "program": "Techstars New York City Accelerator",
+    "programSlugs": [
+      "nyc"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "social": {
+      "linkedin": "https://linkedin.com/company/getcoverr",
+      "twitter": "https://twitter.com/withCOVERR",
+      "facebook": "https://facebook.com/withCOVERR/",
+      "crunchbase": "https://crunchbase.com/organization/coverr"
+    },
+    "extra": {
+      "city": "New York City",
+      "state_province": "New York",
+      "country": "United States"
+    },
+    "source": "techstars"
+  },
+  {
+    "source": "yc",
+    "name": "Odeko",
+    "description": "Our operations software makes it easier to run--and grow--your cafe",
+    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/3b1e7b7eb171eccce88cf7089d2997df49764f1c.png",
+    "website": "http://www.odeko.com",
+    "location": "New York City, NY, USA; New York, NY, USA",
+    "region": "United States of America",
+    "subregion": "",
+    "tags": [
+      "Logistics"
+    ],
+    "year": 2019,
+    "program": "YC Summer 2019",
+    "programSlugs": [
+      "yc-summer-2019"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {}
+  },
+  {
+    "source": "yc",
+    "name": "Diligent",
+    "description": "AI agents for fintech risk and compliance operations",
+    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/306eaffa9ae52c97e7f7fd8c9161b13409115596.png",
+    "website": "https://godiligent.ai",
+    "location": "London, England, United Kingdom",
+    "region": "United Kingdom",
+    "subregion": "",
+    "tags": [
+      "Fintech",
+      "Compliance",
+      "Fraud Prevention",
+      "Regtech",
+      "AI"
+    ],
+    "year": 2023,
+    "program": "YC Summer 2023",
+    "programSlugs": [
+      "yc-summer-2023"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {}
+  },
+  {
+    "source": "yc",
+    "name": "HumanLayer",
+    "description": "The multiplayer control plane for your software factory",
+    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/c0e8c91e4e2daba204d6976544012b6209d006fa.png",
+    "website": "https://humanlayer.com",
+    "location": "San Francisco, CA, USA",
+    "region": "United States of America",
+    "subregion": "",
+    "tags": [
+      "Engineering, Product and Design",
+      "Developer Tools",
+      "AI"
+    ],
+    "year": 2024,
+    "program": "YC Fall 2024",
+    "programSlugs": [
+      "yc-fall-2024"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {}
+  },
+  {
+    "source": "yc",
+    "name": "OwnLocal",
+    "description": "OwnLocal automates marketing for over 129,000 SMBs through 3,300…",
+    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/84a379a855383dd9f04eb9f1434a35da528ec456.png",
+    "website": "http://ownlocal.com",
+    "location": "Austin, TX, USA",
+    "region": "United States of America",
+    "subregion": "",
+    "tags": [
+      "Marketing",
+      "SMB"
+    ],
+    "year": 2010,
+    "program": "YC Winter 2010",
+    "programSlugs": [
+      "yc-winter-2010"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {}
+  },
+  {
+    "source": "yc",
+    "name": "Undermind",
+    "description": "An AI agent for scientific research",
+    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/2e44c4453098a5caed0988fdf2dff5b898cdcac4.png",
+    "website": "https://www.undermind.ai",
+    "location": "San Francisco, CA, USA",
+    "region": "United States of America",
+    "subregion": "",
+    "tags": [
+      "Machine Learning",
+      "Biotech",
+      "Search",
+      "AI"
+    ],
+    "year": 2024,
+    "program": "YC Summer 2024",
+    "programSlugs": [
+      "yc-summer-2024"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {}
+  },
+  {
+    "source": "yc",
+    "name": "Names & Faces",
+    "description": "Technology to create fast, visual indexes of people and organizations.",
+    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/cf701830a11ee7b44f7e149accbdf43a20eed525.png",
+    "website": "http://www.namesandfaces.com",
+    "location": "San Francisco, CA, USA; Palo Alto, CA, USA",
+    "region": "United States of America",
+    "subregion": "",
+    "tags": [
+      "Human Resources",
+      "SaaS"
+    ],
+    "year": 2018,
+    "program": "YC Summer 2018",
+    "programSlugs": [
+      "yc-summer-2018"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {}
+  },
+  {
+    "source": "yc",
+    "name": "Voquill",
+    "description": "The agentic OS for medical labs",
+    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/5abd49db087306e856126eb6c4acf3af787f1749.png",
+    "website": "https://voquill.com/",
+    "location": "San Francisco, CA, USA",
+    "region": "United States of America",
+    "subregion": "",
+    "tags": [
+      "Healthcare"
+    ],
+    "year": 2026,
+    "program": "YC Spring 2026",
+    "programSlugs": [
+      "yc-spring-2026"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {}
+  },
+  {
+    "source": "yc",
+    "name": "Fulcrum",
+    "description": "The agentic debugger for AI systems",
+    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/35c56987ac351304ba02872fb865e4cb5eebbc22.png",
+    "website": "https://fulcrumresearch.ai",
+    "location": "San Francisco, CA, USA",
+    "region": "United States of America",
+    "subregion": "",
+    "tags": [
+      "Analytics"
+    ],
+    "year": 2025,
+    "program": "YC Summer 2025",
+    "programSlugs": [
+      "yc-summer-2025"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {}
+  },
+  {
+    "source": "yc",
+    "name": "Sila",
+    "description": "Agentic Messenger",
+    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/30eef975f26ed420159ac335c08eb8b950705ee2.png",
+    "website": "https://silahq.com",
+    "location": "",
+    "region": "Unspecified",
+    "subregion": "",
+    "tags": [
+      "Productivity"
+    ],
+    "year": 2026,
+    "program": "YC Winter 2026",
+    "programSlugs": [
+      "yc-winter-2026"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {}
+  },
+  {
+    "source": "yc",
+    "name": "Sagaland",
+    "description": "AI entertainment platform",
+    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/7bcc2515e31439799c6c2e2a9ca3667ca7af9de8.png",
+    "website": "https://sagaland.ai/",
+    "location": "New York City, NY, USA; Remote",
+    "region": "United States of America",
+    "subregion": "",
+    "tags": [
+      "Consumer",
+      "Entertainment",
+      "AI"
+    ],
+    "year": 2024,
+    "program": "YC Winter 2024",
+    "programSlugs": [
+      "yc-winter-2024"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {}
+  },
+  {
+    "source": "yc",
+    "name": "Lovage",
+    "description": "Automatically fill empty appointment slots for beauty professionals",
+    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/8bc1e9f862fee999c4e72bc8a67f0dedc5205775.png",
+    "website": "https://getlovage.com",
+    "location": "Orem, UT, USA",
+    "region": "United States of America",
+    "subregion": "",
+    "tags": [
+      "Marketing",
+      "SaaS",
+      "SMB",
+      "AI"
+    ],
+    "year": 2022,
+    "program": "YC Winter 2022",
+    "programSlugs": [
+      "yc-winter-2022"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {}
+  },
+  {
+    "source": "yc",
+    "name": "Skill-lync",
+    "description": "Online engineering college for India. Learn technical skills & get…",
+    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/93debe185cf01796dca3de42aa2f07d3e37fbab2.png",
+    "website": "http://skill-lync.com",
+    "location": "Chennai, TN, India",
+    "region": "India",
+    "subregion": "",
+    "tags": [
+      "Education",
+      "Income Share Agreements",
+      "eLearning"
+    ],
+    "year": 2019,
+    "program": "YC Winter 2019",
+    "programSlugs": [
+      "yc-winter-2019"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {}
+  },
+  {
+    "source": "yc",
+    "name": "Disclo",
+    "description": "Health disclosure and accommodation management platform",
+    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/e168db75ab4f6e439a5dece49f30bdbbbedfd7f6.png",
+    "website": "http://www.disclo.com",
+    "location": "Austin, TX, USA; Remote",
+    "region": "United States of America",
+    "subregion": "",
+    "tags": [
+      "Human Resources",
+      "Compliance",
+      "HR Tech"
+    ],
+    "year": 2022,
+    "program": "YC Summer 2022",
+    "programSlugs": [
+      "yc-summer-2022"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {}
+  },
+  {
+    "source": "yc",
+    "name": "Merlin AI",
+    "description": "AI powered ERP for Construction",
+    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/b546cd339690195550c29da13ada87ec426a083a.png",
+    "website": "https://www.merlinai.co",
+    "location": "Los Angeles, CA, USA",
+    "region": "United States of America",
+    "subregion": "",
+    "tags": [
+      "SaaS",
+      "Construction",
+      "Enterprise Software",
+      "AI"
+    ],
+    "year": 2024,
+    "program": "YC Summer 2024",
+    "programSlugs": [
+      "yc-summer-2024"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {}
+  },
+  {
+    "source": "yc",
+    "name": "Jet Admin",
+    "description": "No-code business app builder",
+    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/36f3d929390edbb2302940824ff50512f48f5516.png",
+    "website": "https://jetadmin.io",
+    "location": "Frankfurt, HE, Germany; San Francisco, CA, USA",
+    "region": "Germany",
+    "subregion": "",
+    "tags": [
+      "Engineering, Product and Design",
+      "Developer Tools",
+      "SaaS"
+    ],
+    "year": 2020,
+    "program": "YC Winter 2020",
+    "programSlugs": [
+      "yc-winter-2020"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {}
+  },
+  {
+    "source": "500",
+    "name": "Agfunder",
+    "description": "Operator of an investment company intended for founders who are transforming food and agriculture. The company invests in entrepreneurs who are aiming to build the next generation of great agriculture and food technology companies, enabling founders and startups to raise funds for the business.",
+    "logo": "https://founder-hub-public.s3.us-west-1.amazonaws.com/b7e6240e-f043-41c3-a481-5ff44761808b.png",
+    "website": "https://agfunder.com",
+    "location": "United States",
+    "region": "North America",
+    "subregion": "",
+    "tags": [
+      "Credit & Lending"
+    ],
+    "year": 2015,
+    "program": "GA 12",
+    "programSlugs": [
+      "500"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [
+      {
+        "name": "Melissa Tilney",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "Rob Leclerc",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "Michael Dean",
+        "role": "",
+        "linkedin": ""
+      }
+    ],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "country": "United States"
+    }
+  },
+  {
+    "source": "500",
+    "name": "iCart",
+    "description": "Operator of an online grocery service designed for an easy grocery shopping experience. The company helps to shop all products from local grocery stores around the city to deliver a simplified life, enabling customers to purchase groceries without having to worry about their freshness.",
+    "logo": "https://founder-hub-public.s3.us-west-1.amazonaws.com/dd49127e-911f-4eb7-a7d2-797508877338.png",
+    "website": "https://www.happyfresh.com",
+    "location": "Malaysia",
+    "region": "South Asia",
+    "subregion": "",
+    "tags": [
+      "Mobility"
+    ],
+    "year": 2015,
+    "program": "500 Global",
+    "programSlugs": [
+      "500"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [
+      {
+        "name": "Konstantin Lange",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "Fajar Budiprasetyo",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "Tim Marbach",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "Kai Kux",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "Benjamin Koellmann",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "Frederic Verin",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "Guillem Segarra",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "Ronald Chan",
+        "role": "",
+        "linkedin": ""
+      }
+    ],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "country": "Malaysia"
+    }
+  },
+  {
+    "source": "500",
+    "name": "WePay",
+    "description": "Provider of an online payment platform designed to accept and process instant payments. The company's online payment platform delivers payments-as-a-service APIs for simple onboarding and activation of payments, without impacting the user experience, enabling enterprises to process instant onboarding and payments without friction or fraud.",
+    "logo": "https://founder-hub-public.s3.us-west-1.amazonaws.com/0b2bd88e-0976-43bc-b6db-dfc3695950a8.png",
+    "website": "https://wepay.com",
+    "location": "United States",
+    "region": "North America",
+    "subregion": "",
+    "tags": [
+      "Payments"
+    ],
+    "year": 2009,
+    "program": "500 Global",
+    "programSlugs": [
+      "500"
+    ],
+    "isExit": true,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [
+      {
+        "name": "Bill Clerico",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "Richard Aberman",
+        "role": "",
+        "linkedin": ""
+      }
+    ],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "country": "United States"
+    }
+  },
+  {
+    "source": "500",
+    "name": "Slik",
+    "description": "We provide organizations with cloud-based surveys and analytics to measure and improve employee engagement. ",
+    "logo": "https://founder-hub-public.s3.amazonaws.com/02db0baa-c905-4bdd-bdcf-100f9eeffc3c.png",
+    "website": "https://www.slikpro.com",
+    "location": "Argentina",
+    "region": "Latin America",
+    "subregion": "",
+    "tags": [
+      "HR Tech"
+    ],
+    "year": 2019,
+    "program": "Lucha 10",
+    "programSlugs": [
+      "500"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [
+      {
+        "name": "Javier Brignone",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "Ezequiel Linares",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "Tomas Stagnaro",
+        "role": "",
+        "linkedin": ""
+      }
+    ],
+    "social": {
+      "linkedin": "https://www.linkedin.com/company/slikpro",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "country": "Argentina"
+    }
+  },
+  {
+    "source": "500",
+    "name": "Pilotly",
+    "description": "Developer of a consumer insight research platform designed to create meaningful engagements between content creators and global audiences. The company's platform offers its customers a quality video viewing service and offers an insight dashboard, enabling content creators to make business decisions by getting real-time data and reports about customer preferences.",
+    "logo": "https://founder-hub-public.s3.us-west-1.amazonaws.com/d60fa0b2-7360-4eb9-8a1d-478a8c2ac649.png",
+    "website": "https://www.pilot.ly",
+    "location": "United States",
+    "region": "North America",
+    "subregion": "",
+    "tags": [
+      "Data & Analytics"
+    ],
+    "year": 2016,
+    "program": "GA 16",
+    "programSlugs": [
+      "500"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [
+      {
+        "name": "James Norman",
+        "role": "",
+        "linkedin": ""
+      }
+    ],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "country": "United States"
+    }
+  },
+  {
+    "source": "500",
+    "name": "Guide",
+    "description": "Developer of a recruiting software designed to connect potential employees to employers. The company's platform is a sourcing-as-a-Service-based software tool that automates the candidate sourcing process for growing companies, reducing manual effort and wastage of time, enabling clients to save time with automated contact data.",
+    "logo": "https://founder-hub-public.s3.us-west-1.amazonaws.com/c652257b-e91d-402e-9720-0468833efd60.png",
+    "website": "https://www.resource.io",
+    "location": "United States",
+    "region": "North America",
+    "subregion": "",
+    "tags": [
+      "HR Tech"
+    ],
+    "year": 2016,
+    "program": "GA 16",
+    "programSlugs": [
+      "500"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [
+      {
+        "name": "Courtney Sultan",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "Troy Sultan",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "Wade Warren",
+        "role": "",
+        "linkedin": ""
+      }
+    ],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "country": "United States"
+    }
+  },
+  {
+    "source": "500",
+    "name": "LottieFiles",
+    "description": "Developer of an animation workflow platform designed to create a new realm of possibilities with interactive design. The company focuses on building an open-source animation file format that is tiny, interactive, and can be manipulated at runtime as well as helps to create interactive motion graphics that make products stand out, enabling motion designers, developers, and marketers to increase engagement by grabbing and holding user attention.",
+    "logo": "https://founder-hub-public.s3.us-west-1.amazonaws.com/c6f7d549-94f8-47f6-a010-7ba380d5e3ce.png",
+    "website": "https://lottiefiles.com",
+    "location": "Malaysia",
+    "region": "South Asia",
+    "subregion": "",
+    "tags": [
+      "Creative Industry"
+    ],
+    "year": 2019,
+    "program": "500 Global",
+    "programSlugs": [
+      "500"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [
+      {
+        "name": "K Minglani",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "Nattu Adnan",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "Edward Unknown",
+        "role": "",
+        "linkedin": ""
+      }
+    ],
+    "social": {
+      "linkedin": "https://www.linkedin.com/company/lottiefiles",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "country": "Malaysia"
+    }
+  },
+  {
+    "source": "500",
+    "name": "Simpatico Project",
+    "description": "Operator of a B2B mental healthcare platform intended to target the demand for psychological counseling from B2B customers and establish a healthy psychological counseling culture. The company develops a psychological counseling program optimized for the issues faced by executives and employees of companies and organizations in each field, such as executives of large corporations, lawyers and firefighters, enabling employees to match professional counselors in each field to provide corporate counseling through artificial intelligence.",
+    "logo": "https://founder-hub-public.s3.amazonaws.com/fa2113a7-0a03-4857-bc95-00a04ce713b3.png",
+    "website": "https://www.clify.co.kr",
+    "location": "South Korea",
+    "region": "Southeast Asia",
+    "subregion": "",
+    "tags": [
+      "Health Tech",
+      "Healthcare",
+      "B2B Marketplaces"
+    ],
+    "year": 2024,
+    "program": "500 Global",
+    "programSlugs": [
+      "500"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [
+      {
+        "name": "Juyeol Hong",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "Unknown Unknown",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "Billy Andika",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "Board of Directors",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "Yaru Jiang",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "Siv Portfolio",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "Lotus Amarta",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "Huertas Robert",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "Max Han",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "Joe Real",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "Tak Hur",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "Stephen Moon",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "Edward Chun",
+        "role": "",
+        "linkedin": ""
+      }
+    ],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "country": "South Korea"
+    }
+  },
+  {
+    "source": "500",
+    "name": "East Meet East",
+    "description": "Operator of an online dating platform intended to help users find like-minded friends and partners. The company's platform assists users to form real-time connections with members of their own communities, enabling users to find people with mutual backgrounds and interests.",
+    "logo": "https://founder-hub-public.s3.us-west-1.amazonaws.com/a5ced130-57e7-4506-b186-9a6582d5fcbc.png",
+    "website": "https://emehive.co",
+    "location": "United States",
+    "region": "North America",
+    "subregion": "",
+    "tags": [
+      "Social Impact"
+    ],
+    "year": 2015,
+    "program": "500 Global",
+    "programSlugs": [
+      "500"
+    ],
+    "isExit": true,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [
+      {
+        "name": "Kenn Ejima",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "Mariko Tokioka",
+        "role": "",
+        "linkedin": ""
+      }
+    ],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "country": "United States"
+    }
+  },
+  {
+    "source": "500",
+    "name": "DealCart",
+    "description": "DealCart is Pakistan’s super-app for groceries, consumer goods, and food delivery - delivering unbeatable prices and seamless savings via our in-app wallet.",
+    "logo": "https://founder-hub-public.s3.amazonaws.com/c19d33b5-e6e9-4442-ad7f-68af0786a713.png",
+    "website": "https://dealcart.io",
+    "location": "Pakistan",
+    "region": "Middle East & Africa",
+    "subregion": "",
+    "tags": [
+      "Ecommerce",
+      "FinTech",
+      "Marketplace",
+      "Retail"
+    ],
+    "year": 2022,
+    "program": "500 Global",
+    "programSlugs": [
+      "500"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [
+      {
+        "name": "Ammar Naveed",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "Usman Dealcart",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "Fazel Rehman",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "Ammar Naveed",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "Tanzila Asim Zafar",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "Syed Raza",
+        "role": "",
+        "linkedin": ""
+      }
+    ],
+    "social": {
+      "linkedin": "https://www.linkedin.com/company/dealcart/",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "country": "Pakistan"
+    }
+  },
+  {
+    "source": "500",
+    "name": "Tripplus",
+    "description": "Operator of an online travel service company designed to intended an online meta-search engine for travel-related purposes. The company's platform can be used by users to book flight tickets and make hotel reservations along with an opportunity to earn reward points, enabling travelers to accumulate, redeem points, and get discounts on travel bookings.",
+    "logo": "https://founder-hub-public.s3.us-west-1.amazonaws.com/8f0a8a84-715f-4c95-b9c5-f3c6b1ff3dd7.png",
+    "website": "https://www.tripplus.cc",
+    "location": "Taiwan",
+    "region": "North Asia",
+    "subregion": "",
+    "tags": [
+      "Travel & Tourism"
+    ],
+    "year": 2017,
+    "program": "GA 21",
+    "programSlugs": [
+      "500"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [
+      {
+        "name": "Davis Dai",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "Ocean Lin",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "Ryan Lin",
+        "role": "",
+        "linkedin": ""
+      }
+    ],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "country": "Taiwan"
+    }
+  },
+  {
+    "source": "500",
+    "name": "Rainmarket",
+    "description": "We are Southeast Asia’s first financial markets infrastructure operator.\nWe are here to structure the unstructured, and to bridge the data and information gap. ",
+    "logo": "https://founder-hub-public.s3.amazonaws.com/0c52d1cf-25ae-4d82-aa4f-94cdc7bf15ee.png",
+    "website": "https://digitalmedianusantara.com",
+    "location": "Malaysia",
+    "region": "South Asia",
+    "subregion": "",
+    "tags": [
+      "Data & Analytics",
+      "FinTech"
+    ],
+    "year": 2023,
+    "program": "500 Global",
+    "programSlugs": [
+      "500"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [
+      {
+        "name": "Rohan Ramakrishnan",
+        "role": "",
+        "linkedin": ""
+      }
+    ],
+    "social": {
+      "linkedin": "https://linkedin.com/company/digitalmedianusantara",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "country": "Malaysia"
+    }
+  },
+  {
+    "source": "500",
+    "name": "SUSTAINFI",
+    "description": "Developer of carbon project finance platform designed to connect investors who want to invest sustainably with the products and services. The company's platform makes environmental, social, and governance (ESG) and sustainable investing simple to understand, enabling investors to find investments that will do well in the climate transition, and companies with strong environmental, social, or governance scores",
+    "logo": "https://founder-hub-public.s3.us-west-1.amazonaws.com/7145eef3-77a0-487f-b7ea-6cd57dcf0d3a.png",
+    "website": "https://www.sustainfi.com",
+    "location": "United States",
+    "region": "North America",
+    "subregion": "",
+    "tags": [
+      "CleanTech",
+      "Climate Tech",
+      "FinTech"
+    ],
+    "year": 2022,
+    "program": "500 Global",
+    "programSlugs": [
+      "500"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [
+      {
+        "name": "Lana Khabarova",
+        "role": "",
+        "linkedin": ""
+      }
+    ],
+    "social": {
+      "linkedin": "https://www.linkedin.com/company/sustainfi/",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "country": "United States"
+    }
+  },
+  {
+    "source": "500",
+    "name": "Solarstic",
+    "description": "Developer of ultra-lightweight, design-flexible solar modules for vehicles and industrial rooftops, spun out from Hyundai Motor's internal solar system team. The company operates a proprietary plastic encapsulation and injection molding process that replaces conventional glass solar panels, enabling scalability and carbon-credit alignment across mobility and RE100 manufacturing use cases.",
+    "logo": "https://founder-hub-public.s3.amazonaws.com/d3b82618-bd27-45f2-a594-62e8a5e01b6c.png",
+    "website": "https://www.solarstic.co.kr",
+    "location": "South Korea",
+    "region": "",
+    "subregion": "",
+    "tags": [
+      "Climate Tech",
+      "Sustainability"
+    ],
+    "year": 2025,
+    "program": "500 Global",
+    "programSlugs": [
+      "500"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [
+      {
+        "name": "성 장",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "Sung Geun Park",
+        "role": "",
+        "linkedin": ""
+      }
+    ],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "country": "South Korea"
+    }
+  },
+  {
+    "source": "antler",
+    "name": "Machina Sports",
+    "description": "Machina Sports",
+    "logo": "https://cdn.prod.website-files.com/68d622fc073c7e5dead1105e/695ee35ab3af5bfd658835cb_portfolio%252Fcompany%252Fe024f5eb-c7e0-4764-8285-76c1165259eb%252F1725423822048-logo.avif",
+    "website": "http://machina.gg/",
+    "location": "Fine-Tuned LLMs and Generative AI tools for the Sports industry",
+    "region": "",
+    "subregion": "",
+    "tags": [
+      "Enterprise Software & SaaS"
+    ],
+    "year": "",
+    "program": "Antler",
+    "programSlugs": [
+      "antler"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {}
+  },
+  {
+    "source": "antler",
+    "name": "Aurelif",
+    "description": "Aurelif",
+    "logo": "https://cdn.prod.website-files.com/68d622fc073c7e5dead1105e/6965e6afb12c3cf51fe9e088_portfolio%252Fcompany%252Ff819962f-859b-441e-9b76-b1e70c71e084%252F1768285829079-WhatsApp%2520Image%25202026-01-13%2520at%252013.28.19.jpeg",
+    "website": "https://aurelif.co/",
+    "location": "Aurelif is the operating system for care that happens beyond the hospital (off-premise care), turning fragmented care plans and real-world data into coordinated action—starting with seniors.",
+    "region": "",
+    "subregion": "",
+    "tags": [
+      "HealthTech & Biotech"
+    ],
+    "year": "",
+    "program": "Antler",
+    "programSlugs": [
+      "antler"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {}
+  },
+  {
+    "source": "antler",
+    "name": "Talos Innovation",
+    "description": "Talos Innovation",
+    "logo": "https://cdn.prod.website-files.com/68d622fc073c7e5dead1105e/6acdda056d43872c3fb9cc12_teams%252Fb632785b-667d-4db3-b960-9ce983bd9abe%252Flogos%252FTalos%2520Logo%2520-%2520Flat%2520DARK%2520Blue.png",
+    "website": "https://www.talosaps.com/",
+    "location": "Building a patented numerical engine that accelerates simulations without compromising accuracy.",
+    "region": "",
+    "subregion": "",
+    "tags": [
+      "Enterprise Software & SaaS"
+    ],
+    "year": "",
+    "program": "Antler",
+    "programSlugs": [
+      "antler"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {}
+  },
+  {
+    "source": "antler",
+    "name": "DryLabz",
+    "description": "DryLabz",
+    "logo": "https://cdn.prod.website-files.com/68d622fc073c7e5dead1105e/6a588465e40f32012621d431_portfolio%252Fcompany%252F6162a81b-a528-4e42-80e4-e0296b3ef038%252F1736936178635-DRYLABZ%2520Main%2520Logo%25202400x1800.jpeg",
+    "website": "https://www.drylabz.com/",
+    "location": "Turning unstructured health data into precision diagnostics so every patient gets the answers they need.",
+    "region": "",
+    "subregion": "",
+    "tags": [
+      "HealthTech & Biotech"
+    ],
+    "year": "",
+    "program": "Antler",
+    "programSlugs": [
+      "antler"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {}
+  },
+  {
+    "source": "antler",
+    "name": "RegDoor",
+    "description": "RegDoor",
+    "logo": "https://cdn.prod.website-files.com/68d622fc073c7e5dead1105e/6a4d41b31a87ca99071190b5_portfolio%252Fcompany%252F4af20d8a-27fc-40ac-995f-6bf42cf96bee%252F1783447911447-WhatsApp%2520Image%25202026-07-07%2520at%252012.52.03.jpeg",
+    "website": "https://regdoor.com/",
+    "location": "RegDoor is building the agent to reinvent how companies navigate regulation and policy worldwide.",
+    "region": "",
+    "subregion": "",
+    "tags": [
+      "Enterprise Software & SaaS"
+    ],
+    "year": "",
+    "program": "Antler",
+    "programSlugs": [
+      "antler"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {}
+  },
+  {
+    "source": "antler",
+    "name": "Cellivate",
+    "description": "Cellivate",
+    "logo": "https://cdn.prod.website-files.com/68d622fc073c7e5dead1105e/6ade9b68d5dec69f06644b15_portfolio%252Fcompany%252F5649bcfb-ae63-4fd8-8fb2-8b9f887e823e%252F1725422222870-logo.png",
+    "website": "https://www.cellivatetech.com/",
+    "location": "Cell-based solutions using sustainable cell technologies.",
+    "region": "",
+    "subregion": "",
+    "tags": [
+      "HealthTech & Biotech"
+    ],
+    "year": "",
+    "program": "Antler",
+    "programSlugs": [
+      "antler"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {}
+  },
+  {
+    "source": "antler",
+    "name": "NCSpeech",
+    "description": "NCSpeech",
+    "logo": "https://cdn.prod.website-files.com/68d622fc073c7e5dead1105e/6972f707ffa570dd208230a1_portfolio%252Fcompany%252F1643cce2-2e16-4538-b2b8-41ac13669070%252F1769141959903-Avatar%2520Black%2520(No%2520font).avif",
+    "website": "https://ncspeech.org/",
+    "location": "Building Production-Grade Speech AI for Real-World Applications",
+    "region": "",
+    "subregion": "",
+    "tags": [
+      "Fintech"
+    ],
+    "year": "",
+    "program": "Antler",
+    "programSlugs": [
+      "antler"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {}
+  },
+  {
+    "source": "antler",
+    "name": "Public Bored",
+    "description": "Public Bored",
+    "logo": "https://cdn.prod.website-files.com/68d622fc073c7e5dead1105e/6ade9d00a8349fb2ae257f15_teams%252Fb2ad634e-450f-4ae4-b5b7-8d98bca6072a%252Flogos%252Fpblogo122.png",
+    "website": "https://publicbored.com/",
+    "location": "Digital billboards across the globe as easy as sending a tweet.",
+    "region": "",
+    "subregion": "",
+    "tags": [
+      "Enterprise Software & SaaS"
+    ],
+    "year": "",
+    "program": "Antler",
+    "programSlugs": [
+      "antler"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {}
+  },
+  {
+    "source": "antler",
+    "name": "Hexo",
+    "description": "Hexo",
+    "logo": "https://cdn.prod.website-files.com/68d622fc073c7e5dead1105e/6ade9d48e14fcae63ea53203_portfolio%252Fcompany%252Fcd3fa7d0-3161-4725-aa33-e38618d138ae%252F1744032537126-Hexo.jpeg",
+    "website": "https://hexolabs.com/",
+    "location": "Hexo helps businesses integrate Generative AI into their workflows.",
+    "region": "",
+    "subregion": "",
+    "tags": [
+      "DeepTech"
+    ],
+    "year": "",
+    "program": "Antler",
+    "programSlugs": [
+      "antler"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {}
+  },
+  {
+    "source": "antler",
+    "name": "CalcTree",
+    "description": "CalcTree",
+    "logo": "https://cdn.prod.website-files.com/68d622fc073c7e5dead1105e/6ade9b0b77fcf19d200e29ac_portfolio%252Fcompany%252F41f6e142-268e-4bb9-aaf8-1949056e45de%252F1742601069411-CalcTree.png",
+    "website": "https://www.calctree.com/",
+    "location": "Engineers want to optimise their calculations to produce the most efficient designs possible. CalcTree is a platform to help them succeed. We let engineers transform tools they already love into intelligent, trusted calculations.",
+    "region": "",
+    "subregion": "",
+    "tags": [
+      "Real Estate & PropTech"
+    ],
+    "year": "",
+    "program": "Antler",
+    "programSlugs": [
+      "antler"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {}
+  },
+  {
+    "source": "antler",
+    "name": "Auxicare",
+    "description": "Auxicare",
+    "logo": "https://cdn.prod.website-files.com/68d622fc073c7e5dead1105e/6ade9b6bd5dec69f06644b42_portfolio%252Fcompany%252F569c379f-723c-490e-ab86-84a8bc877ab8%252F1725844145861-logo.png",
+    "website": "https://www.auxicare.fr/",
+    "location": "Enable at-home care for all seniors, thanks to independent caregivers",
+    "region": "",
+    "subregion": "",
+    "tags": [
+      "HealthTech & Biotech"
+    ],
+    "year": "",
+    "program": "Antler",
+    "programSlugs": [
+      "antler"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {}
+  },
+  {
+    "source": "antler",
+    "name": "KAHU",
+    "description": "KAHU",
+    "logo": "https://cdn.prod.website-files.com/68d622fc073c7e5dead1105e/695ee1cee94dec0abb3afac5_teams%252F64e6aff6-4b96-46dd-aa31-958a6c64ed78%252Flogos%252Flogo%2520kahu.avif",
+    "website": "https://www.kahu.earth/",
+    "location": "KAHU is crowdsourcing and fusing onboard radar data from vessels into a real-time map of ocean activity, to fill AIS data gaps and enhance maritime safety, transparency and ocean sustainability.",
+    "region": "",
+    "subregion": "",
+    "tags": [
+      "Enterprise Software & SaaS"
+    ],
+    "year": "",
+    "program": "Antler",
+    "programSlugs": [
+      "antler"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {}
+  },
+  {
+    "source": "antler",
+    "name": "MyRobin.ID",
+    "description": "MyRobin.ID",
+    "logo": "https://cdn.prod.website-files.com/68d622fc073c7e5dead1105e/6ade9d1ca8349fb2ae2580d0_portfolio%252Fcompany%252Fc1ed7f92-cceb-4f15-a302-a1312d8c66c6%252F1742204461237-myrobinid_logo.jpeg",
+    "website": "https://myrobin.id/",
+    "location": "On-demand manpower outsourcing service providing a flexible, experienced and reliable workforce.",
+    "region": "",
+    "subregion": "",
+    "tags": [
+      "Enterprise Software & SaaS"
+    ],
+    "year": "",
+    "program": "Antler",
+    "programSlugs": [
+      "antler"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {}
+  },
+  {
+    "source": "antler",
+    "name": "Cenara",
+    "description": "Cenara",
+    "logo": "https://cdn.prod.website-files.com/68d622fc073c7e5dead1105e/698eef756bbf448bafee7723_teams%252Fc1518b38-67f4-4968-a748-7b66fd742885%252Flogos%252FCenara%2520AI%2520New%2520Logo.png",
+    "website": "https://www.cenara.ai/",
+    "location": "Centralizing intelligence for revenue teams to optimize sales efforts and growth",
+    "region": "",
+    "subregion": "",
+    "tags": [
+      "Enterprise Software & SaaS"
+    ],
+    "year": "",
+    "program": "Antler",
+    "programSlugs": [
+      "antler"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {}
+  },
+  {
+    "source": "ef",
+    "name": "Crewline AI",
+    "description": "Supervised autonomy for construction vehicles.",
+    "logo": "",
+    "website": "",
+    "location": "",
+    "region": "",
+    "subregion": "",
+    "tags": [],
+    "year": 2025,
+    "program": "Entrepreneur First",
+    "programSlugs": [
+      "ef"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [
+      {
+        "name": "Frederik Filz-Reiterdank",
+        "role": "CEO",
+        "linkedin": "https://www.linkedin.com/in/frederik-filz-reiterdank-75b22469/"
+      },
+      {
+        "name": "Mohamed Sadek",
+        "role": "CTO",
+        "linkedin": "https://www.linkedin.com/in/mohamed-sadek-6901b7111/"
+      }
+    ],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "investor": ""
+    }
+  },
+  {
+    "source": "ef",
+    "name": "Crypto Quantique",
+    "description": "Quantum-secure root of trust for IoT.",
+    "logo": "",
+    "website": "",
+    "location": "",
+    "region": "",
+    "subregion": "",
+    "tags": [],
+    "year": 2016,
+    "program": "Entrepreneur First",
+    "programSlugs": [
+      "ef"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [
+      {
+        "name": "Shahram Mossayebi",
+        "role": "CEO",
+        "linkedin": "https://www.linkedin.com/in/mossayebi/"
+      },
+      {
+        "name": "Patrick Camilleri",
+        "role": "Cofounder",
+        "linkedin": "https://www.linkedin.com/in/patrikcamilleri/"
+      }
+    ],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "investor": ""
+    }
+  },
+  {
+    "source": "ef",
+    "name": "Cheffer",
+    "description": "Optimized purchasing for restaurant owners.",
+    "logo": "",
+    "website": "",
+    "location": "",
+    "region": "",
+    "subregion": "",
+    "tags": [],
+    "year": 2022,
+    "program": "Entrepreneur First",
+    "programSlugs": [
+      "ef"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [
+      {
+        "name": "Keshev Kulkarni",
+        "role": "CEO",
+        "linkedin": "https://www.linkedin.com/in/keshev/"
+      },
+      {
+        "name": "Milton Donefer",
+        "role": "Cofounder",
+        "linkedin": "https://www.linkedin.com/in/miltoncalderondonefer/"
+      }
+    ],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "investor": ""
+    }
+  },
+  {
+    "source": "ef",
+    "name": "Flynt",
+    "description": "Dynamic pricing for restaurant profitability.",
+    "logo": "",
+    "website": "",
+    "location": "",
+    "region": "",
+    "subregion": "",
+    "tags": [],
+    "year": 2021,
+    "program": "Entrepreneur First",
+    "programSlugs": [
+      "ef"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [
+      {
+        "name": "Thibault Desplats",
+        "role": "CEO",
+        "linkedin": "https://www.linkedin.com/in/tdesplats/"
+      },
+      {
+        "name": "Wuillaume Dalle",
+        "role": "CTO",
+        "linkedin": "https://www.linkedin.com/in//"
+      }
+    ],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "investor": ""
+    }
+  },
+  {
+    "source": "ef",
+    "name": "faff",
+    "description": "Personal assistants at an affordable price.",
+    "logo": "",
+    "website": "",
+    "location": "",
+    "region": "",
+    "subregion": "",
+    "tags": [],
+    "year": 2025,
+    "program": "Entrepreneur First",
+    "programSlugs": [
+      "ef"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [
+      {
+        "name": "Anirudh Mittal",
+        "role": "CEO",
+        "linkedin": "https://www.linkedin.com/in/anirudh-mittal-b9243a167/"
+      },
+      {
+        "name": "Het Patel",
+        "role": "CTO",
+        "linkedin": "https://www.linkedin.com/in/het-patel-81526a18b/"
+      }
+    ],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "investor": ""
+    }
+  },
+  {
+    "source": "ef",
+    "name": "Kiroku",
+    "description": "AI note-taking for dentists.",
+    "logo": "",
+    "website": "",
+    "location": "",
+    "region": "",
+    "subregion": "",
+    "tags": [],
+    "year": 2017,
+    "program": "Entrepreneur First",
+    "programSlugs": [
+      "ef"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [
+      {
+        "name": "Hannah Burrow",
+        "role": "CEO",
+        "linkedin": "https://www.linkedin.com/in/hannahburrow/"
+      },
+      {
+        "name": "Jay Shah",
+        "role": "CTO",
+        "linkedin": "https://www.linkedin.com/in/jayshah14/"
+      }
+    ],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "investor": ""
+    }
+  },
+  {
+    "source": "ef",
+    "name": "DeepSpin",
+    "description": "Bringing MRI-scanners into the era of AI.",
+    "logo": "",
+    "website": "",
+    "location": "",
+    "region": "",
+    "subregion": "",
+    "tags": [],
+    "year": 2020,
+    "program": "Entrepreneur First",
+    "programSlugs": [
+      "ef"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [
+      {
+        "name": "Clemens Tepel",
+        "role": "CEO",
+        "linkedin": "https://www.linkedin.com/in/cltepel/"
+      },
+      {
+        "name": "Pedro Silva",
+        "role": "CTO",
+        "linkedin": "https://www.linkedin.com/in/pedrofreiresilva/"
+      }
+    ],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "investor": ""
+    }
+  },
+  {
+    "source": "ef",
+    "name": "Movel AI",
+    "description": "AI navigation for indoor robots.",
+    "logo": "",
+    "website": "",
+    "location": "",
+    "region": "",
+    "subregion": "",
+    "tags": [],
+    "year": 2017,
+    "program": "Entrepreneur First",
+    "programSlugs": [
+      "ef"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [
+      {
+        "name": "Abhishek Gupta",
+        "role": "CEO",
+        "linkedin": "https://www.linkedin.com/in/abhishek2411/"
+      },
+      {
+        "name": "Haoyu Bai",
+        "role": "Cofounder",
+        "linkedin": "https://www.linkedin.com/in/haoyubai/"
+      }
+    ],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "investor": ""
+    }
+  },
+  {
+    "source": "ef",
+    "name": "MedPay",
+    "description": "Transforming neighborhood pharmacies using technology.",
+    "logo": "",
+    "website": "",
+    "location": "",
+    "region": "",
+    "subregion": "",
+    "tags": [],
+    "year": 2020,
+    "program": "Entrepreneur First",
+    "programSlugs": [
+      "ef"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [
+      {
+        "name": "Ravi Chandra",
+        "role": "CEO",
+        "linkedin": "https://www.linkedin.com/in/ravi-chandra-entrepreneur/"
+      },
+      {
+        "name": "Arun Bhatia",
+        "role": "CTO",
+        "linkedin": "https://www.linkedin.com/in/arunbhatia786/"
+      }
+    ],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "investor": ""
+    }
+  },
+  {
+    "source": "ef",
+    "name": "Repello AI",
+    "description": "AI red teaming for GenAI security.",
+    "logo": "",
+    "website": "",
+    "location": "",
+    "region": "",
+    "subregion": "",
+    "tags": [],
+    "year": 2024,
+    "program": "Entrepreneur First",
+    "programSlugs": [
+      "ef"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [
+      {
+        "name": "Aryaman Behera",
+        "role": "CEO",
+        "linkedin": "https://linkedin.com/in/aryaman-behera"
+      },
+      {
+        "name": "Naman Mishra",
+        "role": "CTO",
+        "linkedin": "https://www.linkedin.com/in/naman-mishra-913009195/"
+      }
+    ],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "investor": ""
+    }
+  },
+  {
+    "source": "ef",
+    "name": "Truvo",
+    "description": "The first autonomous insurance broker.",
+    "logo": "",
+    "website": "",
+    "location": "",
+    "region": "",
+    "subregion": "",
+    "tags": [],
+    "year": 2025,
+    "program": "Entrepreneur First",
+    "programSlugs": [
+      "ef"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [
+      {
+        "name": "Charles Calzia",
+        "role": "CEO",
+        "linkedin": "https://linkedin.com/in/CharlesCalzia"
+      }
+    ],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "investor": ""
+    }
+  },
+  {
+    "source": "ef",
+    "name": "Chipiron",
+    "description": "Portable low-field MRI for point-of-care.",
+    "logo": "",
+    "website": "",
+    "location": "",
+    "region": "",
+    "subregion": "",
+    "tags": [],
+    "year": 2020,
+    "program": "Entrepreneur First",
+    "programSlugs": [
+      "ef"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [
+      {
+        "name": "Evan Kervella",
+        "role": "CEO",
+        "linkedin": "https://www.linkedin.com/in/evankervella/"
+      },
+      {
+        "name": "Dimitri Labat",
+        "role": "CSO",
+        "linkedin": "https://www.linkedin.com/in/dimitri-labat/"
+      }
+    ],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "investor": ""
+    }
+  },
+  {
+    "source": "ef",
+    "name": "Thalya",
+    "description": "RNAi spray to enhance crop nitrogen efficiency.",
+    "logo": "",
+    "website": "",
+    "location": "",
+    "region": "",
+    "subregion": "",
+    "tags": [],
+    "year": 2024,
+    "program": "Entrepreneur First",
+    "programSlugs": [
+      "ef"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [
+      {
+        "name": "Théo Hoenen",
+        "role": "CEO",
+        "linkedin": "https://www.linkedin.com/in/théo-hoenen/"
+      },
+      {
+        "name": "Hayat Sehki",
+        "role": "Cofounder",
+        "linkedin": "https://www.linkedin.com/in/hayatsehki"
+      }
+    ],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "investor": ""
+    }
+  },
+  {
+    "source": "ef",
+    "name": "Rama",
+    "description": "AI agents for electronic component distribution.",
+    "logo": "",
+    "website": "",
+    "location": "",
+    "region": "",
+    "subregion": "",
+    "tags": [],
+    "year": 2025,
+    "program": "Entrepreneur First",
+    "programSlugs": [
+      "ef"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [
+      {
+        "name": "Matt Francis",
+        "role": "CEO",
+        "linkedin": "https://www.linkedin.com/in/matt-james-francis/"
+      },
+      {
+        "name": "Aidan Holmes",
+        "role": "CTO",
+        "linkedin": "https://www.linkedin.com/in/aidan-holmes-516513197?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app"
+      }
+    ],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "investor": ""
+    }
+  },
+  {
+    "source": "alchemist",
+    "name": "Geecko",
+    "description": "Platform that Automatizes Developers' Relations and Help Companies Hire IT Professionals Using Employer Brand Marketing, 53x More Effective than Hackathons.",
+    "logo": "",
+    "website": "",
+    "location": "San Francisco, CA, USA",
+    "region": "",
+    "subregion": "",
+    "tags": [],
+    "year": 2020,
+    "program": "Alchemist Class 27",
+    "programSlugs": [
+      "alchemist"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [
+      {
+        "name": "Elliott Sergeenko",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "Max Mescheryakov",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "Nikita Obukhov",
+        "role": "",
+        "linkedin": ""
+      }
+    ],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "country": "USA"
+    }
+  },
+  {
+    "source": "alchemist",
+    "name": "Productive AI",
+    "description": "Connecting Phone Calls to Your CRM ",
+    "logo": "",
+    "website": "",
+    "location": "San Mateo, CA, USA",
+    "region": "",
+    "subregion": "",
+    "tags": [],
+    "year": 2018,
+    "program": "Alchemist Class 19",
+    "programSlugs": [
+      "alchemist"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [
+      {
+        "name": "Enlai Chu",
+        "role": "",
+        "linkedin": ""
+      }
+    ],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "country": "USA"
+    }
+  },
+  {
+    "source": "alchemist",
+    "name": "Kropply",
+    "description": "AI Autocorrect for Software Runtime Errors.",
+    "logo": "",
+    "website": "",
+    "location": "Los Angeles, CA, USA",
+    "region": "",
+    "subregion": "",
+    "tags": [],
+    "year": 2023,
+    "program": "Alchemist Class 36",
+    "programSlugs": [
+      "alchemist"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [
+      {
+        "name": "Panos Halios",
+        "role": "",
+        "linkedin": ""
+      }
+    ],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "country": "USA"
+    }
+  },
+  {
+    "source": "alchemist",
+    "name": "Budee Solutions",
+    "description": "Digital Safety Management for the Industrial Enterprise",
+    "logo": "",
+    "website": "",
+    "location": "Toronto, ON, Canada",
+    "region": "",
+    "subregion": "",
+    "tags": [],
+    "year": 2022,
+    "program": "Alchemist Class 30",
+    "programSlugs": [
+      "alchemist"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [
+      {
+        "name": "Peter Jurisic",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "Graham Evans",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "Emily Bain",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "Stephen Jurisic",
+        "role": "",
+        "linkedin": ""
+      }
+    ],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "country": "Canada"
+    }
+  },
+  {
+    "source": "alchemist",
+    "name": "My90",
+    "description": "Making equity a competitive advantage",
+    "logo": "",
+    "website": "",
+    "location": "Seattle, WA, USA",
+    "region": "",
+    "subregion": "",
+    "tags": [],
+    "year": 2017,
+    "program": "Alchemist Class 19",
+    "programSlugs": [
+      "alchemist"
+    ],
+    "isExit": true,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "country": "USA"
+    }
+  },
+  {
+    "source": "alchemist",
+    "name": "Rocketbrew",
+    "description": "GenAI for personalized sales outbound.",
+    "logo": "",
+    "website": "",
+    "location": "Vancouver, BC, Canada",
+    "region": "",
+    "subregion": "",
+    "tags": [],
+    "year": 2021,
+    "program": "Alchemist Class 30",
+    "programSlugs": [
+      "alchemist"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [
+      {
+        "name": "Heidi Ye",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "Rachel Wong",
+        "role": "",
+        "linkedin": ""
+      }
+    ],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "country": "Canada"
+    }
+  },
+  {
+    "source": "alchemist",
+    "name": "Perimeter",
+    "description": "Perimeter brings real-time, collaborative data visualization to public safety.",
+    "logo": "",
+    "website": "",
+    "location": "Berkeley, CA, USA",
+    "region": "",
+    "subregion": "",
+    "tags": [],
+    "year": 2019,
+    "program": "Alchemist Class 23",
+    "programSlugs": [
+      "alchemist"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [
+      {
+        "name": "Bailey Farren",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "Noah Wu",
+        "role": "",
+        "linkedin": ""
+      }
+    ],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "country": "USA"
+    }
+  },
+  {
+    "source": "alchemist",
+    "name": "Element42",
+    "description": "We Leverage Blockchain to Enable a Democratized Method of Authentication and Exchange of Physical Assets",
+    "logo": "",
+    "website": "",
+    "location": "San Francisco, CA, USA",
+    "region": "",
+    "subregion": "",
+    "tags": [],
+    "year": 2018,
+    "program": "Alchemist Class 19",
+    "programSlugs": [
+      "alchemist"
+    ],
+    "isExit": true,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [
+      {
+        "name": "Pruthvi Rao",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "B.Tech",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "Vice President",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "Gaurav Prakash",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "BA Hons.",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "Senior Vice President",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "Mahantesh Kumar",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "B.Com",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "Associate Vice President",
+        "role": "",
+        "linkedin": ""
+      }
+    ],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "country": "USA"
+    }
+  },
+  {
+    "source": "alchemist",
+    "name": "Moesif",
+    "description": "Build Better APIs with Moesif API Analytics",
+    "logo": "",
+    "website": "",
+    "location": "San Francisco, CA, USA",
+    "region": "",
+    "subregion": "",
+    "tags": [],
+    "year": 2016,
+    "program": "Alchemist Class 15",
+    "programSlugs": [
+      "alchemist"
+    ],
+    "isExit": true,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [
+      {
+        "name": "Derric Gilling",
+        "role": "",
+        "linkedin": ""
+      }
+    ],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "country": "USA"
+    }
+  },
+  {
+    "source": "alchemist",
+    "name": "Shuttle Technologies",
+    "description": "The fastest way to book a flight to space.\n\n",
+    "logo": "",
+    "website": "",
+    "location": "San Francisco, CA, USA",
+    "region": "",
+    "subregion": "",
+    "tags": [],
+    "year": 2018,
+    "program": "Alchemist Class 19",
+    "programSlugs": [
+      "alchemist"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [
+      {
+        "name": "* Joey Primiani",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "+ Technical background",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "+ B.S. in Computer Science",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "* Avery Haskell",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "+ Entrepreneur",
+        "role": "",
+        "linkedin": ""
+      }
+    ],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "country": "USA"
+    }
+  },
+  {
+    "source": "alchemist",
+    "name": "Bitgrit",
+    "description": "Your AI? Built By Many. Your Data? Seen By None",
+    "logo": "",
+    "website": "",
+    "location": "Delaware City, DE, USA",
+    "region": "",
+    "subregion": "",
+    "tags": [],
+    "year": 2024,
+    "program": "Alchemist Class 39",
+    "programSlugs": [
+      "alchemist"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [
+      {
+        "name": "Tõnu Samuel",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "Kazuya Saginawa",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "Saksham Kukreja",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "Tetsuro Masunaga",
+        "role": "",
+        "linkedin": ""
+      }
+    ],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "country": "USA"
+    }
+  },
+  {
+    "source": "alchemist",
+    "name": "Wilab",
+    "description": "Wilab enables Telcos to have a “5G App Store” and developers to build 5G Apps without having to understand 5G or dealing with a Telco",
+    "logo": "",
+    "website": "",
+    "location": "San Francisco, CA, USA",
+    "region": "",
+    "subregion": "",
+    "tags": [],
+    "year": 2021,
+    "program": "Alchemist Class 29",
+    "programSlugs": [
+      "alchemist"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "country": "USA"
+    }
+  },
+  {
+    "source": "alchemist",
+    "name": "SupplyAI",
+    "description": "AI-Powered platform that helps retailers delivery great post purchase experience, efficiently ",
+    "logo": "",
+    "website": "",
+    "location": "San Francisco, CA, USA",
+    "region": "",
+    "subregion": "",
+    "tags": [],
+    "year": 2016,
+    "program": "Alchemist Class 14",
+    "programSlugs": [
+      "alchemist"
+    ],
+    "isExit": true,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [
+      {
+        "name": "Karthik Sridhar",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "Gurudatt Bhobe",
+        "role": "",
+        "linkedin": ""
+      }
+    ],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "country": "USA"
+    }
+  },
+  {
+    "source": "alchemist",
+    "name": "Slideflow Labs",
+    "description": "Empowering next-gen precision oncology with scalable, in-house AI biomarkers from routine pathology slides.",
+    "logo": "",
+    "website": "",
+    "location": "Chicago, IL, USA",
+    "region": "",
+    "subregion": "",
+    "tags": [],
+    "year": 2025,
+    "program": "Alchemist Class 41",
+    "programSlugs": [
+      "alchemist"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [
+      {
+        "name": "**Akhil Chakravarti**",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "**Sid Ramesh**",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "**James Dolezal**",
+        "role": "",
+        "linkedin": ""
+      },
+      {
+        "name": "**Kyler Rosen**",
+        "role": "",
+        "linkedin": ""
+      }
+    ],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "country": "USA"
+    }
+  },
+  {
+    "source": "plugandplay",
+    "name": "DIRO",
+    "description": "DIRO provides global document verification to prevent fraud using blockchain and cryptographic sealing.",
+    "logo": "https://cdn.playbook.vc/media/thumbnails/diro.png?Expires=1762305342&Signature=FVF4zyjHrpz~Ignv6xYQB5b~b-kX8Y5CimH63zf5vtF97flEYeKZ~hXGzYHWzpEx8dYwb5Y74q9mK74DeEsSHyJ9N71S2ZRoGuPpKIzjBFAvsbLBRzP8~zwvMW5Yrm0KOpfVDCwu41y9HdBEJwhgbyfpXq1fBtvvIleHNGE4MtrBTi9I5MdvFL~CnZvusKzGZWz31jBqi42tGLOrUFGHbqmdpb3kmL9iHcvchi4m95TmwqoPz2cCATnsTs-92sARMfHg7JIztD-1~tRfsxrmk6MpOs0voanXqmKZj1HTuZG5iavGGqLTzTOArZEzgEHk92I7C-taspSPsQlMh-7lZg__&Key-Pair-Id=K1EZH924FG48TE",
+    "website": "https://www.diro.io",
+    "location": "United States",
+    "region": "Americas",
+    "subregion": "",
+    "tags": [
+      "Fintech"
+    ],
+    "year": "",
+    "program": "Plug and Play",
+    "programSlugs": [
+      "plugandplay"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "city": "",
+      "state_province": "",
+      "country": "United States"
+    }
+  },
+  {
+    "source": "plugandplay",
+    "name": "Edbridg",
+    "description": "The most flexible and affordable financing for schools and students, through Income Share Agreements.",
+    "logo": "https://cdn.playbook.vc/media/thumbnails/Screen_Shot_2019-07-09_at_08.32.45_mR6CMlO.png?Expires=1722941350&Signature=Ldh43rusY3M0LZ~ujb-YECk2OU1i-yCfRcMflxiDMCcb9dK4JnMdq1O1wnXim~s8YnLIdVvDOMuC2vCwWXi3zS1nBQ3vMWKEFEWkqPbMXp-sU1BxgBq3bgKZcZ8Ex8WSDGJSHrVQci1ti5WJcJnApEZXIJoGQHNsZIGJLy28blpHcypL41sxU5XBAbIi59xw4IyCc4rwNlUYA05WHoB7ZRDCYHzSIvUhSTnj~IxfBBDhpgpekbJeyU~Kx5Kh4pWLuDk4oi-bjvwT5pe5bJfKXDtxTNQCw~F9YWr~gYyZn-AfUIlVWxSLsr~GfLSWAj1F57F-foWCqmkzQijGZJS6cA__&Key-Pair-Id=K1EZH924FG48TE",
+    "website": "https://www.edbridg.com/",
+    "location": "United Kingdom",
+    "region": "EMEA",
+    "subregion": "",
+    "tags": [
+      "Fintech"
+    ],
+    "year": "",
+    "program": "Plug and Play",
+    "programSlugs": [
+      "plugandplay"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "city": "",
+      "state_province": "",
+      "country": "United Kingdom"
+    }
+  },
+  {
+    "source": "plugandplay",
+    "name": "Nana Music",
+    "description": "Nana Music is a free musical collaboration application that enables its users to share their musical experiences.",
+    "logo": "https://cdn.playbook.vc/media/thumbnails/bz0oe5mw5jkftdaey0cy_YmdID5l.png?Expires=1776785018&Signature=gouvc03tOiCrzcjJNsgeJKS6E5SvqiU8zWOJosNmiO9uIo0oOBJptplH-02IXlj0U5NmfFdSGB9a2ehD35mDn5UAhl49JVSK-Ox1LCY6jyZj1NOoFdZuRy~2qhGVhqWG9fpiPzW~9xyIBfXR1C0QpS3s6vPt7yzwvx9HWZQ2rpEE~zMJs9~PJIk0yL~CDMxgysW9VU2GiGFDslrUpan3ntykGrsugeB2dntd80ScgugFL6EzKw2Swg6Hwu39TMJUF86vwzkkdzpfiwCTeL6NQKhESScSj608qu3h4BgpzZXa8EjhkJRz~OfKSpDyWDCvI4OY4tbAvL2IBLRkoZ9WYA__&Key-Pair-Id=K1EZH924FG48TE",
+    "website": "https://nana-music.com/",
+    "location": "Japan",
+    "region": "Asia",
+    "subregion": "",
+    "tags": [
+      "Mobility & Physical AI"
+    ],
+    "year": "",
+    "program": "Plug and Play",
+    "programSlugs": [
+      "plugandplay"
+    ],
+    "isExit": true,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "city": "Tokyo",
+      "state_province": "Japan",
+      "country": "Japan"
+    }
+  },
+  {
+    "source": "plugandplay",
+    "name": "Shenzhen TXD Technology",
+    "description": "Shenzhen TXD Technology is an electronic manufacturer.",
+    "logo": "https://cdn.playbook.vc/media/thumbnails/d97331e2e38c68541834?Expires=1776792487&Signature=DVZI6HkfNNU1HuXA2nwU7W-p4GEkGM7Twq7uLfQqzowH7AFPuTDamUnPVryqqx-RWiQd70OtygeWDeYZEyNTTJeDdsScAvTsMgNDe6Jo5YOOPukptrNDsPtMYWsmrB156KAtygf~eleLDjyqhm-zotBWXA5V57PIkWzf0IHwK-v3J-kSHRXnZb8AKIg7gDzFsHGr-Eb9wDuOL~ghO8YpsfVe6JCViVAB8lntK5R7NLlme54h5bmBHd~2U6fecNfPyaxfuf2TR9dLHfWiwiUuelf6QiwckJ5JylhgiL6MNqKrdTeoo0IjvJKWn5GPM8BuT9HsX7-TANteiIkQQOrrFA__&Key-Pair-Id=K1EZH924FG48TE",
+    "website": "http://www.txdkj.com/",
+    "location": "China",
+    "region": "Asia",
+    "subregion": "",
+    "tags": [
+      "Deeptech"
+    ],
+    "year": "",
+    "program": "Plug and Play",
+    "programSlugs": [
+      "plugandplay"
+    ],
+    "isExit": true,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "city": "Tokyo",
+      "state_province": "Japan",
+      "country": "China"
+    }
+  },
+  {
+    "source": "plugandplay",
+    "name": "Helios",
+    "description": "The alternative for sustainable banking.",
+    "logo": "https://cdn.playbook.vc/media/thumbnails/Screen_Shot_2020-05-19_at_10.47.15.png?Expires=1722942463&Signature=pKJp0AEMFZCmw0VRv7VwgJ~1bC7jCeP3EEuZHUBIkd45hv6wYRLmfULxbFxtoyYCNaY4LZ-P28CuQwHvYJ0v5IECEYNbMEl547jPr~-JW9-YKg9p9TqFeITZcXIPLoWGOdOYbrvDNvP8j~zQ0sjBJex3r9ZywT6gyBsE0dWrSFQUUSQ6aHwKGb2kRlXDKuI6eMDcSMUS7lFHs4T07Dnt7zcDjyspkLR2TizrpSj1LI0HKl45vGUk6OBfmm0Wk-y0tBBursd7jblUp807P7f0UC0JHb0hTm2BoO7pYoPPRLXlIvOKYB-1qwCquhnwi3uuUy6BfDMDE1Y5vbP610AoQQ__&Key-Pair-Id=K1EZH924FG48TE",
+    "website": "http://helios.do",
+    "location": "France",
+    "region": "EMEA",
+    "subregion": "",
+    "tags": [
+      "Fintech"
+    ],
+    "year": "",
+    "program": "Plug and Play",
+    "programSlugs": [
+      "plugandplay"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "city": "Paris",
+      "state_province": "France",
+      "country": "France"
+    }
+  },
+  {
+    "source": "plugandplay",
+    "name": "BCD iLabs",
+    "description": "Accelerating product velocity through AI-driven formulations in Food and Beverage R&D.",
+    "logo": "https://cdn.playbook.vc/media/thumbnails/bcdilabs_logo.jpg?Expires=1747428417&Signature=Qwr2LDiPu9XvBlwLUObqKv3jrLbv8A1vK5GUy73p4aJix3vhmqfcqhaCY~4ru6aipP3vAg4vtRI3M4HMIv1k2Ob3tIdj1CDQDSdH5pI0SeSSywNS1iqEvOYQYFTZsn8GL4ZmnwKQ-NB8R8xejE7S5I3xIfrEJTgRKtrKL4bQtWfiqccWkkGSD6gvGvP-kpaYEPzBynBDgxCSptreF6oBorZL-4MJkHeSX4KVKCFHtllhp60ViZih8B0KZnnq7zJdYapB2lXwpCFeR74Ka4dA-T~iv3gfSkDkFwk~2ZzdCngwLaL4uC8af-oj7SvYwzCPZ-M1blZN2Mrw~ljyM~fOzg__&Key-Pair-Id=K1EZH924FG48TE",
+    "website": "http://bcdilabs.com",
+    "location": "United States",
+    "region": "Americas",
+    "subregion": "",
+    "tags": [
+      "Food & Beverage"
+    ],
+    "year": "",
+    "program": "Plug and Play",
+    "programSlugs": [
+      "plugandplay"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "city": "Paris",
+      "state_province": "France",
+      "country": "United States"
+    }
+  },
+  {
+    "source": "plugandplay",
+    "name": "Chili Piper",
+    "description": "Chili Piper is a meeting lifecycle automation platform that helps revenue teams to increase their conversion rates.",
+    "logo": "https://cdn.playbook.vc/media/thumbnails/qwqvuiccx0xc2tyy8vno.png?Expires=1776792201&Signature=D6quLDs0Gd-P4elPld5XmE0TyOgsNIgnIpK3rnNn2axVm3z6Af44MqW5DdhL3S6pyKzna0s~faXbeqxBMbINAfIlHnwaep9VBGWidr47q8gH~f-CF~CGI0CYhY1Seskz9fj7~R~cP~8F3qKVuqyMlvcqKaN50h-ORxp11NukRbDveUnod86CubybornBoLeQkMOVSO3RYzeAwD-Cqvs8BFCEPlFasY~CjA4mYsGd6nK5hl0XihdVLEDxyD-bs4rToCHU~kjWJufOV7s2nFWmsmAqL1vUBCrwGXPZpM3OqNXjRwtFjwPiEb5SEqaaFNuE877mX2wiEg2loHa8mUW~Uw__&Key-Pair-Id=K1EZH924FG48TE",
+    "website": "https://www.chilipiper.com/",
+    "location": "United States",
+    "region": "Americas",
+    "subregion": "",
+    "tags": [
+      "Brand & Retail"
+    ],
+    "year": "",
+    "program": "Plug and Play",
+    "programSlugs": [
+      "plugandplay"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "city": "",
+      "state_province": "",
+      "country": "United States"
+    }
+  },
+  {
+    "source": "plugandplay",
+    "name": "Samaria Inc Ltd,",
+    "description": "JAPANMEDIA brings Japanese Manga to the Metaverse.",
+    "logo": "https://cdn.playbook.vc/media/thumbnails/JMlogo.png?Expires=1776779253&Signature=d32ape2z3r2SGsS2-hX3bo1hkXRfnPkLRtAbgwadcc9eScgsWu5b~OQxBF8CIBkPbASGeYJLvKsn9Q4Mo8~fAwktx0q9e6DNrTcjcqDSOa8ongyeuyUhrySbUHNzl43UtlXzYTKFmJVQg4AvTuWzwQo4pP1u~ZIF03En9GiuHhlRJA-9Kdb6BxCdJMnP4EkiJv2U8yHlh~4nfP3oZRICw-N5rFHfx~8tau5ZE0nnpb3tr73dC3ypitYcO~Gj5~V~tEZ84mTk4a~mg487dSd2y78HY8wh5opc4Ie9gRZfxi8d~VnJz76jN8NAMHrXetFhnYhj3mlH1bELqnulUzrsFQ__&Key-Pair-Id=K1EZH924FG48TE",
+    "website": "https://samaria.co.jp/en/",
+    "location": "Japan",
+    "region": "Asia",
+    "subregion": "",
+    "tags": [
+      "Brand & Retail"
+    ],
+    "year": "",
+    "program": "Plug and Play",
+    "programSlugs": [
+      "plugandplay"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "city": "Silicon Valley",
+      "state_province": "California",
+      "country": "Japan"
+    }
+  },
+  {
+    "source": "plugandplay",
+    "name": "Kav AI (fka Soter AI)",
+    "description": "Soter AI is an IT firm that specializes in anomaly detection and autonomous robotic operation surveillance.",
+    "logo": "https://cdn.playbook.vc/media/thumbnails/bffkhjhgllxgxneflvma?Expires=1756832581&Signature=egNJfsJvxIi8x0YBZQHutWTMyGO-w0SJb4dOfHwMmr9jRUoeLTT3Zv7ZtAPDr5WIO-B7Z~K14WFrShVb7IafEoGITuqR~c-94f1XqVNVsdk6VNj4NsrJCYUnhVNcrFttppAWhmn3gV3k~vsuZU92xOQDUuptWqYmozuYmN9lWtJvjsHHcCSJTHrnzO4mdanU1wUPTPBu66TjBc6zJH69mXzgfx29l80fn~oc3ylU~nQh9siKihmLhCpUnF6zemh6SJSuah44VcsHtiwEfJT-3cGAI~8XN6ugBRfZqvXuMLF4Rv2NFPfL0LypH9Fqm32RA77wA5s3ibjsagFqSRVypw__&Key-Pair-Id=K1EZH924FG48TE",
+    "website": "https://soterai.com",
+    "location": "United States",
+    "region": "Americas",
+    "subregion": "",
+    "tags": [
+      "Enterprise & AI"
+    ],
+    "year": "",
+    "program": "Plug and Play",
+    "programSlugs": [
+      "plugandplay"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "city": "Silicon Valley",
+      "state_province": "California",
+      "country": "United States"
+    }
+  },
+  {
+    "source": "plugandplay",
+    "name": "TMJ",
+    "description": "TMJ is a business process outsourcing organization.",
+    "logo": "https://cdn.playbook.vc/media/thumbnails/14792e221a8a56cdbb3a_VRMuTkh?Expires=1776785487&Signature=VnQNVrs-JpqdvY-BXTxZv8KQrH7byWpwW4k-RefOUNkfX7U5e7YwLInXL7pJgENiFLKgpd8mBT-3-eyJU5rNac1pub97lAfSOstrvGa70ylajcHSuFi0YTteF0jP8g63vEJzd3skzfP3Rtq3ArRnGE7hgU6VeOYMmi5VMUXVrSpyNfL1XFajMhHQp~2~xYG5B9eEOqvOOAmiHpqmf85pmLaoQXlyooGNgvnDW~XkmcC5zqbUC-jVaQpg7L9PSW4n95kKbW6pvgmWbqHj8zUkKnM073OLRRX9PXrTln7FT0q4co1BxwjoeiignAg80~FMAHA2E-xknFP5TX~3eZPg4w__&Key-Pair-Id=K1EZH924FG48TE",
+    "website": "http://www.tmj.jp/",
+    "location": "Japan",
+    "region": "Asia",
+    "subregion": "",
+    "tags": [],
+    "year": "",
+    "program": "Plug and Play",
+    "programSlugs": [
+      "plugandplay"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "city": "Tokyo",
+      "state_province": "Japan",
+      "country": "Japan"
+    }
+  },
+  {
+    "source": "plugandplay",
+    "name": "Quest",
+    "description": "Quest is a platform where Gen Zs can access to earning opportunities by monetising their skills and time.",
+    "logo": "https://cdn.playbook.vc/media/thumbnails/lvgakycjirrvpez5jze0?Expires=1722946926&Signature=m6Y3CeRNDomBOz~flvYaxanpEBaUdndwt8-xuTVpGqOkUWdFs9UHlwD3of18RhqwLQkZIvy~EBzig7dYhrssOes5OcKU7mwCI~HmcI9NCUqDFZObnxrx0iPewJNcjDwcEMnwscFbC2VI5GZ8HXRH5FUyDTSfwu5T~ddr6yfEUXqXzz8TSR2mAcp6lgN2CT12aHeohWo7p6NN7VuuvB0OssAe~FEKrzF7r8OlJ5cOA5ug6oXv7pru~DhBEOZZuLfwoUDQI9wK~NhqQhZRE~lg~QgH--YiCDmFZ2T8DbSiIXzfoTyzx-P4weaOR4E2LACEycWcITE~G2cDHz1kXvDoQg__&Key-Pair-Id=K1EZH924FG48TE",
+    "website": "https://quest-inc.co",
+    "location": "Singapore",
+    "region": "Asia",
+    "subregion": "",
+    "tags": [
+      "Enterprise & AI"
+    ],
+    "year": "",
+    "program": "Plug and Play",
+    "programSlugs": [
+      "plugandplay"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "city": "Singapore",
+      "state_province": "",
+      "country": "Singapore"
+    }
+  },
+  {
+    "source": "plugandplay",
+    "name": "Kashika",
+    "description": "Kashika is a visualization consulting, UI/UX development and software development firm.",
+    "logo": "https://cdn.playbook.vc/media/thumbnails/656bde1c00f2edc65417_KzVt3vB?Expires=1776786420&Signature=SA-gq43k~WLp4CAPPnvIosWi50oZQQRQuF5XZ~0MW7pZ87y-GjYLFDCwbEz0UpK3El6ttgrvIMEpnHTsHCkAxAc9-D6Jfrx1k~wKkVTunlCOegz8M7cR9Ra4o-QbBABvJX-SORNjiiAwkqewxK2BPtOu3Oz7ccLqmCCn5jBQEFmTYfk-ZUJKldvzEqGQOgScP5tNihja1Hi4Z5XjLnMbF6a~HdpjlXgW-EPXu9pMrbLY0fuEdSG-VuQNqgyB5dgfyMHgmtNVcXApoUeUiNwyW2KYXR8p03vQcj7Wor8j8FXBLjQVY8U3GvwV6ZCAuZZsKWLq38ELBP-UpJIRobActA__&Key-Pair-Id=K1EZH924FG48TE",
+    "website": "https://kashika.co.jp/index.html",
+    "location": "Japan",
+    "region": "Asia",
+    "subregion": "",
+    "tags": [
+      "Brand & Retail"
+    ],
+    "year": "",
+    "program": "Plug and Play",
+    "programSlugs": [
+      "plugandplay"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "city": "Tokyo",
+      "state_province": "Japan",
+      "country": "Japan"
+    }
+  },
+  {
+    "source": "plugandplay",
+    "name": "Rushnu",
+    "description": "Rushnu is a highly cost/ energy efficient technology that capture CO2 from industrial plants and convert it to intermediate chemicals with wide-application across industries.",
+    "logo": "https://cdn.playbook.vc/media/startup-no-logo-placeholder.png",
+    "website": "http://rushnu.com",
+    "location": "United States",
+    "region": "Americas",
+    "subregion": "",
+    "tags": [
+      "Sustainability"
+    ],
+    "year": "",
+    "program": "Plug and Play",
+    "programSlugs": [
+      "plugandplay"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "city": "Silicon Valley",
+      "state_province": "California",
+      "country": "United States"
+    }
+  },
+  {
+    "source": "plugandplay",
+    "name": "Kinta AI",
+    "description": "Kinta AI is an artificial intelligence platform which empowers the dynamic and digital factory of the future.",
+    "logo": "https://cdn.playbook.vc/media/thumbnails/ezgq9in0tccdcd0xm9ol_f0j3ORG?Expires=1722941883&Signature=dVithTEVQv95dp61NIICtub2dt95jnkhMJ7jGSxVwg0AiycaCebJ7nVuQ6eCns6cWacJNfkzSl4SES7ZXUpj83k3lpZCNztPGzzuaMHmoy-L7i0BjOOZ-yh2GashrZ2A4e4CVNrR24s~mYyNQrYJfW2WV1gbDI19tVYmJ3SJYfzjtOGlrp30Yc3x6xoarIpcCfYRiGKkK~8ZyaMfswHrOpZzy2WmmZ4N7VTYvUlOix5j4d9BNbKvjPFYyyKm1s~9Eqhh4DUg4piLVjhhex9sVscHWs-fgBcDYJctx5hvrgUcpWIGAVqpAGweW~Benx~-8ZOUstCpfsg2dxNxDcExWQ__&Key-Pair-Id=K1EZH924FG48TE",
+    "website": "http://www.kinta-ai.com/",
+    "location": "United States",
+    "region": "Americas",
+    "subregion": "",
+    "tags": [
+      "Mobility & Physical AI"
+    ],
+    "year": "",
+    "program": "Plug and Play",
+    "programSlugs": [
+      "plugandplay"
+    ],
+    "isExit": false,
+    "isUnicorn": false,
+    "isBCorp": false,
+    "isCurrentSession": false,
+    "founders": [],
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "facebook": "",
+      "crunchbase": ""
+    },
+    "extra": {
+      "city": "Silicon Valley",
+      "state_province": "California",
+      "country": "United States"
+    }
+  }
+]

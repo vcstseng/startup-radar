@@ -1,0 +1,3194 @@
+[
+  {
+    "id": "upstream-13931",
+    "dimension": "industry_customer",
+    "from": "零售",
+    "to": "零售業"
+  },
+  {
+    "id": "upstream-14133",
+    "dimension": "industry_customer",
+    "from": "不動產",
+    "to": "房地產"
+  },
+  {
+    "id": "upstream-15837",
+    "dimension": "industry_customer",
+    "from": "製造",
+    "to": "製造業"
+  },
+  {
+    "id": "upstream-11470",
+    "dimension": "industry_customer",
+    "from": "不動產",
+    "to": "房地產"
+  },
+  {
+    "id": "upstream-11498",
+    "dimension": "industry_customer",
+    "from": "零售",
+    "to": "零售業"
+  },
+  {
+    "id": "upstream-12333",
+    "dimension": "industry_customer",
+    "from": "零售",
+    "to": "零售業"
+  },
+  {
+    "id": "upstream-12415",
+    "dimension": "problem_workflow",
+    "from": "合規管理",
+    "to": "合規"
+  },
+  {
+    "id": "upstream-12498",
+    "dimension": "industry_customer",
+    "from": "保險",
+    "to": "保險業"
+  },
+  {
+    "id": "upstream-14884",
+    "dimension": "industry_customer",
+    "from": "營建",
+    "to": "營建業"
+  },
+  {
+    "id": "upstream-16463",
+    "dimension": "industry_customer",
+    "from": "保險",
+    "to": "保險業"
+  },
+  {
+    "id": "upstream-16565",
+    "dimension": "industry_customer",
+    "from": "零售",
+    "to": "零售業"
+  },
+  {
+    "id": "upstream-16956",
+    "dimension": "industry_customer",
+    "from": "製造",
+    "to": "製造業"
+  },
+  {
+    "id": "upstream-17766",
+    "dimension": "industry_customer",
+    "from": "製造",
+    "to": "製造業"
+  },
+  {
+    "id": "upstream-18255",
+    "dimension": "industry_customer",
+    "from": "保險",
+    "to": "保險業"
+  },
+  {
+    "id": "upstream-19031",
+    "dimension": "industry_customer",
+    "from": "保險",
+    "to": "保險業"
+  },
+  {
+    "id": "upstream-19099",
+    "dimension": "industry_customer",
+    "from": "保險",
+    "to": "保險業"
+  },
+  {
+    "id": "upstream-19384",
+    "dimension": "problem_workflow",
+    "from": "模型監控",
+    "to": "模型監測"
+  },
+  {
+    "id": "upstream-19419",
+    "dimension": "industry_customer",
+    "from": "物流",
+    "to": "物流業"
+  },
+  {
+    "id": "upstream-19419",
+    "dimension": "industry_customer",
+    "from": "製造",
+    "to": "製造業"
+  },
+  {
+    "id": "upstream-20255",
+    "dimension": "industry_customer",
+    "from": "製造",
+    "to": "製造業"
+  },
+  {
+    "id": "upstream-20558",
+    "dimension": "industry_customer",
+    "from": "保險",
+    "to": "保險業"
+  },
+  {
+    "id": "upstream-00739",
+    "dimension": "solution",
+    "from": "對話式 AI",
+    "to": "對話 AI"
+  },
+  {
+    "id": "upstream-02507",
+    "dimension": "industry_customer",
+    "from": "汽車",
+    "to": "汽車業"
+  },
+  {
+    "id": "upstream-02855",
+    "dimension": "problem_workflow",
+    "from": "合規管理",
+    "to": "合規"
+  },
+  {
+    "id": "upstream-03184",
+    "dimension": "industry_customer",
+    "from": "不動產",
+    "to": "房地產"
+  },
+  {
+    "id": "upstream-03660",
+    "dimension": "industry_customer",
+    "from": "物流",
+    "to": "物流業"
+  },
+  {
+    "id": "upstream-05600",
+    "dimension": "industry_customer",
+    "from": "零售",
+    "to": "零售業"
+  },
+  {
+    "id": "upstream-05600",
+    "dimension": "industry_customer",
+    "from": "物流",
+    "to": "物流業"
+  },
+  {
+    "id": "upstream-06102",
+    "dimension": "industry_customer",
+    "from": "零售",
+    "to": "零售業"
+  },
+  {
+    "id": "upstream-07795",
+    "dimension": "problem_workflow",
+    "from": "合規管理",
+    "to": "合規"
+  },
+  {
+    "id": "upstream-08397",
+    "dimension": "industry_customer",
+    "from": "製造",
+    "to": "製造業"
+  },
+  {
+    "id": "upstream-09026",
+    "dimension": "industry_customer",
+    "from": "營建",
+    "to": "營建業"
+  },
+  {
+    "id": "upstream-10099",
+    "dimension": "problem_workflow",
+    "from": "合規管理",
+    "to": "合規"
+  },
+  {
+    "id": "upstream-10309",
+    "dimension": "industry_customer",
+    "from": "物流",
+    "to": "物流業"
+  },
+  {
+    "id": "upstream-10491",
+    "dimension": "industry_customer",
+    "from": "物流",
+    "to": "物流業"
+  },
+  {
+    "id": "upstream-10535",
+    "dimension": "industry_customer",
+    "from": "營建",
+    "to": "營建業"
+  },
+  {
+    "id": "upstream-10698",
+    "dimension": "industry_customer",
+    "from": "保險",
+    "to": "保險業"
+  },
+  {
+    "id": "upstream-11170",
+    "dimension": "industry_customer",
+    "from": "物流",
+    "to": "物流業"
+  },
+  {
+    "id": "upstream-11200",
+    "dimension": "industry_customer",
+    "from": "製造",
+    "to": "製造業"
+  },
+  {
+    "id": "upstream-11379",
+    "dimension": "industry_customer",
+    "from": "保險",
+    "to": "保險業"
+  },
+  {
+    "id": "upstream-12770",
+    "dimension": "industry_customer",
+    "from": "零售",
+    "to": "零售業"
+  },
+  {
+    "id": "upstream-11548",
+    "dimension": "problem_workflow",
+    "from": "合規管理",
+    "to": "合規"
+  },
+  {
+    "id": "upstream-11664",
+    "dimension": "industry_customer",
+    "from": "零售",
+    "to": "零售業"
+  },
+  {
+    "id": "upstream-11738",
+    "dimension": "solution",
+    "from": "AI coaching",
+    "to": "AI 教練"
+  },
+  {
+    "id": "upstream-12027",
+    "dimension": "industry_customer",
+    "from": "零售",
+    "to": "零售業"
+  },
+  {
+    "id": "upstream-12214",
+    "dimension": "problem_workflow",
+    "from": "銷售作業",
+    "to": "銷售"
+  },
+  {
+    "id": "upstream-12240",
+    "dimension": "industry_customer",
+    "from": "零售",
+    "to": "零售業"
+  },
+  {
+    "id": "upstream-16596",
+    "dimension": "solution",
+    "from": "對話式 AI",
+    "to": "對話 AI"
+  },
+  {
+    "id": "upstream-16809",
+    "dimension": "industry_customer",
+    "from": "保險",
+    "to": "保險業"
+  },
+  {
+    "id": "upstream-19017",
+    "dimension": "solution",
+    "from": "對話式 AI",
+    "to": "對話 AI"
+  },
+  {
+    "id": "upstream-21233",
+    "dimension": "industry_customer",
+    "from": "保險",
+    "to": "保險業"
+  },
+  {
+    "id": "upstream-00526",
+    "dimension": "industry_customer",
+    "from": "營建",
+    "to": "營建業"
+  },
+  {
+    "id": "upstream-00844",
+    "dimension": "industry_customer",
+    "from": "製造",
+    "to": "製造業"
+  },
+  {
+    "id": "upstream-01132",
+    "dimension": "industry_customer",
+    "from": "汽車",
+    "to": "汽車業"
+  },
+  {
+    "id": "upstream-01419",
+    "dimension": "industry_customer",
+    "from": "營建",
+    "to": "營建業"
+  },
+  {
+    "id": "upstream-02705",
+    "dimension": "industry_customer",
+    "from": "不動產",
+    "to": "房地產"
+  },
+  {
+    "id": "upstream-03110",
+    "dimension": "industry_customer",
+    "from": "不動產",
+    "to": "房地產"
+  },
+  {
+    "id": "upstream-03610",
+    "dimension": "industry_customer",
+    "from": "物流",
+    "to": "物流業"
+  },
+  {
+    "id": "upstream-03673",
+    "dimension": "industry_customer",
+    "from": "保險",
+    "to": "保險業"
+  },
+  {
+    "id": "upstream-04351",
+    "dimension": "industry_customer",
+    "from": "零售",
+    "to": "零售業"
+  },
+  {
+    "id": "upstream-06391",
+    "dimension": "industry_customer",
+    "from": "零售",
+    "to": "零售業"
+  },
+  {
+    "id": "upstream-06890",
+    "dimension": "industry_customer",
+    "from": "零售",
+    "to": "零售業"
+  },
+  {
+    "id": "upstream-08713",
+    "dimension": "industry_customer",
+    "from": "保險",
+    "to": "保險業"
+  },
+  {
+    "id": "upstream-09843",
+    "dimension": "industry_customer",
+    "from": "保險",
+    "to": "保險業"
+  },
+  {
+    "id": "upstream-10976",
+    "dimension": "industry_customer",
+    "from": "製造",
+    "to": "製造業"
+  },
+  {
+    "id": "upstream-12587",
+    "dimension": "industry_customer",
+    "from": "汽車",
+    "to": "汽車業"
+  },
+  {
+    "id": "upstream-12587",
+    "dimension": "industry_customer",
+    "from": "保險",
+    "to": "保險業"
+  },
+  {
+    "id": "upstream-14223",
+    "dimension": "industry_customer",
+    "from": "保險",
+    "to": "保險業"
+  },
+  {
+    "id": "upstream-15448",
+    "dimension": "solution",
+    "from": "AI coaching",
+    "to": "AI 教練"
+  },
+  {
+    "id": "upstream-15499",
+    "dimension": "industry_customer",
+    "from": "物流",
+    "to": "物流業"
+  },
+  {
+    "id": "upstream-15605",
+    "dimension": "industry_customer",
+    "from": "零售",
+    "to": "零售業"
+  },
+  {
+    "id": "upstream-15697",
+    "dimension": "industry_customer",
+    "from": "製造",
+    "to": "製造業"
+  },
+  {
+    "id": "upstream-11560",
+    "dimension": "problem_workflow",
+    "from": "銷售作業",
+    "to": "銷售"
+  },
+  {
+    "id": "upstream-11563",
+    "dimension": "industry_customer",
+    "from": "營建",
+    "to": "營建業"
+  },
+  {
+    "id": "upstream-12013",
+    "dimension": "industry_customer",
+    "from": "製造",
+    "to": "製造業"
+  },
+  {
+    "id": "upstream-14953",
+    "dimension": "industry_customer",
+    "from": "零售",
+    "to": "零售業"
+  },
+  {
+    "id": "upstream-14991",
+    "dimension": "industry_customer",
+    "from": "汽車",
+    "to": "汽車業"
+  },
+  {
+    "id": "upstream-15100",
+    "dimension": "industry_customer",
+    "from": "製造",
+    "to": "製造業"
+  },
+  {
+    "id": "upstream-16469",
+    "dimension": "industry_customer",
+    "from": "物流",
+    "to": "物流業"
+  },
+  {
+    "id": "upstream-18383",
+    "dimension": "industry_customer",
+    "from": "汽車",
+    "to": "汽車業"
+  },
+  {
+    "id": "upstream-18836",
+    "dimension": "industry_customer",
+    "from": "零售",
+    "to": "零售業"
+  },
+  {
+    "id": "upstream-21237",
+    "dimension": "industry_customer",
+    "from": "汽車",
+    "to": "汽車業"
+  },
+  {
+    "id": "upstream-21237",
+    "dimension": "industry_customer",
+    "from": "不動產",
+    "to": "房地產"
+  },
+  {
+    "id": "upstream-00612",
+    "dimension": "industry_customer",
+    "from": "物流",
+    "to": "物流業"
+  },
+  {
+    "id": "upstream-00612",
+    "dimension": "problem_workflow",
+    "from": "合規管理",
+    "to": "合規"
+  },
+  {
+    "id": "upstream-01318",
+    "dimension": "industry_customer",
+    "from": "零售",
+    "to": "零售業"
+  },
+  {
+    "id": "upstream-01425",
+    "dimension": "problem_workflow",
+    "from": "合規管理",
+    "to": "合規"
+  },
+  {
+    "id": "upstream-02155",
+    "dimension": "industry_customer",
+    "from": "製造",
+    "to": "製造業"
+  },
+  {
+    "id": "upstream-04556",
+    "dimension": "industry_customer",
+    "from": "零售",
+    "to": "零售業"
+  },
+  {
+    "id": "upstream-07402",
+    "dimension": "industry_customer",
+    "from": "零售",
+    "to": "零售業"
+  },
+  {
+    "id": "upstream-08322",
+    "dimension": "industry_customer",
+    "from": "零售",
+    "to": "零售業"
+  },
+  {
+    "id": "upstream-08326",
+    "dimension": "industry_customer",
+    "from": "營建",
+    "to": "營建業"
+  },
+  {
+    "id": "upstream-08366",
+    "dimension": "industry_customer",
+    "from": "保險",
+    "to": "保險業"
+  },
+  {
+    "id": "upstream-08433",
+    "dimension": "problem_workflow",
+    "from": "合規管理",
+    "to": "合規"
+  },
+  {
+    "id": "upstream-08793",
+    "dimension": "industry_customer",
+    "from": "製造",
+    "to": "製造業"
+  },
+  {
+    "id": "upstream-09208",
+    "dimension": "industry_customer",
+    "from": "零售",
+    "to": "零售業"
+  },
+  {
+    "id": "upstream-09297",
+    "dimension": "solution",
+    "from": "對話式 AI",
+    "to": "對話 AI"
+  },
+  {
+    "id": "upstream-09453",
+    "dimension": "solution",
+    "from": "AI coaching",
+    "to": "AI 教練"
+  },
+  {
+    "id": "upstream-09529",
+    "dimension": "problem_workflow",
+    "from": "模型監控",
+    "to": "模型監測"
+  },
+  {
+    "id": "upstream-09603",
+    "dimension": "industry_customer",
+    "from": "零售",
+    "to": "零售業"
+  },
+  {
+    "id": "upstream-09986",
+    "dimension": "industry_customer",
+    "from": "營建",
+    "to": "營建業"
+  },
+  {
+    "id": "upstream-10146",
+    "dimension": "industry_customer",
+    "from": "保險",
+    "to": "保險業"
+  },
+  {
+    "id": "upstream-10403",
+    "dimension": "solution",
+    "from": "AI coaching",
+    "to": "AI 教練"
+  },
+  {
+    "id": "upstream-10509",
+    "dimension": "industry_customer",
+    "from": "不動產",
+    "to": "房地產"
+  },
+  {
+    "id": "upstream-11233",
+    "dimension": "industry_customer",
+    "from": "汽車",
+    "to": "汽車業"
+  },
+  {
+    "id": "upstream-12574",
+    "dimension": "industry_customer",
+    "from": "零售",
+    "to": "零售業"
+  },
+  {
+    "id": "upstream-13392",
+    "dimension": "industry_customer",
+    "from": "不動產",
+    "to": "房地產"
+  },
+  {
+    "id": "upstream-15425",
+    "dimension": "problem_workflow",
+    "from": "採購作業",
+    "to": "採購"
+  },
+  {
+    "id": "upstream-11511",
+    "dimension": "problem_workflow",
+    "from": "銷售作業",
+    "to": "銷售"
+  },
+  {
+    "id": "upstream-11645",
+    "dimension": "industry_customer",
+    "from": "物流",
+    "to": "物流業"
+  },
+  {
+    "id": "upstream-11727",
+    "dimension": "industry_customer",
+    "from": "物流",
+    "to": "物流業"
+  },
+  {
+    "id": "upstream-12014",
+    "dimension": "industry_customer",
+    "from": "物流",
+    "to": "物流業"
+  },
+  {
+    "id": "upstream-15079",
+    "dimension": "industry_customer",
+    "from": "零售",
+    "to": "零售業"
+  },
+  {
+    "id": "upstream-15124",
+    "dimension": "industry_customer",
+    "from": "零售",
+    "to": "零售業"
+  },
+  {
+    "id": "upstream-16313",
+    "dimension": "industry_customer",
+    "from": "汽車",
+    "to": "汽車業"
+  },
+  {
+    "id": "upstream-16563",
+    "dimension": "industry_customer",
+    "from": "零售",
+    "to": "零售業"
+  },
+  {
+    "id": "upstream-16571",
+    "dimension": "industry_customer",
+    "from": "保險",
+    "to": "保險業"
+  },
+  {
+    "id": "upstream-17835",
+    "dimension": "industry_customer",
+    "from": "製造",
+    "to": "製造業"
+  },
+  {
+    "id": "upstream-17835",
+    "dimension": "industry_customer",
+    "from": "物流",
+    "to": "物流業"
+  },
+  {
+    "id": "upstream-18335",
+    "dimension": "solution",
+    "from": "對話式 AI",
+    "to": "對話 AI"
+  },
+  {
+    "id": "upstream-18994",
+    "dimension": "industry_customer",
+    "from": "汽車",
+    "to": "汽車業"
+  },
+  {
+    "id": "upstream-19324",
+    "dimension": "industry_customer",
+    "from": "零售",
+    "to": "零售業"
+  },
+  {
+    "id": "upstream-20000",
+    "dimension": "solution",
+    "from": "對話式 AI",
+    "to": "對話 AI"
+  },
+  {
+    "id": "upstream-20449",
+    "dimension": "industry_customer",
+    "from": "製造",
+    "to": "製造業"
+  },
+  {
+    "id": "upstream-00963",
+    "dimension": "industry_customer",
+    "from": "物流",
+    "to": "物流業"
+  },
+  {
+    "id": "upstream-01617",
+    "dimension": "solution",
+    "from": "對話式 AI",
+    "to": "對話 AI"
+  },
+  {
+    "id": "upstream-01828",
+    "dimension": "industry_customer",
+    "from": "製造",
+    "to": "製造業"
+  },
+  {
+    "id": "upstream-02126",
+    "dimension": "industry_customer",
+    "from": "汽車",
+    "to": "汽車業"
+  },
+  {
+    "id": "upstream-02424",
+    "dimension": "solution",
+    "from": "對話式 AI",
+    "to": "對話 AI"
+  },
+  {
+    "id": "upstream-03104",
+    "dimension": "industry_customer",
+    "from": "零售",
+    "to": "零售業"
+  },
+  {
+    "id": "upstream-03142",
+    "dimension": "problem_workflow",
+    "from": "合規管理",
+    "to": "合規"
+  },
+  {
+    "id": "upstream-05916",
+    "dimension": "industry_customer",
+    "from": "零售",
+    "to": "零售業"
+  },
+  {
+    "id": "upstream-06546",
+    "dimension": "industry_customer",
+    "from": "物流",
+    "to": "物流業"
+  },
+  {
+    "id": "upstream-06954",
+    "dimension": "industry_customer",
+    "from": "保險",
+    "to": "保險業"
+  },
+  {
+    "id": "upstream-07251",
+    "dimension": "industry_customer",
+    "from": "保險",
+    "to": "保險業"
+  },
+  {
+    "id": "upstream-07617",
+    "dimension": "industry_customer",
+    "from": "物流",
+    "to": "物流業"
+  },
+  {
+    "id": "upstream-09244",
+    "dimension": "problem_workflow",
+    "from": "合規管理",
+    "to": "合規"
+  },
+  {
+    "id": "upstream-09639",
+    "dimension": "industry_customer",
+    "from": "保險",
+    "to": "保險業"
+  },
+  {
+    "id": "upstream-09856",
+    "dimension": "industry_customer",
+    "from": "零售",
+    "to": "零售業"
+  },
+  {
+    "id": "upstream-10832",
+    "dimension": "industry_customer",
+    "from": "物流",
+    "to": "物流業"
+  },
+  {
+    "id": "upstream-10853",
+    "dimension": "industry_customer",
+    "from": "不動產",
+    "to": "房地產"
+  },
+  {
+    "id": "upstream-11172",
+    "dimension": "industry_customer",
+    "from": "營建",
+    "to": "營建業"
+  },
+  {
+    "id": "upstream-12799",
+    "dimension": "industry_customer",
+    "from": "汽車",
+    "to": "汽車業"
+  },
+  {
+    "id": "upstream-15395",
+    "dimension": "industry_customer",
+    "from": "汽車",
+    "to": "汽車業"
+  },
+  {
+    "id": "upstream-12329",
+    "dimension": "industry_customer",
+    "from": "製造",
+    "to": "製造業"
+  },
+  {
+    "id": "upstream-15094",
+    "dimension": "industry_customer",
+    "from": "營建",
+    "to": "營建業"
+  },
+  {
+    "id": "upstream-15204",
+    "dimension": "industry_customer",
+    "from": "零售",
+    "to": "零售業"
+  },
+  {
+    "id": "upstream-16658",
+    "dimension": "industry_customer",
+    "from": "製造",
+    "to": "製造業"
+  },
+  {
+    "id": "upstream-19007",
+    "dimension": "industry_customer",
+    "from": "保險",
+    "to": "保險業"
+  },
+  {
+    "id": "upstream-19256",
+    "dimension": "industry_customer",
+    "from": "物流",
+    "to": "物流業"
+  },
+  {
+    "id": "upstream-19329",
+    "dimension": "industry_customer",
+    "from": "零售",
+    "to": "零售業"
+  },
+  {
+    "id": "upstream-19582",
+    "dimension": "industry_customer",
+    "from": "零售",
+    "to": "零售業"
+  },
+  {
+    "id": "upstream-20937",
+    "dimension": "problem_workflow",
+    "from": "銷售作業",
+    "to": "銷售"
+  },
+  {
+    "id": "upstream-00646",
+    "dimension": "industry_customer",
+    "from": "保險",
+    "to": "保險業"
+  },
+  {
+    "id": "upstream-00646",
+    "dimension": "solution",
+    "from": "對話式 AI",
+    "to": "對話 AI"
+  },
+  {
+    "id": "upstream-01413",
+    "dimension": "problem_workflow",
+    "from": "合規管理",
+    "to": "合規"
+  },
+  {
+    "id": "upstream-01499",
+    "dimension": "problem_workflow",
+    "from": "合規管理",
+    "to": "合規"
+  },
+  {
+    "id": "upstream-02520",
+    "dimension": "industry_customer",
+    "from": "汽車",
+    "to": "汽車業"
+  },
+  {
+    "id": "upstream-02918",
+    "dimension": "industry_customer",
+    "from": "零售",
+    "to": "零售業"
+  },
+  {
+    "id": "upstream-02941",
+    "dimension": "industry_customer",
+    "from": "零售",
+    "to": "零售業"
+  },
+  {
+    "id": "upstream-02978",
+    "dimension": "industry_customer",
+    "from": "零售",
+    "to": "零售業"
+  },
+  {
+    "id": "upstream-03277",
+    "dimension": "solution",
+    "from": "AI coaching",
+    "to": "AI 教練"
+  },
+  {
+    "id": "upstream-03672",
+    "dimension": "industry_customer",
+    "from": "零售",
+    "to": "零售業"
+  },
+  {
+    "id": "upstream-06897",
+    "dimension": "solution",
+    "from": "AI coaching",
+    "to": "AI 教練"
+  },
+  {
+    "id": "upstream-08723",
+    "dimension": "industry_customer",
+    "from": "保險",
+    "to": "保險業"
+  },
+  {
+    "id": "upstream-08919",
+    "dimension": "industry_customer",
+    "from": "不動產",
+    "to": "房地產"
+  },
+  {
+    "id": "upstream-09573",
+    "dimension": "industry_customer",
+    "from": "營建",
+    "to": "營建業"
+  },
+  {
+    "id": "upstream-09580",
+    "dimension": "solution",
+    "from": "對話式 AI",
+    "to": "對話 AI"
+  },
+  {
+    "id": "upstream-09981",
+    "dimension": "industry_customer",
+    "from": "保險",
+    "to": "保險業"
+  },
+  {
+    "id": "upstream-10100",
+    "dimension": "industry_customer",
+    "from": "零售",
+    "to": "零售業"
+  },
+  {
+    "id": "upstream-10230",
+    "dimension": "industry_customer",
+    "from": "保險",
+    "to": "保險業"
+  },
+  {
+    "id": "upstream-10908",
+    "dimension": "industry_customer",
+    "from": "營建",
+    "to": "營建業"
+  },
+  {
+    "id": "upstream-11197",
+    "dimension": "industry_customer",
+    "from": "保險",
+    "to": "保險業"
+  },
+  {
+    "id": "upstream-11315",
+    "dimension": "industry_customer",
+    "from": "製造",
+    "to": "製造業"
+  },
+  {
+    "id": "upstream-11339",
+    "dimension": "industry_customer",
+    "from": "物流",
+    "to": "物流業"
+  },
+  {
+    "id": "upstream-12777",
+    "dimension": "solution",
+    "from": "AI coaching",
+    "to": "AI 教練"
+  },
+  {
+    "id": "upstream-13703",
+    "dimension": "industry_customer",
+    "from": "零售",
+    "to": "零售業"
+  },
+  {
+    "id": "upstream-13835",
+    "dimension": "industry_customer",
+    "from": "零售",
+    "to": "零售業"
+  },
+  {
+    "id": "upstream-13889",
+    "dimension": "industry_customer",
+    "from": "零售",
+    "to": "零售業"
+  },
+  {
+    "id": "upstream-15335",
+    "dimension": "industry_customer",
+    "from": "零售",
+    "to": "零售業"
+  },
+  {
+    "id": "upstream-15335",
+    "dimension": "industry_customer",
+    "from": "製造",
+    "to": "製造業"
+  },
+  {
+    "id": "upstream-15391",
+    "dimension": "industry_customer",
+    "from": "零售",
+    "to": "零售業"
+  },
+  {
+    "id": "upstream-15430",
+    "dimension": "industry_customer",
+    "from": "製造",
+    "to": "製造業"
+  },
+  {
+    "id": "upstream-11527",
+    "dimension": "solution",
+    "from": "對話式 AI",
+    "to": "對話 AI"
+  },
+  {
+    "id": "upstream-18226",
+    "dimension": "industry_customer",
+    "from": "保險",
+    "to": "保險業"
+  },
+  {
+    "id": "upstream-18996",
+    "dimension": "industry_customer",
+    "from": "物流",
+    "to": "物流業"
+  },
+  {
+    "id": "upstream-19095",
+    "dimension": "industry_customer",
+    "from": "保險",
+    "to": "保險業"
+  },
+  {
+    "id": "upstream-19095",
+    "dimension": "problem_workflow",
+    "from": "合規管理",
+    "to": "合規"
+  },
+  {
+    "id": "upstream-21128",
+    "dimension": "industry_customer",
+    "from": "零售",
+    "to": "零售業"
+  },
+  {
+    "id": "upstream-00620",
+    "dimension": "solution",
+    "from": "對話式 AI",
+    "to": "對話 AI"
+  },
+  {
+    "id": "upstream-00918",
+    "dimension": "industry_customer",
+    "from": "物流",
+    "to": "物流業"
+  },
+  {
+    "id": "upstream-01272",
+    "dimension": "industry_customer",
+    "from": "零售",
+    "to": "零售業"
+  },
+  {
+    "id": "upstream-01549",
+    "dimension": "problem_workflow",
+    "from": "採購作業",
+    "to": "採購"
+  },
+  {
+    "id": "upstream-01735",
+    "dimension": "problem_workflow",
+    "from": "銷售作業",
+    "to": "銷售"
+  },
+  {
+    "id": "upstream-06020",
+    "dimension": "solution",
+    "from": "對話式 AI",
+    "to": "對話 AI"
+  },
+  {
+    "id": "upstream-07059",
+    "dimension": "industry_customer",
+    "from": "營建",
+    "to": "營建業"
+  },
+  {
+    "id": "upstream-08736",
+    "dimension": "problem_workflow",
+    "from": "銷售作業",
+    "to": "銷售"
+  },
+  {
+    "id": "upstream-08945",
+    "dimension": "problem_workflow",
+    "from": "銷售作業",
+    "to": "銷售"
+  },
+  {
+    "id": "upstream-09330",
+    "dimension": "industry_customer",
+    "from": "零售",
+    "to": "零售業"
+  },
+  {
+    "id": "upstream-09358",
+    "dimension": "problem_workflow",
+    "from": "合規管理",
+    "to": "合規"
+  },
+  {
+    "id": "upstream-10168",
+    "dimension": "industry_customer",
+    "from": "營建",
+    "to": "營建業"
+  },
+  {
+    "id": "upstream-10921",
+    "dimension": "industry_customer",
+    "from": "物流",
+    "to": "物流業"
+  },
+  {
+    "id": "upstream-11025",
+    "dimension": "industry_customer",
+    "from": "零售",
+    "to": "零售業"
+  },
+  {
+    "id": "upstream-11052",
+    "dimension": "problem_workflow",
+    "from": "模型監控",
+    "to": "模型監測"
+  },
+  {
+    "id": "upstream-11091",
+    "dimension": "industry_customer",
+    "from": "零售",
+    "to": "零售業"
+  },
+  {
+    "id": "upstream-11124",
+    "dimension": "industry_customer",
+    "from": "保險",
+    "to": "保險業"
+  },
+  {
+    "id": "upstream-13069",
+    "dimension": "industry_customer",
+    "from": "製造",
+    "to": "製造業"
+  },
+  {
+    "id": "upstream-14208",
+    "dimension": "industry_customer",
+    "from": "零售",
+    "to": "零售業"
+  },
+  {
+    "id": "upstream-15716",
+    "dimension": "problem_workflow",
+    "from": "合規管理",
+    "to": "合規"
+  },
+  {
+    "id": "upstream-11558",
+    "dimension": "industry_customer",
+    "from": "汽車",
+    "to": "汽車業"
+  },
+  {
+    "id": "upstream-11579",
+    "dimension": "industry_customer",
+    "from": "營建",
+    "to": "營建業"
+  },
+  {
+    "id": "upstream-11795",
+    "dimension": "industry_customer",
+    "from": "不動產",
+    "to": "房地產"
+  },
+  {
+    "id": "upstream-11914",
+    "dimension": "industry_customer",
+    "from": "零售",
+    "to": "零售業"
+  },
+  {
+    "id": "upstream-12515",
+    "dimension": "industry_customer",
+    "from": "不動產",
+    "to": "房地產"
+  },
+  {
+    "id": "upstream-15148",
+    "dimension": "industry_customer",
+    "from": "零售",
+    "to": "零售業"
+  },
+  {
+    "id": "upstream-16309",
+    "dimension": "industry_customer",
+    "from": "不動產",
+    "to": "房地產"
+  },
+  {
+    "id": "upstream-16640",
+    "dimension": "problem_workflow",
+    "from": "模型監控",
+    "to": "模型監測"
+  },
+  {
+    "id": "upstream-16647",
+    "dimension": "industry_customer",
+    "from": "不動產",
+    "to": "房地產"
+  },
+  {
+    "id": "upstream-18213",
+    "dimension": "industry_customer",
+    "from": "保險",
+    "to": "保險業"
+  },
+  {
+    "id": "upstream-18260",
+    "dimension": "industry_customer",
+    "from": "製造",
+    "to": "製造業"
+  },
+  {
+    "id": "upstream-18962",
+    "dimension": "industry_customer",
+    "from": "保險",
+    "to": "保險業"
+  },
+  {
+    "id": "upstream-19094",
+    "dimension": "industry_customer",
+    "from": "保險",
+    "to": "保險業"
+  },
+  {
+    "id": "upstream-19196",
+    "dimension": "industry_customer",
+    "from": "保險",
+    "to": "保險業"
+  },
+  {
+    "id": "upstream-19732",
+    "dimension": "industry_customer",
+    "from": "零售",
+    "to": "零售業"
+  },
+  {
+    "id": "upstream-20250",
+    "dimension": "industry_customer",
+    "from": "保險",
+    "to": "保險業"
+  },
+  {
+    "id": "upstream-20529",
+    "dimension": "industry_customer",
+    "from": "物流",
+    "to": "物流業"
+  },
+  {
+    "id": "upstream-00530",
+    "dimension": "industry_customer",
+    "from": "保險",
+    "to": "保險業"
+  },
+  {
+    "id": "upstream-02087",
+    "dimension": "industry_customer",
+    "from": "汽車",
+    "to": "汽車業"
+  },
+  {
+    "id": "upstream-03920",
+    "dimension": "industry_customer",
+    "from": "零售",
+    "to": "零售業"
+  },
+  {
+    "id": "upstream-06045",
+    "dimension": "industry_customer",
+    "from": "零售",
+    "to": "零售業"
+  },
+  {
+    "id": "upstream-07676",
+    "dimension": "industry_customer",
+    "from": "物流",
+    "to": "物流業"
+  },
+  {
+    "id": "upstream-08172",
+    "dimension": "problem_workflow",
+    "from": "採購作業",
+    "to": "採購"
+  },
+  {
+    "id": "upstream-09076",
+    "dimension": "problem_workflow",
+    "from": "模型監控",
+    "to": "模型監測"
+  },
+  {
+    "id": "upstream-09124",
+    "dimension": "industry_customer",
+    "from": "保險",
+    "to": "保險業"
+  },
+  {
+    "id": "upstream-09682",
+    "dimension": "industry_customer",
+    "from": "營建",
+    "to": "營建業"
+  },
+  {
+    "id": "upstream-10015",
+    "dimension": "industry_customer",
+    "from": "零售",
+    "to": "零售業"
+  },
+  {
+    "id": "upstream-10437",
+    "dimension": "industry_customer",
+    "from": "製造",
+    "to": "製造業"
+  },
+  {
+    "id": "upstream-10978",
+    "dimension": "industry_customer",
+    "from": "汽車",
+    "to": "汽車業"
+  },
+  {
+    "id": "upstream-11222",
+    "dimension": "industry_customer",
+    "from": "製造",
+    "to": "製造業"
+  },
+  {
+    "id": "upstream-12670",
+    "dimension": "industry_customer",
+    "from": "零售",
+    "to": "零售業"
+  },
+  {
+    "id": "upstream-12670",
+    "dimension": "problem_workflow",
+    "from": "銷售作業",
+    "to": "銷售"
+  },
+  {
+    "id": "upstream-14006",
+    "dimension": "industry_customer",
+    "from": "不動產",
+    "to": "房地產"
+  },
+  {
+    "id": "upstream-15407",
+    "dimension": "industry_customer",
+    "from": "不動產",
+    "to": "房地產"
+  },
+  {
+    "id": "upstream-15619",
+    "dimension": "industry_customer",
+    "from": "零售",
+    "to": "零售業"
+  },
+  {
+    "id": "upstream-11870",
+    "dimension": "industry_customer",
+    "from": "不動產",
+    "to": "房地產"
+  },
+  {
+    "id": "upstream-12180",
+    "dimension": "industry_customer",
+    "from": "不動產",
+    "to": "房地產"
+  },
+  {
+    "id": "upstream-14925",
+    "dimension": "industry_customer",
+    "from": "不動產",
+    "to": "房地產"
+  },
+  {
+    "id": "upstream-16472",
+    "dimension": "industry_customer",
+    "from": "不動產",
+    "to": "房地產"
+  },
+  {
+    "id": "upstream-16472",
+    "dimension": "industry_customer",
+    "from": "保險",
+    "to": "保險業"
+  },
+  {
+    "id": "upstream-18321",
+    "dimension": "industry_customer",
+    "from": "物流",
+    "to": "物流業"
+  },
+  {
+    "id": "upstream-19093",
+    "dimension": "industry_customer",
+    "from": "保險",
+    "to": "保險業"
+  },
+  {
+    "id": "upstream-19213",
+    "dimension": "industry_customer",
+    "from": "製造",
+    "to": "製造業"
+  },
+  {
+    "id": "upstream-19274",
+    "dimension": "problem_workflow",
+    "from": "模型監控",
+    "to": "模型監測"
+  },
+  {
+    "id": "upstream-19969",
+    "dimension": "solution",
+    "from": "對話式 AI",
+    "to": "對話 AI"
+  },
+  {
+    "id": "upstream-00576",
+    "dimension": "solution",
+    "from": "對話式 AI",
+    "to": "對話 AI"
+  },
+  {
+    "id": "upstream-00652",
+    "dimension": "industry_customer",
+    "from": "零售",
+    "to": "零售業"
+  },
+  {
+    "id": "upstream-03026",
+    "dimension": "solution",
+    "from": "對話式 AI",
+    "to": "對話 AI"
+  },
+  {
+    "id": "upstream-03053",
+    "dimension": "industry_customer",
+    "from": "製造",
+    "to": "製造業"
+  },
+  {
+    "id": "upstream-03520",
+    "dimension": "industry_customer",
+    "from": "物流",
+    "to": "物流業"
+  },
+  {
+    "id": "upstream-08599",
+    "dimension": "industry_customer",
+    "from": "不動產",
+    "to": "房地產"
+  },
+  {
+    "id": "upstream-09091",
+    "dimension": "industry_customer",
+    "from": "保險",
+    "to": "保險業"
+  },
+  {
+    "id": "upstream-10222",
+    "dimension": "problem_workflow",
+    "from": "銷售作業",
+    "to": "銷售"
+  },
+  {
+    "id": "upstream-10738",
+    "dimension": "industry_customer",
+    "from": "保險",
+    "to": "保險業"
+  },
+  {
+    "id": "upstream-10857",
+    "dimension": "industry_customer",
+    "from": "製造",
+    "to": "製造業"
+  },
+  {
+    "id": "upstream-11041",
+    "dimension": "industry_customer",
+    "from": "零售",
+    "to": "零售業"
+  },
+  {
+    "id": "upstream-12878",
+    "dimension": "industry_customer",
+    "from": "零售",
+    "to": "零售業"
+  },
+  {
+    "id": "upstream-13731",
+    "dimension": "industry_customer",
+    "from": "汽車",
+    "to": "汽車業"
+  },
+  {
+    "id": "upstream-15420",
+    "dimension": "industry_customer",
+    "from": "零售",
+    "to": "零售業"
+  },
+  {
+    "id": "upstream-11894",
+    "dimension": "industry_customer",
+    "from": "製造",
+    "to": "製造業"
+  },
+  {
+    "id": "upstream-11895",
+    "dimension": "industry_customer",
+    "from": "保險",
+    "to": "保險業"
+  },
+  {
+    "id": "upstream-11994",
+    "dimension": "industry_customer",
+    "from": "不動產",
+    "to": "房地產"
+  },
+  {
+    "id": "upstream-12223",
+    "dimension": "industry_customer",
+    "from": "製造",
+    "to": "製造業"
+  },
+  {
+    "id": "upstream-12298",
+    "dimension": "problem_workflow",
+    "from": "採購作業",
+    "to": "採購"
+  },
+  {
+    "id": "upstream-12459",
+    "dimension": "industry_customer",
+    "from": "不動產",
+    "to": "房地產"
+  },
+  {
+    "id": "upstream-12540",
+    "dimension": "industry_customer",
+    "from": "營建",
+    "to": "營建業"
+  },
+  {
+    "id": "upstream-16805",
+    "dimension": "industry_customer",
+    "from": "不動產",
+    "to": "房地產"
+  },
+  {
+    "id": "upstream-16845",
+    "dimension": "industry_customer",
+    "from": "零售",
+    "to": "零售業"
+  },
+  {
+    "id": "upstream-18789",
+    "dimension": "industry_customer",
+    "from": "汽車",
+    "to": "汽車業"
+  },
+  {
+    "id": "upstream-19012",
+    "dimension": "industry_customer",
+    "from": "汽車",
+    "to": "汽車業"
+  },
+  {
+    "id": "upstream-19383",
+    "dimension": "industry_customer",
+    "from": "汽車",
+    "to": "汽車業"
+  },
+  {
+    "id": "upstream-19661",
+    "dimension": "industry_customer",
+    "from": "物流",
+    "to": "物流業"
+  },
+  {
+    "id": "upstream-01374",
+    "dimension": "industry_customer",
+    "from": "製造",
+    "to": "製造業"
+  },
+  {
+    "id": "upstream-01557",
+    "dimension": "industry_customer",
+    "from": "製造",
+    "to": "製造業"
+  },
+  {
+    "id": "upstream-02686",
+    "dimension": "industry_customer",
+    "from": "不動產",
+    "to": "房地產"
+  },
+  {
+    "id": "upstream-06575",
+    "dimension": "solution",
+    "from": "AI coaching",
+    "to": "AI 教練"
+  },
+  {
+    "id": "upstream-09265",
+    "dimension": "industry_customer",
+    "from": "零售",
+    "to": "零售業"
+  },
+  {
+    "id": "upstream-09513",
+    "dimension": "industry_customer",
+    "from": "保險",
+    "to": "保險業"
+  },
+  {
+    "id": "upstream-09772",
+    "dimension": "industry_customer",
+    "from": "不動產",
+    "to": "房地產"
+  },
+  {
+    "id": "upstream-10352",
+    "dimension": "industry_customer",
+    "from": "保險",
+    "to": "保險業"
+  },
+  {
+    "id": "upstream-10408",
+    "dimension": "industry_customer",
+    "from": "保險",
+    "to": "保險業"
+  },
+  {
+    "id": "upstream-11203",
+    "dimension": "industry_customer",
+    "from": "不動產",
+    "to": "房地產"
+  },
+  {
+    "id": "upstream-13668",
+    "dimension": "industry_customer",
+    "from": "零售",
+    "to": "零售業"
+  },
+  {
+    "id": "upstream-13900",
+    "dimension": "industry_customer",
+    "from": "零售",
+    "to": "零售業"
+  },
+  {
+    "id": "upstream-15405",
+    "dimension": "industry_customer",
+    "from": "零售",
+    "to": "零售業"
+  },
+  {
+    "id": "upstream-11850",
+    "dimension": "industry_customer",
+    "from": "保險",
+    "to": "保險業"
+  },
+  {
+    "id": "upstream-12494",
+    "dimension": "industry_customer",
+    "from": "汽車",
+    "to": "汽車業"
+  },
+  {
+    "id": "upstream-14877",
+    "dimension": "solution",
+    "from": "對話式 AI",
+    "to": "對話 AI"
+  },
+  {
+    "id": "upstream-15270",
+    "dimension": "industry_customer",
+    "from": "物流",
+    "to": "物流業"
+  },
+  {
+    "id": "upstream-16310",
+    "dimension": "problem_workflow",
+    "from": "合規管理",
+    "to": "合規"
+  },
+  {
+    "id": "upstream-18867",
+    "dimension": "industry_customer",
+    "from": "零售",
+    "to": "零售業"
+  },
+  {
+    "id": "upstream-19315",
+    "dimension": "industry_customer",
+    "from": "保險",
+    "to": "保險業"
+  },
+  {
+    "id": "upstream-19622",
+    "dimension": "industry_customer",
+    "from": "零售",
+    "to": "零售業"
+  },
+  {
+    "id": "upstream-02587",
+    "dimension": "industry_customer",
+    "from": "物流",
+    "to": "物流業"
+  },
+  {
+    "id": "upstream-02982",
+    "dimension": "solution",
+    "from": "對話式 AI",
+    "to": "對話 AI"
+  },
+  {
+    "id": "upstream-03093",
+    "dimension": "solution",
+    "from": "對話式 AI",
+    "to": "對話 AI"
+  },
+  {
+    "id": "upstream-03794",
+    "dimension": "industry_customer",
+    "from": "物流",
+    "to": "物流業"
+  },
+  {
+    "id": "upstream-04974",
+    "dimension": "industry_customer",
+    "from": "汽車",
+    "to": "汽車業"
+  },
+  {
+    "id": "upstream-08348",
+    "dimension": "solution",
+    "from": "AI coaching",
+    "to": "AI 教練"
+  },
+  {
+    "id": "upstream-08981",
+    "dimension": "industry_customer",
+    "from": "不動產",
+    "to": "房地產"
+  },
+  {
+    "id": "upstream-09039",
+    "dimension": "industry_customer",
+    "from": "不動產",
+    "to": "房地產"
+  },
+  {
+    "id": "upstream-09064",
+    "dimension": "industry_customer",
+    "from": "零售",
+    "to": "零售業"
+  },
+  {
+    "id": "upstream-09247",
+    "dimension": "problem_workflow",
+    "from": "合規管理",
+    "to": "合規"
+  },
+  {
+    "id": "upstream-09530",
+    "dimension": "solution",
+    "from": "對話式 AI",
+    "to": "對話 AI"
+  },
+  {
+    "id": "upstream-09582",
+    "dimension": "problem_workflow",
+    "from": "採購作業",
+    "to": "採購"
+  },
+  {
+    "id": "upstream-10220",
+    "dimension": "industry_customer",
+    "from": "保險",
+    "to": "保險業"
+  },
+  {
+    "id": "upstream-10307",
+    "dimension": "industry_customer",
+    "from": "不動產",
+    "to": "房地產"
+  },
+  {
+    "id": "upstream-10537",
+    "dimension": "industry_customer",
+    "from": "不動產",
+    "to": "房地產"
+  },
+  {
+    "id": "upstream-11076",
+    "dimension": "industry_customer",
+    "from": "保險",
+    "to": "保險業"
+  },
+  {
+    "id": "upstream-12580",
+    "dimension": "industry_customer",
+    "from": "製造",
+    "to": "製造業"
+  },
+  {
+    "id": "upstream-12580",
+    "dimension": "problem_workflow",
+    "from": "合規管理",
+    "to": "合規"
+  },
+  {
+    "id": "upstream-14528",
+    "dimension": "industry_customer",
+    "from": "製造",
+    "to": "製造業"
+  },
+  {
+    "id": "upstream-15514",
+    "dimension": "solution",
+    "from": "對話式 AI",
+    "to": "對話 AI"
+  },
+  {
+    "id": "upstream-11544",
+    "dimension": "industry_customer",
+    "from": "不動產",
+    "to": "房地產"
+  },
+  {
+    "id": "upstream-11661",
+    "dimension": "industry_customer",
+    "from": "營建",
+    "to": "營建業"
+  },
+  {
+    "id": "upstream-17490",
+    "dimension": "industry_customer",
+    "from": "製造",
+    "to": "製造業"
+  },
+  {
+    "id": "upstream-19942",
+    "dimension": "industry_customer",
+    "from": "物流",
+    "to": "物流業"
+  },
+  {
+    "id": "upstream-20213",
+    "dimension": "industry_customer",
+    "from": "保險",
+    "to": "保險業"
+  },
+  {
+    "id": "upstream-20411",
+    "dimension": "industry_customer",
+    "from": "物流",
+    "to": "物流業"
+  },
+  {
+    "id": "upstream-00156",
+    "dimension": "industry_customer",
+    "from": "零售",
+    "to": "零售業"
+  },
+  {
+    "id": "upstream-00529",
+    "dimension": "industry_customer",
+    "from": "不動產",
+    "to": "房地產"
+  },
+  {
+    "id": "upstream-01451",
+    "dimension": "solution",
+    "from": "AI coaching",
+    "to": "AI 教練"
+  },
+  {
+    "id": "upstream-01558",
+    "dimension": "industry_customer",
+    "from": "不動產",
+    "to": "房地產"
+  },
+  {
+    "id": "upstream-02320",
+    "dimension": "industry_customer",
+    "from": "零售",
+    "to": "零售業"
+  },
+  {
+    "id": "upstream-04296",
+    "dimension": "industry_customer",
+    "from": "汽車",
+    "to": "汽車業"
+  },
+  {
+    "id": "upstream-04998",
+    "dimension": "industry_customer",
+    "from": "零售",
+    "to": "零售業"
+  },
+  {
+    "id": "upstream-06942",
+    "dimension": "industry_customer",
+    "from": "零售",
+    "to": "零售業"
+  },
+  {
+    "id": "upstream-09246",
+    "dimension": "industry_customer",
+    "from": "不動產",
+    "to": "房地產"
+  },
+  {
+    "id": "upstream-09350",
+    "dimension": "industry_customer",
+    "from": "零售",
+    "to": "零售業"
+  },
+  {
+    "id": "upstream-09380",
+    "dimension": "problem_workflow",
+    "from": "採購作業",
+    "to": "採購"
+  },
+  {
+    "id": "upstream-10503",
+    "dimension": "industry_customer",
+    "from": "製造",
+    "to": "製造業"
+  },
+  {
+    "id": "upstream-11058",
+    "dimension": "industry_customer",
+    "from": "保險",
+    "to": "保險業"
+  },
+  {
+    "id": "upstream-11117",
+    "dimension": "industry_customer",
+    "from": "汽車",
+    "to": "汽車業"
+  },
+  {
+    "id": "upstream-11117",
+    "dimension": "industry_customer",
+    "from": "保險",
+    "to": "保險業"
+  },
+  {
+    "id": "upstream-11255",
+    "dimension": "industry_customer",
+    "from": "保險",
+    "to": "保險業"
+  },
+  {
+    "id": "upstream-13384",
+    "dimension": "solution",
+    "from": "對話式 AI",
+    "to": "對話 AI"
+  },
+  {
+    "id": "upstream-14254",
+    "dimension": "industry_customer",
+    "from": "零售",
+    "to": "零售業"
+  },
+  {
+    "id": "upstream-15622",
+    "dimension": "industry_customer",
+    "from": "製造",
+    "to": "製造業"
+  },
+  {
+    "id": "upstream-15832",
+    "dimension": "industry_customer",
+    "from": "物流",
+    "to": "物流業"
+  },
+  {
+    "id": "upstream-11991",
+    "dimension": "industry_customer",
+    "from": "物流",
+    "to": "物流業"
+  },
+  {
+    "id": "upstream-15084",
+    "dimension": "industry_customer",
+    "from": "製造",
+    "to": "製造業"
+  },
+  {
+    "id": "upstream-15121",
+    "dimension": "industry_customer",
+    "from": "不動產",
+    "to": "房地產"
+  },
+  {
+    "id": "upstream-15234",
+    "dimension": "industry_customer",
+    "from": "物流",
+    "to": "物流業"
+  },
+  {
+    "id": "upstream-17083",
+    "dimension": "industry_customer",
+    "from": "製造",
+    "to": "製造業"
+  },
+  {
+    "id": "upstream-17959",
+    "dimension": "industry_customer",
+    "from": "汽車",
+    "to": "汽車業"
+  },
+  {
+    "id": "upstream-18271",
+    "dimension": "industry_customer",
+    "from": "製造",
+    "to": "製造業"
+  },
+  {
+    "id": "upstream-18309",
+    "dimension": "industry_customer",
+    "from": "汽車",
+    "to": "汽車業"
+  },
+  {
+    "id": "upstream-18309",
+    "dimension": "industry_customer",
+    "from": "保險",
+    "to": "保險業"
+  },
+  {
+    "id": "upstream-19305",
+    "dimension": "industry_customer",
+    "from": "零售",
+    "to": "零售業"
+  },
+  {
+    "id": "upstream-19886",
+    "dimension": "industry_customer",
+    "from": "保險",
+    "to": "保險業"
+  },
+  {
+    "id": "upstream-19930",
+    "dimension": "industry_customer",
+    "from": "汽車",
+    "to": "汽車業"
+  },
+  {
+    "id": "upstream-19930",
+    "dimension": "industry_customer",
+    "from": "保險",
+    "to": "保險業"
+  },
+  {
+    "id": "upstream-19931",
+    "dimension": "industry_customer",
+    "from": "保險",
+    "to": "保險業"
+  },
+  {
+    "id": "upstream-01395",
+    "dimension": "industry_customer",
+    "from": "不動產",
+    "to": "房地產"
+  },
+  {
+    "id": "upstream-01395",
+    "dimension": "problem_workflow",
+    "from": "合規管理",
+    "to": "合規"
+  },
+  {
+    "id": "upstream-02222",
+    "dimension": "solution",
+    "from": "AI coaching",
+    "to": "AI 教練"
+  },
+  {
+    "id": "upstream-02559",
+    "dimension": "industry_customer",
+    "from": "汽車",
+    "to": "汽車業"
+  },
+  {
+    "id": "upstream-02559",
+    "dimension": "industry_customer",
+    "from": "保險",
+    "to": "保險業"
+  },
+  {
+    "id": "upstream-03052",
+    "dimension": "solution",
+    "from": "AI coaching",
+    "to": "AI 教練"
+  },
+  {
+    "id": "upstream-03202",
+    "dimension": "industry_customer",
+    "from": "零售",
+    "to": "零售業"
+  },
+  {
+    "id": "upstream-06376",
+    "dimension": "industry_customer",
+    "from": "不動產",
+    "to": "房地產"
+  },
+  {
+    "id": "upstream-08536",
+    "dimension": "industry_customer",
+    "from": "不動產",
+    "to": "房地產"
+  },
+  {
+    "id": "upstream-08979",
+    "dimension": "industry_customer",
+    "from": "保險",
+    "to": "保險業"
+  },
+  {
+    "id": "upstream-09228",
+    "dimension": "industry_customer",
+    "from": "保險",
+    "to": "保險業"
+  },
+  {
+    "id": "upstream-09970",
+    "dimension": "industry_customer",
+    "from": "汽車",
+    "to": "汽車業"
+  },
+  {
+    "id": "upstream-10199",
+    "dimension": "industry_customer",
+    "from": "保險",
+    "to": "保險業"
+  },
+  {
+    "id": "upstream-10472",
+    "dimension": "industry_customer",
+    "from": "不動產",
+    "to": "房地產"
+  },
+  {
+    "id": "upstream-10629",
+    "dimension": "industry_customer",
+    "from": "不動產",
+    "to": "房地產"
+  },
+  {
+    "id": "upstream-11011",
+    "dimension": "industry_customer",
+    "from": "製造",
+    "to": "製造業"
+  },
+  {
+    "id": "upstream-11034",
+    "dimension": "industry_customer",
+    "from": "製造",
+    "to": "製造業"
+  },
+  {
+    "id": "upstream-13165",
+    "dimension": "industry_customer",
+    "from": "零售",
+    "to": "零售業"
+  },
+  {
+    "id": "upstream-13486",
+    "dimension": "solution",
+    "from": "對話式 AI",
+    "to": "對話 AI"
+  },
+  {
+    "id": "upstream-11648",
+    "dimension": "industry_customer",
+    "from": "營建",
+    "to": "營建業"
+  },
+  {
+    "id": "upstream-11964",
+    "dimension": "industry_customer",
+    "from": "物流",
+    "to": "物流業"
+  },
+  {
+    "id": "upstream-11986",
+    "dimension": "industry_customer",
+    "from": "不動產",
+    "to": "房地產"
+  },
+  {
+    "id": "upstream-12381",
+    "dimension": "industry_customer",
+    "from": "營建",
+    "to": "營建業"
+  },
+  {
+    "id": "upstream-18396",
+    "dimension": "industry_customer",
+    "from": "保險",
+    "to": "保險業"
+  },
+  {
+    "id": "upstream-18560",
+    "dimension": "industry_customer",
+    "from": "零售",
+    "to": "零售業"
+  },
+  {
+    "id": "upstream-18642",
+    "dimension": "solution",
+    "from": "對話式 AI",
+    "to": "對話 AI"
+  },
+  {
+    "id": "upstream-18964",
+    "dimension": "industry_customer",
+    "from": "保險",
+    "to": "保險業"
+  },
+  {
+    "id": "upstream-20256",
+    "dimension": "industry_customer",
+    "from": "零售",
+    "to": "零售業"
+  },
+  {
+    "id": "upstream-01447",
+    "dimension": "industry_customer",
+    "from": "製造",
+    "to": "製造業"
+  },
+  {
+    "id": "upstream-01456",
+    "dimension": "problem_workflow",
+    "from": "模型監控",
+    "to": "模型監測"
+  },
+  {
+    "id": "upstream-01547",
+    "dimension": "industry_customer",
+    "from": "製造",
+    "to": "製造業"
+  },
+  {
+    "id": "upstream-04740",
+    "dimension": "industry_customer",
+    "from": "保險",
+    "to": "保險業"
+  },
+  {
+    "id": "upstream-04901",
+    "dimension": "solution",
+    "from": "對話式 AI",
+    "to": "對話 AI"
+  },
+  {
+    "id": "upstream-05816",
+    "dimension": "industry_customer",
+    "from": "製造",
+    "to": "製造業"
+  },
+  {
+    "id": "upstream-06162",
+    "dimension": "industry_customer",
+    "from": "零售",
+    "to": "零售業"
+  },
+  {
+    "id": "upstream-06845",
+    "dimension": "solution",
+    "from": "AI coaching",
+    "to": "AI 教練"
+  },
+  {
+    "id": "upstream-08329",
+    "dimension": "industry_customer",
+    "from": "營建",
+    "to": "營建業"
+  },
+  {
+    "id": "upstream-08462",
+    "dimension": "industry_customer",
+    "from": "保險",
+    "to": "保險業"
+  },
+  {
+    "id": "upstream-08902",
+    "dimension": "industry_customer",
+    "from": "汽車",
+    "to": "汽車業"
+  },
+  {
+    "id": "upstream-08988",
+    "dimension": "industry_customer",
+    "from": "不動產",
+    "to": "房地產"
+  },
+  {
+    "id": "upstream-09059",
+    "dimension": "industry_customer",
+    "from": "保險",
+    "to": "保險業"
+  },
+  {
+    "id": "upstream-09668",
+    "dimension": "industry_customer",
+    "from": "汽車",
+    "to": "汽車業"
+  },
+  {
+    "id": "upstream-10221",
+    "dimension": "industry_customer",
+    "from": "製造",
+    "to": "製造業"
+  },
+  {
+    "id": "upstream-10355",
+    "dimension": "industry_customer",
+    "from": "零售",
+    "to": "零售業"
+  },
+  {
+    "id": "upstream-13532",
+    "dimension": "solution",
+    "from": "AI agents",
+    "to": "AI agent"
+  },
+  {
+    "id": "upstream-15561",
+    "dimension": "solution",
+    "from": "AI agents",
+    "to": "AI agent"
+  },
+  {
+    "id": "upstream-15830",
+    "dimension": "solution",
+    "from": "AI agents",
+    "to": "AI agent"
+  },
+  {
+    "id": "upstream-11864",
+    "dimension": "solution",
+    "from": "AI agents",
+    "to": "AI agent"
+  },
+  {
+    "id": "upstream-20401",
+    "dimension": "solution",
+    "from": "AI agents",
+    "to": "AI agent"
+  },
+  {
+    "id": "upstream-07487",
+    "dimension": "solution",
+    "from": "AI agents",
+    "to": "AI agent"
+  },
+  {
+    "id": "upstream-07514",
+    "dimension": "solution",
+    "from": "AI agents",
+    "to": "AI agent"
+  },
+  {
+    "id": "upstream-08089",
+    "dimension": "solution",
+    "from": "AI agents",
+    "to": "AI agent"
+  },
+  {
+    "id": "upstream-08531",
+    "dimension": "solution",
+    "from": "AI agents",
+    "to": "AI agent"
+  },
+  {
+    "id": "upstream-09457",
+    "dimension": "solution",
+    "from": "AI agents",
+    "to": "AI agent"
+  },
+  {
+    "id": "upstream-09501",
+    "dimension": "solution",
+    "from": "AI agents",
+    "to": "AI agent"
+  },
+  {
+    "id": "upstream-09993",
+    "dimension": "solution",
+    "from": "AI agents",
+    "to": "AI agent"
+  },
+  {
+    "id": "upstream-10145",
+    "dimension": "solution",
+    "from": "AI agents",
+    "to": "AI agent"
+  },
+  {
+    "id": "upstream-10547",
+    "dimension": "solution",
+    "from": "AI agents",
+    "to": "AI agent"
+  },
+  {
+    "id": "upstream-10761",
+    "dimension": "solution",
+    "from": "AI agents",
+    "to": "AI agent"
+  },
+  {
+    "id": "upstream-10842",
+    "dimension": "solution",
+    "from": "AI agents",
+    "to": "AI agent"
+  },
+  {
+    "id": "upstream-11153",
+    "dimension": "solution",
+    "from": "AI agents",
+    "to": "AI agent"
+  },
+  {
+    "id": "upstream-11248",
+    "dimension": "solution",
+    "from": "AI agents",
+    "to": "AI agent"
+  },
+  {
+    "id": "upstream-15518",
+    "dimension": "solution",
+    "from": "AI agents",
+    "to": "AI agent"
+  },
+  {
+    "id": "upstream-11668",
+    "dimension": "solution",
+    "from": "AI agents",
+    "to": "AI agent"
+  },
+  {
+    "id": "upstream-11698",
+    "dimension": "solution",
+    "from": "AI agents",
+    "to": "AI agent"
+  },
+  {
+    "id": "upstream-12467",
+    "dimension": "solution",
+    "from": "AI agents",
+    "to": "AI agent"
+  },
+  {
+    "id": "upstream-08898",
+    "dimension": "solution",
+    "from": "AI agents",
+    "to": "AI agent"
+  },
+  {
+    "id": "upstream-09133",
+    "dimension": "solution",
+    "from": "AI agents",
+    "to": "AI agent"
+  },
+  {
+    "id": "upstream-09468",
+    "dimension": "solution",
+    "from": "AI agents",
+    "to": "AI agent"
+  },
+  {
+    "id": "upstream-09653",
+    "dimension": "solution",
+    "from": "AI agents",
+    "to": "AI agent"
+  },
+  {
+    "id": "upstream-09793",
+    "dimension": "solution",
+    "from": "AI agents",
+    "to": "AI agent"
+  },
+  {
+    "id": "upstream-10109",
+    "dimension": "solution",
+    "from": "AI agents",
+    "to": "AI agent"
+  },
+  {
+    "id": "upstream-10428",
+    "dimension": "solution",
+    "from": "AI agents",
+    "to": "AI agent"
+  },
+  {
+    "id": "upstream-10726",
+    "dimension": "solution",
+    "from": "AI agents",
+    "to": "AI agent"
+  },
+  {
+    "id": "upstream-10783",
+    "dimension": "solution",
+    "from": "AI agents",
+    "to": "AI agent"
+  },
+  {
+    "id": "upstream-10877",
+    "dimension": "solution",
+    "from": "AI agents",
+    "to": "AI agent"
+  },
+  {
+    "id": "upstream-10924",
+    "dimension": "solution",
+    "from": "AI agents",
+    "to": "AI agent"
+  },
+  {
+    "id": "upstream-11024",
+    "dimension": "solution",
+    "from": "AI agents",
+    "to": "AI agent"
+  },
+  {
+    "id": "upstream-11087",
+    "dimension": "solution",
+    "from": "AI agents",
+    "to": "AI agent"
+  },
+  {
+    "id": "upstream-11689",
+    "dimension": "solution",
+    "from": "AI agents",
+    "to": "AI agent"
+  },
+  {
+    "id": "upstream-12220",
+    "dimension": "solution",
+    "from": "AI agents",
+    "to": "AI agent"
+  },
+  {
+    "id": "upstream-12362",
+    "dimension": "solution",
+    "from": "AI agents",
+    "to": "AI agent"
+  },
+  {
+    "id": "upstream-19089",
+    "dimension": "solution",
+    "from": "AI agents",
+    "to": "AI agent"
+  },
+  {
+    "id": "upstream-19161",
+    "dimension": "solution",
+    "from": "AI agents",
+    "to": "AI agent"
+  },
+  {
+    "id": "upstream-03023",
+    "dimension": "solution",
+    "from": "AI agents",
+    "to": "AI agent"
+  },
+  {
+    "id": "upstream-03237",
+    "dimension": "solution",
+    "from": "AI agents",
+    "to": "AI agent"
+  },
+  {
+    "id": "upstream-08017",
+    "dimension": "industry_customer",
+    "from": "零售",
+    "to": "零售業"
+  },
+  {
+    "id": "upstream-08302",
+    "dimension": "solution",
+    "from": "AI agents",
+    "to": "AI agent"
+  },
+  {
+    "id": "upstream-08491",
+    "dimension": "solution",
+    "from": "AI agents",
+    "to": "AI agent"
+  },
+  {
+    "id": "upstream-08962",
+    "dimension": "solution",
+    "from": "AI agents",
+    "to": "AI agent"
+  },
+  {
+    "id": "upstream-09372",
+    "dimension": "solution",
+    "from": "AI agents",
+    "to": "AI agent"
+  },
+  {
+    "id": "upstream-09683",
+    "dimension": "solution",
+    "from": "AI agents",
+    "to": "AI agent"
+  },
+  {
+    "id": "upstream-10073",
+    "dimension": "solution",
+    "from": "AI agents",
+    "to": "AI agent"
+  },
+  {
+    "id": "upstream-10566",
+    "dimension": "solution",
+    "from": "AI agents",
+    "to": "AI agent"
+  },
+  {
+    "id": "upstream-10611",
+    "dimension": "solution",
+    "from": "AI agents",
+    "to": "AI agent"
+  },
+  {
+    "id": "upstream-10966",
+    "dimension": "solution",
+    "from": "AI agents",
+    "to": "AI agent"
+  },
+  {
+    "id": "upstream-11002",
+    "dimension": "solution",
+    "from": "AI agents",
+    "to": "AI agent"
+  },
+  {
+    "id": "upstream-11216",
+    "dimension": "solution",
+    "from": "AI agents",
+    "to": "AI agent"
+  },
+  {
+    "id": "upstream-11435",
+    "dimension": "solution",
+    "from": "AI agents",
+    "to": "AI agent"
+  },
+  {
+    "id": "upstream-11444",
+    "dimension": "solution",
+    "from": "AI agents",
+    "to": "AI agent"
+  },
+  {
+    "id": "upstream-15521",
+    "dimension": "solution",
+    "from": "AI agents",
+    "to": "AI agent"
+  },
+  {
+    "id": "upstream-11469",
+    "dimension": "solution",
+    "from": "AI agents",
+    "to": "AI agent"
+  },
+  {
+    "id": "upstream-15200",
+    "dimension": "solution",
+    "from": "AI agents",
+    "to": "AI agent"
+  },
+  {
+    "id": "upstream-15233",
+    "dimension": "solution",
+    "from": "AI agents",
+    "to": "AI agent"
+  },
+  {
+    "id": "upstream-08352",
+    "dimension": "industry_customer",
+    "from": "營建",
+    "to": "營建業"
+  },
+  {
+    "id": "upstream-08632",
+    "dimension": "solution",
+    "from": "AI agents",
+    "to": "AI agent"
+  },
+  {
+    "id": "upstream-08748",
+    "dimension": "industry_customer",
+    "from": "保險",
+    "to": "保險業"
+  },
+  {
+    "id": "upstream-08748",
+    "dimension": "solution",
+    "from": "AI agents",
+    "to": "AI agent"
+  },
+  {
+    "id": "upstream-09589",
+    "dimension": "solution",
+    "from": "AI agents",
+    "to": "AI agent"
+  },
+  {
+    "id": "upstream-10573",
+    "dimension": "solution",
+    "from": "AI agents",
+    "to": "AI agent"
+  },
+  {
+    "id": "upstream-10662",
+    "dimension": "solution",
+    "from": "AI agents",
+    "to": "AI agent"
+  },
+  {
+    "id": "upstream-10759",
+    "dimension": "solution",
+    "from": "AI agents",
+    "to": "AI agent"
+  },
+  {
+    "id": "upstream-10844",
+    "dimension": "solution",
+    "from": "AI agents",
+    "to": "AI agent"
+  },
+  {
+    "id": "upstream-10850",
+    "dimension": "solution",
+    "from": "AI agents",
+    "to": "AI agent"
+  },
+  {
+    "id": "upstream-15626",
+    "dimension": "solution",
+    "from": "AI agents",
+    "to": "AI agent"
+  },
+  {
+    "id": "upstream-12378",
+    "dimension": "solution",
+    "from": "AI agents",
+    "to": "AI agent"
+  },
+  {
+    "id": "upstream-18058",
+    "dimension": "solution",
+    "from": "AI agents",
+    "to": "AI agent"
+  },
+  {
+    "id": "upstream-08780",
+    "dimension": "solution",
+    "from": "AI agents",
+    "to": "AI agent"
+  },
+  {
+    "id": "upstream-10085",
+    "dimension": "solution",
+    "from": "AI agents",
+    "to": "AI agent"
+  },
+  {
+    "id": "upstream-10228",
+    "dimension": "solution",
+    "from": "AI agents",
+    "to": "AI agent"
+  },
+  {
+    "id": "upstream-10304",
+    "dimension": "solution",
+    "from": "AI agents",
+    "to": "AI agent"
+  },
+  {
+    "id": "upstream-10340",
+    "dimension": "solution",
+    "from": "AI agents",
+    "to": "AI agent"
+  },
+  {
+    "id": "upstream-10389",
+    "dimension": "solution",
+    "from": "AI agents",
+    "to": "AI agent"
+  },
+  {
+    "id": "upstream-10558",
+    "dimension": "solution",
+    "from": "AI agents",
+    "to": "AI agent"
+  },
+  {
+    "id": "upstream-10617",
+    "dimension": "solution",
+    "from": "AI agents",
+    "to": "AI agent"
+  },
+  {
+    "id": "upstream-11106",
+    "dimension": "solution",
+    "from": "AI agents",
+    "to": "AI agent"
+  },
+  {
+    "id": "upstream-11114",
+    "dimension": "solution",
+    "from": "AI agents",
+    "to": "AI agent"
+  },
+  {
+    "id": "upstream-11346",
+    "dimension": "solution",
+    "from": "AI agents",
+    "to": "AI agent"
+  },
+  {
+    "id": "upstream-13594",
+    "dimension": "solution",
+    "from": "AI agents",
+    "to": "AI agent"
+  },
+  {
+    "id": "upstream-11742",
+    "dimension": "solution",
+    "from": "AI agents",
+    "to": "AI agent"
+  },
+  {
+    "id": "upstream-12057",
+    "dimension": "solution",
+    "from": "AI agents",
+    "to": "AI agent"
+  },
+  {
+    "id": "upstream-20485",
+    "dimension": "solution",
+    "from": "AI agents",
+    "to": "AI agent"
+  },
+  {
+    "id": "upstream-02309",
+    "dimension": "solution",
+    "from": "AI agents",
+    "to": "AI agent"
+  },
+  {
+    "id": "upstream-02817",
+    "dimension": "solution",
+    "from": "AI agents",
+    "to": "AI agent"
+  },
+  {
+    "id": "upstream-02874",
+    "dimension": "solution",
+    "from": "AI agents",
+    "to": "AI agent"
+  },
+  {
+    "id": "upstream-07892",
+    "dimension": "solution",
+    "from": "AI agents",
+    "to": "AI agent"
+  },
+  {
+    "id": "upstream-08459",
+    "dimension": "solution",
+    "from": "AI agents",
+    "to": "AI agent"
+  },
+  {
+    "id": "upstream-08943",
+    "dimension": "solution",
+    "from": "AI agents",
+    "to": "AI agent"
+  },
+  {
+    "id": "upstream-09230",
+    "dimension": "solution",
+    "from": "AI agents",
+    "to": "AI agent"
+  },
+  {
+    "id": "upstream-09323",
+    "dimension": "solution",
+    "from": "AI agents",
+    "to": "AI agent"
+  },
+  {
+    "id": "upstream-10158",
+    "dimension": "solution",
+    "from": "AI agents",
+    "to": "AI agent"
+  },
+  {
+    "id": "upstream-10456",
+    "dimension": "solution",
+    "from": "AI agents",
+    "to": "AI agent"
+  },
+  {
+    "id": "upstream-10517",
+    "dimension": "solution",
+    "from": "AI agents",
+    "to": "AI agent"
+  },
+  {
+    "id": "upstream-10723",
+    "dimension": "solution",
+    "from": "AI agents",
+    "to": "AI agent"
+  },
+  {
+    "id": "upstream-13436",
+    "dimension": "solution",
+    "from": "AI agents",
+    "to": "AI agent"
+  },
+  {
+    "id": "upstream-19320",
+    "dimension": "solution",
+    "from": "AI agents",
+    "to": "AI agent"
+  },
+  {
+    "id": "upstream-01556",
+    "dimension": "solution",
+    "from": "AI agents",
+    "to": "AI agent"
+  },
+  {
+    "id": "upstream-01695",
+    "dimension": "solution",
+    "from": "AI agents",
+    "to": "AI agent"
+  },
+  {
+    "id": "upstream-01780",
+    "dimension": "solution",
+    "from": "AI agents",
+    "to": "AI agent"
+  },
+  {
+    "id": "upstream-02375",
+    "dimension": "solution",
+    "from": "AI agents",
+    "to": "AI agent"
+  },
+  {
+    "id": "upstream-07261",
+    "dimension": "solution",
+    "from": "AI agents",
+    "to": "AI agent"
+  },
+  {
+    "id": "upstream-08978",
+    "dimension": "solution",
+    "from": "AI agents",
+    "to": "AI agent"
+  },
+  {
+    "id": "upstream-09136",
+    "dimension": "solution",
+    "from": "AI agents",
+    "to": "AI agent"
+  },
+  {
+    "id": "upstream-09497",
+    "dimension": "solution",
+    "from": "AI agents",
+    "to": "AI agent"
+  },
+  {
+    "id": "upstream-09644",
+    "dimension": "solution",
+    "from": "AI agents",
+    "to": "AI agent"
+  },
+  {
+    "id": "upstream-10125",
+    "dimension": "solution",
+    "from": "AI agents",
+    "to": "AI agent"
+  },
+  {
+    "id": "upstream-10242",
+    "dimension": "solution",
+    "from": "AI agents",
+    "to": "AI agent"
+  },
+  {
+    "id": "upstream-10327",
+    "dimension": "solution",
+    "from": "AI agents",
+    "to": "AI agent"
+  },
+  {
+    "id": "upstream-10461",
+    "dimension": "solution",
+    "from": "AI agents",
+    "to": "AI agent"
+  },
+  {
+    "id": "upstream-10482",
+    "dimension": "solution",
+    "from": "AI agents",
+    "to": "AI agent"
+  },
+  {
+    "id": "upstream-10621",
+    "dimension": "solution",
+    "from": "AI agents",
+    "to": "AI agent"
+  },
+  {
+    "id": "upstream-10708",
+    "dimension": "solution",
+    "from": "AI agents",
+    "to": "AI agent"
+  },
+  {
+    "id": "upstream-10725",
+    "dimension": "solution",
+    "from": "AI agents",
+    "to": "AI agent"
+  },
+  {
+    "id": "upstream-10968",
+    "dimension": "solution",
+    "from": "AI agents",
+    "to": "AI agent"
+  },
+  {
+    "id": "upstream-11331",
+    "dimension": "solution",
+    "from": "AI agents",
+    "to": "AI agent"
+  },
+  {
+    "id": "upstream-11352",
+    "dimension": "solution",
+    "from": "AI agents",
+    "to": "AI agent"
+  },
+  {
+    "id": "upstream-01613",
+    "dimension": "solution",
+    "from": "AI agents",
+    "to": "AI agent"
+  },
+  {
+    "id": "upstream-09299",
+    "dimension": "solution",
+    "from": "AI agents",
+    "to": "AI agent"
+  },
+  {
+    "id": "upstream-09388",
+    "dimension": "solution",
+    "from": "AI agents",
+    "to": "AI agent"
+  },
+  {
+    "id": "upstream-09898",
+    "dimension": "solution",
+    "from": "AI agents",
+    "to": "AI agent"
+  }
+]

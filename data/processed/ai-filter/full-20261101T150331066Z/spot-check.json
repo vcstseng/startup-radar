@@ -1,0 +1,3548 @@
+{
+  "explicit": [
+    {
+      "id": "upstream-12023",
+      "upstream_position": 12023,
+      "name": "MeetStream AI",
+      "source": "antler",
+      "category": "explicit",
+      "effective_description": "Unified API & Infrastructure for AI Agents in Meetings",
+      "description_field": "location",
+      "field_correction": "Antler description equals name; used location as product description.",
+      "strong_evidence": [
+        {
+          "rule": "ai",
+          "field": "location",
+          "term": "AI",
+          "start": 33,
+          "end": 35,
+          "context": "Unified API & Infrastructure for AI Agents in Meetings"
+        }
+      ],
+      "weak_evidence": [
+        {
+          "rule": "agent",
+          "field": "location",
+          "term": "Agents",
+          "start": 36,
+          "end": 42,
+          "context": "Unified API & Infrastructure for AI Agents in Meetings"
+        },
+        {
+          "rule": "ai",
+          "field": "name",
+          "term": "AI",
+          "start": 11,
+          "end": 13,
+          "context": "MeetStream AI",
+          "reason": "Company name signal only."
+        },
+        {
+          "rule": "ai_domain",
+          "field": "website",
+          "term": "meetstream.ai",
+          "context": "https://meetstream.ai/",
+          "reason": ".ai domain is a weak clue, not proof."
+        }
+      ],
+      "external_verification": "not_performed",
+      "original_record": {
+        "source": "antler",
+        "name": "MeetStream AI",
+        "description": "MeetStream AI",
+        "logo": "https://cdn.prod.website-files.com/68d622fc073c7e5dead1105e/6a16ffb7d23a514e5afefac2_portfolio%252Fcompany%252F254e8cb2-5d2e-4edc-89eb-8b670d3612f6%252F1779892141349-Meetstream%2520logo.png",
+        "website": "https://meetstream.ai/",
+        "location": "Unified API & Infrastructure for AI Agents in Meetings",
+        "region": "",
+        "subregion": "",
+        "tags": [
+          "DeepTech"
+        ],
+        "year": "",
+        "program": "Antler",
+        "programSlugs": [
+          "antler"
+        ],
+        "isExit": false,
+        "isUnicorn": false,
+        "isBCorp": false,
+        "isCurrentSession": false,
+        "founders": [],
+        "social": {
+          "linkedin": "",
+          "twitter": "",
+          "facebook": "",
+          "crunchbase": ""
+        },
+        "extra": {}
+      }
+    },
+    {
+      "id": "upstream-02714",
+      "upstream_position": 2714,
+      "name": "Aidos Healthcare",
+      "source": "techstars",
+      "category": "explicit",
+      "effective_description": "Inference Health leverages machine learning to discover insights in healthcare data and supercharge back-office processes for healthcare insurers.",
+      "description_field": "description",
+      "field_correction": null,
+      "strong_evidence": [
+        {
+          "rule": "machine_learning",
+          "field": "description",
+          "term": "machine learning",
+          "start": 27,
+          "end": 43,
+          "context": "Inference Health leverages machine learning to discover insights in healthcare data and supercharge back-office processes for healthcare insure"
+        }
+      ],
+      "weak_evidence": [
+        {
+          "rule": "artificial_intelligence",
+          "field": "tags[0]",
+          "term": "Artificial intelligence",
+          "start": 0,
+          "end": 23,
+          "context": "Artificial intelligence and machine learning",
+          "reason": "Upstream tag only."
+        },
+        {
+          "rule": "machine_learning",
+          "field": "tags[0]",
+          "term": "machine learning",
+          "start": 28,
+          "end": 44,
+          "context": "Artificial intelligence and machine learning",
+          "reason": "Upstream tag only."
+        }
+      ],
+      "external_verification": "not_performed",
+      "original_record": {
+        "name": "Aidos Healthcare",
+        "description": "Inference Health leverages machine learning to discover insights in healthcare data and supercharge back-office processes for healthcare insurers.",
+        "logo": "https://apimg.techstars.com/connect/images/image_files/61916dc4713f14000756265f/original/LOGO_ariation_2_101921.png",
+        "website": "https://inferencesolutions.com",
+        "location": "Sacramento, California, United States",
+        "region": "Americas",
+        "subregion": "North America",
+        "tags": [
+          "Artificial intelligence and machine learning"
+        ],
+        "year": 2021,
+        "program": "UnitedHealthcare Accelerator Powered by Techstars",
+        "programSlugs": [],
+        "isExit": false,
+        "isUnicorn": false,
+        "isBCorp": false,
+        "isCurrentSession": false,
+        "social": {
+          "linkedin": "https://linkedin.com/company/inferencesolutions",
+          "twitter": "https://twitter.com/InferenceHealth",
+          "facebook": "https://facebook.com/InferenceSolutions/",
+          "crunchbase": "https://crunchbase.com/organization/inference-health"
+        },
+        "extra": {
+          "city": "Sacramento",
+          "state_province": "California",
+          "country": "United States"
+        },
+        "source": "techstars"
+      }
+    },
+    {
+      "id": "upstream-00945",
+      "upstream_position": 945,
+      "name": "Lena Health",
+      "source": "techstars",
+      "category": "explicit",
+      "effective_description": "Lena Health offers patients an AI-augmented personal navigator that coordinates care and navigates community removing barriers, and improving outcomes.",
+      "description_field": "description",
+      "field_correction": null,
+      "strong_evidence": [
+        {
+          "rule": "ai",
+          "field": "description",
+          "term": "AI",
+          "start": 31,
+          "end": 33,
+          "context": "Lena Health offers patients an AI-augmented personal navigator that coordinates care and navigates community removing barriers, and i"
+        }
+      ],
+      "weak_evidence": [
+        {
+          "rule": "artificial_intelligence",
+          "field": "tags[0]",
+          "term": "Artificial intelligence",
+          "start": 0,
+          "end": 23,
+          "context": "Artificial intelligence and machine learning",
+          "reason": "Upstream tag only."
+        },
+        {
+          "rule": "machine_learning",
+          "field": "tags[0]",
+          "term": "machine learning",
+          "start": 28,
+          "end": 44,
+          "context": "Artificial intelligence and machine learning",
+          "reason": "Upstream tag only."
+        }
+      ],
+      "external_verification": "not_performed",
+      "original_record": {
+        "name": "Lena Health",
+        "description": "Lena Health offers patients an AI-augmented personal navigator that coordinates care and navigates community removing barriers, and improving outcomes.",
+        "logo": "https://apimg.techstars.com/profiles/1735338222858_854730.png",
+        "website": "https://lena.io",
+        "location": "Houston, Texas, United States",
+        "region": "Americas",
+        "subregion": "North America",
+        "tags": [
+          "Artificial intelligence and machine learning",
+          "Healthtech",
+          "Mobile"
+        ],
+        "year": 2019,
+        "program": "UnitedHealthcare Accelerator Powered by Techstars",
+        "programSlugs": [],
+        "isExit": false,
+        "isUnicorn": false,
+        "isBCorp": false,
+        "isCurrentSession": false,
+        "social": {
+          "linkedin": "https://linkedin.com/company/linehealth",
+          "twitter": "https://twitter.com/line_health",
+          "facebook": "https://facebook.com/linehealth.co/",
+          "crunchbase": "https://crunchbase.com/organization/line-health"
+        },
+        "extra": {
+          "city": "Houston",
+          "state_province": "Texas",
+          "country": "United States"
+        },
+        "source": "techstars"
+      }
+    },
+    {
+      "id": "upstream-14825",
+      "upstream_position": 14825,
+      "name": "hug",
+      "source": "ef",
+      "category": "explicit",
+      "effective_description": "An AI BFF who understands you better than any human ever could.",
+      "description_field": "description",
+      "field_correction": null,
+      "strong_evidence": [
+        {
+          "rule": "ai",
+          "field": "description",
+          "term": "AI",
+          "start": 3,
+          "end": 5,
+          "context": "An AI BFF who understands you better than any human ever could."
+        }
+      ],
+      "weak_evidence": [],
+      "external_verification": "not_performed",
+      "original_record": {
+        "source": "ef",
+        "name": "hug",
+        "description": "An AI BFF who understands you better than any human ever could.",
+        "logo": "",
+        "website": "",
+        "location": "",
+        "region": "",
+        "subregion": "",
+        "tags": [],
+        "year": 2026,
+        "program": "Entrepreneur First",
+        "programSlugs": [
+          "ef"
+        ],
+        "isExit": false,
+        "isUnicorn": false,
+        "isBCorp": false,
+        "isCurrentSession": false,
+        "founders": [
+          {
+            "name": "Aryan Shah",
+            "role": "CEO",
+            "linkedin": "https://www.linkedin.com/in/aryannstar"
+          },
+          {
+            "name": "Waris Reshi",
+            "role": "CTO",
+            "linkedin": ""
+          }
+        ],
+        "social": {
+          "linkedin": "",
+          "twitter": "",
+          "facebook": "",
+          "crunchbase": ""
+        },
+        "extra": {
+          "investor": ""
+        }
+      }
+    },
+    {
+      "id": "upstream-08510",
+      "upstream_position": 8510,
+      "name": "Toko",
+      "source": "yc",
+      "category": "explicit",
+      "effective_description": "AI English Tutor",
+      "description_field": "description",
+      "field_correction": null,
+      "strong_evidence": [
+        {
+          "rule": "ai",
+          "field": "description",
+          "term": "AI",
+          "start": 0,
+          "end": 2,
+          "context": "AI English Tutor"
+        }
+      ],
+      "weak_evidence": [
+        {
+          "rule": "ai",
+          "field": "tags[1]",
+          "term": "AI",
+          "start": 0,
+          "end": 2,
+          "context": "AI-Enhanced Learning",
+          "reason": "Upstream tag only."
+        },
+        {
+          "rule": "ai",
+          "field": "tags[2]",
+          "term": "AI",
+          "start": 11,
+          "end": 13,
+          "context": "Generative AI",
+          "reason": "Upstream tag only."
+        },
+        {
+          "rule": "generative_ai",
+          "field": "tags[2]",
+          "term": "Generative AI",
+          "start": 0,
+          "end": 13,
+          "context": "Generative AI",
+          "reason": "Upstream tag only."
+        },
+        {
+          "rule": "machine_learning",
+          "field": "tags[3]",
+          "term": "Machine Learning",
+          "start": 0,
+          "end": 16,
+          "context": "Machine Learning",
+          "reason": "Upstream tag only."
+        }
+      ],
+      "external_verification": "not_performed",
+      "original_record": {
+        "source": "yc",
+        "name": "Toko",
+        "description": "AI English Tutor",
+        "logo": "https://bookface-images.s3.amazonaws.com/small_logos/27e4f86a5dfe2f9b052160388e2aeeacf844e019.png",
+        "website": "https://tokotutor.com/",
+        "location": "New York City, NY, USA",
+        "region": "United States of America",
+        "subregion": "",
+        "tags": [
+          "Education",
+          "AI-Enhanced Learning",
+          "Generative AI",
+          "Machine Learning",
+          "Consumer"
+        ],
+        "year": 2022,
+        "program": "YC Winter 2022",
+        "programSlugs": [
+          "yc-winter-2022"
+        ],
+        "isExit": false,
+        "isUnicorn": false,
+        "isBCorp": false,
+        "isCurrentSession": false,
+        "founders": [],
+        "social": {
+          "linkedin": "",
+          "twitter": "",
+          "facebook": "",
+          "crunchbase": ""
+        },
+        "extra": {}
+      }
+    },
+    {
+      "id": "upstream-07860",
+      "upstream_position": 7860,
+      "name": "Friz",
+      "source": "yc",
+      "category": "explicit",
+      "effective_description": "AI Social Media Manager",
+      "description_field": "description",
+      "field_correction": null,
+      "strong_evidence": [
+        {
+          "rule": "ai",
+          "field": "description",
+          "term": "AI",
+          "start": 0,
+          "end": 2,
+          "context": "AI Social Media Manager"
+        }
+      ],
+      "weak_evidence": [
+        {
+          "rule": "ai",
+          "field": "tags[6]",
+          "term": "AI",
+          "start": 0,
+          "end": 2,
+          "context": "AI",
+          "reason": "Upstream tag only."
+        }
+      ],
+      "external_verification": "not_performed",
+      "original_record": {
+        "source": "yc",
+        "name": "Friz",
+        "description": "AI Social Media Manager",
+        "logo": "https://bookface-images.s3.amazonaws.com/small_logos/e03c6972dbbb7bfad3e7b3234b4c293d71b365cc.png",
+        "website": "https://www.usefriz.com",
+        "location": "Singapore, Singapore",
+        "region": "Singapore",
+        "subregion": "",
+        "tags": [
+          "Consumer",
+          "Job and Career Services",
+          "Developer Tools",
+          "SaaS",
+          "Design Tools",
+          "Social Media",
+          "AI"
+        ],
+        "year": 2021,
+        "program": "YC Winter 2021",
+        "programSlugs": [
+          "yc-winter-2021"
+        ],
+        "isExit": true,
+        "isUnicorn": false,
+        "isBCorp": false,
+        "isCurrentSession": false,
+        "founders": [],
+        "social": {
+          "linkedin": "",
+          "twitter": "",
+          "facebook": "",
+          "crunchbase": ""
+        },
+        "extra": {}
+      }
+    },
+    {
+      "id": "upstream-07254",
+      "upstream_position": 7254,
+      "name": "Turing Labs Inc.",
+      "source": "yc",
+      "category": "explicit",
+      "effective_description": "AI for R&D of consumer brands like P&G to develop better products",
+      "description_field": "description",
+      "field_correction": null,
+      "strong_evidence": [
+        {
+          "rule": "ai",
+          "field": "description",
+          "term": "AI",
+          "start": 0,
+          "end": 2,
+          "context": "AI for R&D of consumer brands like P&G to develop better products"
+        }
+      ],
+      "weak_evidence": [
+        {
+          "rule": "ai",
+          "field": "tags[1]",
+          "term": "AI",
+          "start": 0,
+          "end": 2,
+          "context": "AI",
+          "reason": "Upstream tag only."
+        }
+      ],
+      "external_verification": "not_performed",
+      "original_record": {
+        "source": "yc",
+        "name": "Turing Labs Inc.",
+        "description": "AI for R&D of consumer brands like P&G to develop better products",
+        "logo": "https://bookface-images.s3.amazonaws.com/small_logos/b08c043473fb54cce0d2423ed1fb47f59cc9a53c.png",
+        "website": "http://www.turingsaas.com",
+        "location": "San Francisco, CA, USA",
+        "region": "United States of America",
+        "subregion": "",
+        "tags": [
+          "Retail",
+          "AI"
+        ],
+        "year": 2020,
+        "program": "YC Winter 2020",
+        "programSlugs": [
+          "yc-winter-2020"
+        ],
+        "isExit": false,
+        "isUnicorn": false,
+        "isBCorp": false,
+        "isCurrentSession": false,
+        "founders": [],
+        "social": {
+          "linkedin": "",
+          "twitter": "",
+          "facebook": "",
+          "crunchbase": ""
+        },
+        "extra": {}
+      }
+    },
+    {
+      "id": "upstream-03446",
+      "upstream_position": 3446,
+      "name": "Mimrr",
+      "source": "techstars",
+      "category": "explicit",
+      "effective_description": "Mimrr is an AI Agent for product development teams that ensures they never miss deadlines by  automating low-level tasks like codebase documentation, writing tickets, unit tests, PR reviews, and ticket backlog resolution.",
+      "description_field": "description",
+      "field_correction": null,
+      "strong_evidence": [
+        {
+          "rule": "ai",
+          "field": "description",
+          "term": "AI",
+          "start": 12,
+          "end": 14,
+          "context": "Mimrr is an AI Agent for product development teams that ensures they never miss deadlines by  automating low-level"
+        }
+      ],
+      "weak_evidence": [
+        {
+          "rule": "agent",
+          "field": "description",
+          "term": "Agent",
+          "start": 15,
+          "end": 20,
+          "context": "Mimrr is an AI Agent for product development teams that ensures they never miss deadlines by  automating low-level tasks"
+        },
+        {
+          "rule": "artificial_intelligence",
+          "field": "tags[0]",
+          "term": "Artificial intelligence",
+          "start": 0,
+          "end": 23,
+          "context": "Artificial intelligence and machine learning",
+          "reason": "Upstream tag only."
+        },
+        {
+          "rule": "machine_learning",
+          "field": "tags[0]",
+          "term": "machine learning",
+          "start": 28,
+          "end": 44,
+          "context": "Artificial intelligence and machine learning",
+          "reason": "Upstream tag only."
+        }
+      ],
+      "external_verification": "not_performed",
+      "original_record": {
+        "name": "Mimrr",
+        "description": "Mimrr is an AI Agent for product development teams that ensures they never miss deadlines by  automating low-level tasks like codebase documentation, writing tickets, unit tests, PR reviews, and ticket backlog resolution.",
+        "logo": "https://apimg.techstars.com/profiles/1711944258157_892791.png",
+        "website": "https://mimrr.com",
+        "location": "Dover, Delaware, United States",
+        "region": "Americas",
+        "subregion": "North America",
+        "tags": [
+          "Artificial intelligence and machine learning"
+        ],
+        "year": 2024,
+        "program": "Techstars Atlanta powered by J.P. Morgan",
+        "programSlugs": [
+          "atlanta-jp-morgan"
+        ],
+        "isExit": false,
+        "isUnicorn": false,
+        "isBCorp": false,
+        "isCurrentSession": false,
+        "social": {
+          "linkedin": "https://linkedin.com/company/mimrrhq",
+          "twitter": "https://twitter.com/mimrrhq",
+          "facebook": "",
+          "crunchbase": "https://crunchbase.com/organization/mimrr"
+        },
+        "extra": {
+          "city": "Dover",
+          "state_province": "Delaware",
+          "country": "United States"
+        },
+        "source": "techstars"
+      }
+    },
+    {
+      "id": "upstream-14571",
+      "upstream_position": 14571,
+      "name": "Wrappup",
+      "source": "500",
+      "category": "explicit",
+      "effective_description": "Provider of a meeting productivity application designed to transform sales training.The company application is available on android as well as iOS and uses artificial intelligence to record voice notes, highlight important things and summarize meeting, enabling users to track conversations and and focus on conversation rather than taking notes.",
+      "description_field": "description",
+      "field_correction": null,
+      "strong_evidence": [
+        {
+          "rule": "artificial_intelligence",
+          "field": "description",
+          "term": "artificial intelligence",
+          "start": 156,
+          "end": 179,
+          "context": "raining.The company application is available on android as well as iOS and uses artificial intelligence to record voice notes, highlight important things and summarize meeting, enabling users to track co"
+        }
+      ],
+      "weak_evidence": [
+        {
+          "rule": "ai_domain",
+          "field": "website",
+          "term": "www.wrappup.ai",
+          "context": "https://www.wrappup.ai",
+          "reason": ".ai domain is a weak clue, not proof."
+        }
+      ],
+      "external_verification": "not_performed",
+      "original_record": {
+        "source": "500",
+        "name": "Wrappup",
+        "description": "Provider of a meeting productivity application designed to transform sales training.The company application is available on android as well as iOS and uses artificial intelligence to record voice notes, highlight important things and summarize meeting, enabling users to track conversations and and focus on conversation rather than taking notes.",
+        "logo": "https://founder-hub-public.s3.us-west-1.amazonaws.com/3062edb6-3371-48e4-8a26-dfe987169220.png",
+        "website": "https://www.wrappup.ai",
+        "location": "United States",
+        "region": "North America",
+        "subregion": "",
+        "tags": [
+          "Data & Analytics"
+        ],
+        "year": 2016,
+        "program": "500 Global",
+        "programSlugs": [
+          "500"
+        ],
+        "isExit": true,
+        "isUnicorn": false,
+        "isBCorp": false,
+        "isCurrentSession": false,
+        "founders": [
+          {
+            "name": "Ayush Chordia",
+            "role": "",
+            "linkedin": ""
+          },
+          {
+            "name": "Rami Salman",
+            "role": "",
+            "linkedin": ""
+          },
+          {
+            "name": "Rishav Jalan",
+            "role": "",
+            "linkedin": ""
+          }
+        ],
+        "social": {
+          "linkedin": "",
+          "twitter": "",
+          "facebook": "",
+          "crunchbase": ""
+        },
+        "extra": {
+          "country": "United States"
+        }
+      }
+    },
+    {
+      "id": "upstream-02553",
+      "upstream_position": 2553,
+      "name": "Context Data",
+      "source": "techstars",
+      "category": "explicit",
+      "effective_description": "Enterprise Data Platform for Generative AI",
+      "description_field": "description",
+      "field_correction": null,
+      "strong_evidence": [
+        {
+          "rule": "ai",
+          "field": "description",
+          "term": "AI",
+          "start": 40,
+          "end": 42,
+          "context": "Enterprise Data Platform for Generative AI"
+        },
+        {
+          "rule": "generative_ai",
+          "field": "description",
+          "term": "Generative AI",
+          "start": 29,
+          "end": 42,
+          "context": "Enterprise Data Platform for Generative AI"
+        }
+      ],
+      "weak_evidence": [
+        {
+          "rule": "artificial_intelligence",
+          "field": "tags[0]",
+          "term": "Artificial intelligence",
+          "start": 0,
+          "end": 23,
+          "context": "Artificial intelligence and machine learning",
+          "reason": "Upstream tag only."
+        },
+        {
+          "rule": "machine_learning",
+          "field": "tags[0]",
+          "term": "machine learning",
+          "start": 28,
+          "end": 44,
+          "context": "Artificial intelligence and machine learning",
+          "reason": "Upstream tag only."
+        },
+        {
+          "rule": "ai_domain",
+          "field": "website",
+          "term": "contextdata.ai",
+          "context": "https://contextdata.ai",
+          "reason": ".ai domain is a weak clue, not proof."
+        }
+      ],
+      "external_verification": "not_performed",
+      "original_record": {
+        "name": "Context Data",
+        "description": "Enterprise Data Platform for Generative AI",
+        "logo": "http://apimg.techstars.com/sf/accounts/logo/Logo_780eb81bf721bd1d8c12cff92.jpeg",
+        "website": "https://contextdata.ai",
+        "location": "Houston, Texas, United States",
+        "region": "Americas",
+        "subregion": "North America",
+        "tags": [
+          "Artificial intelligence and machine learning"
+        ],
+        "year": 2024,
+        "program": "Techstars London Accelerator",
+        "programSlugs": [
+          "london"
+        ],
+        "isExit": false,
+        "isUnicorn": false,
+        "isBCorp": false,
+        "isCurrentSession": false,
+        "social": {
+          "linkedin": "",
+          "twitter": "",
+          "facebook": "",
+          "crunchbase": ""
+        },
+        "extra": {
+          "city": "Houston",
+          "state_province": "Texas",
+          "country": "United States"
+        },
+        "source": "techstars"
+      }
+    },
+    {
+      "id": "upstream-12482",
+      "upstream_position": 12482,
+      "name": "Vision Cinex",
+      "source": "antler",
+      "category": "explicit",
+      "effective_description": "AI-native project management for the film, gaming and other creative industries",
+      "description_field": "location",
+      "field_correction": "Antler description equals name; used location as product description.",
+      "strong_evidence": [
+        {
+          "rule": "ai",
+          "field": "location",
+          "term": "AI",
+          "start": 0,
+          "end": 2,
+          "context": "AI-native project management for the film, gaming and other creative industries"
+        }
+      ],
+      "weak_evidence": [],
+      "external_verification": "not_performed",
+      "original_record": {
+        "source": "antler",
+        "name": "Vision Cinex",
+        "description": "Vision Cinex",
+        "logo": "https://cdn.prod.website-files.com/68d622fc073c7e5dead1105e/6944eff7722bb4d1478eb08d_portfolio%252Fcompany%252F9adac6de-d8b7-4b94-991d-27173f10f5f0%252F1725844175112-logo.png",
+        "website": "https://visioncinex.com/",
+        "location": "AI-native project management for the film, gaming and other creative industries",
+        "region": "",
+        "subregion": "",
+        "tags": [
+          "ConsumerTech"
+        ],
+        "year": "",
+        "program": "Antler",
+        "programSlugs": [
+          "antler"
+        ],
+        "isExit": false,
+        "isUnicorn": false,
+        "isBCorp": false,
+        "isCurrentSession": false,
+        "founders": [],
+        "social": {
+          "linkedin": "",
+          "twitter": "",
+          "facebook": "",
+          "crunchbase": ""
+        },
+        "extra": {}
+      }
+    },
+    {
+      "id": "upstream-14811",
+      "upstream_position": 14811,
+      "name": "Seeft",
+      "source": "ef",
+      "category": "explicit",
+      "effective_description": "AI-powered spend and revenue management for real economy businesses.",
+      "description_field": "description",
+      "field_correction": null,
+      "strong_evidence": [
+        {
+          "rule": "ai",
+          "field": "description",
+          "term": "AI",
+          "start": 0,
+          "end": 2,
+          "context": "AI-powered spend and revenue management for real economy businesses."
+        }
+      ],
+      "weak_evidence": [],
+      "external_verification": "not_performed",
+      "original_record": {
+        "source": "ef",
+        "name": "Seeft",
+        "description": "AI-powered spend and revenue management for real economy businesses.",
+        "logo": "",
+        "website": "",
+        "location": "",
+        "region": "",
+        "subregion": "",
+        "tags": [],
+        "year": 2026,
+        "program": "Entrepreneur First",
+        "programSlugs": [
+          "ef"
+        ],
+        "isExit": false,
+        "isUnicorn": false,
+        "isBCorp": false,
+        "isCurrentSession": false,
+        "founders": [
+          {
+            "name": "Mehdi Amara",
+            "role": "CEO",
+            "linkedin": "https://www.linkedin.com/in/mehdiamara-/"
+          },
+          {
+            "name": "Naol Basaye",
+            "role": "CTO",
+            "linkedin": "https://www.linkedin.com/in/naol-basaye/"
+          }
+        ],
+        "social": {
+          "linkedin": "",
+          "twitter": "",
+          "facebook": "",
+          "crunchbase": ""
+        },
+        "extra": {
+          "investor": ""
+        }
+      }
+    },
+    {
+      "id": "upstream-18617",
+      "upstream_position": 18617,
+      "name": "Finplanet",
+      "source": "plugandplay",
+      "category": "explicit",
+      "effective_description": "FinPlanet provides online financial services tailored to each customer through the use of AI technologies and solutions such as Chatbots.",
+      "description_field": "description",
+      "field_correction": null,
+      "strong_evidence": [
+        {
+          "rule": "ai",
+          "field": "description",
+          "term": "AI",
+          "start": 90,
+          "end": 92,
+          "context": "provides online financial services tailored to each customer through the use of AI technologies and solutions such as Chatbots."
+        }
+      ],
+      "weak_evidence": [
+        {
+          "rule": "chatbot",
+          "field": "description",
+          "term": "Chatbots",
+          "start": 128,
+          "end": 136,
+          "context": "lored to each customer through the use of AI technologies and solutions such as Chatbots."
+        }
+      ],
+      "external_verification": "not_performed",
+      "original_record": {
+        "source": "plugandplay",
+        "name": "Finplanet",
+        "description": "FinPlanet provides online financial services tailored to each customer through the use of AI technologies and solutions such as Chatbots.",
+        "logo": "https://cdn.playbook.vc/media/thumbnails/kruvlqcrjheu11mobhqa?Expires=1776777239&Signature=ESgq5wZjLdz9E6jDVC0UrSb02PnR609yG4vqE0EO07NlK5~pG0xy6zmP9lkDq0p3G922M5iLngX6jdy0L5m1sR0YChpGYkvbzduDjeV6UUZvOHtHidDqn8KmIT0rrBBoQWMsIXuKkFd0B1h0RmLQUHg9B7KugMnmKE~Fq9lnp5ndYOAQ-RCgIQeC1HnWECTbCA~TxuTr6hgPs6v6juB-w6xVouRPHnc8BQ2e89us-314eQttlpCGe5cASu~OBBaRGzMOjuxWg0Qt0eSdqRH26WRdCE-YQy7js4~XjIzGdOxCD6ZAWlAFiBooUvD4C6PgOyGioYwC-yWsIYbFDUEjBQ__&Key-Pair-Id=K1EZH924FG48TE",
+        "website": "https://finplanet.co.jp",
+        "location": "Japan",
+        "region": "Asia",
+        "subregion": "",
+        "tags": [
+          "Fintech"
+        ],
+        "year": "",
+        "program": "Plug and Play",
+        "programSlugs": [
+          "plugandplay"
+        ],
+        "isExit": false,
+        "isUnicorn": false,
+        "isBCorp": false,
+        "isCurrentSession": false,
+        "founders": [],
+        "social": {
+          "linkedin": "",
+          "twitter": "",
+          "facebook": "",
+          "crunchbase": ""
+        },
+        "extra": {
+          "city": "Tokyo",
+          "state_province": "Japan",
+          "country": "Japan"
+        }
+      }
+    },
+    {
+      "id": "upstream-11024",
+      "upstream_position": 11024,
+      "name": "Hessian",
+      "source": "yc",
+      "category": "explicit",
+      "effective_description": "Forward-deployed AI Agents",
+      "description_field": "description",
+      "field_correction": null,
+      "strong_evidence": [
+        {
+          "rule": "ai",
+          "field": "description",
+          "term": "AI",
+          "start": 17,
+          "end": 19,
+          "context": "Forward-deployed AI Agents"
+        }
+      ],
+      "weak_evidence": [
+        {
+          "rule": "agent",
+          "field": "description",
+          "term": "Agents",
+          "start": 20,
+          "end": 26,
+          "context": "Forward-deployed AI Agents"
+        }
+      ],
+      "external_verification": "not_performed",
+      "original_record": {
+        "source": "yc",
+        "name": "Hessian",
+        "description": "Forward-deployed AI Agents",
+        "logo": "https://bookface-images.s3.amazonaws.com/small_logos/f536986f121d1ec1c4cb08cbe10e493da54b21ee.png",
+        "website": "https://hessian.sh",
+        "location": "London, England, United Kingdom",
+        "region": "United Kingdom",
+        "subregion": "",
+        "tags": [],
+        "year": 2026,
+        "program": "YC Spring 2026",
+        "programSlugs": [
+          "yc-spring-2026"
+        ],
+        "isExit": false,
+        "isUnicorn": false,
+        "isBCorp": false,
+        "isCurrentSession": false,
+        "founders": [],
+        "social": {
+          "linkedin": "",
+          "twitter": "",
+          "facebook": "",
+          "crunchbase": ""
+        },
+        "extra": {}
+      }
+    },
+    {
+      "id": "upstream-02222",
+      "upstream_position": 2222,
+      "name": "bestselfy",
+      "source": "techstars",
+      "category": "explicit",
+      "effective_description": "AI-powered pocket coach for new managers & employees to make the best work happen, in just 10 minutes a day. Waitlist growing by 100% per week.  Get access now!",
+      "description_field": "description",
+      "field_correction": null,
+      "strong_evidence": [
+        {
+          "rule": "ai",
+          "field": "description",
+          "term": "AI",
+          "start": 0,
+          "end": 2,
+          "context": "AI-powered pocket coach for new managers & employees to make the best work happen, in just 10 minutes "
+        }
+      ],
+      "weak_evidence": [
+        {
+          "rule": "artificial_intelligence",
+          "field": "tags[0]",
+          "term": "Artificial intelligence",
+          "start": 0,
+          "end": 23,
+          "context": "Artificial intelligence and machine learning",
+          "reason": "Upstream tag only."
+        },
+        {
+          "rule": "machine_learning",
+          "field": "tags[0]",
+          "term": "machine learning",
+          "start": 28,
+          "end": 44,
+          "context": "Artificial intelligence and machine learning",
+          "reason": "Upstream tag only."
+        }
+      ],
+      "external_verification": "not_performed",
+      "original_record": {
+        "name": "bestselfy",
+        "description": "AI-powered pocket coach for new managers & employees to make the best work happen, in just 10 minutes a day. Waitlist growing by 100% per week.  Get access now!",
+        "logo": "https://apimg.techstars.com/connect/images/image_files/5e2afea834a60d7d790000eb/original/Logo_282X282.png",
+        "website": "https://bestselfy.com",
+        "location": "Orleans, Massachusetts, United States",
+        "region": "Americas",
+        "subregion": "North America",
+        "tags": [
+          "Artificial intelligence and machine learning",
+          "HRtech"
+        ],
+        "year": 2020,
+        "program": "Techstars Berlin Accelerator",
+        "programSlugs": [
+          "berlin"
+        ],
+        "isExit": false,
+        "isUnicorn": false,
+        "isBCorp": false,
+        "isCurrentSession": false,
+        "social": {
+          "linkedin": "https://linkedin.com/company/bestselfy",
+          "twitter": "https://twitter.com/bestselfycoach",
+          "facebook": "https://facebook.com/bestselfy",
+          "crunchbase": "https://crunchbase.com/organization/bestselfy"
+        },
+        "extra": {
+          "city": "Orleans",
+          "state_province": "Massachusetts",
+          "country": "United States"
+        },
+        "source": "techstars"
+      }
+    },
+    {
+      "id": "upstream-11456",
+      "upstream_position": 11456,
+      "name": "Jinko",
+      "source": "yc",
+      "category": "explicit",
+      "effective_description": "Travel Search & Booking Infrastructure for AI agents",
+      "description_field": "description",
+      "field_correction": null,
+      "strong_evidence": [
+        {
+          "rule": "ai",
+          "field": "description",
+          "term": "AI",
+          "start": 43,
+          "end": 45,
+          "context": "Travel Search & Booking Infrastructure for AI agents"
+        }
+      ],
+      "weak_evidence": [
+        {
+          "rule": "agent",
+          "field": "description",
+          "term": "agents",
+          "start": 46,
+          "end": 52,
+          "context": "Travel Search & Booking Infrastructure for AI agents"
+        }
+      ],
+      "external_verification": "not_performed",
+      "original_record": {
+        "source": "yc",
+        "name": "Jinko",
+        "description": "Travel Search & Booking Infrastructure for AI agents",
+        "logo": "https://bookface-images.s3.amazonaws.com/small_logos/94899e15d10f620110f9390e865fcdb324fbce08.png",
+        "website": "https://gojinko.com",
+        "location": "Paris, Île-de-France, France",
+        "region": "France",
+        "subregion": "",
+        "tags": [
+          "Travel",
+          "APIs"
+        ],
+        "year": 2026,
+        "program": "YC Fall 2026",
+        "programSlugs": [
+          "yc-fall-2026"
+        ],
+        "isExit": false,
+        "isUnicorn": false,
+        "isBCorp": false,
+        "isCurrentSession": false,
+        "founders": [],
+        "social": {
+          "linkedin": "",
+          "twitter": "",
+          "facebook": "",
+          "crunchbase": ""
+        },
+        "extra": {}
+      }
+    },
+    {
+      "id": "upstream-10031",
+      "upstream_position": 10031,
+      "name": "Canvas",
+      "source": "yc",
+      "category": "explicit",
+      "effective_description": "Building AI systems that improve from experience.",
+      "description_field": "description",
+      "field_correction": null,
+      "strong_evidence": [
+        {
+          "rule": "ai",
+          "field": "description",
+          "term": "AI",
+          "start": 9,
+          "end": 11,
+          "context": "Building AI systems that improve from experience."
+        }
+      ],
+      "weak_evidence": [],
+      "external_verification": "not_performed",
+      "original_record": {
+        "source": "yc",
+        "name": "Canvas",
+        "description": "Building AI systems that improve from experience.",
+        "logo": "https://bookface-images.s3.amazonaws.com/small_logos/50c65b09c63d4db06dcd89cb26fd6622b6c3934c.png",
+        "website": "https://www.canvas.inc/",
+        "location": "San Francisco, CA, USA",
+        "region": "United States of America",
+        "subregion": "",
+        "tags": [],
+        "year": 2024,
+        "program": "YC Fall 2024",
+        "programSlugs": [
+          "yc-fall-2024"
+        ],
+        "isExit": false,
+        "isUnicorn": false,
+        "isBCorp": false,
+        "isCurrentSession": false,
+        "founders": [],
+        "social": {
+          "linkedin": "",
+          "twitter": "",
+          "facebook": "",
+          "crunchbase": ""
+        },
+        "extra": {}
+      }
+    },
+    {
+      "id": "upstream-01180",
+      "upstream_position": 1180,
+      "name": "ClaroAI",
+      "source": "techstars",
+      "category": "explicit",
+      "effective_description": "AI to eliminate language barriers between people",
+      "description_field": "description",
+      "field_correction": null,
+      "strong_evidence": [
+        {
+          "rule": "ai",
+          "field": "description",
+          "term": "AI",
+          "start": 0,
+          "end": 2,
+          "context": "AI to eliminate language barriers between people"
+        }
+      ],
+      "weak_evidence": [
+        {
+          "rule": "artificial_intelligence",
+          "field": "tags[0]",
+          "term": "Artificial intelligence",
+          "start": 0,
+          "end": 23,
+          "context": "Artificial intelligence and machine learning",
+          "reason": "Upstream tag only."
+        },
+        {
+          "rule": "machine_learning",
+          "field": "tags[0]",
+          "term": "machine learning",
+          "start": 28,
+          "end": 44,
+          "context": "Artificial intelligence and machine learning",
+          "reason": "Upstream tag only."
+        }
+      ],
+      "external_verification": "not_performed",
+      "original_record": {
+        "name": "ClaroAI",
+        "description": "AI to eliminate language barriers between people",
+        "logo": "http://apimg.techstars.com/sf/accounts/logo/Logo_f5fad3da5e7892b139b9fc592.jpg",
+        "website": "https://claroai.com",
+        "location": "Hod HaSharon, Israel",
+        "region": "Middle East",
+        "subregion": "Middle East",
+        "tags": [
+          "Artificial intelligence and machine learning",
+          "Mobile"
+        ],
+        "year": 2023,
+        "program": "Techstars Tel Aviv Accelerator",
+        "programSlugs": [
+          "tel-aviv"
+        ],
+        "isExit": false,
+        "isUnicorn": false,
+        "isBCorp": false,
+        "isCurrentSession": false,
+        "social": {
+          "linkedin": "https://linkedin.com/company/claroai",
+          "twitter": "https://twitter.com/Claro_AI",
+          "facebook": "",
+          "crunchbase": "https://crunchbase.com/organization/claro-ai"
+        },
+        "extra": {
+          "city": "Hod HaSharon",
+          "country": "Israel"
+        },
+        "source": "techstars"
+      }
+    },
+    {
+      "id": "upstream-01097",
+      "upstream_position": 1097,
+      "name": "Wind Fisher",
+      "source": "techstars",
+      "category": "explicit",
+      "effective_description": "Pioneering a revolutionary approach to wind power: a lighter-than-air cylindrical wing converting Magnus force from high altitude winds to clean energy. This enables lower material use, faster deployment, and reduced O&M complexity. Targeting high load factors and game changing LCOE, we aim to deliver scalable, infrastructure-grade renewable power for utilities, AI factories, data centers, industry, and off-grid markets.",
+      "description_field": "description",
+      "field_correction": null,
+      "strong_evidence": [
+        {
+          "rule": "ai",
+          "field": "description",
+          "term": "AI",
+          "start": 365,
+          "end": 367,
+          "context": "we aim to deliver scalable, infrastructure-grade renewable power for utilities, AI factories, data centers, industry, and off-grid markets."
+        }
+      ],
+      "weak_evidence": [],
+      "external_verification": "not_performed",
+      "original_record": {
+        "name": "Wind Fisher",
+        "description": "Pioneering a revolutionary approach to wind power: a lighter-than-air cylindrical wing converting Magnus force from high altitude winds to clean energy. This enables lower material use, faster deployment, and reduced O&M complexity. Targeting high load factors and game changing LCOE, we aim to deliver scalable, infrastructure-grade renewable power for utilities, AI factories, data centers, industry, and off-grid markets.",
+        "logo": "http://apimg.techstars.com/sf/accounts/logo/Logo_3b818a0e73461f287fd6eba60.png",
+        "website": "https://wind-fisher.com",
+        "location": "Les Adrets, France",
+        "region": "Europe",
+        "subregion": "Western Europe",
+        "tags": [
+          "Cleantech",
+          "Climate tech",
+          "Impact investing",
+          "Infrastructure",
+          "Manufacturing",
+          "Robotics and Drones"
+        ],
+        "year": 2024,
+        "program": "Sustainability Paris Techstars Accelerator",
+        "programSlugs": [
+          "paris"
+        ],
+        "isExit": false,
+        "isUnicorn": false,
+        "isBCorp": false,
+        "isCurrentSession": false,
+        "social": {
+          "linkedin": "https://linkedin.com/company/wind-fisher",
+          "twitter": "",
+          "facebook": "",
+          "crunchbase": ""
+        },
+        "extra": {
+          "city": "Les Adrets",
+          "country": "France"
+        },
+        "source": "techstars"
+      }
+    },
+    {
+      "id": "upstream-02332",
+      "upstream_position": 2332,
+      "name": "Reppls",
+      "source": "techstars",
+      "category": "explicit",
+      "effective_description": "We are going to change existing HR practice of choosing candidates by CV - introducing AI Interview Agents who conduct real-time video interviews with all candidates, assessing their full background and providing instant feedback.",
+      "description_field": "description",
+      "field_correction": null,
+      "strong_evidence": [
+        {
+          "rule": "ai",
+          "field": "description",
+          "term": "AI",
+          "start": 87,
+          "end": 89,
+          "context": "going to change existing HR practice of choosing candidates by CV - introducing AI Interview Agents who conduct real-time video interviews with all candidates, assessing their full b"
+        }
+      ],
+      "weak_evidence": [
+        {
+          "rule": "agent",
+          "field": "description",
+          "term": "Agents",
+          "start": 100,
+          "end": 106,
+          "context": "ge existing HR practice of choosing candidates by CV - introducing AI Interview Agents who conduct real-time video interviews with all candidates, assessing their full background and pro"
+        },
+        {
+          "rule": "artificial_intelligence",
+          "field": "tags[0]",
+          "term": "Artificial intelligence",
+          "start": 0,
+          "end": 23,
+          "context": "Artificial intelligence and machine learning",
+          "reason": "Upstream tag only."
+        },
+        {
+          "rule": "machine_learning",
+          "field": "tags[0]",
+          "term": "machine learning",
+          "start": 28,
+          "end": 44,
+          "context": "Artificial intelligence and machine learning",
+          "reason": "Upstream tag only."
+        }
+      ],
+      "external_verification": "not_performed",
+      "original_record": {
+        "name": "Reppls",
+        "description": "We are going to change existing HR practice of choosing candidates by CV - introducing AI Interview Agents who conduct real-time video interviews with all candidates, assessing their full background and providing instant feedback.",
+        "logo": "http://apimg.techstars.com/sf/accounts/logo/Logo_675e8e2f8133adb5678100ad7.png",
+        "website": "https://reppls.com",
+        "location": "Amsterdam, North Holland, Netherlands",
+        "region": "Europe",
+        "subregion": "Western Europe",
+        "tags": [
+          "Artificial intelligence and machine learning",
+          "HRtech"
+        ],
+        "year": 2024,
+        "program": "Techstars Berlin Accelerator",
+        "programSlugs": [
+          "berlin"
+        ],
+        "isExit": false,
+        "isUnicorn": false,
+        "isBCorp": false,
+        "isCurrentSession": false,
+        "social": {
+          "linkedin": "https://linkedin.com/company/reppls",
+          "twitter": "",
+          "facebook": "",
+          "crunchbase": ""
+        },
+        "extra": {
+          "city": "Amsterdam",
+          "state_province": "North Holland",
+          "country": "Netherlands"
+        },
+        "source": "techstars"
+      }
+    }
+  ],
+  "possible": [
+    {
+      "id": "upstream-04058",
+      "upstream_position": 4058,
+      "name": "Union Crate",
+      "source": "techstars",
+      "category": "possible",
+      "effective_description": "Union Crate makes it easy for grocers to sell more, stock smarter and promote effectively.",
+      "description_field": "description",
+      "field_correction": null,
+      "strong_evidence": [],
+      "weak_evidence": [
+        {
+          "rule": "artificial_intelligence",
+          "field": "tags[0]",
+          "term": "Artificial intelligence",
+          "start": 0,
+          "end": 23,
+          "context": "Artificial intelligence and machine learning",
+          "reason": "Upstream tag only."
+        },
+        {
+          "rule": "machine_learning",
+          "field": "tags[0]",
+          "term": "machine learning",
+          "start": 28,
+          "end": 44,
+          "context": "Artificial intelligence and machine learning",
+          "reason": "Upstream tag only."
+        }
+      ],
+      "external_verification": "not_performed",
+      "original_record": {
+        "name": "Union Crate",
+        "description": "Union Crate makes it easy for grocers to sell more, stock smarter and promote effectively.",
+        "logo": "https://apimg.techstars.com/connect/images/image_files/57d9f50034b2748009000020/original/Logos-02.png",
+        "website": "",
+        "location": "New York City, New York, United States",
+        "region": "Americas",
+        "subregion": "North America",
+        "tags": [
+          "Artificial intelligence and machine learning"
+        ],
+        "year": 2016,
+        "program": "Techstars IoT Accelerator",
+        "programSlugs": [],
+        "isExit": false,
+        "isUnicorn": false,
+        "isBCorp": false,
+        "isCurrentSession": false,
+        "social": {
+          "linkedin": "https://linkedin.com/company/union-crate",
+          "twitter": "https://twitter.com/unioncrate",
+          "facebook": "https://facebook.com/Unioncrate-108982357295081/",
+          "crunchbase": "https://crunchbase.com/organization/union-crate"
+        },
+        "extra": {
+          "city": "New York City",
+          "state_province": "New York",
+          "country": "United States"
+        },
+        "source": "techstars"
+      }
+    },
+    {
+      "id": "upstream-04395",
+      "upstream_position": 4395,
+      "name": "Pixspan",
+      "source": "techstars",
+      "category": "possible",
+      "effective_description": "An enterprise-ready data operating system for unstructured data flows with a suite of patented compression solutions for cloud and hybrid cloud environments.",
+      "description_field": "description",
+      "field_correction": null,
+      "strong_evidence": [],
+      "weak_evidence": [
+        {
+          "rule": "artificial_intelligence",
+          "field": "tags[0]",
+          "term": "Artificial intelligence",
+          "start": 0,
+          "end": 23,
+          "context": "Artificial intelligence and machine learning",
+          "reason": "Upstream tag only."
+        },
+        {
+          "rule": "machine_learning",
+          "field": "tags[0]",
+          "term": "machine learning",
+          "start": 28,
+          "end": 44,
+          "context": "Artificial intelligence and machine learning",
+          "reason": "Upstream tag only."
+        }
+      ],
+      "external_verification": "not_performed",
+      "original_record": {
+        "name": "Pixspan",
+        "description": "An enterprise-ready data operating system for unstructured data flows with a suite of patented compression solutions for cloud and hybrid cloud environments.",
+        "logo": "https://apimg.techstars.com/connect/images/image_files/60b1301af06a370007252430/original/pixspan.jpg",
+        "website": "",
+        "location": "Bethesda, Maryland, United States",
+        "region": "Americas",
+        "subregion": "North America",
+        "tags": [
+          "Artificial intelligence and machine learning"
+        ],
+        "year": 2021,
+        "program": "Techstars Starburst Space Accelerator",
+        "programSlugs": [],
+        "isExit": false,
+        "isUnicorn": false,
+        "isBCorp": false,
+        "isCurrentSession": false,
+        "social": {
+          "linkedin": "https://linkedin.com/company/pixspan",
+          "twitter": "https://twitter.com/pixspan",
+          "facebook": "",
+          "crunchbase": "https://crunchbase.com/organization/pixspan"
+        },
+        "extra": {
+          "city": "Bethesda",
+          "state_province": "Maryland",
+          "country": "United States"
+        },
+        "source": "techstars"
+      }
+    },
+    {
+      "id": "upstream-10467",
+      "upstream_position": 10467,
+      "name": "Maximal",
+      "source": "yc",
+      "category": "possible",
+      "effective_description": "Truckload Planning at Machine Precision",
+      "description_field": "description",
+      "field_correction": null,
+      "strong_evidence": [],
+      "weak_evidence": [
+        {
+          "rule": "ai",
+          "field": "tags[3]",
+          "term": "AI",
+          "start": 0,
+          "end": 2,
+          "context": "AI",
+          "reason": "Upstream tag only."
+        }
+      ],
+      "external_verification": "not_performed",
+      "original_record": {
+        "source": "yc",
+        "name": "Maximal",
+        "description": "Truckload Planning at Machine Precision",
+        "logo": "https://bookface-images.s3.amazonaws.com/small_logos/372f70ec336f450e72151d3d9d0a4035f916b2a7.png",
+        "website": "https://www.trymaximal.com",
+        "location": "San Francisco, CA, USA",
+        "region": "United States of America",
+        "subregion": "",
+        "tags": [
+          "Supply Chain and Logistics",
+          "Logistics",
+          "Supply Chain",
+          "AI"
+        ],
+        "year": 2025,
+        "program": "YC Summer 2025",
+        "programSlugs": [
+          "yc-summer-2025"
+        ],
+        "isExit": false,
+        "isUnicorn": false,
+        "isBCorp": false,
+        "isCurrentSession": false,
+        "founders": [],
+        "social": {
+          "linkedin": "",
+          "twitter": "",
+          "facebook": "",
+          "crunchbase": ""
+        },
+        "extra": {}
+      }
+    },
+    {
+      "id": "upstream-11816",
+      "upstream_position": 11816,
+      "name": "Geospan",
+      "source": "antler",
+      "category": "possible",
+      "effective_description": "Road intelligence to make every car smarter and every journey safer",
+      "description_field": "location",
+      "field_correction": "Antler description equals name; used location as product description.",
+      "strong_evidence": [],
+      "weak_evidence": [
+        {
+          "rule": "ai_domain",
+          "field": "website",
+          "term": "www.geospan.ai",
+          "context": "https://www.geospan.ai/",
+          "reason": ".ai domain is a weak clue, not proof."
+        }
+      ],
+      "external_verification": "not_performed",
+      "original_record": {
+        "source": "antler",
+        "name": "Geospan",
+        "description": "Geospan",
+        "logo": "https://cdn.prod.website-files.com/68d622fc073c7e5dead1105e/69be9c049b28d40bb651d553_teams%252F9ffb2e9b-5e03-43bd-a635-6ed1d065f064%252Flogos%252Fgeospan_spite-aBqRtAVX.png",
+        "website": "https://www.geospan.ai/",
+        "location": "Road intelligence to make every car smarter and every journey safer",
+        "region": "",
+        "subregion": "",
+        "tags": [
+          "Mobility"
+        ],
+        "year": "",
+        "program": "Antler",
+        "programSlugs": [
+          "antler"
+        ],
+        "isExit": false,
+        "isUnicorn": false,
+        "isBCorp": false,
+        "isCurrentSession": false,
+        "founders": [],
+        "social": {
+          "linkedin": "",
+          "twitter": "",
+          "facebook": "",
+          "crunchbase": ""
+        },
+        "extra": {}
+      }
+    },
+    {
+      "id": "upstream-00427",
+      "upstream_position": 427,
+      "name": "Aptos Orbital",
+      "source": "techstars",
+      "category": "possible",
+      "effective_description": "Cryptosat is to build satellites that power cryptographic, blockchain and ledger applications.",
+      "description_field": "description",
+      "field_correction": null,
+      "strong_evidence": [],
+      "weak_evidence": [
+        {
+          "rule": "artificial_intelligence",
+          "field": "tags[0]",
+          "term": "Artificial intelligence",
+          "start": 0,
+          "end": 23,
+          "context": "Artificial intelligence and machine learning",
+          "reason": "Upstream tag only."
+        },
+        {
+          "rule": "machine_learning",
+          "field": "tags[0]",
+          "term": "machine learning",
+          "start": 28,
+          "end": 44,
+          "context": "Artificial intelligence and machine learning",
+          "reason": "Upstream tag only."
+        }
+      ],
+      "external_verification": "not_performed",
+      "original_record": {
+        "name": "Aptos Orbital",
+        "description": "Cryptosat is to build satellites that power cryptographic, blockchain and ledger applications.",
+        "logo": "https://images.crunchbase.com/image/upload/t_cb-default-original/jfcdwcjxelzulvxxbhpq",
+        "website": "https://aptosorbital.com",
+        "location": "Mountain View, California, United States",
+        "region": "Americas",
+        "subregion": "North America",
+        "tags": [
+          "Artificial intelligence and machine learning",
+          "Space tech"
+        ],
+        "year": 2024,
+        "program": "Techstars Space Accelerator",
+        "programSlugs": [
+          "space"
+        ],
+        "isExit": false,
+        "isUnicorn": false,
+        "isBCorp": false,
+        "isCurrentSession": false,
+        "social": {
+          "linkedin": "https://linkedin.com/company/aptosorbital",
+          "twitter": "https://twitter.com/cryptosat",
+          "facebook": "",
+          "crunchbase": "https://crunchbase.com/organization/cryptosat"
+        },
+        "extra": {
+          "city": "Mountain View",
+          "state_province": "California",
+          "country": "United States"
+        },
+        "source": "techstars"
+      }
+    },
+    {
+      "id": "upstream-11178",
+      "upstream_position": 11178,
+      "name": "Nori",
+      "source": "yc",
+      "category": "possible",
+      "effective_description": "The most capable American-made humanoid robot for $1,688",
+      "description_field": "description",
+      "field_correction": null,
+      "strong_evidence": [],
+      "weak_evidence": [
+        {
+          "rule": "robotics",
+          "field": "description",
+          "term": "robot",
+          "start": 40,
+          "end": 45,
+          "context": "The most capable American-made humanoid robot for $1,688"
+        }
+      ],
+      "external_verification": "not_performed",
+      "original_record": {
+        "source": "yc",
+        "name": "Nori",
+        "description": "The most capable American-made humanoid robot for $1,688",
+        "logo": "https://bookface-images.s3.amazonaws.com/small_logos/4b7cc06bfd9d08d6eae3bc20eca8c056f893bf8b.png",
+        "website": "http://norirobotics.com",
+        "location": "San Francisco, CA, USA",
+        "region": "United States of America",
+        "subregion": "",
+        "tags": [
+          "Industrials",
+          "Manufacturing and Robotics",
+          "Hard Tech",
+          "Hardware",
+          "Robotics"
+        ],
+        "year": 2026,
+        "program": "YC Summer 2026",
+        "programSlugs": [
+          "yc-summer-2026"
+        ],
+        "isExit": false,
+        "isUnicorn": false,
+        "isBCorp": false,
+        "isCurrentSession": false,
+        "founders": [],
+        "social": {
+          "linkedin": "",
+          "twitter": "",
+          "facebook": "",
+          "crunchbase": ""
+        },
+        "extra": {}
+      }
+    },
+    {
+      "id": "upstream-03580",
+      "upstream_position": 3580,
+      "name": "Atlas AI",
+      "source": "techstars",
+      "category": "possible",
+      "effective_description": "For people working out online, our browser extension provides performance feedback on any platform. It's a bit like Grammarly, but for your squats.",
+      "description_field": "description",
+      "field_correction": null,
+      "strong_evidence": [],
+      "weak_evidence": [
+        {
+          "rule": "ai",
+          "field": "name",
+          "term": "AI",
+          "start": 6,
+          "end": 8,
+          "context": "Atlas AI",
+          "reason": "Company name signal only."
+        },
+        {
+          "rule": "artificial_intelligence",
+          "field": "tags[0]",
+          "term": "Artificial intelligence",
+          "start": 0,
+          "end": 23,
+          "context": "Artificial intelligence and machine learning",
+          "reason": "Upstream tag only."
+        },
+        {
+          "rule": "machine_learning",
+          "field": "tags[0]",
+          "term": "machine learning",
+          "start": 28,
+          "end": 44,
+          "context": "Artificial intelligence and machine learning",
+          "reason": "Upstream tag only."
+        }
+      ],
+      "external_verification": "not_performed",
+      "original_record": {
+        "name": "Atlas AI",
+        "description": "For people working out online, our browser extension provides performance feedback on any platform. It's a bit like Grammarly, but for your squats.",
+        "logo": "https://apimg.techstars.com/connect/images/image_files/61407ba2bf114b0007f68e65/original/Atlas_AI_Square_logo.png",
+        "website": "https://atlasai.co.uk",
+        "location": "London, United Kingdom",
+        "region": "Europe",
+        "subregion": "Western Europe",
+        "tags": [
+          "Artificial intelligence and machine learning",
+          "Lifestyles of Health and Sustainability and wellness",
+          "Mobile"
+        ],
+        "year": 2021,
+        "program": "Techstars Montréal AI Accelerator",
+        "programSlugs": [],
+        "isExit": false,
+        "isUnicorn": false,
+        "isBCorp": false,
+        "isCurrentSession": false,
+        "social": {
+          "linkedin": "https://linkedin.com/company/atlas-ai-pbc",
+          "twitter": "https://twitter.com/atlasai_co",
+          "facebook": "",
+          "crunchbase": "https://crunchbase.com/organization/atlas-ai"
+        },
+        "extra": {
+          "city": "London",
+          "country": "United Kingdom"
+        },
+        "source": "techstars"
+      }
+    },
+    {
+      "id": "upstream-16760",
+      "upstream_position": 16760,
+      "name": "Lunch",
+      "source": "plugandplay",
+      "category": "possible",
+      "effective_description": "Lunch is building the payment infrastructure for the offline economy.",
+      "description_field": "description",
+      "field_correction": null,
+      "strong_evidence": [],
+      "weak_evidence": [
+        {
+          "rule": "ai",
+          "field": "tags[0]",
+          "term": "AI",
+          "start": 20,
+          "end": 22,
+          "context": "Mobility & Physical AI",
+          "reason": "Upstream tag only."
+        }
+      ],
+      "external_verification": "not_performed",
+      "original_record": {
+        "source": "plugandplay",
+        "name": "Lunch",
+        "description": "Lunch is building the payment infrastructure for the offline economy.",
+        "logo": "https://cdn.playbook.vc/media/startup-no-logo-placeholder.png",
+        "website": "http://lunchpayments.com",
+        "location": "United States",
+        "region": "Americas",
+        "subregion": "",
+        "tags": [
+          "Mobility & Physical AI"
+        ],
+        "year": "",
+        "program": "Plug and Play",
+        "programSlugs": [
+          "plugandplay"
+        ],
+        "isExit": false,
+        "isUnicorn": false,
+        "isBCorp": false,
+        "isCurrentSession": false,
+        "founders": [],
+        "social": {
+          "linkedin": "",
+          "twitter": "",
+          "facebook": "",
+          "crunchbase": ""
+        },
+        "extra": {
+          "city": "Silicon Valley",
+          "state_province": "California",
+          "country": "United States"
+        }
+      }
+    },
+    {
+      "id": "upstream-14070",
+      "upstream_position": 14070,
+      "name": "Thread Solutions Inc.",
+      "source": "500",
+      "category": "possible",
+      "effective_description": "",
+      "description_field": "description",
+      "field_correction": null,
+      "strong_evidence": [],
+      "weak_evidence": [
+        {
+          "rule": "ai",
+          "field": "tags[0]",
+          "term": "AI",
+          "start": 0,
+          "end": 2,
+          "context": "AI/Machine Learning",
+          "reason": "Upstream tag only."
+        },
+        {
+          "rule": "machine_learning",
+          "field": "tags[0]",
+          "term": "Machine Learning",
+          "start": 3,
+          "end": 19,
+          "context": "AI/Machine Learning",
+          "reason": "Upstream tag only."
+        }
+      ],
+      "external_verification": "not_performed",
+      "original_record": {
+        "source": "500",
+        "name": "Thread Solutions Inc.",
+        "description": "",
+        "logo": "",
+        "website": "https://251 Little Falls Drive, Wilmington, New Castle County, Delaware 19808",
+        "location": "UNITED STATES",
+        "region": "",
+        "subregion": "",
+        "tags": [
+          "AI/Machine Learning"
+        ],
+        "year": 2025,
+        "program": "500 Global",
+        "programSlugs": [
+          "500"
+        ],
+        "isExit": false,
+        "isUnicorn": false,
+        "isBCorp": false,
+        "isCurrentSession": false,
+        "founders": [
+          {
+            "name": "Justin Vandehey",
+            "role": "",
+            "linkedin": ""
+          }
+        ],
+        "social": {
+          "linkedin": "",
+          "twitter": "",
+          "facebook": "",
+          "crunchbase": ""
+        },
+        "extra": {
+          "country": "UNITED STATES"
+        }
+      }
+    },
+    {
+      "id": "upstream-16478",
+      "upstream_position": 16478,
+      "name": "Southie Autonomy",
+      "source": "plugandplay",
+      "category": "possible",
+      "effective_description": "Southie Autonomy makes a No-Code software platform for robot arms that lets logistics and manufacturing businesses automate tasks as fast as their products change.",
+      "description_field": "description",
+      "field_correction": null,
+      "strong_evidence": [],
+      "weak_evidence": [
+        {
+          "rule": "autonomous",
+          "field": "description",
+          "term": "Autonomy",
+          "start": 8,
+          "end": 16,
+          "context": "Southie Autonomy makes a No-Code software platform for robot arms that lets logistics and manufacturing businesses a"
+        },
+        {
+          "rule": "robotics",
+          "field": "description",
+          "term": "robot",
+          "start": 55,
+          "end": 60,
+          "context": "Southie Autonomy makes a No-Code software platform for robot arms that lets logistics and manufacturing businesses automate tasks as fast as their products chan"
+        },
+        {
+          "rule": "ai",
+          "field": "tags[0]",
+          "term": "AI",
+          "start": 20,
+          "end": 22,
+          "context": "Mobility & Physical AI",
+          "reason": "Upstream tag only."
+        }
+      ],
+      "external_verification": "not_performed",
+      "original_record": {
+        "source": "plugandplay",
+        "name": "Southie Autonomy",
+        "description": "Southie Autonomy makes a No-Code software platform for robot arms that lets logistics and manufacturing businesses automate tasks as fast as their products change.",
+        "logo": "https://cdn.playbook.vc/media/thumbnails/Southie_Logo_Print_Color_iAPY75U_hTW9Y7Z.png?Expires=1722940787&Signature=dyESZKsalAuxtEtlJgBSk3mGaJQCaRg49N7oacNZFLvNKBTfIHAxqexOxxIT-ben-BM1N80evOeI7UCYENHq6p8aPusDb5RDQ30fyMTlE57Y2NOv6HBA2cdoSF83ST6afS8dkWXN8xxSghL9hMKKaYn0qY9Xg1xzyxv3lDSAnAllXqXxQMfIO0HQmkzvcF8i-KP~N-gz8xEMxfiTOstywsyU0ann9g8Yc7jdfgEHLjaD5sKTacjaUxNWVJvzW5~w4lmcGWiGdG-5NXWIcurDObeJXYWZyigp8Rz5C8iK2wS1EZ5rEBj2Iigg4qOTToLx6fYLtHgKB7kYyDBtqLlq-A__&Key-Pair-Id=K1EZH924FG48TE",
+        "website": "http://southieautonomyworks.com",
+        "location": "United States",
+        "region": "Americas",
+        "subregion": "",
+        "tags": [
+          "Mobility & Physical AI"
+        ],
+        "year": "",
+        "program": "Plug and Play",
+        "programSlugs": [
+          "plugandplay"
+        ],
+        "isExit": false,
+        "isUnicorn": false,
+        "isBCorp": false,
+        "isCurrentSession": false,
+        "founders": [],
+        "social": {
+          "linkedin": "",
+          "twitter": "",
+          "facebook": "",
+          "crunchbase": ""
+        },
+        "extra": {
+          "city": "Tokyo",
+          "state_province": "Japan",
+          "country": "United States"
+        }
+      }
+    },
+    {
+      "id": "upstream-10989",
+      "upstream_position": 10989,
+      "name": "Degla Inc",
+      "source": "yc",
+      "category": "possible",
+      "effective_description": "The fully autonomous intelligence layer in the sky.",
+      "description_field": "description",
+      "field_correction": null,
+      "strong_evidence": [],
+      "weak_evidence": [
+        {
+          "rule": "autonomous",
+          "field": "description",
+          "term": "autonomous",
+          "start": 10,
+          "end": 20,
+          "context": "The fully autonomous intelligence layer in the sky."
+        },
+        {
+          "rule": "ai",
+          "field": "tags[4]",
+          "term": "AI",
+          "start": 0,
+          "end": 2,
+          "context": "AI",
+          "reason": "Upstream tag only."
+        },
+        {
+          "rule": "ai_domain",
+          "field": "website",
+          "term": "degla.ai",
+          "context": "https://degla.ai",
+          "reason": ".ai domain is a weak clue, not proof."
+        }
+      ],
+      "external_verification": "not_performed",
+      "original_record": {
+        "source": "yc",
+        "name": "Degla Inc",
+        "description": "The fully autonomous intelligence layer in the sky.",
+        "logo": "https://bookface-images.s3.amazonaws.com/small_logos/9b4aa40c1f823de9d3ec9a6c4b04e1e382dc5a85.png",
+        "website": "https://degla.ai",
+        "location": "San Francisco, CA, USA",
+        "region": "United States of America",
+        "subregion": "",
+        "tags": [
+          "Industrials",
+          "Drones",
+          "Hard Tech",
+          "Aerospace",
+          "AI"
+        ],
+        "year": 2026,
+        "program": "YC Fall 2026",
+        "programSlugs": [
+          "yc-fall-2026"
+        ],
+        "isExit": false,
+        "isUnicorn": false,
+        "isBCorp": false,
+        "isCurrentSession": false,
+        "founders": [],
+        "social": {
+          "linkedin": "",
+          "twitter": "",
+          "facebook": "",
+          "crunchbase": ""
+        },
+        "extra": {}
+      }
+    },
+    {
+      "id": "upstream-09443",
+      "upstream_position": 9443,
+      "name": "Navier AI",
+      "source": "yc",
+      "category": "possible",
+      "effective_description": "Agent-Driven Engineering",
+      "description_field": "description",
+      "field_correction": null,
+      "strong_evidence": [],
+      "weak_evidence": [
+        {
+          "rule": "agent",
+          "field": "description",
+          "term": "Agent",
+          "start": 0,
+          "end": 5,
+          "context": "Agent-Driven Engineering"
+        },
+        {
+          "rule": "ai",
+          "field": "name",
+          "term": "AI",
+          "start": 7,
+          "end": 9,
+          "context": "Navier AI",
+          "reason": "Company name signal only."
+        },
+        {
+          "rule": "ai",
+          "field": "tags[3]",
+          "term": "AI",
+          "start": 0,
+          "end": 2,
+          "context": "AI",
+          "reason": "Upstream tag only."
+        },
+        {
+          "rule": "ai_domain",
+          "field": "website",
+          "term": "navier.ai",
+          "context": "http://navier.ai",
+          "reason": ".ai domain is a weak clue, not proof."
+        }
+      ],
+      "external_verification": "not_performed",
+      "original_record": {
+        "source": "yc",
+        "name": "Navier AI",
+        "description": "Agent-Driven Engineering",
+        "logo": "https://bookface-images.s3.amazonaws.com/small_logos/013b05510174120a0b1551eb38a764500bbd5525.png",
+        "website": "http://navier.ai",
+        "location": "San Francisco, CA, USA",
+        "region": "United States of America",
+        "subregion": "",
+        "tags": [
+          "Industrials",
+          "Aviation and Space",
+          "Aerospace",
+          "AI",
+          "Automotive"
+        ],
+        "year": 2024,
+        "program": "YC Winter 2024",
+        "programSlugs": [
+          "yc-winter-2024"
+        ],
+        "isExit": false,
+        "isUnicorn": false,
+        "isBCorp": false,
+        "isCurrentSession": false,
+        "founders": [],
+        "social": {
+          "linkedin": "",
+          "twitter": "",
+          "facebook": "",
+          "crunchbase": ""
+        },
+        "extra": {}
+      }
+    },
+    {
+      "id": "upstream-04119",
+      "upstream_position": 4119,
+      "name": "Tallysticks",
+      "source": "techstars",
+      "category": "possible",
+      "effective_description": "Tallysticks is a blockchain-based transactional network that automates invoicing and invoice financing processes.",
+      "description_field": "description",
+      "field_correction": null,
+      "strong_evidence": [],
+      "weak_evidence": [
+        {
+          "rule": "artificial_intelligence",
+          "field": "tags[0]",
+          "term": "Artificial intelligence",
+          "start": 0,
+          "end": 23,
+          "context": "Artificial intelligence and machine learning",
+          "reason": "Upstream tag only."
+        },
+        {
+          "rule": "machine_learning",
+          "field": "tags[0]",
+          "term": "machine learning",
+          "start": 28,
+          "end": 44,
+          "context": "Artificial intelligence and machine learning",
+          "reason": "Upstream tag only."
+        }
+      ],
+      "external_verification": "not_performed",
+      "original_record": {
+        "name": "Tallysticks",
+        "description": "Tallysticks is a blockchain-based transactional network that automates invoicing and invoice financing processes.",
+        "logo": "https://apimg.techstars.com/connect/images/image_files/570411c3c2f1c49618000009/original/Folie1.JPG",
+        "website": "",
+        "location": "London, United Kingdom",
+        "region": "Europe",
+        "subregion": "Western Europe",
+        "tags": [
+          "Artificial intelligence and machine learning",
+          "Cryptocurrency/Blockchain",
+          "Fintech"
+        ],
+        "year": 2016,
+        "program": "London Barclays Accelerator, powered by Techstars",
+        "programSlugs": [],
+        "isExit": false,
+        "isUnicorn": false,
+        "isBCorp": false,
+        "isCurrentSession": false,
+        "social": {
+          "linkedin": "https://linkedin.com/company/tallysticks",
+          "twitter": "https://twitter.com/TallysticksIO",
+          "facebook": "",
+          "crunchbase": "https://crunchbase.com/organization/tallysticks#section-overview"
+        },
+        "extra": {
+          "city": "London",
+          "country": "United Kingdom"
+        },
+        "source": "techstars"
+      }
+    },
+    {
+      "id": "upstream-09805",
+      "upstream_position": 9805,
+      "name": "Zoa Research",
+      "source": "yc",
+      "category": "possible",
+      "effective_description": "Powerful quantitative forecasting models",
+      "description_field": "description",
+      "field_correction": null,
+      "strong_evidence": [],
+      "weak_evidence": [
+        {
+          "rule": "ai",
+          "field": "tags[1]",
+          "term": "AI",
+          "start": 0,
+          "end": 2,
+          "context": "AI",
+          "reason": "Upstream tag only."
+        }
+      ],
+      "external_verification": "not_performed",
+      "original_record": {
+        "source": "yc",
+        "name": "Zoa Research",
+        "description": "Powerful quantitative forecasting models",
+        "logo": "https://bookface-images.s3.amazonaws.com/small_logos/0a603d093e3e3a39d0f3743b7f24486743b3bd06.png",
+        "website": "https://zoaresearch.com",
+        "location": "New York City, NY, USA",
+        "region": "United States of America",
+        "subregion": "",
+        "tags": [
+          "Data Science",
+          "AI"
+        ],
+        "year": 2024,
+        "program": "YC Summer 2024",
+        "programSlugs": [
+          "yc-summer-2024"
+        ],
+        "isExit": false,
+        "isUnicorn": false,
+        "isBCorp": false,
+        "isCurrentSession": false,
+        "founders": [],
+        "social": {
+          "linkedin": "",
+          "twitter": "",
+          "facebook": "",
+          "crunchbase": ""
+        },
+        "extra": {}
+      }
+    },
+    {
+      "id": "upstream-11418",
+      "upstream_position": 11418,
+      "name": "Tilion",
+      "source": "yc",
+      "category": "possible",
+      "effective_description": "Super fast, unblockable browser infra for agents",
+      "description_field": "description",
+      "field_correction": null,
+      "strong_evidence": [],
+      "weak_evidence": [
+        {
+          "rule": "agent",
+          "field": "description",
+          "term": "agents",
+          "start": 42,
+          "end": 48,
+          "context": "Super fast, unblockable browser infra for agents"
+        }
+      ],
+      "external_verification": "not_performed",
+      "original_record": {
+        "source": "yc",
+        "name": "Tilion",
+        "description": "Super fast, unblockable browser infra for agents",
+        "logo": "https://bookface-images.s3.amazonaws.com/small_logos/119cb04a763e823c00332f94249a1f95dc277724.png",
+        "website": "https://tilion.com",
+        "location": "San Francisco, CA, USA",
+        "region": "United States of America",
+        "subregion": "",
+        "tags": [
+          "Infrastructure"
+        ],
+        "year": 2026,
+        "program": "YC Fall 2026",
+        "programSlugs": [
+          "yc-fall-2026"
+        ],
+        "isExit": false,
+        "isUnicorn": false,
+        "isBCorp": false,
+        "isCurrentSession": false,
+        "founders": [],
+        "social": {
+          "linkedin": "",
+          "twitter": "",
+          "facebook": "",
+          "crunchbase": ""
+        },
+        "extra": {}
+      }
+    },
+    {
+      "id": "upstream-06107",
+      "upstream_position": 6107,
+      "name": "Carbic",
+      "source": "yc",
+      "category": "possible",
+      "effective_description": "using ultrasonics + ml to analyze fluid behavior at infrastructure…",
+      "description_field": "description",
+      "field_correction": null,
+      "strong_evidence": [],
+      "weak_evidence": [
+        {
+          "rule": "abbreviation",
+          "field": "description",
+          "term": "ml",
+          "start": 20,
+          "end": 22,
+          "context": "using ultrasonics + ml to analyze fluid behavior at infrastructure…"
+        }
+      ],
+      "external_verification": "not_performed",
+      "original_record": {
+        "source": "yc",
+        "name": "Carbic",
+        "description": "using ultrasonics + ml to analyze fluid behavior at infrastructure…",
+        "logo": "https://bookface-images.s3.amazonaws.com/small_logos/21c3986cf5375618111e8e0dd2fe8e1f0a784f09.png",
+        "website": "http://carbic.com",
+        "location": "San Francisco, CA, USA",
+        "region": "United States of America",
+        "subregion": "",
+        "tags": [
+          "Industrials",
+          "Energy",
+          "Industrial Workplace Safety",
+          "SaaS",
+          "IoT"
+        ],
+        "year": 2016,
+        "program": "YC Winter 2016",
+        "programSlugs": [
+          "yc-winter-2016"
+        ],
+        "isExit": false,
+        "isUnicorn": false,
+        "isBCorp": false,
+        "isCurrentSession": false,
+        "founders": [],
+        "social": {
+          "linkedin": "",
+          "twitter": "",
+          "facebook": "",
+          "crunchbase": ""
+        },
+        "extra": {}
+      }
+    },
+    {
+      "id": "upstream-20036",
+      "upstream_position": 20036,
+      "name": "TradeUp",
+      "source": "plugandplay",
+      "category": "possible",
+      "effective_description": "We fund the next generation of skilled workers.",
+      "description_field": "description",
+      "field_correction": null,
+      "strong_evidence": [],
+      "weak_evidence": [
+        {
+          "rule": "ai",
+          "field": "tags[0]",
+          "term": "AI",
+          "start": 13,
+          "end": 15,
+          "context": "Enterprise & AI",
+          "reason": "Upstream tag only."
+        }
+      ],
+      "external_verification": "not_performed",
+      "original_record": {
+        "source": "plugandplay",
+        "name": "TradeUp",
+        "description": "We fund the next generation of skilled workers.",
+        "logo": "https://cdn.playbook.vc/media/thumbnails/TradeUp_Logo.png?Expires=1722943011&Signature=ILV7GH3lQvYQCCQwvY7IapjD9~Aqu2Wn75EUkQV~21Ic8Hs56aoXHpEf95t5IQdH7rw21mffLqy9V11twMk6rwrLuX1~zkr~fjobw1wzMY~cc7Nftq6V-ygZeYQLpEOBfaLt86nWDN0ypgx4WZwneJ4wsf0HJsj2dvT3qCYMuLrsNbyudFOA8AZEbbC6q~HjqDHKU6HeAFQXVdFV8nWKH2rY3xUdsLLDSHdLpdR1TKhx-NchYUbpDfJHXNJ-YLulSYDYzh5btzVwDYyNdiYZ2wJ4ojeoUZctQnBfHSdvbtfbFjZC2P2agg6df-fWtNUaER0tdDEAQswoEzYY0jXCFw__&Key-Pair-Id=K1EZH924FG48TE",
+        "website": "https://www.wetradeup.com",
+        "location": "United States",
+        "region": "Americas",
+        "subregion": "",
+        "tags": [
+          "Enterprise & AI"
+        ],
+        "year": "",
+        "program": "Plug and Play",
+        "programSlugs": [
+          "plugandplay"
+        ],
+        "isExit": false,
+        "isUnicorn": false,
+        "isBCorp": false,
+        "isCurrentSession": false,
+        "founders": [],
+        "social": {
+          "linkedin": "",
+          "twitter": "",
+          "facebook": "",
+          "crunchbase": ""
+        },
+        "extra": {
+          "city": "",
+          "state_province": "",
+          "country": "United States"
+        }
+      }
+    },
+    {
+      "id": "upstream-00117",
+      "upstream_position": 117,
+      "name": "Stockly",
+      "source": "techstars",
+      "category": "possible",
+      "effective_description": "Stockly helps farmers to rent their available storage space and individuals to store their leisure vehicles more serenely.",
+      "description_field": "description",
+      "field_correction": null,
+      "strong_evidence": [],
+      "weak_evidence": [
+        {
+          "rule": "ai_domain",
+          "field": "website",
+          "term": "stockly.ai",
+          "context": "https://stockly.ai",
+          "reason": ".ai domain is a weak clue, not proof."
+        }
+      ],
+      "external_verification": "not_performed",
+      "original_record": {
+        "name": "Stockly",
+        "description": "Stockly helps farmers to rent their available storage space and individuals to store their leisure vehicles more serenely.",
+        "logo": "https://apimg.techstars.com/connect/images/image_files/5ba1592a34a60d14bd000010/original/stockly_copia.png",
+        "website": "https://stockly.ai",
+        "location": "Vitry-sur-Seine, France",
+        "region": "Europe",
+        "subregion": "Western Europe",
+        "tags": [
+          "Supply chain technology"
+        ],
+        "year": 2018,
+        "program": "Techstars Paris Accelerator",
+        "programSlugs": [],
+        "isExit": false,
+        "isUnicorn": false,
+        "isBCorp": false,
+        "isCurrentSession": false,
+        "social": {
+          "linkedin": "https://linkedin.com/company/stockly",
+          "twitter": "https://twitter.com/stockly_ai",
+          "facebook": "https://facebook.com/StocklyAi/",
+          "crunchbase": "https://crunchbase.com/organization/stockly"
+        },
+        "extra": {
+          "city": "Vitry-sur-Seine",
+          "country": "France"
+        },
+        "source": "techstars"
+      }
+    },
+    {
+      "id": "upstream-18479",
+      "upstream_position": 18479,
+      "name": "coco inc",
+      "source": "plugandplay",
+      "category": "possible",
+      "effective_description": "We provide communication tool for SMB and the customers.",
+      "description_field": "description",
+      "field_correction": null,
+      "strong_evidence": [],
+      "weak_evidence": [
+        {
+          "rule": "ai",
+          "field": "tags[0]",
+          "term": "AI",
+          "start": 20,
+          "end": 22,
+          "context": "Mobility & Physical AI",
+          "reason": "Upstream tag only."
+        }
+      ],
+      "external_verification": "not_performed",
+      "original_record": {
+        "source": "plugandplay",
+        "name": "coco inc",
+        "description": "We provide communication tool for SMB and the customers.",
+        "logo": "https://cdn.playbook.vc/media/thumbnails/34-coco_demo_nUQKiKj.png?Expires=1776776623&Signature=ffhG9~lGm0cVE-Ry3dWWryFN8vrz7FeJEBLf1QwnqxSgomWumrLmoygBRgNCuhcxKCUe6ZMs7DHNgPvfB7kGYh8ZOZVKZCaY5AfMJIcBleo-nFvv2yZ~GRk4jdvGfkkLo7JGSbJdKPipEQIcGr651HNcMUdOGQzMKEtzLHUnwzquCcPZZS29DeXRdsgbc7kXwdRwJjrmNzsFlawgIo1bpmmOv-SSb4lgVviRTbq7Gv26YoOrbmXAGvn-g8nVOQa6VTCsnkxRmOYYpnz1e7qpYcgHYx4snq5m5gn5C3NnL57lC8i1YDg~sVOtyyjFqdM9Q6Jp0Mul42E6D2Ql51iqvQ__&Key-Pair-Id=K1EZH924FG48TE",
+        "website": "http://www.thecoco.jp",
+        "location": "Japan",
+        "region": "Asia",
+        "subregion": "",
+        "tags": [
+          "Mobility & Physical AI"
+        ],
+        "year": "",
+        "program": "Plug and Play",
+        "programSlugs": [
+          "plugandplay"
+        ],
+        "isExit": false,
+        "isUnicorn": false,
+        "isBCorp": false,
+        "isCurrentSession": false,
+        "founders": [],
+        "social": {
+          "linkedin": "",
+          "twitter": "",
+          "facebook": "",
+          "crunchbase": ""
+        },
+        "extra": {
+          "city": "Tokyo",
+          "state_province": "Japan",
+          "country": "Japan"
+        }
+      }
+    },
+    {
+      "id": "upstream-19968",
+      "upstream_position": 19968,
+      "name": "Edge",
+      "source": "plugandplay",
+      "category": "possible",
+      "effective_description": "The Edge team's mission is to provide the world’s most innovative tools and systems for secure and private data.",
+      "description_field": "description",
+      "field_correction": null,
+      "strong_evidence": [],
+      "weak_evidence": [
+        {
+          "rule": "ai",
+          "field": "tags[0]",
+          "term": "AI",
+          "start": 13,
+          "end": 15,
+          "context": "Enterprise & AI",
+          "reason": "Upstream tag only."
+        }
+      ],
+      "external_verification": "not_performed",
+      "original_record": {
+        "source": "plugandplay",
+        "name": "Edge",
+        "description": "The Edge team's mission is to provide the world’s most innovative tools and systems for secure and private data.",
+        "logo": "https://cdn.playbook.vc/media/thumbnails/Screen_Shot_2020-10-02_at_2.29.54_PM.png?Expires=1722943197&Signature=baK7~K1BHnVHLClSed1wmQt2Qig8alWJbamI7XxNKvxCy9-5OM7aGd7d17dHzjqMaLY-wAXm14qdiGOCt-HpWhhGb0tevMPaN0XjmDCH0QErBgbe5nLs7x8tjzDYb279d8gqy5Rjc4XEMUFs57QTXbhI0PK6oWmvoYFK35nqqiBIn5bUTwejifE~vW-sTcE8665ew7oLfSsElEvDAy1Br~3LQHT8LaWNl2eDGYxUOhM3EiA9Q3czl8nJ0ZpCP10thZn5jULid8Ikvqm47ijM1pnVVutYuJjgWe6qusS7JNZRm~AEzNqlHDcU-PhKCHpy-eR7Z3fl70wyX~G4tarHCQ__&Key-Pair-Id=K1EZH924FG48TE",
+        "website": "https://edge.app",
+        "location": "United States",
+        "region": "Americas",
+        "subregion": "",
+        "tags": [
+          "Enterprise & AI"
+        ],
+        "year": "",
+        "program": "Plug and Play",
+        "programSlugs": [
+          "plugandplay"
+        ],
+        "isExit": false,
+        "isUnicorn": false,
+        "isBCorp": false,
+        "isCurrentSession": false,
+        "founders": [],
+        "social": {
+          "linkedin": "",
+          "twitter": "",
+          "facebook": "",
+          "crunchbase": ""
+        },
+        "extra": {
+          "city": "Silicon Valley",
+          "state_province": "California",
+          "country": "United States"
+        }
+      }
+    }
+  ],
+  "no_evidence": [
+    {
+      "id": "upstream-04216",
+      "upstream_position": 4216,
+      "name": "SkyHi",
+      "source": "techstars",
+      "category": "no_evidence",
+      "effective_description": "SkyHi is the first on-demand service for commercial airline tickets",
+      "description_field": "description",
+      "field_correction": null,
+      "strong_evidence": [],
+      "weak_evidence": [],
+      "external_verification": "not_performed",
+      "original_record": {
+        "name": "SkyHi",
+        "description": "SkyHi is the first on-demand service for commercial airline tickets",
+        "logo": "https://apimg.techstars.com/connect/images/image_files/5b48cb0234a60d4a5d0000f8/original/App_Store_Copy_2x.png",
+        "website": "",
+        "location": "Apple Valley, California, United States",
+        "region": "Americas",
+        "subregion": "North America",
+        "tags": [
+          "Mobile",
+          "Mobility tech"
+        ],
+        "year": 2018,
+        "program": "Techstars Detroit Accelerator",
+        "programSlugs": [],
+        "isExit": false,
+        "isUnicorn": false,
+        "isBCorp": false,
+        "isCurrentSession": false,
+        "social": {
+          "linkedin": "https://linkedin.com/company/10526613",
+          "twitter": "https://twitter.com/skyhi",
+          "facebook": "https://facebook.com/travelskyhi",
+          "crunchbase": "https://crunchbase.com/organization/skyhi"
+        },
+        "extra": {
+          "city": "Apple Valley",
+          "state_province": "California",
+          "country": "United States"
+        },
+        "source": "techstars"
+      }
+    },
+    {
+      "id": "upstream-18064",
+      "upstream_position": 18064,
+      "name": "Crop2Cash",
+      "source": "plugandplay",
+      "category": "no_evidence",
+      "effective_description": "Making formal financing accessible to farmers.",
+      "description_field": "description",
+      "field_correction": null,
+      "strong_evidence": [],
+      "weak_evidence": [],
+      "external_verification": "not_performed",
+      "original_record": {
+        "source": "plugandplay",
+        "name": "Crop2Cash",
+        "description": "Making formal financing accessible to farmers.",
+        "logo": "https://cdn.playbook.vc/media/thumbnails/Crop2Cash-logo.png?Expires=1722943700&Signature=MhwelCo9aGgakpTlcXEbfZT8~~J1Rpje392CbJafLF9PKULr3l0td0M54VNJtDE0GlYEr6BDL36No9MgURoXpiIiMF~J5Yt6drzPO2cl5p3QzXZbDpKZ~-FfgmxDixL9qnfDDeERMQySqVu8YZz06lpTbQjvQ5m7BAqnQa5eZr4gNkxNmnWw9I-nTUnYpdJtgLfHac6XNm6AJgCxi0ufGE3eOKHPZETE7DKBAtO1OnkU18Fm3M7cH5ZKB7JWv04mRDNDOO0hUj6JZmhJzeCXbR1TanzFLSw~r0ERRrkN~U8v91kNYNS0~knWo~vHCeJlQKCcm-WGIM5c7dpN0KVXzA__&Key-Pair-Id=K1EZH924FG48TE",
+        "website": "https://www.crop2cash.com.ng",
+        "location": "Nigeria",
+        "region": "EMEA",
+        "subregion": "",
+        "tags": [
+          "Fintech"
+        ],
+        "year": "",
+        "program": "Plug and Play",
+        "programSlugs": [
+          "plugandplay"
+        ],
+        "isExit": false,
+        "isUnicorn": false,
+        "isBCorp": false,
+        "isCurrentSession": false,
+        "founders": [],
+        "social": {
+          "linkedin": "",
+          "twitter": "",
+          "facebook": "",
+          "crunchbase": ""
+        },
+        "extra": {
+          "city": "Silicon Valley",
+          "state_province": "California",
+          "country": "Nigeria"
+        }
+      }
+    },
+    {
+      "id": "upstream-12020",
+      "upstream_position": 12020,
+      "name": "Maximize Money",
+      "source": "antler",
+      "category": "no_evidence",
+      "effective_description": "A smart savings engine that unifies coupons, gift cards, loyalty programs, and cashback, ensuring shoppers get the best discounts effortlessly.",
+      "description_field": "location",
+      "field_correction": "Antler description equals name; used location as product description.",
+      "strong_evidence": [],
+      "weak_evidence": [],
+      "external_verification": "not_performed",
+      "original_record": {
+        "source": "antler",
+        "name": "Maximize Money",
+        "description": "Maximize Money",
+        "logo": "https://cdn.prod.website-files.com/68d622fc073c7e5dead1105e/6944f0e6071a7d852ace7ce2_portfolio%252Fcompany%252Ffd1414db-2f82-4725-a97e-248ecb3db80c%252F1739110972369-Group%25201000003258.svg",
+        "website": "https://www.maximize.money/",
+        "location": "A smart savings engine that unifies coupons, gift cards, loyalty programs, and cashback, ensuring shoppers get the best discounts effortlessly.",
+        "region": "",
+        "subregion": "",
+        "tags": [
+          "ConsumerTech"
+        ],
+        "year": "",
+        "program": "Antler",
+        "programSlugs": [
+          "antler"
+        ],
+        "isExit": false,
+        "isUnicorn": false,
+        "isBCorp": false,
+        "isCurrentSession": false,
+        "founders": [],
+        "social": {
+          "linkedin": "",
+          "twitter": "",
+          "facebook": "",
+          "crunchbase": ""
+        },
+        "extra": {}
+      }
+    },
+    {
+      "id": "upstream-08033",
+      "upstream_position": 8033,
+      "name": "Forage",
+      "source": "yc",
+      "category": "no_evidence",
+      "effective_description": "Payments powering people",
+      "description_field": "description",
+      "field_correction": null,
+      "strong_evidence": [],
+      "weak_evidence": [],
+      "external_verification": "not_performed",
+      "original_record": {
+        "source": "yc",
+        "name": "Forage",
+        "description": "Payments powering people",
+        "logo": "https://bookface-images.s3.amazonaws.com/small_logos/23991b3eac1d06368b01c2f9ce5b893ba315f039.png",
+        "website": "http://www.joinforage.com",
+        "location": "San Francisco, CA, USA",
+        "region": "United States of America",
+        "subregion": "",
+        "tags": [
+          "Fintech",
+          "Payments",
+          "GovTech"
+        ],
+        "year": 2021,
+        "program": "YC Summer 2021",
+        "programSlugs": [
+          "yc-summer-2021"
+        ],
+        "isExit": false,
+        "isUnicorn": false,
+        "isBCorp": false,
+        "isCurrentSession": false,
+        "founders": [],
+        "social": {
+          "linkedin": "",
+          "twitter": "",
+          "facebook": "",
+          "crunchbase": ""
+        },
+        "extra": {}
+      }
+    },
+    {
+      "id": "upstream-06604",
+      "upstream_position": 6604,
+      "name": "Zyper",
+      "source": "yc",
+      "category": "no_evidence",
+      "effective_description": "Recreating social networks for brands. ",
+      "description_field": "description",
+      "field_correction": null,
+      "strong_evidence": [],
+      "weak_evidence": [],
+      "external_verification": "not_performed",
+      "original_record": {
+        "source": "yc",
+        "name": "Zyper",
+        "description": "Recreating social networks for brands. ",
+        "logo": "https://bookface-images.s3.amazonaws.com/small_logos/4248c76a3206fa82425c191a7b09f3b905910b5a.png",
+        "website": "https://zyper.com/",
+        "location": "San Francisco, CA, USA",
+        "region": "United States of America",
+        "subregion": "",
+        "tags": [
+          "Marketing",
+          "Social",
+          "Networks"
+        ],
+        "year": 2018,
+        "program": "YC Winter 2018",
+        "programSlugs": [
+          "yc-winter-2018"
+        ],
+        "isExit": true,
+        "isUnicorn": false,
+        "isBCorp": false,
+        "isCurrentSession": false,
+        "founders": [],
+        "social": {
+          "linkedin": "",
+          "twitter": "",
+          "facebook": "",
+          "crunchbase": ""
+        },
+        "extra": {}
+      }
+    },
+    {
+      "id": "upstream-04121",
+      "upstream_position": 4121,
+      "name": "Talk Howdy",
+      "source": "techstars",
+      "category": "no_evidence",
+      "effective_description": "Talk Howdy makes it simple for anyone to create an engaged online community through peer-led virtual meetups.",
+      "description_field": "description",
+      "field_correction": null,
+      "strong_evidence": [],
+      "weak_evidence": [],
+      "external_verification": "not_performed",
+      "original_record": {
+        "name": "Talk Howdy",
+        "description": "Talk Howdy makes it simple for anyone to create an engaged online community through peer-led virtual meetups.",
+        "logo": "https://apimg.techstars.com/connect/images/image_files/5ff4af0563138d5e7a00002d/original/talk_howdy.jpeg",
+        "website": "",
+        "location": "Austin, Texas, United States",
+        "region": "Americas",
+        "subregion": "North America",
+        "tags": [
+          "Mobile"
+        ],
+        "year": 2021,
+        "program": "Techstars Austin Accelerator",
+        "programSlugs": [
+          "austin"
+        ],
+        "isExit": false,
+        "isUnicorn": false,
+        "isBCorp": false,
+        "isCurrentSession": false,
+        "social": {
+          "linkedin": "https://linkedin.com/company/talk-howdy",
+          "twitter": "https://twitter.com/talkhowdy",
+          "facebook": "https://facebook.com/talkhowdy",
+          "crunchbase": "https://crunchbase.com/organization/talk-howdy"
+        },
+        "extra": {
+          "city": "Austin",
+          "state_province": "Texas",
+          "country": "United States"
+        },
+        "source": "techstars"
+      }
+    },
+    {
+      "id": "upstream-05391",
+      "upstream_position": 5391,
+      "name": "Ticket Stumbler",
+      "source": "yc",
+      "category": "no_evidence",
+      "effective_description": "TicketStumbler is a secondary ticket market search engine and comparison website. They search through thousands of ticket listings from hundreds of brokers and ticket exchanges across the internet and present the information in an organizable format. TicketStumbler allows simple ticket comparison, enabling you to find the best seats at the best prices.",
+      "description_field": "description",
+      "field_correction": null,
+      "strong_evidence": [],
+      "weak_evidence": [],
+      "external_verification": "not_performed",
+      "original_record": {
+        "source": "yc",
+        "name": "Ticket Stumbler",
+        "description": "TicketStumbler is a secondary ticket market search engine and comparison website. They search through thousands of ticket listings from hundreds of brokers and ticket exchanges across the internet and present the information in an organizable format. TicketStumbler allows simple ticket comparison, enabling you to find the best seats at the best prices.",
+        "logo": "/company/thumb/missing.png",
+        "website": "http://ticketstumbler.com",
+        "location": "Boston, MA, USA",
+        "region": "United States of America",
+        "subregion": "",
+        "tags": [
+          "Consumer",
+          "Travel, Leisure and Tourism"
+        ],
+        "year": 2008,
+        "program": "YC Summer 2008",
+        "programSlugs": [
+          "yc-summer-2008"
+        ],
+        "isExit": false,
+        "isUnicorn": false,
+        "isBCorp": false,
+        "isCurrentSession": false,
+        "founders": [],
+        "social": {
+          "linkedin": "",
+          "twitter": "",
+          "facebook": "",
+          "crunchbase": ""
+        },
+        "extra": {}
+      }
+    },
+    {
+      "id": "upstream-19635",
+      "upstream_position": 19635,
+      "name": "iMU",
+      "source": "plugandplay",
+      "category": "no_evidence",
+      "effective_description": "Visualizing the total load on the knee joint during walking to recommend optimal exercise levels.",
+      "description_field": "description",
+      "field_correction": null,
+      "strong_evidence": [],
+      "weak_evidence": [],
+      "external_verification": "not_performed",
+      "original_record": {
+        "source": "plugandplay",
+        "name": "iMU",
+        "description": "Visualizing the total load on the knee joint during walking to recommend optimal exercise levels.",
+        "logo": "https://cdn.playbook.vc/media/thumbnails/egwibcexp5xqtzsjdfho_96RdcIt?Expires=1776780069&Signature=AyavW-Q-IWdoZoACSfvkcmHyT~i9m0N0gLSwT-8zzc48HzqkCmbDb7E2IWm7PoY~lBmq7F3CqmmLc26w-M8WXAyTTDimQf-Gc7-Onuhw0CllixOqqj0UkKp5IvVhXB9jX1fK-nlRkT4apBJu-Cho-efP5VomKkHSsrCAwYsH4oBKCl0LqkAW4x~-Azjq0kaIFXHFv1jU~~jPZ3WRzncaPiOdwnP5uiL9Y9CCx0hSMDt7e56DZ~Jl5abvoADVdBAlardbfji2d6UF8UOHqiToQ3pEQJV-JVg6NxJVI~7f5TuBqdvhxl4cZJuhsNiaeXHc0XzHITZWx9HrSo9q7yb9jg__&Key-Pair-Id=K1EZH924FG48TE",
+        "website": "https://www.imujapan.com/",
+        "location": "Japan",
+        "region": "Asia",
+        "subregion": "",
+        "tags": [
+          "Health"
+        ],
+        "year": "",
+        "program": "Plug and Play",
+        "programSlugs": [
+          "plugandplay"
+        ],
+        "isExit": false,
+        "isUnicorn": false,
+        "isBCorp": false,
+        "isCurrentSession": false,
+        "founders": [],
+        "social": {
+          "linkedin": "",
+          "twitter": "",
+          "facebook": "",
+          "crunchbase": ""
+        },
+        "extra": {
+          "city": "Tokyo",
+          "state_province": "Japan",
+          "country": "Japan"
+        }
+      }
+    },
+    {
+      "id": "upstream-07938",
+      "upstream_position": 7938,
+      "name": "AOA Dx",
+      "source": "yc",
+      "category": "no_evidence",
+      "effective_description": "Blood Test for Early Detection of Ovarian Cancer ",
+      "description_field": "description",
+      "field_correction": null,
+      "strong_evidence": [],
+      "weak_evidence": [],
+      "external_verification": "not_performed",
+      "original_record": {
+        "source": "yc",
+        "name": "AOA Dx",
+        "description": "Blood Test for Early Detection of Ovarian Cancer ",
+        "logo": "https://bookface-images.s3.amazonaws.com/small_logos/664577ac1be84d91114d755fa8d02fcd2a69deb8.png",
+        "website": "https://www.aoadx.com/",
+        "location": "Denver, CO, USA; Cambridge, MA, USA",
+        "region": "United States of America",
+        "subregion": "",
+        "tags": [
+          "Healthcare",
+          "Diagnostics",
+          "Women's Health"
+        ],
+        "year": 2021,
+        "program": "YC Summer 2021",
+        "programSlugs": [
+          "yc-summer-2021"
+        ],
+        "isExit": false,
+        "isUnicorn": false,
+        "isBCorp": false,
+        "isCurrentSession": false,
+        "founders": [],
+        "social": {
+          "linkedin": "",
+          "twitter": "",
+          "facebook": "",
+          "crunchbase": ""
+        },
+        "extra": {}
+      }
+    },
+    {
+      "id": "upstream-02775",
+      "upstream_position": 2775,
+      "name": "Pelican",
+      "source": "techstars",
+      "category": "no_evidence",
+      "effective_description": "Pelican is a platform that helps families save for education. Our vision is to help families navigate everything when it comes to saving for your family's future.",
+      "description_field": "description",
+      "field_correction": null,
+      "strong_evidence": [],
+      "weak_evidence": [],
+      "external_verification": "not_performed",
+      "original_record": {
+        "name": "Pelican",
+        "description": "Pelican is a platform that helps families save for education. Our vision is to help families navigate everything when it comes to saving for your family's future.",
+        "logo": "http://apimg.techstars.com/sf/accounts/logo/Logo_6b664f1cae3734f16349c8ab0.png",
+        "website": "https://pelicaninvests.com",
+        "location": "New York City, New York, United States",
+        "region": "Americas",
+        "subregion": "North America",
+        "tags": [
+          "Edtech",
+          "Fintech",
+          "Impact investing"
+        ],
+        "year": 2023,
+        "program": "Founder Catalyst in partnership with J.P. Morgan, Techstars Workforce Development Accelerator",
+        "programSlugs": [
+          "workforce-development"
+        ],
+        "isExit": false,
+        "isUnicorn": false,
+        "isBCorp": false,
+        "isCurrentSession": false,
+        "social": {
+          "linkedin": "https://linkedin.com/company/pelicaninvests",
+          "twitter": "https://twitter.com/pelicaninvests",
+          "facebook": "https://facebook.com/PelicanInvests/",
+          "crunchbase": "https://crunchbase.com/organization/pelican-6aa7"
+        },
+        "extra": {
+          "city": "New York City",
+          "state_province": "New York",
+          "country": "United States"
+        },
+        "source": "techstars"
+      }
+    },
+    {
+      "id": "upstream-02508",
+      "upstream_position": 2508,
+      "name": "Trove",
+      "source": "techstars",
+      "category": "no_evidence",
+      "effective_description": "Trove is a social investing application for Africans.",
+      "description_field": "description",
+      "field_correction": null,
+      "strong_evidence": [],
+      "weak_evidence": [],
+      "external_verification": "not_performed",
+      "original_record": {
+        "name": "Trove",
+        "description": "Trove is a social investing application for Africans.",
+        "logo": "http://apimg.techstars.com/sf/accounts/logo/Logo_9c26465bda03175c25f3e51cb.png",
+        "website": "https://trovefinance.com",
+        "location": "Wilmington, Delaware, United States",
+        "region": "Americas",
+        "subregion": "North America",
+        "tags": [
+          "Fintech",
+          "Impact investing",
+          "Mobile"
+        ],
+        "year": 2024,
+        "program": "Techstars Detroit powered by J.P. Morgan",
+        "programSlugs": [
+          "detroit-jp-morgan"
+        ],
+        "isExit": false,
+        "isUnicorn": false,
+        "isBCorp": false,
+        "isCurrentSession": false,
+        "social": {
+          "linkedin": "https://linkedin.com/company/35674891",
+          "twitter": "https://twitter.com/trovefinance",
+          "facebook": "",
+          "crunchbase": ""
+        },
+        "extra": {
+          "city": "Wilmington",
+          "state_province": "Delaware",
+          "country": "United States"
+        },
+        "source": "techstars"
+      }
+    },
+    {
+      "id": "upstream-09263",
+      "upstream_position": 9263,
+      "name": "Airgoods",
+      "source": "yc",
+      "category": "no_evidence",
+      "effective_description": "The modern distributor for grocers.",
+      "description_field": "description",
+      "field_correction": null,
+      "strong_evidence": [],
+      "weak_evidence": [],
+      "external_verification": "not_performed",
+      "original_record": {
+        "source": "yc",
+        "name": "Airgoods",
+        "description": "The modern distributor for grocers.",
+        "logo": "https://bookface-images.s3.amazonaws.com/small_logos/d261d8dfa76354809d8e5792b2d21ef5d258f8d5.png",
+        "website": "https://airgoods.com/",
+        "location": "New York City, NY, USA",
+        "region": "United States of America",
+        "subregion": "",
+        "tags": [
+          "Retail",
+          "Grocery",
+          "Supply Chain",
+          "Food & Beverage"
+        ],
+        "year": 2023,
+        "program": "YC Summer 2023",
+        "programSlugs": [
+          "yc-summer-2023"
+        ],
+        "isExit": false,
+        "isUnicorn": false,
+        "isBCorp": false,
+        "isCurrentSession": false,
+        "founders": [],
+        "social": {
+          "linkedin": "",
+          "twitter": "",
+          "facebook": "",
+          "crunchbase": ""
+        },
+        "extra": {}
+      }
+    },
+    {
+      "id": "upstream-02618",
+      "upstream_position": 2618,
+      "name": "AWABAH",
+      "source": "techstars",
+      "category": "no_evidence",
+      "effective_description": "Digital Pension platform for self-employed Africans.",
+      "description_field": "description",
+      "field_correction": null,
+      "strong_evidence": [],
+      "weak_evidence": [],
+      "external_verification": "not_performed",
+      "original_record": {
+        "name": "AWABAH",
+        "description": "Digital Pension platform for self-employed Africans.",
+        "logo": "https://images.crunchbase.com/image/upload/t_cb-default-original/xgkubhirmut3a0nmaic0",
+        "website": "https://awabahng.com",
+        "location": "Lagos, Nigeria",
+        "region": "Africa",
+        "subregion": "Western Africa",
+        "tags": [
+          "Fintech"
+        ],
+        "year": 2021,
+        "program": "Techstars London Accelerator",
+        "programSlugs": [
+          "london"
+        ],
+        "isExit": false,
+        "isUnicorn": false,
+        "isBCorp": false,
+        "isCurrentSession": false,
+        "social": {
+          "linkedin": "https://linkedin.com/company/awabah-nigeria",
+          "twitter": "https://twitter.com/AwabahNigeria",
+          "facebook": "https://facebook.com/AwabahNigeria",
+          "crunchbase": "https://crunchbase.com/organization/awabah"
+        },
+        "extra": {
+          "city": "Lagos",
+          "country": "Nigeria"
+        },
+        "source": "techstars"
+      }
+    },
+    {
+      "id": "upstream-08519",
+      "upstream_position": 8519,
+      "name": "Boya",
+      "source": "yc",
+      "category": "no_evidence",
+      "effective_description": "Corporate Expense cards and Spend management for businesses in Africa",
+      "description_field": "description",
+      "field_correction": null,
+      "strong_evidence": [],
+      "weak_evidence": [],
+      "external_verification": "not_performed",
+      "original_record": {
+        "source": "yc",
+        "name": "Boya",
+        "description": "Corporate Expense cards and Spend management for businesses in Africa",
+        "logo": "https://bookface-images.s3.amazonaws.com/small_logos/cd660e44ef0d74bea007a7a875e98a17aab35613.png",
+        "website": "https://boyahq.com/",
+        "location": "Nairobi, Nairobi County, Kenya",
+        "region": "Kenya",
+        "subregion": "",
+        "tags": [
+          "Fintech",
+          "FinOps",
+          "Payments",
+          "Neobank"
+        ],
+        "year": 2022,
+        "program": "YC Winter 2022",
+        "programSlugs": [
+          "yc-winter-2022"
+        ],
+        "isExit": false,
+        "isUnicorn": false,
+        "isBCorp": false,
+        "isCurrentSession": false,
+        "founders": [],
+        "social": {
+          "linkedin": "",
+          "twitter": "",
+          "facebook": "",
+          "crunchbase": ""
+        },
+        "extra": {}
+      }
+    },
+    {
+      "id": "upstream-08119",
+      "upstream_position": 8119,
+      "name": "Infiuss Health",
+      "source": "yc",
+      "category": "no_evidence",
+      "effective_description": "2 sided Marketplace for accelerating medical research",
+      "description_field": "description",
+      "field_correction": null,
+      "strong_evidence": [],
+      "weak_evidence": [],
+      "external_verification": "not_performed",
+      "original_record": {
+        "source": "yc",
+        "name": "Infiuss Health",
+        "description": "2 sided Marketplace for accelerating medical research",
+        "logo": "https://bookface-images.s3.amazonaws.com/small_logos/9e3dd6003ca20000769c840422166e061b42f9c6.png",
+        "website": "https://infiuss.com",
+        "location": "San Francisco, CA, USA; LA, Nigeria",
+        "region": "United States of America",
+        "subregion": "",
+        "tags": [
+          "Marketplace"
+        ],
+        "year": 2021,
+        "program": "YC Summer 2021",
+        "programSlugs": [
+          "yc-summer-2021"
+        ],
+        "isExit": false,
+        "isUnicorn": false,
+        "isBCorp": false,
+        "isCurrentSession": false,
+        "founders": [],
+        "social": {
+          "linkedin": "",
+          "twitter": "",
+          "facebook": "",
+          "crunchbase": ""
+        },
+        "extra": {}
+      }
+    },
+    {
+      "id": "upstream-16081",
+      "upstream_position": 16081,
+      "name": "BMG",
+      "source": "plugandplay",
+      "category": "no_evidence",
+      "effective_description": "BMG is a company that provides biomaterial products and innovative solutions in the medical field.",
+      "description_field": "description",
+      "field_correction": null,
+      "strong_evidence": [],
+      "weak_evidence": [],
+      "external_verification": "not_performed",
+      "original_record": {
+        "source": "plugandplay",
+        "name": "BMG",
+        "description": "BMG is a company that provides biomaterial products and innovative solutions in the medical field.",
+        "logo": "https://cdn.playbook.vc/media/thumbnails/28f74fddaaccd618c037_nEiikod?Expires=1776787832&Signature=oGDJWz2lVStggON-~~B0OoaQRi4T3~7JSIIPTXKomEXalA9BO90c44o8IwO~Epv6ZORAPZUpT0UiC2go-ERmMMQBpGJtZuff1RlSoKg-W269tGtiUfdi-XskkeGhC-d1LcdsUb4xZeGBBZlkjxs865TZwBOyrsBJQokb-5Q2A2LFnFOYmETU1AQxAIQYKDsAphrMYxLS8yszCedFuhV7S~5NTWlcvBX-BCFv9NoYeSO8MQfZBvY6OzDy2S-lku8V9sEcfqgpXy8R6rbbBBT~1PDnozpstHdFgyzYVDqxe8BLfYiZZ7weIbdSlVqxs64QXRsVs2sWgRmjeu0dawVrlw__&Key-Pair-Id=K1EZH924FG48TE",
+        "website": "http://www.bmg-inc.com/",
+        "location": "Japan",
+        "region": "Asia",
+        "subregion": "",
+        "tags": [
+          "Medtech"
+        ],
+        "year": "",
+        "program": "Plug and Play",
+        "programSlugs": [
+          "plugandplay"
+        ],
+        "isExit": false,
+        "isUnicorn": false,
+        "isBCorp": false,
+        "isCurrentSession": false,
+        "founders": [],
+        "social": {
+          "linkedin": "",
+          "twitter": "",
+          "facebook": "",
+          "crunchbase": ""
+        },
+        "extra": {
+          "city": "Tokyo",
+          "state_province": "Japan",
+          "country": "Japan"
+        }
+      }
+    },
+    {
+      "id": "upstream-06319",
+      "upstream_position": 6319,
+      "name": "Bulk MRO Industrial Supply",
+      "source": "yc",
+      "category": "no_evidence",
+      "effective_description": "Full Stack Fintech and Supply Chain Platform for Global Trade",
+      "description_field": "description",
+      "field_correction": null,
+      "strong_evidence": [],
+      "weak_evidence": [],
+      "external_verification": "not_performed",
+      "original_record": {
+        "source": "yc",
+        "name": "Bulk MRO Industrial Supply",
+        "description": "Full Stack Fintech and Supply Chain Platform for Global Trade",
+        "logo": "https://bookface-images.s3.amazonaws.com/small_logos/5b4a53cf77d3fc365eb87181638c1077043a6722.png",
+        "website": "http://www.bulkmro.com",
+        "location": "Mumbai, MH, India; New York, NY, USA",
+        "region": "India",
+        "subregion": "",
+        "tags": [
+          "Supply Chain and Logistics",
+          "Fintech"
+        ],
+        "year": 2017,
+        "program": "YC Winter 2017",
+        "programSlugs": [
+          "yc-winter-2017"
+        ],
+        "isExit": false,
+        "isUnicorn": false,
+        "isBCorp": false,
+        "isCurrentSession": false,
+        "founders": [],
+        "social": {
+          "linkedin": "",
+          "twitter": "",
+          "facebook": "",
+          "crunchbase": ""
+        },
+        "extra": {}
+      }
+    },
+    {
+      "id": "upstream-20669",
+      "upstream_position": 20669,
+      "name": "Imprint Energy",
+      "source": "plugandplay",
+      "category": "no_evidence",
+      "effective_description": "Imprint Energy is commercializing a breakthrough low cost, flexible, rechargeable battery technology that would change portable power.",
+      "description_field": "description",
+      "field_correction": null,
+      "strong_evidence": [],
+      "weak_evidence": [],
+      "external_verification": "not_performed",
+      "original_record": {
+        "source": "plugandplay",
+        "name": "Imprint Energy",
+        "description": "Imprint Energy is commercializing a breakthrough low cost, flexible, rechargeable battery technology that would change portable power.",
+        "logo": "https://cdn.playbook.vc/media/thumbnails/99a2206afd3a331b551003dd10bf7d6c_svseDQi.png?Expires=1722938130&Signature=YmxvGaKLxBiy3Bx0zfOIMOti7cysSoiZx1ACTklgEfuM17gzb-x8Yzu0X7R8FH6VI6c7FBCDp4F2SdehNMrqFY~Y-9FNbcGGRHRqfeKxfykJm9Bbu7aahPSdyqdQZcobnMI~YH7IELBW1-Fpc11w0deK0TPcuxVO7pCiCB8msQaZlsRIReykOy--VU6hykRtjInOWhdyRA1HVei6oXC8GADbupmPUPhkwYSqBoW2PXCNua1rCxtvqtWw2pMeUysjgQF5~GGSpD1viKYRhHzf-UI45QtKK398KJPG47YSAJeLicTTRCmD8yXswtZcCfxpkxfIAx7w7RSeH6RBVEIM2Q__&Key-Pair-Id=K1EZH924FG48TE",
+        "website": "http://imprintenergy.com",
+        "location": "United States",
+        "region": "Americas",
+        "subregion": "",
+        "tags": [
+          "Energy"
+        ],
+        "year": "",
+        "program": "Plug and Play",
+        "programSlugs": [
+          "plugandplay"
+        ],
+        "isExit": false,
+        "isUnicorn": false,
+        "isBCorp": false,
+        "isCurrentSession": false,
+        "founders": [],
+        "social": {
+          "linkedin": "",
+          "twitter": "",
+          "facebook": "",
+          "crunchbase": ""
+        },
+        "extra": {
+          "city": "Silicon Valley",
+          "state_province": "California",
+          "country": "United States"
+        }
+      }
+    },
+    {
+      "id": "upstream-01117",
+      "upstream_position": 1117,
+      "name": "Hoovu Fresh",
+      "source": "techstars",
+      "category": "no_evidence",
+      "effective_description": "Hoovu Fresh is a fresh puja flower startup.",
+      "description_field": "description",
+      "field_correction": null,
+      "strong_evidence": [],
+      "weak_evidence": [],
+      "external_verification": "not_performed",
+      "original_record": {
+        "name": "Hoovu Fresh",
+        "description": "Hoovu Fresh is a fresh puja flower startup.",
+        "logo": "https://apimg.techstars.com/connect/images/image_files/5e1efa3aa36c112046000211/original/Logo_Connect.png",
+        "website": "https://hoovufresh.com",
+        "location": "Bengaluru, Karnataka, India",
+        "region": "Asia",
+        "subregion": "Southern Asia",
+        "tags": [],
+        "year": 2020,
+        "program": "Techstars Bangalore Accelerator",
+        "programSlugs": [],
+        "isExit": false,
+        "isUnicorn": false,
+        "isBCorp": false,
+        "isCurrentSession": false,
+        "social": {
+          "linkedin": "https://linkedin.com/company/hoovu-fresh",
+          "twitter": "https://twitter.com/hoovufresh",
+          "facebook": "https://facebook.com/hoovufresh",
+          "crunchbase": "https://crunchbase.com/organization/hoovu-fresh"
+        },
+        "extra": {
+          "city": "Bengaluru",
+          "state_province": "Karnataka",
+          "country": "India"
+        },
+        "source": "techstars"
+      }
+    },
+    {
+      "id": "upstream-18782",
+      "upstream_position": 18782,
+      "name": "CrossEdgeLab",
+      "source": "plugandplay",
+      "category": "no_evidence",
+      "effective_description": "We are developing a privacy-preserving monitoring and healthcare system for elderly: “Rabbit vision”, which is based on an omni-directional thermography with a uniquely designed optics for far-infrared wavelengths.",
+      "description_field": "description",
+      "field_correction": null,
+      "strong_evidence": [],
+      "weak_evidence": [],
+      "external_verification": "not_performed",
+      "original_record": {
+        "source": "plugandplay",
+        "name": "CrossEdgeLab",
+        "description": "We are developing a privacy-preserving monitoring and healthcare system for elderly: “Rabbit vision”, which is based on an omni-directional thermography with a uniquely designed optics for far-infrared wavelengths.",
+        "logo": "https://cdn.playbook.vc/media/thumbnails/crossedge1_upb1siM_z2hxNtW.png?Expires=1776776356&Signature=b~X5lcsAmm0mBUGNfv6lynefvt7bLtNDIZddc3ipaCPcTe9O4Qw-9nSsyNM2~rW6FLAuTio7KMgmIVUS9-MSYZAilcbXVdJeK4M3RqV~RV51a0yM3Efn1bF7VaepMx3dN99b9~z0qpWBRWVQl~9afKN4PJikgAqb7FRf7MMLG96ZQA2D2KuALXSlMI85kO3HELqALi5sncrAS5JHmEw01uvxTYKvdaPe65jBkb0E~dZ1yNZxAC9p1iftR8ex6QYSVWr-4m2W1hFzjgRa7LSl6TwW5wyrrWSRaZabUHIJxmogpwkCTT7lpZ1~nmp4JzunA4h-~ioWtLjKg~AQHUalXQ__&Key-Pair-Id=K1EZH924FG48TE",
+        "website": "http://www.crossedgelab.com",
+        "location": "Japan",
+        "region": "Asia",
+        "subregion": "",
+        "tags": [
+          "Health"
+        ],
+        "year": "",
+        "program": "Plug and Play",
+        "programSlugs": [
+          "plugandplay"
+        ],
+        "isExit": false,
+        "isUnicorn": false,
+        "isBCorp": false,
+        "isCurrentSession": false,
+        "founders": [],
+        "social": {
+          "linkedin": "",
+          "twitter": "",
+          "facebook": "",
+          "crunchbase": ""
+        },
+        "extra": {
+          "city": "Tokyo",
+          "state_province": "Japan",
+          "country": "Japan"
+        }
+      }
+    }
+  ]
+}

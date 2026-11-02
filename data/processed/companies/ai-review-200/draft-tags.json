@@ -1,0 +1,1775 @@
+{
+  "warning": "試標詞彙清單，尚未定版；頻率不是市場熱度。",
+  "dimensions": {
+    "industry_customer": [
+      {
+        "tag": "企業",
+        "sample_record_count": 38
+      },
+      {
+        "tag": "AI 開發者",
+        "sample_record_count": 24
+      },
+      {
+        "tag": "醫療",
+        "sample_record_count": 23
+      },
+      {
+        "tag": "金融",
+        "sample_record_count": 18
+      },
+      {
+        "tag": "教育",
+        "sample_record_count": 10
+      },
+      {
+        "tag": "保險",
+        "sample_record_count": 9
+      },
+      {
+        "tag": "行銷",
+        "sample_record_count": 8
+      },
+      {
+        "tag": "軟體開發",
+        "sample_record_count": 8
+      },
+      {
+        "tag": "消費者",
+        "sample_record_count": 7
+      },
+      {
+        "tag": "能源",
+        "sample_record_count": 7
+      },
+      {
+        "tag": "製造",
+        "sample_record_count": 7
+      },
+      {
+        "tag": "財務會計",
+        "sample_record_count": 7
+      },
+      {
+        "tag": "零售",
+        "sample_record_count": 7
+      },
+      {
+        "tag": "媒體娛樂",
+        "sample_record_count": 6
+      },
+      {
+        "tag": "工程師",
+        "sample_record_count": 6
+      },
+      {
+        "tag": "物流",
+        "sample_record_count": 6
+      },
+      {
+        "tag": "人力資源",
+        "sample_record_count": 5
+      },
+      {
+        "tag": "資訊安全",
+        "sample_record_count": 5
+      },
+      {
+        "tag": "農業",
+        "sample_record_count": 5
+      },
+      {
+        "tag": "不動產",
+        "sample_record_count": 3
+      },
+      {
+        "tag": "法律",
+        "sample_record_count": 3
+      },
+      {
+        "tag": "營建",
+        "sample_record_count": 3
+      },
+      {
+        "tag": "生物科技",
+        "sample_record_count": 3
+      },
+      {
+        "tag": "製藥",
+        "sample_record_count": 3
+      },
+      {
+        "tag": "資料中心",
+        "sample_record_count": 3
+      },
+      {
+        "tag": "醫療人員",
+        "sample_record_count": 3
+      },
+      {
+        "tag": "AI 基礎設施",
+        "sample_record_count": 2
+      },
+      {
+        "tag": "中小企業",
+        "sample_record_count": 2
+      },
+      {
+        "tag": "健康",
+        "sample_record_count": 2
+      },
+      {
+        "tag": "公共安全",
+        "sample_record_count": 2
+      },
+      {
+        "tag": "學生",
+        "sample_record_count": 2
+      },
+      {
+        "tag": "工業",
+        "sample_record_count": 2
+      },
+      {
+        "tag": "工程",
+        "sample_record_count": 2
+      },
+      {
+        "tag": "建築師",
+        "sample_record_count": 2
+      },
+      {
+        "tag": "時尚",
+        "sample_record_count": 2
+      },
+      {
+        "tag": "求職者",
+        "sample_record_count": 2
+      },
+      {
+        "tag": "航運",
+        "sample_record_count": 2
+      },
+      {
+        "tag": "語音技術",
+        "sample_record_count": 2
+      },
+      {
+        "tag": "銷售團隊",
+        "sample_record_count": 2
+      },
+      {
+        "tag": "長照",
+        "sample_record_count": 2
+      },
+      {
+        "tag": "電子設計",
+        "sample_record_count": 2
+      },
+      {
+        "tag": "非技術使用者",
+        "sample_record_count": 2
+      },
+      {
+        "tag": "食品飲料",
+        "sample_record_count": 2
+      },
+      {
+        "tag": "餐飲",
+        "sample_record_count": 2
+      },
+      {
+        "tag": "AI 工程師",
+        "sample_record_count": 1
+      },
+      {
+        "tag": "AI 硬體",
+        "sample_record_count": 1
+      },
+      {
+        "tag": "交易團隊",
+        "sample_record_count": 1
+      },
+      {
+        "tag": "保險經紀人",
+        "sample_record_count": 1
+      },
+      {
+        "tag": "兒童",
+        "sample_record_count": 1
+      },
+      {
+        "tag": "兒童青少年",
+        "sample_record_count": 1
+      },
+      {
+        "tag": "創作者",
+        "sample_record_count": 1
+      },
+      {
+        "tag": "卡車業者",
+        "sample_record_count": 1
+      },
+      {
+        "tag": "受監管產業",
+        "sample_record_count": 1
+      },
+      {
+        "tag": "員工",
+        "sample_record_count": 1
+      },
+      {
+        "tag": "國防",
+        "sample_record_count": 1
+      },
+      {
+        "tag": "基礎設施",
+        "sample_record_count": 1
+      },
+      {
+        "tag": "大學",
+        "sample_record_count": 1
+      },
+      {
+        "tag": "學習者",
+        "sample_record_count": 1
+      },
+      {
+        "tag": "家庭",
+        "sample_record_count": 1
+      },
+      {
+        "tag": "實體作業團隊",
+        "sample_record_count": 1
+      },
+      {
+        "tag": "工業設備",
+        "sample_record_count": 1
+      },
+      {
+        "tag": "建築",
+        "sample_record_count": 1
+      },
+      {
+        "tag": "律師",
+        "sample_record_count": 1
+      },
+      {
+        "tag": "房貸業者",
+        "sample_record_count": 1
+      },
+      {
+        "tag": "批發業",
+        "sample_record_count": 1
+      },
+      {
+        "tag": "招募團隊",
+        "sample_record_count": 1
+      },
+      {
+        "tag": "採購團隊",
+        "sample_record_count": 1
+      },
+      {
+        "tag": "放射科醫師",
+        "sample_record_count": 1
+      },
+      {
+        "tag": "政府",
+        "sample_record_count": 1
+      },
+      {
+        "tag": "旅宿",
+        "sample_record_count": 1
+      },
+      {
+        "tag": "晶片開發者",
+        "sample_record_count": 1
+      },
+      {
+        "tag": "會計師事務所",
+        "sample_record_count": 1
+      },
+      {
+        "tag": "機器人",
+        "sample_record_count": 1
+      },
+      {
+        "tag": "永續",
+        "sample_record_count": 1
+      },
+      {
+        "tag": "汽車",
+        "sample_record_count": 1
+      },
+      {
+        "tag": "照護組織",
+        "sample_record_count": 1
+      },
+      {
+        "tag": "照護者",
+        "sample_record_count": 1
+      },
+      {
+        "tag": "現場工作者",
+        "sample_record_count": 1
+      },
+      {
+        "tag": "環境顧問",
+        "sample_record_count": 1
+      },
+      {
+        "tag": "畜牧業者",
+        "sample_record_count": 1
+      },
+      {
+        "tag": "研究人員",
+        "sample_record_count": 1
+      },
+      {
+        "tag": "社交",
+        "sample_record_count": 1
+      },
+      {
+        "tag": "票務",
+        "sample_record_count": 1
+      },
+      {
+        "tag": "科研",
+        "sample_record_count": 1
+      },
+      {
+        "tag": "自閉症者",
+        "sample_record_count": 1
+      },
+      {
+        "tag": "航空",
+        "sample_record_count": 1
+      },
+      {
+        "tag": "護理人員",
+        "sample_record_count": 1
+      },
+      {
+        "tag": "貨運承攬業者",
+        "sample_record_count": 1
+      },
+      {
+        "tag": "貸款業者",
+        "sample_record_count": 1
+      },
+      {
+        "tag": "車主",
+        "sample_record_count": 1
+      },
+      {
+        "tag": "辦公室",
+        "sample_record_count": 1
+      },
+      {
+        "tag": "遊戲開發者",
+        "sample_record_count": 1
+      },
+      {
+        "tag": "運動",
+        "sample_record_count": 1
+      },
+      {
+        "tag": "都市規劃",
+        "sample_record_count": 1
+      },
+      {
+        "tag": "鐵路",
+        "sample_record_count": 1
+      },
+      {
+        "tag": "關鍵產業",
+        "sample_record_count": 1
+      },
+      {
+        "tag": "電力業者",
+        "sample_record_count": 1
+      },
+      {
+        "tag": "風控團隊",
+        "sample_record_count": 1
+      },
+      {
+        "tag": "養殖業者",
+        "sample_record_count": 1
+      }
+    ],
+    "problem_workflow": [
+      {
+        "tag": "營運管理",
+        "sample_record_count": 9
+      },
+      {
+        "tag": "合規管理",
+        "sample_record_count": 4
+      },
+      {
+        "tag": "AI 安全",
+        "sample_record_count": 3
+      },
+      {
+        "tag": "融資",
+        "sample_record_count": 3
+      },
+      {
+        "tag": "資料隱私",
+        "sample_record_count": 3
+      },
+      {
+        "tag": "AI 治理",
+        "sample_record_count": 2
+      },
+      {
+        "tag": "人才招募",
+        "sample_record_count": 2
+      },
+      {
+        "tag": "企業營運",
+        "sample_record_count": 2
+      },
+      {
+        "tag": "保險理賠",
+        "sample_record_count": 2
+      },
+      {
+        "tag": "保險行政",
+        "sample_record_count": 2
+      },
+      {
+        "tag": "客戶服務",
+        "sample_record_count": 2
+      },
+      {
+        "tag": "專案工作支援",
+        "sample_record_count": 2
+      },
+      {
+        "tag": "市場分析",
+        "sample_record_count": 2
+      },
+      {
+        "tag": "技能培訓",
+        "sample_record_count": 2
+      },
+      {
+        "tag": "收入週期管理",
+        "sample_record_count": 2
+      },
+      {
+        "tag": "臨床紀錄",
+        "sample_record_count": 2
+      },
+      {
+        "tag": "行政作業",
+        "sample_record_count": 2
+      },
+      {
+        "tag": "訓練資料準備",
+        "sample_record_count": 2
+      },
+      {
+        "tag": "詐欺防範",
+        "sample_record_count": 2
+      },
+      {
+        "tag": "語言學習",
+        "sample_record_count": 2
+      },
+      {
+        "tag": "財務作業",
+        "sample_record_count": 2
+      },
+      {
+        "tag": "資料擷取",
+        "sample_record_count": 2
+      },
+      {
+        "tag": "軟體測試",
+        "sample_record_count": 2
+      },
+      {
+        "tag": "電話作業",
+        "sample_record_count": 2
+      },
+      {
+        "tag": "AI 導入",
+        "sample_record_count": 1
+      },
+      {
+        "tag": "AI 技術研發",
+        "sample_record_count": 1
+      },
+      {
+        "tag": "AI 搜尋曝光",
+        "sample_record_count": 1
+      },
+      {
+        "tag": "agent 執行環境",
+        "sample_record_count": 1
+      },
+      {
+        "tag": "agent 工具接入",
+        "sample_record_count": 1
+      },
+      {
+        "tag": "agent 建置",
+        "sample_record_count": 1
+      },
+      {
+        "tag": "agent 資訊取得",
+        "sample_record_count": 1
+      },
+      {
+        "tag": "agent 購物接入",
+        "sample_record_count": 1
+      },
+      {
+        "tag": "agent 電話接入",
+        "sample_record_count": 1
+      },
+      {
+        "tag": "上線準備",
+        "sample_record_count": 1
+      },
+      {
+        "tag": "交易",
+        "sample_record_count": 1
+      },
+      {
+        "tag": "交易支援",
+        "sample_record_count": 1
+      },
+      {
+        "tag": "人才媒合",
+        "sample_record_count": 1
+      },
+      {
+        "tag": "人際連結",
+        "sample_record_count": 1
+      },
+      {
+        "tag": "作業安全",
+        "sample_record_count": 1
+      },
+      {
+        "tag": "作物照護",
+        "sample_record_count": 1
+      },
+      {
+        "tag": "使用者導入",
+        "sample_record_count": 1
+      },
+      {
+        "tag": "來客銷售",
+        "sample_record_count": 1
+      },
+      {
+        "tag": "供應鏈管理",
+        "sample_record_count": 1
+      },
+      {
+        "tag": "保險經紀作業",
+        "sample_record_count": 1
+      },
+      {
+        "tag": "保險資格驗證",
+        "sample_record_count": 1
+      },
+      {
+        "tag": "信用風險評估",
+        "sample_record_count": 1
+      },
+      {
+        "tag": "倉儲自動化",
+        "sample_record_count": 1
+      },
+      {
+        "tag": "個人事務協助",
+        "sample_record_count": 1
+      },
+      {
+        "tag": "個人化學習",
+        "sample_record_count": 1
+      },
+      {
+        "tag": "候選人篩選",
+        "sample_record_count": 1
+      },
+      {
+        "tag": "債務回收",
+        "sample_record_count": 1
+      },
+      {
+        "tag": "內容個人化",
+        "sample_record_count": 1
+      },
+      {
+        "tag": "內容決策",
+        "sample_record_count": 1
+      },
+      {
+        "tag": "內容驗真",
+        "sample_record_count": 1
+      },
+      {
+        "tag": "動作評估",
+        "sample_record_count": 1
+      },
+      {
+        "tag": "反無人機",
+        "sample_record_count": 1
+      },
+      {
+        "tag": "合約審查",
+        "sample_record_count": 1
+      },
+      {
+        "tag": "合約管理",
+        "sample_record_count": 1
+      },
+      {
+        "tag": "咳嗽追蹤",
+        "sample_record_count": 1
+      },
+      {
+        "tag": "品牌內容製作",
+        "sample_record_count": 1
+      },
+      {
+        "tag": "品質檢查",
+        "sample_record_count": 1
+      },
+      {
+        "tag": "員工培訓",
+        "sample_record_count": 1
+      },
+      {
+        "tag": "商品匹配",
+        "sample_record_count": 1
+      },
+      {
+        "tag": "商品識別",
+        "sample_record_count": 1
+      },
+      {
+        "tag": "商品資訊整合",
+        "sample_record_count": 1
+      },
+      {
+        "tag": "商業分析",
+        "sample_record_count": 1
+      },
+      {
+        "tag": "圖面審查",
+        "sample_record_count": 1
+      },
+      {
+        "tag": "基因變異解讀",
+        "sample_record_count": 1
+      },
+      {
+        "tag": "報告製作",
+        "sample_record_count": 1
+      },
+      {
+        "tag": "天氣預測",
+        "sample_record_count": 1
+      },
+      {
+        "tag": "學貸再融資",
+        "sample_record_count": 1
+      },
+      {
+        "tag": "安全作業自動化",
+        "sample_record_count": 1
+      },
+      {
+        "tag": "安全測試",
+        "sample_record_count": 1
+      },
+      {
+        "tag": "安全監控",
+        "sample_record_count": 1
+      },
+      {
+        "tag": "客戶互動",
+        "sample_record_count": 1
+      },
+      {
+        "tag": "客戶營運",
+        "sample_record_count": 1
+      },
+      {
+        "tag": "家庭事務協調",
+        "sample_record_count": 1
+      },
+      {
+        "tag": "專案決策",
+        "sample_record_count": 1
+      },
+      {
+        "tag": "專業供需連結",
+        "sample_record_count": 1
+      },
+      {
+        "tag": "就醫協助",
+        "sample_record_count": 1
+      },
+      {
+        "tag": "工作流程整合",
+        "sample_record_count": 1
+      },
+      {
+        "tag": "工廠數位化",
+        "sample_record_count": 1
+      },
+      {
+        "tag": "工程問題診斷",
+        "sample_record_count": 1
+      },
+      {
+        "tag": "工程排程",
+        "sample_record_count": 1
+      },
+      {
+        "tag": "庫存融資",
+        "sample_record_count": 1
+      },
+      {
+        "tag": "影像分析",
+        "sample_record_count": 1
+      },
+      {
+        "tag": "影片製作",
+        "sample_record_count": 1
+      },
+      {
+        "tag": "復健依從性",
+        "sample_record_count": 1
+      },
+      {
+        "tag": "心理健康支持",
+        "sample_record_count": 1
+      },
+      {
+        "tag": "慢性病管理",
+        "sample_record_count": 1
+      },
+      {
+        "tag": "應收帳款",
+        "sample_record_count": 1
+      },
+      {
+        "tag": "應用建置",
+        "sample_record_count": 1
+      },
+      {
+        "tag": "成長行銷",
+        "sample_record_count": 1
+      },
+      {
+        "tag": "招生",
+        "sample_record_count": 1
+      },
+      {
+        "tag": "授信",
+        "sample_record_count": 1
+      },
+      {
+        "tag": "採購合約",
+        "sample_record_count": 1
+      },
+      {
+        "tag": "控制系統建置",
+        "sample_record_count": 1
+      },
+      {
+        "tag": "推論部署",
+        "sample_record_count": 1
+      },
+      {
+        "tag": "放牧管理",
+        "sample_record_count": 1
+      },
+      {
+        "tag": "故障預測",
+        "sample_record_count": 1
+      },
+      {
+        "tag": "數位轉型",
+        "sample_record_count": 1
+      },
+      {
+        "tag": "文件編輯",
+        "sample_record_count": 1
+      },
+      {
+        "tag": "文件處理",
+        "sample_record_count": 1
+      },
+      {
+        "tag": "文件製作",
+        "sample_record_count": 1
+      },
+      {
+        "tag": "文字情緒分析",
+        "sample_record_count": 1
+      },
+      {
+        "tag": "既有系統整合",
+        "sample_record_count": 1
+      },
+      {
+        "tag": "早期疾病偵測",
+        "sample_record_count": 1
+      },
+      {
+        "tag": "晶片測試",
+        "sample_record_count": 1
+      },
+      {
+        "tag": "會計作業",
+        "sample_record_count": 1
+      },
+      {
+        "tag": "服務請求處理",
+        "sample_record_count": 1
+      },
+      {
+        "tag": "案件調查",
+        "sample_record_count": 1
+      },
+      {
+        "tag": "模型協作",
+        "sample_record_count": 1
+      },
+      {
+        "tag": "模型取得",
+        "sample_record_count": 1
+      },
+      {
+        "tag": "模型探索",
+        "sample_record_count": 1
+      },
+      {
+        "tag": "模型測試",
+        "sample_record_count": 1
+      },
+      {
+        "tag": "模型監控",
+        "sample_record_count": 1
+      },
+      {
+        "tag": "模型訓練",
+        "sample_record_count": 1
+      },
+      {
+        "tag": "模型評估",
+        "sample_record_count": 1
+      },
+      {
+        "tag": "模型運行效率",
+        "sample_record_count": 1
+      },
+      {
+        "tag": "模型部署",
+        "sample_record_count": 1
+      },
+      {
+        "tag": "機器人硬體建置",
+        "sample_record_count": 1
+      },
+      {
+        "tag": "檢查方案選擇",
+        "sample_record_count": 1
+      },
+      {
+        "tag": "權限管理",
+        "sample_record_count": 1
+      },
+      {
+        "tag": "求職申請",
+        "sample_record_count": 1
+      },
+      {
+        "tag": "決策支援",
+        "sample_record_count": 1
+      },
+      {
+        "tag": "治療反應評估",
+        "sample_record_count": 1
+      },
+      {
+        "tag": "法律工作支援",
+        "sample_record_count": 1
+      },
+      {
+        "tag": "活動行銷",
+        "sample_record_count": 1
+      },
+      {
+        "tag": "減碳決策",
+        "sample_record_count": 1
+      },
+      {
+        "tag": "災害風險管理",
+        "sample_record_count": 1
+      },
+      {
+        "tag": "照護偏好理解",
+        "sample_record_count": 1
+      },
+      {
+        "tag": "照護工作支援",
+        "sample_record_count": 1
+      },
+      {
+        "tag": "營運問題診斷",
+        "sample_record_count": 1
+      },
+      {
+        "tag": "營運效率",
+        "sample_record_count": 1
+      },
+      {
+        "tag": "營運規劃",
+        "sample_record_count": 1
+      },
+      {
+        "tag": "物件內容製作",
+        "sample_record_count": 1
+      },
+      {
+        "tag": "現金流分析",
+        "sample_record_count": 1
+      },
+      {
+        "tag": "生產決策",
+        "sample_record_count": 1
+      },
+      {
+        "tag": "產權作業",
+        "sample_record_count": 1
+      },
+      {
+        "tag": "病人互動",
+        "sample_record_count": 1
+      },
+      {
+        "tag": "病原檢測",
+        "sample_record_count": 1
+      },
+      {
+        "tag": "癌症偵測",
+        "sample_record_count": 1
+      },
+      {
+        "tag": "知識取得",
+        "sample_record_count": 1
+      },
+      {
+        "tag": "研發探索",
+        "sample_record_count": 1
+      },
+      {
+        "tag": "硬體市場參與",
+        "sample_record_count": 1
+      },
+      {
+        "tag": "碳盤查",
+        "sample_record_count": 1
+      },
+      {
+        "tag": "社交技能學習",
+        "sample_record_count": 1
+      },
+      {
+        "tag": "社交購物",
+        "sample_record_count": 1
+      },
+      {
+        "tag": "票券轉售",
+        "sample_record_count": 1
+      },
+      {
+        "tag": "稅務作業",
+        "sample_record_count": 1
+      },
+      {
+        "tag": "稅務合規",
+        "sample_record_count": 1
+      },
+      {
+        "tag": "程式碼審查",
+        "sample_record_count": 1
+      },
+      {
+        "tag": "空調控制",
+        "sample_record_count": 1
+      },
+      {
+        "tag": "空間呈現",
+        "sample_record_count": 1
+      },
+      {
+        "tag": "競爭分析",
+        "sample_record_count": 1
+      },
+      {
+        "tag": "結帳",
+        "sample_record_count": 1
+      },
+      {
+        "tag": "緊急應變",
+        "sample_record_count": 1
+      },
+      {
+        "tag": "職涯支援",
+        "sample_record_count": 1
+      },
+      {
+        "tag": "職缺搜尋",
+        "sample_record_count": 1
+      },
+      {
+        "tag": "能源採購",
+        "sample_record_count": 1
+      },
+      {
+        "tag": "能源效率",
+        "sample_record_count": 1
+      },
+      {
+        "tag": "藥物研發",
+        "sample_record_count": 1
+      },
+      {
+        "tag": "行銷執行",
+        "sample_record_count": 1
+      },
+      {
+        "tag": "規劃決策",
+        "sample_record_count": 1
+      },
+      {
+        "tag": "設備維護",
+        "sample_record_count": 1
+      },
+      {
+        "tag": "詐欺審查",
+        "sample_record_count": 1
+      },
+      {
+        "tag": "語音安全",
+        "sample_record_count": 1
+      },
+      {
+        "tag": "財務審計",
+        "sample_record_count": 1
+      },
+      {
+        "tag": "貨運經紀作業",
+        "sample_record_count": 1
+      },
+      {
+        "tag": "貸款作業",
+        "sample_record_count": 1
+      },
+      {
+        "tag": "資安保險作業",
+        "sample_record_count": 1
+      },
+      {
+        "tag": "資料共享",
+        "sample_record_count": 1
+      },
+      {
+        "tag": "資料合規",
+        "sample_record_count": 1
+      },
+      {
+        "tag": "資料安全",
+        "sample_record_count": 1
+      },
+      {
+        "tag": "資料整合",
+        "sample_record_count": 1
+      },
+      {
+        "tag": "資料準備",
+        "sample_record_count": 1
+      },
+      {
+        "tag": "資料理解",
+        "sample_record_count": 1
+      },
+      {
+        "tag": "資料蒐集",
+        "sample_record_count": 1
+      },
+      {
+        "tag": "軟體授權管理",
+        "sample_record_count": 1
+      },
+      {
+        "tag": "軟體開發",
+        "sample_record_count": 1
+      },
+      {
+        "tag": "遊戲開發",
+        "sample_record_count": 1
+      },
+      {
+        "tag": "運動安全",
+        "sample_record_count": 1
+      },
+      {
+        "tag": "運算設施供給",
+        "sample_record_count": 1
+      },
+      {
+        "tag": "郵件處理",
+        "sample_record_count": 1
+      },
+      {
+        "tag": "配音製作",
+        "sample_record_count": 1
+      },
+      {
+        "tag": "醫療編碼",
+        "sample_record_count": 1
+      },
+      {
+        "tag": "銷售郵件",
+        "sample_record_count": 1
+      },
+      {
+        "tag": "開發協作",
+        "sample_record_count": 1
+      },
+      {
+        "tag": "除錯",
+        "sample_record_count": 1
+      },
+      {
+        "tag": "電路設計",
+        "sample_record_count": 1
+      },
+      {
+        "tag": "面試練習",
+        "sample_record_count": 1
+      },
+      {
+        "tag": "音樂製作",
+        "sample_record_count": 1
+      },
+      {
+        "tag": "音訊分析",
+        "sample_record_count": 1
+      },
+      {
+        "tag": "音訊搜尋",
+        "sample_record_count": 1
+      },
+      {
+        "tag": "音訊製作",
+        "sample_record_count": 1
+      },
+      {
+        "tag": "預約",
+        "sample_record_count": 1
+      },
+      {
+        "tag": "顯微影像分析",
+        "sample_record_count": 1
+      },
+      {
+        "tag": "風險管理",
+        "sample_record_count": 1
+      },
+      {
+        "tag": "飲食管理",
+        "sample_record_count": 1
+      }
+    ],
+    "solution": [
+      {
+        "tag": "AI",
+        "sample_record_count": 20
+      },
+      {
+        "tag": "AI agent",
+        "sample_record_count": 14
+      },
+      {
+        "tag": "AI 助理",
+        "sample_record_count": 7
+      },
+      {
+        "tag": "機器學習",
+        "sample_record_count": 7
+      },
+      {
+        "tag": "語音 AI",
+        "sample_record_count": 7
+      },
+      {
+        "tag": "AI workforce",
+        "sample_record_count": 6
+      },
+      {
+        "tag": "AI 自動化",
+        "sample_record_count": 6
+      },
+      {
+        "tag": "電腦視覺",
+        "sample_record_count": 5
+      },
+      {
+        "tag": "AI 分析",
+        "sample_record_count": 4
+      },
+      {
+        "tag": "AI 營運軟體",
+        "sample_record_count": 4
+      },
+      {
+        "tag": "AI 預測",
+        "sample_record_count": 4
+      },
+      {
+        "tag": "AI copilot",
+        "sample_record_count": 3
+      },
+      {
+        "tag": "AI 平台",
+        "sample_record_count": 3
+      },
+      {
+        "tag": "AI 資料分析",
+        "sample_record_count": 3
+      },
+      {
+        "tag": "無程式碼",
+        "sample_record_count": 3
+      },
+      {
+        "tag": "AI 個人化",
+        "sample_record_count": 2
+      },
+      {
+        "tag": "AI 偵測",
+        "sample_record_count": 2
+      },
+      {
+        "tag": "AI 審閱",
+        "sample_record_count": 2
+      },
+      {
+        "tag": "AI 影像分析",
+        "sample_record_count": 2
+      },
+      {
+        "tag": "AI 流程自動化",
+        "sample_record_count": 2
+      },
+      {
+        "tag": "AI 金融服務",
+        "sample_record_count": 2
+      },
+      {
+        "tag": "機器人",
+        "sample_record_count": 2
+      },
+      {
+        "tag": "流程自動化",
+        "sample_record_count": 2
+      },
+      {
+        "tag": "深度學習",
+        "sample_record_count": 2
+      },
+      {
+        "tag": "生成式 AI",
+        "sample_record_count": 2
+      },
+      {
+        "tag": "線上課程",
+        "sample_record_count": 2
+      },
+      {
+        "tag": "自動化",
+        "sample_record_count": 2
+      },
+      {
+        "tag": "裝置端 AI",
+        "sample_record_count": 2
+      },
+      {
+        "tag": "資料服務",
+        "sample_record_count": 2
+      },
+      {
+        "tag": "金融服務",
+        "sample_record_count": 2
+      },
+      {
+        "tag": "AI IDE",
+        "sample_record_count": 1
+      },
+      {
+        "tag": "AI SaaS",
+        "sample_record_count": 1
+      },
+      {
+        "tag": "AI accountant",
+        "sample_record_count": 1
+      },
+      {
+        "tag": "AI 作曲",
+        "sample_record_count": 1
+      },
+      {
+        "tag": "AI 信用評估",
+        "sample_record_count": 1
+      },
+      {
+        "tag": "AI 信貸服務",
+        "sample_record_count": 1
+      },
+      {
+        "tag": "AI 個人化照護",
+        "sample_record_count": 1
+      },
+      {
+        "tag": "AI 偏好分析",
+        "sample_record_count": 1
+      },
+      {
+        "tag": "AI 內容生成",
+        "sample_record_count": 1
+      },
+      {
+        "tag": "AI 分子設計",
+        "sample_record_count": 1
+      },
+      {
+        "tag": "AI 即時偵測",
+        "sample_record_count": 1
+      },
+      {
+        "tag": "AI 報告生成",
+        "sample_record_count": 1
+      },
+      {
+        "tag": "AI 學習平台",
+        "sample_record_count": 1
+      },
+      {
+        "tag": "AI 客服",
+        "sample_record_count": 1
+      },
+      {
+        "tag": "AI 專業服務",
+        "sample_record_count": 1
+      },
+      {
+        "tag": "AI 專業網路",
+        "sample_record_count": 1
+      },
+      {
+        "tag": "AI 工具",
+        "sample_record_count": 1
+      },
+      {
+        "tag": "AI 引導",
+        "sample_record_count": 1
+      },
+      {
+        "tag": "AI 影片生成",
+        "sample_record_count": 1
+      },
+      {
+        "tag": "AI 排程",
+        "sample_record_count": 1
+      },
+      {
+        "tag": "AI 探索",
+        "sample_record_count": 1
+      },
+      {
+        "tag": "AI 探索系統",
+        "sample_record_count": 1
+      },
+      {
+        "tag": "AI 控制",
+        "sample_record_count": 1
+      },
+      {
+        "tag": "AI 文件自動化",
+        "sample_record_count": 1
+      },
+      {
+        "tag": "AI 文字分析",
+        "sample_record_count": 1
+      },
+      {
+        "tag": "AI 最佳化",
+        "sample_record_count": 1
+      },
+      {
+        "tag": "AI 服務",
+        "sample_record_count": 1
+      },
+      {
+        "tag": "AI 模型訓練",
+        "sample_record_count": 1
+      },
+      {
+        "tag": "AI 模擬模型",
+        "sample_record_count": 1
+      },
+      {
+        "tag": "AI 模組",
+        "sample_record_count": 1
+      },
+      {
+        "tag": "AI 決策支援",
+        "sample_record_count": 1
+      },
+      {
+        "tag": "AI 測試",
+        "sample_record_count": 1
+      },
+      {
+        "tag": "AI 測試平台",
+        "sample_record_count": 1
+      },
+      {
+        "tag": "AI 溝通工具",
+        "sample_record_count": 1
+      },
+      {
+        "tag": "AI 無人機",
+        "sample_record_count": 1
+      },
+      {
+        "tag": "AI 監測",
+        "sample_record_count": 1
+      },
+      {
+        "tag": "AI 社交工具",
+        "sample_record_count": 1
+      },
+      {
+        "tag": "AI 經紀服務",
+        "sample_record_count": 1
+      },
+      {
+        "tag": "AI 聲音生成",
+        "sample_record_count": 1
+      },
+      {
+        "tag": "AI 職涯工具",
+        "sample_record_count": 1
+      },
+      {
+        "tag": "AI 行銷",
+        "sample_record_count": 1
+      },
+      {
+        "tag": "AI 設計自動化",
+        "sample_record_count": 1
+      },
+      {
+        "tag": "AI 診斷",
+        "sample_record_count": 1
+      },
+      {
+        "tag": "AI 資料平台",
+        "sample_record_count": 1
+      },
+      {
+        "tag": "AI 資料處理",
+        "sample_record_count": 1
+      },
+      {
+        "tag": "AI 適性學習",
+        "sample_record_count": 1
+      },
+      {
+        "tag": "AI 郵件工具",
+        "sample_record_count": 1
+      },
+      {
+        "tag": "AI 鑑識",
+        "sample_record_count": 1
+      },
+      {
+        "tag": "AI 開發服務",
+        "sample_record_count": 1
+      },
+      {
+        "tag": "AI 電商",
+        "sample_record_count": 1
+      },
+      {
+        "tag": "AI 音訊",
+        "sample_record_count": 1
+      },
+      {
+        "tag": "AI 音訊處理",
+        "sample_record_count": 1
+      },
+      {
+        "tag": "AI 驗證",
+        "sample_record_count": 1
+      },
+      {
+        "tag": "XR",
+        "sample_record_count": 1
+      },
+      {
+        "tag": "agentic 開發工具",
+        "sample_record_count": 1
+      },
+      {
+        "tag": "分散式推論",
+        "sample_record_count": 1
+      },
+      {
+        "tag": "區塊鏈",
+        "sample_record_count": 1
+      },
+      {
+        "tag": "合成資料",
+        "sample_record_count": 1
+      },
+      {
+        "tag": "向量資料庫整合",
+        "sample_record_count": 1
+      },
+      {
+        "tag": "培訓服務",
+        "sample_record_count": 1
+      },
+      {
+        "tag": "媒合",
+        "sample_record_count": 1
+      },
+      {
+        "tag": "學習平台",
+        "sample_record_count": 1
+      },
+      {
+        "tag": "安全工具",
+        "sample_record_count": 1
+      },
+      {
+        "tag": "安全平台",
+        "sample_record_count": 1
+      },
+      {
+        "tag": "安全方案",
+        "sample_record_count": 1
+      },
+      {
+        "tag": "安全運算",
+        "sample_record_count": 1
+      },
+      {
+        "tag": "客製服務",
+        "sample_record_count": 1
+      },
+      {
+        "tag": "實體 AI",
+        "sample_record_count": 1
+      },
+      {
+        "tag": "專業內容",
+        "sample_record_count": 1
+      },
+      {
+        "tag": "對話式 AI",
+        "sample_record_count": 1
+      },
+      {
+        "tag": "工具整合",
+        "sample_record_count": 1
+      },
+      {
+        "tag": "工業控制硬體",
+        "sample_record_count": 1
+      },
+      {
+        "tag": "市集",
+        "sample_record_count": 1
+      },
+      {
+        "tag": "影像處理",
+        "sample_record_count": 1
+      },
+      {
+        "tag": "影像辨識",
+        "sample_record_count": 1
+      },
+      {
+        "tag": "微噴技術",
+        "sample_record_count": 1
+      },
+      {
+        "tag": "控制系統",
+        "sample_record_count": 1
+      },
+      {
+        "tag": "支付平台",
+        "sample_record_count": 1
+      },
+      {
+        "tag": "曝光追蹤與最佳化",
+        "sample_record_count": 1
+      },
+      {
+        "tag": "模型平台",
+        "sample_record_count": 1
+      },
+      {
+        "tag": "機器人關節",
+        "sample_record_count": 1
+      },
+      {
+        "tag": "檢測裝置",
+        "sample_record_count": 1
+      },
+      {
+        "tag": "檢索引擎",
+        "sample_record_count": 1
+      },
+      {
+        "tag": "沙盒",
+        "sample_record_count": 1
+      },
+      {
+        "tag": "治理方案",
+        "sample_record_count": 1
+      },
+      {
+        "tag": "海上資料中心",
+        "sample_record_count": 1
+      },
+      {
+        "tag": "測試監控平台",
+        "sample_record_count": 1
+      },
+      {
+        "tag": "研究整理",
+        "sample_record_count": 1
+      },
+      {
+        "tag": "管理服務",
+        "sample_record_count": 1
+      },
+      {
+        "tag": "聯邦學習平台",
+        "sample_record_count": 1
+      },
+      {
+        "tag": "自主測試",
+        "sample_record_count": 1
+      },
+      {
+        "tag": "自動化倉庫",
+        "sample_record_count": 1
+      },
+      {
+        "tag": "自動化平台",
+        "sample_record_count": 1
+      },
+      {
+        "tag": "自動生成",
+        "sample_record_count": 1
+      },
+      {
+        "tag": "自然語言處理",
+        "sample_record_count": 1
+      },
+      {
+        "tag": "藥理模型",
+        "sample_record_count": 1
+      },
+      {
+        "tag": "視覺 AI",
+        "sample_record_count": 1
+      },
+      {
+        "tag": "資料 AI 平台",
+        "sample_record_count": 1
+      },
+      {
+        "tag": "資料分析",
+        "sample_record_count": 1
+      },
+      {
+        "tag": "資料處理管線",
+        "sample_record_count": 1
+      },
+      {
+        "tag": "購物入口",
+        "sample_record_count": 1
+      },
+      {
+        "tag": "軟硬體整合",
+        "sample_record_count": 1
+      },
+      {
+        "tag": "軟硬體最佳化",
+        "sample_record_count": 1
+      },
+      {
+        "tag": "轉型服務",
+        "sample_record_count": 1
+      },
+      {
+        "tag": "通訊基礎設施",
+        "sample_record_count": 1
+      },
+      {
+        "tag": "金融平台",
+        "sample_record_count": 1
+      },
+      {
+        "tag": "開源工具",
+        "sample_record_count": 1
+      },
+      {
+        "tag": "開源平台",
+        "sample_record_count": 1
+      },
+      {
+        "tag": "開源編輯器",
+        "sample_record_count": 1
+      },
+      {
+        "tag": "隱私增強技術",
+        "sample_record_count": 1
+      },
+      {
+        "tag": "離線知識平台",
+        "sample_record_count": 1
+      },
+      {
+        "tag": "雲端監控",
+        "sample_record_count": 1
+      },
+      {
+        "tag": "電商",
+        "sample_record_count": 1
+      }
+    ]
+  }
+}

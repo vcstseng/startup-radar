@@ -1,0 +1,811 @@
+{
+  "scope": "人工挑選且可重疊的候選方向；會員數只是列出的案例數，不是完整領域占比、熱度排名或時間成長證據。",
+  "directions": [
+    {
+      "id": "healthcare-workflows",
+      "title": "醫療 AI 不只診斷，也在處理紀錄與保險行政",
+      "observation": "臨床文件、保險資格、支付方入口與電話作業，已各自形成可辨識的產品切入點。",
+      "positions": [
+        39,
+        67,
+        96,
+        130,
+        141,
+        147,
+        148,
+        185,
+        194
+      ],
+      "examples": [
+        39,
+        96,
+        147
+      ],
+      "idea": "先畫出一家診所從預約、就診到收款的工作，再找高頻、重複且能衡量耗時的環節。這是研究假說，不是已驗證商機。",
+      "unknowns": "不同市場的保險制度、系統整合與醫療資料限制；名錄未證明節省時間或落地效果。",
+      "status": "candidate_observation_not_growth_trend",
+      "selected_case_count": 9,
+      "clear_case_count": 6,
+      "source_count": 4,
+      "members": [
+        {
+          "id": "upstream-14944",
+          "name": "TORTUS",
+          "quality": "clear"
+        },
+        {
+          "id": "upstream-19069",
+          "name": "Honey Health, Inc.",
+          "quality": "partial"
+        },
+        {
+          "id": "upstream-02046",
+          "name": "Technovatime",
+          "quality": "clear"
+        },
+        {
+          "id": "upstream-07839",
+          "name": "Rejoy Health",
+          "quality": "clear"
+        },
+        {
+          "id": "upstream-08999",
+          "name": "Pledge Health",
+          "quality": "clear"
+        },
+        {
+          "id": "upstream-09242",
+          "name": "Sohar Health",
+          "quality": "clear"
+        },
+        {
+          "id": "upstream-09257",
+          "name": "Prosper",
+          "quality": "clear"
+        },
+        {
+          "id": "upstream-10862",
+          "name": "MochaCare",
+          "quality": "partial"
+        },
+        {
+          "id": "upstream-11229",
+          "name": "Care GP",
+          "quality": "partial"
+        }
+      ],
+      "example_cards": [
+        {
+          "id": "upstream-14944",
+          "name": "TORTUS",
+          "summary_zh": "以 AI copilot 協助臨床文件紀錄。",
+          "evidence": {
+            "field": "description",
+            "text": "AI co-pilot for clinical documentation."
+          }
+        },
+        {
+          "id": "upstream-02046",
+          "name": "Technovatime",
+          "summary_zh": "以語音 agents 處理醫療保險查詢、事前授權與電話。",
+          "evidence": {
+            "field": "description",
+            "text": "TechNovaTime helps healthcare providers reduce revenue cycle delays and administrative burden by using HIPAA-compliant AI voice agents to automate claim status checks, prior authorizations, and payer calls--cutting cycle time and freeing staff from manual"
+          }
+        },
+        {
+          "id": "upstream-09242",
+          "name": "Sohar Health",
+          "summary_zh": "以 AI 驗證保險以支援病人轉換。",
+          "evidence": {
+            "field": "description",
+            "text": "AI-powered insurance verification to boost patient conversion."
+          }
+        }
+      ]
+    },
+    {
+      "id": "professional-documents",
+      "title": "專業文件的機會不只生成，也包括審閱與核對",
+      "observation": "房貸文件、採購合約、法律合約與工程圖面出現不同的專業處理工具。",
+      "positions": [
+        63,
+        66,
+        121,
+        137,
+        158,
+        178,
+        181
+      ],
+      "examples": [
+        63,
+        137,
+        178
+      ],
+      "idea": "比較各領域如何定義一份文件是否正確，研究能否把規範、例外與人工確認點轉成工作流程。",
+      "unknowns": "錯誤責任、可查核依據與人工審核邊界不明；審閱、生成及審計是不同任務，不能混稱同一產品。",
+      "status": "candidate_observation_not_growth_trend",
+      "selected_case_count": 7,
+      "clear_case_count": 7,
+      "source_count": 2,
+      "members": [
+        {
+          "id": "upstream-19009",
+          "name": "Argentium",
+          "quality": "clear"
+        },
+        {
+          "id": "upstream-19058",
+          "name": "Procuro",
+          "quality": "clear"
+        },
+        {
+          "id": "upstream-05924",
+          "name": "Ironclad",
+          "quality": "clear"
+        },
+        {
+          "id": "upstream-08419",
+          "name": "Dioptra",
+          "quality": "clear"
+        },
+        {
+          "id": "upstream-09844",
+          "name": "SchemeFlow",
+          "quality": "clear"
+        },
+        {
+          "id": "upstream-10535",
+          "name": "Structured AI",
+          "quality": "clear"
+        },
+        {
+          "id": "upstream-10634",
+          "name": "Denki",
+          "quality": "clear"
+        }
+      ],
+      "example_cards": [
+        {
+          "id": "upstream-19009",
+          "name": "Argentium",
+          "summary_zh": "為房貸業務自動處理文件。",
+          "evidence": {
+            "field": "description",
+            "text": "Lending innovation |AI-powered Document Processing Automation for Mortgage Lending"
+          }
+        },
+        {
+          "id": "upstream-08419",
+          "name": "Dioptra",
+          "summary_zh": "以 AI 自動審閱合約。",
+          "evidence": {
+            "field": "description",
+            "text": "Automated contract review with AI"
+          }
+        },
+        {
+          "id": "upstream-10535",
+          "name": "Structured AI",
+          "summary_zh": "協助建築師與工程師審查圖面。",
+          "evidence": {
+            "field": "description",
+            "text": "The AI drawing review platform for architects and engineers."
+          }
+        }
+      ]
+    },
+    {
+      "id": "voice-task-interface",
+      "title": "語音 AI 被包裝成特定工作的執行入口",
+      "observation": "來客銷售、醫療電話與餐廳電話各有產品；另有專供 agents 使用的電話接入服務。",
+      "positions": [
+        42,
+        96,
+        148,
+        175,
+        187
+      ],
+      "examples": [
+        42,
+        96,
+        175
+      ],
+      "idea": "找出來電量大、問題範圍有限且可轉接真人的行業，研究從應答到完成任務還缺哪些步驟。",
+      "unknowns": "不能從餐廳電話描述直接推定可點餐或訂位；語言、可靠性、通話規範與整合能力未查證。",
+      "status": "candidate_observation_not_growth_trend",
+      "selected_case_count": 5,
+      "clear_case_count": 5,
+      "source_count": 3,
+      "members": [
+        {
+          "id": "upstream-15023",
+          "name": "Pyto",
+          "quality": "clear"
+        },
+        {
+          "id": "upstream-02046",
+          "name": "Technovatime",
+          "quality": "clear"
+        },
+        {
+          "id": "upstream-09257",
+          "name": "Prosper",
+          "quality": "clear"
+        },
+        {
+          "id": "upstream-10488",
+          "name": "Certus AI",
+          "quality": "clear"
+        },
+        {
+          "id": "upstream-11043",
+          "name": "AgentPhone",
+          "quality": "clear"
+        }
+      ],
+      "example_cards": [
+        {
+          "id": "upstream-15023",
+          "name": "Pyto",
+          "summary_zh": "以語音 AI 支援來客銷售轉換。",
+          "evidence": {
+            "field": "description",
+            "text": "Voice AI for inbound sales conversion."
+          }
+        },
+        {
+          "id": "upstream-02046",
+          "name": "Technovatime",
+          "summary_zh": "以語音 agents 處理醫療保險查詢、事前授權與電話。",
+          "evidence": {
+            "field": "description",
+            "text": "TechNovaTime helps healthcare providers reduce revenue cycle delays and administrative burden by using HIPAA-compliant AI voice agents to automate claim status checks, prior authorizations, and payer calls--cutting cycle time and freeing staff from manual"
+          }
+        },
+        {
+          "id": "upstream-10488",
+          "name": "Certus AI",
+          "summary_zh": "以語音 AI 替代餐廳電話線作業。",
+          "evidence": {
+            "field": "description",
+            "text": "Replacing the restaurant phone line with Voice AI"
+          }
+        }
+      ]
+    },
+    {
+      "id": "ai-data-plumbing",
+      "title": "AI 產品背後，需要資料接入與模型工作工具",
+      "observation": "資料抽取、外部資料檢索、合成資料、模型協作與評估資料是不同的供應環節。",
+      "positions": [
+        1,
+        2,
+        5,
+        52,
+        70,
+        109,
+        145,
+        154
+      ],
+      "examples": [
+        2,
+        70,
+        154
+      ],
+      "idea": "從一種具體資料來源出發，研究企業把資料交給 AI 前要做的整理、權限與更新工作。",
+      "unknowns": "不同公司服務不同開發階段；不能把名錄提及直接當作客戶需求、收入或成長證據。",
+      "status": "candidate_observation_not_growth_trend",
+      "selected_case_count": 8,
+      "clear_case_count": 8,
+      "source_count": 4,
+      "members": [
+        {
+          "id": "upstream-12772",
+          "name": "Bytez",
+          "quality": "clear"
+        },
+        {
+          "id": "upstream-12786",
+          "name": "Polymer",
+          "quality": "clear"
+        },
+        {
+          "id": "upstream-13126",
+          "name": "Gesund",
+          "quality": "clear"
+        },
+        {
+          "id": "upstream-16813",
+          "name": "TensorOpera (formerly FedML)",
+          "quality": "clear"
+        },
+        {
+          "id": "upstream-19112",
+          "name": "Tensorlake",
+          "quality": "clear"
+        },
+        {
+          "id": "upstream-03968",
+          "name": "YData",
+          "quality": "clear"
+        },
+        {
+          "id": "upstream-09087",
+          "name": "FactIQ",
+          "quality": "clear"
+        },
+        {
+          "id": "upstream-09645",
+          "name": "Datacurve",
+          "quality": "clear"
+        }
+      ],
+      "example_cards": [
+        {
+          "id": "upstream-12786",
+          "name": "Polymer",
+          "summary_zh": "把外部非結構化資料接到 LLM 與向量資料庫。",
+          "evidence": {
+            "field": "description",
+            "text": "Developer of universal retrieval engine designed to help businesses connect external data sources to their large language models (LLM). The company's system connects external data to vector databases, enabling clients to ingest unstructured data wherever it is stored to enhance capabilities and insights for businesses using large language models."
+          }
+        },
+        {
+          "id": "upstream-19112",
+          "name": "Tensorlake",
+          "summary_zh": "為企業 LLM 應用提供非結構化資料抽取管線。",
+          "evidence": {
+            "field": "description",
+            "text": "Tensorlake is building services for building Unstructured Data Understanding and Extraction pipelines for LLM Applications in enterprises."
+          }
+        },
+        {
+          "id": "upstream-09645",
+          "name": "Datacurve",
+          "summary_zh": "提供訓練與評估 LLM 的程式資料。",
+          "evidence": {
+            "field": "description",
+            "text": "Frontier coding data for training and evaluating LLMs"
+          }
+        }
+      ]
+    },
+    {
+      "id": "ai-assurance",
+      "title": "導入 AI 也帶出安全、隱私與治理工作",
+      "observation": "模型測試、偏誤與邊界監控、隱私運算及合規治理呈現多種產品路線。",
+      "positions": [
+        13,
+        59,
+        71,
+        75,
+        85,
+        99,
+        101,
+        169
+      ],
+      "examples": [
+        71,
+        85,
+        101
+      ],
+      "idea": "區分上線前測試與上線後監控，研究不同團隊各自需要哪些證據才能放心使用 AI。",
+      "unknowns": "安全與合規成效未驗證；其中部分只寫定位，尚不清楚具體機制。",
+      "status": "candidate_observation_not_growth_trend",
+      "selected_case_count": 8,
+      "clear_case_count": 5,
+      "source_count": 4,
+      "members": [
+        {
+          "id": "upstream-15427",
+          "name": "Operant Networks",
+          "quality": "partial"
+        },
+        {
+          "id": "upstream-18510",
+          "name": "EAGLYS",
+          "quality": "clear"
+        },
+        {
+          "id": "upstream-19384",
+          "name": "Fireraven",
+          "quality": "clear"
+        },
+        {
+          "id": "upstream-20361",
+          "name": "Javelin",
+          "quality": "partial"
+        },
+        {
+          "id": "upstream-01429",
+          "name": "Nera Systems",
+          "quality": "clear"
+        },
+        {
+          "id": "upstream-02465",
+          "name": "OfSpectrum",
+          "quality": "partial"
+        },
+        {
+          "id": "upstream-02855",
+          "name": "Smarter Human",
+          "quality": "clear"
+        },
+        {
+          "id": "upstream-10277",
+          "name": "Casco",
+          "quality": "clear"
+        }
+      ],
+      "example_cards": [
+        {
+          "id": "upstream-19384",
+          "name": "Fireraven",
+          "summary_zh": "測試與監控 AI 系統的安全、偏誤和邊界案例。",
+          "evidence": {
+            "field": "description",
+            "text": "Fireraven is a platform to test and monitor AI systems to make them more safe and reliable and protect them against edge-cases and biases."
+          }
+        },
+        {
+          "id": "upstream-01429",
+          "name": "Nera Systems",
+          "summary_zh": "在 AI 全生命週期保護敏感資料。",
+          "evidence": {
+            "field": "description",
+            "text": "Nera Systems specializes in privacy-preserving technologies for AI and Machine Learning. The company develops innovative tools using Privacy Enhancing Technologies (PETs) and SW/HW co-design to protect sensitive data throughout the AI/ML lifecycle. By offering scalable, privacy-first solutions, Nera Systems enables organizations to leverage the power of AI while ensuring the highest standards of data privacy and security, empowering safe and responsible innovation."
+          }
+        },
+        {
+          "id": "upstream-02855",
+          "name": "Smarter Human",
+          "summary_zh": "協助企業以合規且符合倫理的方式使用 AI。",
+          "evidence": {
+            "field": "description",
+            "text": "Solutions to help businesses make their use of AI and machine learning ethical and compliant to regulation."
+          }
+        }
+      ]
+    },
+    {
+      "id": "physical-engineering-tasks",
+      "title": "實體產業的 AI 線索，常落在檢查、設計與控制任務",
+      "observation": "工廠安全、病原檢測、電路設計、空調控制及維修預測，各有可辨識的工作環節。",
+      "positions": [
+        14,
+        17,
+        53,
+        73,
+        81,
+        86,
+        97,
+        100,
+        135,
+        155,
+        156,
+        186
+      ],
+      "examples": [
+        53,
+        73,
+        135
+      ],
+      "idea": "按資料輸入與行動輸出整理實體任務，比把所有公司歸為工業 AI 更容易找到可比較的切入點。",
+      "unknowns": "場域資料、設備整合、部署成本與安全責任不同；不能視為單一市場。",
+      "status": "candidate_observation_not_growth_trend",
+      "selected_case_count": 12,
+      "clear_case_count": 12,
+      "source_count": 4,
+      "members": [
+        {
+          "id": "upstream-15429",
+          "name": "Tensorfield Agriculture",
+          "quality": "clear"
+        },
+        {
+          "id": "upstream-15837",
+          "name": "Sensory Robotics",
+          "quality": "clear"
+        },
+        {
+          "id": "upstream-16956",
+          "name": "Spore Biotechnologies",
+          "quality": "clear"
+        },
+        {
+          "id": "upstream-20138",
+          "name": "Celus",
+          "quality": "clear"
+        },
+        {
+          "id": "upstream-00469",
+          "name": "Perch",
+          "quality": "clear"
+        },
+        {
+          "id": "upstream-01475",
+          "name": "Qluu",
+          "quality": "clear"
+        },
+        {
+          "id": "upstream-02075",
+          "name": "Sync",
+          "quality": "clear"
+        },
+        {
+          "id": "upstream-02507",
+          "name": "Ultrium Technologies",
+          "quality": "clear"
+        },
+        {
+          "id": "upstream-08378",
+          "name": "Axross Pte Ltd",
+          "quality": "clear"
+        },
+        {
+          "id": "upstream-09656",
+          "name": "Silogy",
+          "quality": "clear"
+        },
+        {
+          "id": "upstream-09721",
+          "name": "Entangl",
+          "quality": "clear"
+        },
+        {
+          "id": "upstream-10875",
+          "name": "Brumby",
+          "quality": "clear"
+        }
+      ],
+      "example_cards": [
+        {
+          "id": "upstream-16956",
+          "name": "Spore Biotechnologies",
+          "summary_zh": "以機器學習辨識工廠產品中的病原濃度。",
+          "evidence": {
+            "field": "description",
+            "text": "Spore.Bio has developed the world's first real-time pathogen detection device for factories. It uses advanced machine learning models to train its system to identify the concentration of bacteria in food, drink, pharmaceuticals and cosmetic products."
+          }
+        },
+        {
+          "id": "upstream-20138",
+          "name": "Celus",
+          "summary_zh": "以 AI 自動產出電路圖、物料表與 PCB 佈局。",
+          "evidence": {
+            "field": "description",
+            "text": "The smartest way to design electronics. Fully automated Schematics, BOM and PCB Floorplan with AI."
+          }
+        },
+        {
+          "id": "upstream-08378",
+          "name": "Axross Pte Ltd",
+          "summary_zh": "以 AI 控制空調系統以改善能源表現。",
+          "evidence": {
+            "field": "description",
+            "text": "AI-driven HVAC control system for improved energy performance"
+          }
+        }
+      ]
+    },
+    {
+      "id": "ai-workforce-positioning",
+      "title": "AI 同事、員工與營運系統成為反覆出現的產品定位",
+      "observation": "名錄反覆使用 workforce、coworker、teammate、operating system 等包裝，但不少尚未寫清楚具體工作。",
+      "positions": [
+        24,
+        67,
+        74,
+        130,
+        133,
+        151,
+        159,
+        171,
+        174,
+        185,
+        194,
+        195,
+        198
+      ],
+      "examples": [
+        130,
+        171,
+        195
+      ],
+      "idea": "建立職位與任務的對照表，區分真能處理多步驟流程的產品，以及只是以職位名稱包裝的單一工具。",
+      "unknowns": "這張卡描述的是產品定位語言，不證明產品具備完整自主能力，也不代表這種模式正在成長。",
+      "status": "candidate_observation_not_growth_trend",
+      "selected_case_count": 13,
+      "clear_case_count": 1,
+      "source_count": 3,
+      "members": [
+        {
+          "id": "upstream-11787",
+          "name": "FOBOH",
+          "quality": "partial"
+        },
+        {
+          "id": "upstream-19069",
+          "name": "Honey Health, Inc.",
+          "quality": "partial"
+        },
+        {
+          "id": "upstream-20255",
+          "name": "Kinta AI",
+          "quality": "partial"
+        },
+        {
+          "id": "upstream-07839",
+          "name": "Rejoy Health",
+          "quality": "clear"
+        },
+        {
+          "id": "upstream-08242",
+          "name": "Byte Kitchen",
+          "quality": "partial"
+        },
+        {
+          "id": "upstream-09554",
+          "name": "NanoCorp",
+          "quality": "partial"
+        },
+        {
+          "id": "upstream-09872",
+          "name": "Handled",
+          "quality": "partial"
+        },
+        {
+          "id": "upstream-10309",
+          "name": "Hemut",
+          "quality": "partial"
+        },
+        {
+          "id": "upstream-10400",
+          "name": "Async",
+          "quality": "partial"
+        },
+        {
+          "id": "upstream-10862",
+          "name": "MochaCare",
+          "quality": "partial"
+        },
+        {
+          "id": "upstream-11229",
+          "name": "Care GP",
+          "quality": "partial"
+        },
+        {
+          "id": "upstream-11231",
+          "name": "Levocred AI",
+          "quality": "partial"
+        },
+        {
+          "id": "upstream-11379",
+          "name": "Covera",
+          "quality": "partial"
+        }
+      ],
+      "example_cards": [
+        {
+          "id": "upstream-07839",
+          "name": "Rejoy Health",
+          "summary_zh": "以 AI 處理臨床預約、紀錄、編碼與問答。",
+          "evidence": {
+            "field": "description",
+            "text": "AI workers that book, scribe, code, interpret, and answer clinicians"
+          }
+        },
+        {
+          "id": "upstream-10309",
+          "name": "Hemut",
+          "summary_zh": "為卡車業者提供 AI 營運系統。",
+          "evidence": {
+            "field": "description",
+            "text": "AI-powered operating system for trucking companies."
+          }
+        },
+        {
+          "id": "upstream-11231",
+          "name": "Levocred AI",
+          "summary_zh": "為貸款業者提供 AI workforce。",
+          "evidence": {
+            "field": "description",
+            "text": "AI Workforce for lenders"
+          }
+        }
+      ]
+    },
+    {
+      "id": "creative-specialization",
+      "title": "內容 AI 依品牌、聲音、音樂與影像任務分化",
+      "observation": "品牌內容、作曲、配音、不動產呈現與影視影片製作，具有不同素材與交付要求。",
+      "positions": [
+        8,
+        35,
+        41,
+        82,
+        103,
+        124,
+        153
+      ],
+      "examples": [
+        8,
+        41,
+        103
+      ],
+      "idea": "從特定交付物與使用情境切入，比再做泛用內容生成工具更容易找出差異化研究題目。",
+      "unknowns": "版權、訓練來源、品質及商業成效未查證；不能因名錄中的 ethical 或 royalty-free 宣稱就視為已驗證。",
+      "status": "candidate_observation_not_growth_trend",
+      "selected_case_count": 7,
+      "clear_case_count": 6,
+      "source_count": 5,
+      "members": [
+        {
+          "id": "upstream-13991",
+          "name": "STORI AI Inc.",
+          "quality": "clear"
+        },
+        {
+          "id": "upstream-12513",
+          "name": "Wubble.ai",
+          "quality": "partial"
+        },
+        {
+          "id": "upstream-15020",
+          "name": "Beatoven.ai",
+          "quality": "clear"
+        },
+        {
+          "id": "upstream-00642",
+          "name": "Replica Studios",
+          "quality": "clear"
+        },
+        {
+          "id": "upstream-03184",
+          "name": "PropTexx",
+          "quality": "clear"
+        },
+        {
+          "id": "upstream-07102",
+          "name": "Ramen VR",
+          "quality": "clear"
+        },
+        {
+          "id": "upstream-09610",
+          "name": "Focal",
+          "quality": "clear"
+        }
+      ],
+      "example_cards": [
+        {
+          "id": "upstream-13991",
+          "name": "STORI AI Inc.",
+          "summary_zh": "自動產出符合品牌定位的行銷內容。",
+          "evidence": {
+            "field": "description",
+            "text": "Developer of an artificial intelligence-based marketing content automation software designed for streamlining brand building & content creation. The company's software forms an isolated brand identity tailored to goals, defining archetype, tone, tagline, and colors for a strong presence, enabling clients to captivate the audience with visually stunning and emotionally engaging content."
+          }
+        },
+        {
+          "id": "upstream-15020",
+          "name": "Beatoven.ai",
+          "summary_zh": "為創作者提供 AI 作曲音樂。",
+          "evidence": {
+            "field": "description",
+            "text": "Fairly trained AI-composed royalty-free music for creators."
+          }
+        },
+        {
+          "id": "upstream-03184",
+          "name": "PropTexx",
+          "summary_zh": "為不動產業者生成描述、虛擬佈置與影像標籤。",
+          "evidence": {
+            "field": "description",
+            "text": "Generative AI tools for business owners and real estate professionals. Generate engaging descriptions, virtually stage, virtually renovate & remodel, tag images and so much more."
+          }
+        }
+      ]
+    }
+  ]
+}

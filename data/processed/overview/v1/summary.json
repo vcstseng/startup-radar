@@ -1,0 +1,40 @@
+{
+  "record_count": 4085,
+  "round_count": 21,
+  "null_summaries": 54,
+  "empty_dimensions": {
+    "industry_customer": 336,
+    "problem_workflow": 493,
+    "solution": 90
+  },
+  "alias_rules": 18,
+  "changed_records_in_view": 514,
+  "tag_replacements": 532,
+  "tag_counts": {
+    "industry_customer": {
+      "before_distinct_tags": 1166,
+      "after_distinct_tags": 1159
+    },
+    "problem_workflow": {
+      "before_distinct_tags": 3449,
+      "after_distinct_tags": 3445
+    },
+    "solution": {
+      "before_distinct_tags": 1577,
+      "after_distinct_tags": 1574
+    }
+  },
+  "same_name_groups": 135,
+  "records_in_same_name_groups": 279,
+  "same_name_same_description_groups": 80,
+  "same_website_host_groups": 105,
+  "shared_source_host_groups": 1,
+  "theme_count": 7,
+  "representative_record_count": 25,
+  "limits": [
+    "數量為名錄紀錄，不是去重公司數、時間趨勢或市場規模。",
+    "每筆可有多個 tags；各 tag 數量不可相加當作公司數。",
+    "標準化僅涵蓋少量確定同義詞，尚未建立完整分類樹。",
+    "主題案例是人工挑選，不代表該主題完整覆蓋或熱門排名。"
+  ]
+}

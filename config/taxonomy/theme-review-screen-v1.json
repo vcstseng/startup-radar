@@ -1,0 +1,19 @@
+{
+  "version": "theme-review-1.0",
+  "scope": "對全部 4085 筆 evidence 做候選檢索，不作主題歸屬或市場計數。每個主題另取最多 12 筆分散於 ID 排序的新增候選人工複核，再加原有 25 個案例及全部明列牙科的紀錄。",
+  "patterns": {
+    "payment-follow-up": "debt collect|accounts? receiv|overdue|patient billing|invoice collect|collections? agenc",
+    "documents-to-action": "contract|document|\\bRFP\\b|questionnaire",
+    "control-ai-actions": "AI security|AI governance|agent.{0,40}(authoriz|approv|permission|secur|govern)|(?:authoriz|approv|permission).{0,40}agent|AI.{0,20}guardrail",
+    "physical-work-information": "maintenance|expert.{0,30}know|manufactur|store.{0,30}audio|inventory.{0,30}vision",
+    "ai-service-operators": "law firm|brokerage|investment bank|\\bagency\\b|accounting firm|tax firm|management company",
+    "software-verification": "(?:unit|E2E|end.to.end|software|API|application|mobile).{0,25}test|code review|code.{0,12}review|test.{0,20}software",
+    "clinic-work-slices": "\\bdental\\b|\\bdentist|\\bclinic"
+  },
+  "dental_pattern": "\\bdental\\b|\\bdentist",
+  "limits": [
+    "關鍵詞可能漏掉不同寫法，也可能誤收，例如 clinical 不等於診所營運。",
+    "檢索命中與人工複核樣本都不是完整主題成員清單。",
+    "原文是名錄自述；人工判定僅評估介紹是否支持主題。"
+  ]
+}

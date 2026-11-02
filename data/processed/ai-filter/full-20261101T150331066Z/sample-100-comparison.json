@@ -1,0 +1,602 @@
+[
+  {
+    "sample_position": 0,
+    "name": "Loris",
+    "previous": "upstream_tag_only",
+    "current": "possible"
+  },
+  {
+    "sample_position": 1,
+    "name": "Derq",
+    "previous": "explicit_description",
+    "current": "explicit"
+  },
+  {
+    "sample_position": 2,
+    "name": "Vessl Prosthetics",
+    "previous": "insufficient_evidence",
+    "current": "no_evidence"
+  },
+  {
+    "sample_position": 3,
+    "name": "FINDS",
+    "previous": "upstream_tag_only",
+    "current": "possible"
+  },
+  {
+    "sample_position": 4,
+    "name": "Cronwell",
+    "previous": "explicit_description",
+    "current": "explicit"
+  },
+  {
+    "sample_position": 5,
+    "name": "PhoneWagon",
+    "previous": "insufficient_evidence",
+    "current": "no_evidence"
+  },
+  {
+    "sample_position": 6,
+    "name": "Mineral Forecast",
+    "previous": "explicit_description",
+    "current": "explicit"
+  },
+  {
+    "sample_position": 7,
+    "name": "Nido Robotics",
+    "previous": "insufficient_evidence",
+    "current": "possible"
+  },
+  {
+    "sample_position": 8,
+    "name": "Wib",
+    "previous": "insufficient_evidence",
+    "current": "no_evidence"
+  },
+  {
+    "sample_position": 9,
+    "name": "Dot Team",
+    "previous": "insufficient_evidence",
+    "current": "no_evidence"
+  },
+  {
+    "sample_position": 10,
+    "name": "human",
+    "previous": "upstream_tag_only",
+    "current": "possible"
+  },
+  {
+    "sample_position": 11,
+    "name": "PlayerData",
+    "previous": "insufficient_evidence",
+    "current": "no_evidence"
+  },
+  {
+    "sample_position": 12,
+    "name": "Memrise",
+    "previous": "insufficient_evidence",
+    "current": "no_evidence"
+  },
+  {
+    "sample_position": 13,
+    "name": "Modern",
+    "previous": "insufficient_evidence",
+    "current": "no_evidence"
+  },
+  {
+    "sample_position": 14,
+    "name": "COVERR",
+    "previous": "insufficient_evidence",
+    "current": "no_evidence"
+  },
+  {
+    "sample_position": 15,
+    "name": "Odeko",
+    "previous": "insufficient_evidence",
+    "current": "no_evidence"
+  },
+  {
+    "sample_position": 16,
+    "name": "Diligent",
+    "previous": "explicit_description",
+    "current": "explicit"
+  },
+  {
+    "sample_position": 17,
+    "name": "HumanLayer",
+    "previous": "upstream_tag_only",
+    "current": "possible"
+  },
+  {
+    "sample_position": 18,
+    "name": "OwnLocal",
+    "previous": "insufficient_evidence",
+    "current": "no_evidence"
+  },
+  {
+    "sample_position": 19,
+    "name": "Undermind",
+    "previous": "explicit_description",
+    "current": "explicit"
+  },
+  {
+    "sample_position": 20,
+    "name": "Names & Faces",
+    "previous": "insufficient_evidence",
+    "current": "no_evidence"
+  },
+  {
+    "sample_position": 21,
+    "name": "Voquill",
+    "previous": "explicit_description",
+    "current": "explicit"
+  },
+  {
+    "sample_position": 22,
+    "name": "Fulcrum",
+    "previous": "explicit_description",
+    "current": "explicit"
+  },
+  {
+    "sample_position": 23,
+    "name": "Sila",
+    "previous": "explicit_description",
+    "current": "explicit"
+  },
+  {
+    "sample_position": 24,
+    "name": "Sagaland",
+    "previous": "explicit_description",
+    "current": "explicit"
+  },
+  {
+    "sample_position": 25,
+    "name": "Lovage",
+    "previous": "upstream_tag_only",
+    "current": "possible"
+  },
+  {
+    "sample_position": 26,
+    "name": "Skill-lync",
+    "previous": "insufficient_evidence",
+    "current": "no_evidence"
+  },
+  {
+    "sample_position": 27,
+    "name": "Disclo",
+    "previous": "insufficient_evidence",
+    "current": "no_evidence"
+  },
+  {
+    "sample_position": 28,
+    "name": "Merlin AI",
+    "previous": "explicit_description",
+    "current": "explicit"
+  },
+  {
+    "sample_position": 29,
+    "name": "Jet Admin",
+    "previous": "insufficient_evidence",
+    "current": "no_evidence"
+  },
+  {
+    "sample_position": 30,
+    "name": "Agfunder",
+    "previous": "insufficient_evidence",
+    "current": "no_evidence"
+  },
+  {
+    "sample_position": 31,
+    "name": "iCart",
+    "previous": "insufficient_evidence",
+    "current": "no_evidence"
+  },
+  {
+    "sample_position": 32,
+    "name": "WePay",
+    "previous": "insufficient_evidence",
+    "current": "no_evidence"
+  },
+  {
+    "sample_position": 33,
+    "name": "Slik",
+    "previous": "insufficient_evidence",
+    "current": "no_evidence"
+  },
+  {
+    "sample_position": 34,
+    "name": "Pilotly",
+    "previous": "insufficient_evidence",
+    "current": "no_evidence"
+  },
+  {
+    "sample_position": 35,
+    "name": "Guide",
+    "previous": "insufficient_evidence",
+    "current": "no_evidence"
+  },
+  {
+    "sample_position": 36,
+    "name": "LottieFiles",
+    "previous": "insufficient_evidence",
+    "current": "no_evidence"
+  },
+  {
+    "sample_position": 37,
+    "name": "Simpatico Project",
+    "previous": "explicit_description",
+    "current": "explicit"
+  },
+  {
+    "sample_position": 38,
+    "name": "East Meet East",
+    "previous": "insufficient_evidence",
+    "current": "no_evidence"
+  },
+  {
+    "sample_position": 39,
+    "name": "DealCart",
+    "previous": "insufficient_evidence",
+    "current": "no_evidence"
+  },
+  {
+    "sample_position": 40,
+    "name": "Tripplus",
+    "previous": "insufficient_evidence",
+    "current": "no_evidence"
+  },
+  {
+    "sample_position": 41,
+    "name": "Rainmarket",
+    "previous": "insufficient_evidence",
+    "current": "no_evidence"
+  },
+  {
+    "sample_position": 42,
+    "name": "SUSTAINFI",
+    "previous": "insufficient_evidence",
+    "current": "no_evidence"
+  },
+  {
+    "sample_position": 43,
+    "name": "Solarstic",
+    "previous": "insufficient_evidence",
+    "current": "no_evidence"
+  },
+  {
+    "sample_position": 44,
+    "name": "Machina Sports",
+    "previous": "explicit_description",
+    "current": "explicit"
+  },
+  {
+    "sample_position": 45,
+    "name": "Aurelif",
+    "previous": "insufficient_evidence",
+    "current": "no_evidence"
+  },
+  {
+    "sample_position": 46,
+    "name": "Talos Innovation",
+    "previous": "insufficient_evidence",
+    "current": "no_evidence"
+  },
+  {
+    "sample_position": 47,
+    "name": "DryLabz",
+    "previous": "insufficient_evidence",
+    "current": "no_evidence"
+  },
+  {
+    "sample_position": 48,
+    "name": "RegDoor",
+    "previous": "likely_needs_confirmation",
+    "current": "possible"
+  },
+  {
+    "sample_position": 49,
+    "name": "Cellivate",
+    "previous": "insufficient_evidence",
+    "current": "no_evidence"
+  },
+  {
+    "sample_position": 50,
+    "name": "NCSpeech",
+    "previous": "explicit_description",
+    "current": "explicit"
+  },
+  {
+    "sample_position": 51,
+    "name": "Public Bored",
+    "previous": "insufficient_evidence",
+    "current": "no_evidence"
+  },
+  {
+    "sample_position": 52,
+    "name": "Hexo",
+    "previous": "explicit_description",
+    "current": "explicit"
+  },
+  {
+    "sample_position": 53,
+    "name": "CalcTree",
+    "previous": "insufficient_evidence",
+    "current": "no_evidence"
+  },
+  {
+    "sample_position": 54,
+    "name": "Auxicare",
+    "previous": "insufficient_evidence",
+    "current": "no_evidence"
+  },
+  {
+    "sample_position": 55,
+    "name": "KAHU",
+    "previous": "insufficient_evidence",
+    "current": "no_evidence"
+  },
+  {
+    "sample_position": 56,
+    "name": "MyRobin.ID",
+    "previous": "insufficient_evidence",
+    "current": "no_evidence"
+  },
+  {
+    "sample_position": 57,
+    "name": "Cenara",
+    "previous": "insufficient_evidence",
+    "current": "possible"
+  },
+  {
+    "sample_position": 58,
+    "name": "Crewline AI",
+    "previous": "insufficient_evidence",
+    "current": "possible"
+  },
+  {
+    "sample_position": 59,
+    "name": "Crypto Quantique",
+    "previous": "insufficient_evidence",
+    "current": "no_evidence"
+  },
+  {
+    "sample_position": 60,
+    "name": "Cheffer",
+    "previous": "insufficient_evidence",
+    "current": "no_evidence"
+  },
+  {
+    "sample_position": 61,
+    "name": "Flynt",
+    "previous": "insufficient_evidence",
+    "current": "no_evidence"
+  },
+  {
+    "sample_position": 62,
+    "name": "faff",
+    "previous": "insufficient_evidence",
+    "current": "no_evidence"
+  },
+  {
+    "sample_position": 63,
+    "name": "Kiroku",
+    "previous": "explicit_description",
+    "current": "explicit"
+  },
+  {
+    "sample_position": 64,
+    "name": "DeepSpin",
+    "previous": "explicit_description",
+    "current": "explicit"
+  },
+  {
+    "sample_position": 65,
+    "name": "Movel AI",
+    "previous": "explicit_description",
+    "current": "explicit"
+  },
+  {
+    "sample_position": 66,
+    "name": "MedPay",
+    "previous": "insufficient_evidence",
+    "current": "no_evidence"
+  },
+  {
+    "sample_position": 67,
+    "name": "Repello AI",
+    "previous": "explicit_description",
+    "current": "explicit"
+  },
+  {
+    "sample_position": 68,
+    "name": "Truvo",
+    "previous": "insufficient_evidence",
+    "current": "possible"
+  },
+  {
+    "sample_position": 69,
+    "name": "Chipiron",
+    "previous": "insufficient_evidence",
+    "current": "no_evidence"
+  },
+  {
+    "sample_position": 70,
+    "name": "Thalya",
+    "previous": "insufficient_evidence",
+    "current": "no_evidence"
+  },
+  {
+    "sample_position": 71,
+    "name": "Rama",
+    "previous": "explicit_description",
+    "current": "explicit"
+  },
+  {
+    "sample_position": 72,
+    "name": "Geecko",
+    "previous": "insufficient_evidence",
+    "current": "no_evidence"
+  },
+  {
+    "sample_position": 73,
+    "name": "Productive AI",
+    "previous": "insufficient_evidence",
+    "current": "possible"
+  },
+  {
+    "sample_position": 74,
+    "name": "Kropply",
+    "previous": "explicit_description",
+    "current": "explicit"
+  },
+  {
+    "sample_position": 75,
+    "name": "Budee Solutions",
+    "previous": "insufficient_evidence",
+    "current": "no_evidence"
+  },
+  {
+    "sample_position": 76,
+    "name": "My90",
+    "previous": "insufficient_evidence",
+    "current": "no_evidence"
+  },
+  {
+    "sample_position": 77,
+    "name": "Rocketbrew",
+    "previous": "insufficient_evidence",
+    "current": "explicit"
+  },
+  {
+    "sample_position": 78,
+    "name": "Perimeter",
+    "previous": "insufficient_evidence",
+    "current": "no_evidence"
+  },
+  {
+    "sample_position": 79,
+    "name": "Element42",
+    "previous": "insufficient_evidence",
+    "current": "no_evidence"
+  },
+  {
+    "sample_position": 80,
+    "name": "Moesif",
+    "previous": "insufficient_evidence",
+    "current": "no_evidence"
+  },
+  {
+    "sample_position": 81,
+    "name": "Shuttle Technologies",
+    "previous": "insufficient_evidence",
+    "current": "no_evidence"
+  },
+  {
+    "sample_position": 82,
+    "name": "Bitgrit",
+    "previous": "explicit_description",
+    "current": "explicit"
+  },
+  {
+    "sample_position": 83,
+    "name": "Wilab",
+    "previous": "insufficient_evidence",
+    "current": "no_evidence"
+  },
+  {
+    "sample_position": 84,
+    "name": "SupplyAI",
+    "previous": "explicit_description",
+    "current": "explicit"
+  },
+  {
+    "sample_position": 85,
+    "name": "Slideflow Labs",
+    "previous": "explicit_description",
+    "current": "explicit"
+  },
+  {
+    "sample_position": 86,
+    "name": "DIRO",
+    "previous": "insufficient_evidence",
+    "current": "no_evidence"
+  },
+  {
+    "sample_position": 87,
+    "name": "Edbridg",
+    "previous": "insufficient_evidence",
+    "current": "no_evidence"
+  },
+  {
+    "sample_position": 88,
+    "name": "Nana Music",
+    "previous": "upstream_tag_only",
+    "current": "possible"
+  },
+  {
+    "sample_position": 89,
+    "name": "Shenzhen TXD Technology",
+    "previous": "insufficient_evidence",
+    "current": "no_evidence"
+  },
+  {
+    "sample_position": 90,
+    "name": "Helios",
+    "previous": "insufficient_evidence",
+    "current": "no_evidence"
+  },
+  {
+    "sample_position": 91,
+    "name": "BCD iLabs",
+    "previous": "explicit_description",
+    "current": "explicit"
+  },
+  {
+    "sample_position": 92,
+    "name": "Chili Piper",
+    "previous": "insufficient_evidence",
+    "current": "no_evidence"
+  },
+  {
+    "sample_position": 93,
+    "name": "Samaria Inc Ltd,",
+    "previous": "insufficient_evidence",
+    "current": "no_evidence"
+  },
+  {
+    "sample_position": 94,
+    "name": "Kav AI (fka Soter AI)",
+    "previous": "likely_needs_confirmation",
+    "current": "possible"
+  },
+  {
+    "sample_position": 95,
+    "name": "TMJ",
+    "previous": "insufficient_evidence",
+    "current": "no_evidence"
+  },
+  {
+    "sample_position": 96,
+    "name": "Quest",
+    "previous": "upstream_tag_only",
+    "current": "possible"
+  },
+  {
+    "sample_position": 97,
+    "name": "Kashika",
+    "previous": "insufficient_evidence",
+    "current": "no_evidence"
+  },
+  {
+    "sample_position": 98,
+    "name": "Rushnu",
+    "previous": "insufficient_evidence",
+    "current": "no_evidence"
+  },
+  {
+    "sample_position": 99,
+    "name": "Kinta AI",
+    "previous": "explicit_description",
+    "current": "explicit"
+  }
+]

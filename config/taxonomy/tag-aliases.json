@@ -1,0 +1,22 @@
+{
+  "version": "1.0",
+  "scope": "只做同義詞統一與移除缺乏語境的原文 tags；不新增推測、不合併不同意思、不更改 schema。",
+  "aliases": {
+    "industry_customer": {},
+    "problem_workflow": {
+      "客戶支援": "客戶服務",
+      "資料抽取": "資料擷取",
+      "潛在客戶名單生成": "潛在客戶開發"
+    },
+    "solution": {
+      "AI 流程自動化": "AI 自動化",
+      "AI 資料分析": "AI 分析"
+    }
+  },
+  "ambiguous_raw_tags": ["underwriting", "community management", "collections", "first response"],
+  "notes": [
+    "模糊詞保留在原文與必要 notes；有明確語境時翻譯成適當的中文分類。",
+    "AI 開發是領域，AI 開發者是客群，不視為同義詞。",
+    "單純名單生成不保證指潛在客戶，不自動合併。"
+  ]
+}

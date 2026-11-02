@@ -1,0 +1,101 @@
+{
+  "version": "overview-1.0",
+  "scope": "人工選擇的展示主題及代表紀錄；不是全量分群、公司排名、時間趨勢或市場規模。每個案例只依其 evidence 解讀。",
+  "themes": [
+    {
+      "id": "payment-follow-up",
+      "title_zh": "追到款項：從提醒到催收",
+      "question_zh": "同樣是追款，不同產業如何安排接觸、協商及跟進？",
+      "observation_zh": "名錄中可看到一般應收帳款、醫療帳單及 B2B 債務的不同切入點。",
+      "cases": [
+        {"id": "upstream-12419", "name": "Tennis Finance", "role_zh": "透過電話、簡訊及郵件處理應收帳款催收。"},
+        {"id": "upstream-08856", "name": "Argovox", "role_zh": "以語音 AI 處理病患帳單與催收。"},
+        {"id": "upstream-09323", "name": "AgentCollect", "role_zh": "以 AI agents 提供 B2B 債務催收。"},
+        {"id": "upstream-13436", "name": "MaiCall", "role_zh": "以 AI agents 打電話、協商及跟進債務。"}
+      ],
+      "idea_to_explore_zh": "以客戶類型、工作起點與交付結果比較同一任務，避免只比較是否使用語音 AI。",
+      "limits_zh": "未驗證催收成效、法規適用、客戶採用或端到端自主能力。"
+    },
+    {
+      "id": "documents-to-action",
+      "title_zh": "文件如何變成下一步工作",
+      "question_zh": "資料擷取之後，產品實際交付的是什麼？",
+      "observation_zh": "案例從文件走向談判準備、風險審閱及回覆，交付結果有所不同。",
+      "cases": [
+        {"id": "upstream-15557", "name": "Glidely", "role_zh": "將分散合約及支出資料整理成續約談判資料包。"},
+        {"id": "upstream-09879", "name": "Propaya", "role_zh": "從租約與物業文件擷取有出處資料、辨識風險並分派審閱。"},
+        {"id": "upstream-09372", "name": "Inventive AI", "role_zh": "自動回覆 RFP 與問卷。"}
+      ],
+      "idea_to_explore_zh": "用『輸入資料 → 工作 → 交付物』說明產品，比單一文件 AI 分類更容易比較。",
+      "limits_zh": "各案例處理的文件、責任與驗證方式不同，不代表可互相替代。"
+    },
+    {
+      "id": "control-ai-actions",
+      "title_zh": "誰准 AI 做事，誰檢查結果",
+      "question_zh": "企業讓 AI 採取行動前，還需要哪些控制？",
+      "observation_zh": "授權、核准、資料存取與失敗分析已有不同產品定位。",
+      "cases": [
+        {"id": "upstream-11069", "name": "Clawvisor", "role_zh": "AI agents 的授權層。"},
+        {"id": "upstream-09227", "name": "withHuman", "role_zh": "AI agents 的核准層。"},
+        {"id": "upstream-19275", "name": "Opsin Security", "role_zh": "控制 AI 工具資料存取與權限，防範敏感資料外洩。"},
+        {"id": "upstream-11227", "name": "Agnost AI", "role_zh": "辨識 agent 失敗之處，再訓練執行模型。"}
+      ],
+      "idea_to_explore_zh": "把控制行動與檢查結果分開展示，讓使用者看見 AI 導入的配套需求。",
+      "limits_zh": "沒有證據顯示這些產品可直接整合，或已達相同安全標準。"
+    },
+    {
+      "id": "physical-work-information",
+      "title_zh": "讓現場工作可觀察、可交接",
+      "question_zh": "現場哪些資訊先要被記錄或理解，才可能支援自動化？",
+      "observation_zh": "店內音訊、庫存視覺、機械維修及專家知識形成不同資訊入口。",
+      "cases": [
+        {"id": "upstream-12373", "name": "Storefox.ai", "role_zh": "分析店內音訊，觀察顧客體驗與標準作業遵循。"},
+        {"id": "upstream-12160", "name": "Peckish", "role_zh": "以電腦視覺建立餐旅庫存資料層。"},
+        {"id": "upstream-10958", "name": "Pairio", "role_zh": "協助工廠技術人員修復故障機械。"},
+        {"id": "upstream-15434", "name": "InSkill", "role_zh": "為工業企業提供員工培訓及專家知識保存的 AI 助理。"}
+      ],
+      "idea_to_explore_zh": "可比較資料入口、使用者與工作結果；資訊數位化可能是自動化前置需求，此點屬推論。",
+      "limits_zh": "不能推定所有案例都包含相同的知識擷取或決策能力。"
+    },
+    {
+      "id": "ai-service-operators",
+      "title_zh": "用 AI 經營服務公司",
+      "question_zh": "賣軟體以外，有哪些人直接提供產業服務？",
+      "observation_zh": "名錄同時出現投資銀行、房地產經紀、協會管理及廣告代理的 AI 原生定位。",
+      "cases": [
+        {"id": "upstream-09585", "name": "OffDeal", "role_zh": "面向小型企業的 AI 原生投資銀行。"},
+        {"id": "upstream-11367", "name": "Obia", "role_zh": "AI 原生商業不動產經紀。"},
+        {"id": "upstream-09886", "name": "Assembly HOA", "role_zh": "AI 原生屋主協會管理公司。"},
+        {"id": "upstream-11447", "name": "Adside.ai", "role_zh": "管理多平台付費廣告的 AI 代理服務。"}
+      ],
+      "idea_to_explore_zh": "比較工具供應商與服務營運者的定位；商業模式細節仍待後續補查。",
+      "limits_zh": "AI 原生是名錄自述，未驗證人力替代程度、執照、營收或獲利。"
+    },
+    {
+      "id": "software-verification",
+      "title_zh": "寫完程式之後：測試、修復、驗證",
+      "question_zh": "開發流程中的檢查工作如何被拆成產品？",
+      "observation_zh": "單元測試、整體軟體測試修復、行動應用自主測試有不同範圍。",
+      "cases": [
+        {"id": "upstream-19928", "name": "Ponicode", "role_zh": "建立、修改及視覺化 JavaScript 單元測試。"},
+        {"id": "upstream-00503", "name": "TestSprite", "role_zh": "測試、修復及驗證軟體的 AI agent。"},
+        {"id": "upstream-11444", "name": "Aucert", "role_zh": "自主測試行動應用的 AI agents 團隊。"}
+      ],
+      "idea_to_explore_zh": "按測試對象、執行步驟及修復責任比較，避免把全部測試產品混為一類。",
+      "limits_zh": "代表紀錄不是完整市場清單，未驗證覆蓋率與錯誤偵測能力。"
+    },
+    {
+      "id": "clinic-work-slices",
+      "title_zh": "同一客群的不同工作入口",
+      "question_zh": "診所相關產品分別切入哪些工作？",
+      "observation_zh": "牙科筆記、牙科銷售及一般醫療診所接待，展示同一類場景內不同的工作切入點。",
+      "cases": [
+        {"id": "upstream-15156", "name": "Kiroku", "role_zh": "牙醫 AI 筆記。"},
+        {"id": "upstream-10109", "name": "10x", "role_zh": "牙科診所 AI 銷售團隊。"},
+        {"id": "upstream-12004", "name": "Lyngo", "role_zh": "醫療診所 AI 接待人員；原文不限牙科。"}
+      ],
+      "idea_to_explore_zh": "先選客群，再比較其不同工作；沒有出現的工作不能當成市場空缺。",
+      "limits_zh": "一般診所與牙科不是完全相同客群，也未證明這些案例構成完整營運系統。"
+    }
+  ]
+}

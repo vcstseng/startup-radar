@@ -1,0 +1,77 @@
+{
+  "schema_version": "0.2",
+  "taxonomy_version": "draft-0.1",
+  "source_file": "data/raw/startups-sample-100.json",
+  "source_file_sha256": "62c6f294ac48a44e30baa64e7d3456199babd9acc3fd849735ffb5ef4793baab",
+  "scope": "本機100筆逐筆描述分析，未上網查證，未下載全量；可用程度不代表公司真實性或產品成效。",
+  "quality_definitions": {
+    "clear": "描述足以形成相對具體的領域／問題／解法組合；客群可能僅知領域，實際買方不一定明確。",
+    "partial": "可辨識部分方向，但問題、產品形式或實際工作流程仍模糊。",
+    "review": "公司身分與描述關係未確認，或文字過於含糊，暫不參與方向統計。"
+  },
+  "inference_policy": "允許描述直接支持的概括及少量情境推測，重要推測在 notes 標示；不是每個 tag 都已查證。",
+  "total": 100,
+  "quality_counts": {
+    "review": 6,
+    "clear": 62,
+    "partial": 32
+  },
+  "by_source": {
+    "500": {
+      "total": 14,
+      "clear": 12,
+      "partial": 2,
+      "review": 0
+    },
+    "alchemist": {
+      "total": 14,
+      "clear": 10,
+      "partial": 3,
+      "review": 1
+    },
+    "antler": {
+      "total": 14,
+      "clear": 8,
+      "partial": 6,
+      "review": 0
+    },
+    "ef": {
+      "total": 14,
+      "clear": 9,
+      "partial": 5,
+      "review": 0
+    },
+    "plugandplay": {
+      "total": 14,
+      "clear": 9,
+      "partial": 4,
+      "review": 1
+    },
+    "techstars": {
+      "total": 15,
+      "clear": 6,
+      "partial": 5,
+      "review": 4
+    },
+    "yc": {
+      "total": 15,
+      "clear": 8,
+      "partial": 7,
+      "review": 0
+    }
+  },
+  "missing_website": 30,
+  "empty_tag_dimensions": {
+    "industry_customer": 2,
+    "problem_workflow": 6,
+    "solution": 8
+  },
+  "review_companies": [
+    "Loris",
+    "FINDS",
+    "Wib",
+    "Modern",
+    "My90",
+    "Samaria Inc Ltd,"
+  ]
+}

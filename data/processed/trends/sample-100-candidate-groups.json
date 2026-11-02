@@ -1,0 +1,335 @@
+{
+  "scope": "人工挑選的重疊題目群，並非窮盡分類、排名、成長證據或市場需求驗證。部分清楚案例只作粗方向線索。",
+  "groups": [
+    {
+      "title": "專業領域 AI 工作工具",
+      "interpretation": "AI 切入具體專業任務，並非所有案例都能完成整個流程。",
+      "status": "candidate_direction_not_temporal_trend",
+      "members": [
+        {
+          "id": "sample-004",
+          "name": "Cronwell",
+          "quality": "clear"
+        },
+        {
+          "id": "sample-016",
+          "name": "Diligent",
+          "quality": "clear"
+        },
+        {
+          "id": "sample-019",
+          "name": "Undermind",
+          "quality": "partial"
+        },
+        {
+          "id": "sample-021",
+          "name": "Voquill",
+          "quality": "partial"
+        },
+        {
+          "id": "sample-028",
+          "name": "Merlin AI",
+          "quality": "partial"
+        },
+        {
+          "id": "sample-047",
+          "name": "DryLabz",
+          "quality": "partial"
+        },
+        {
+          "id": "sample-063",
+          "name": "Kiroku",
+          "quality": "clear"
+        },
+        {
+          "id": "sample-071",
+          "name": "Rama",
+          "quality": "partial"
+        },
+        {
+          "id": "sample-085",
+          "name": "Slideflow Labs",
+          "quality": "clear"
+        },
+        {
+          "id": "sample-091",
+          "name": "BCD iLabs",
+          "quality": "clear"
+        }
+      ],
+      "count": 10,
+      "clear_count": 5,
+      "source_count": 6
+    },
+    {
+      "title": "除錯、安全與可信任性",
+      "interpretation": "定位錯誤、測試安全及驗證文件等不同任務。",
+      "status": "candidate_direction_not_temporal_trend",
+      "members": [
+        {
+          "id": "sample-022",
+          "name": "Fulcrum",
+          "quality": "clear"
+        },
+        {
+          "id": "sample-059",
+          "name": "Crypto Quantique",
+          "quality": "clear"
+        },
+        {
+          "id": "sample-067",
+          "name": "Repello AI",
+          "quality": "clear"
+        },
+        {
+          "id": "sample-074",
+          "name": "Kropply",
+          "quality": "clear"
+        },
+        {
+          "id": "sample-086",
+          "name": "DIRO",
+          "quality": "clear"
+        }
+      ],
+      "count": 5,
+      "clear_count": 5,
+      "source_count": 4
+    },
+    {
+      "title": "餐飲經營",
+      "interpretation": "咖啡店營運、餐廳採購與動態定價是不同切入點。",
+      "status": "candidate_direction_not_temporal_trend",
+      "members": [
+        {
+          "id": "sample-015",
+          "name": "Odeko",
+          "quality": "partial"
+        },
+        {
+          "id": "sample-060",
+          "name": "Cheffer",
+          "quality": "partial"
+        },
+        {
+          "id": "sample-061",
+          "name": "Flynt",
+          "quality": "clear"
+        }
+      ],
+      "count": 3,
+      "clear_count": 1,
+      "source_count": 2
+    },
+    {
+      "title": "醫療與照護工作",
+      "interpretation": "紀錄、實驗室、照護協調與診斷資料處理。",
+      "status": "candidate_direction_not_temporal_trend",
+      "members": [
+        {
+          "id": "sample-021",
+          "name": "Voquill",
+          "quality": "partial"
+        },
+        {
+          "id": "sample-045",
+          "name": "Aurelif",
+          "quality": "clear"
+        },
+        {
+          "id": "sample-047",
+          "name": "DryLabz",
+          "quality": "partial"
+        },
+        {
+          "id": "sample-054",
+          "name": "Auxicare",
+          "quality": "clear"
+        },
+        {
+          "id": "sample-063",
+          "name": "Kiroku",
+          "quality": "clear"
+        },
+        {
+          "id": "sample-066",
+          "name": "MedPay",
+          "quality": "partial"
+        },
+        {
+          "id": "sample-085",
+          "name": "Slideflow Labs",
+          "quality": "clear"
+        }
+      ],
+      "count": 7,
+      "clear_count": 4,
+      "source_count": 4
+    },
+    {
+      "title": "銷售與行銷工作",
+      "interpretation": "來電歸因、開發、資訊整合及會議轉換。",
+      "status": "candidate_direction_not_temporal_trend",
+      "members": [
+        {
+          "id": "sample-005",
+          "name": "PhoneWagon",
+          "quality": "clear"
+        },
+        {
+          "id": "sample-018",
+          "name": "OwnLocal",
+          "quality": "clear"
+        },
+        {
+          "id": "sample-057",
+          "name": "Cenara",
+          "quality": "partial"
+        },
+        {
+          "id": "sample-073",
+          "name": "Productive AI",
+          "quality": "clear"
+        },
+        {
+          "id": "sample-077",
+          "name": "Rocketbrew",
+          "quality": "clear"
+        },
+        {
+          "id": "sample-092",
+          "name": "Chili Piper",
+          "quality": "clear"
+        }
+      ],
+      "count": 6,
+      "clear_count": 5,
+      "source_count": 5
+    },
+    {
+      "title": "工業與實體作業",
+      "interpretation": "探勘、檢查、車輛操作、機器人導航及工廠營運。",
+      "status": "candidate_direction_not_temporal_trend",
+      "members": [
+        {
+          "id": "sample-004",
+          "name": "Cronwell",
+          "quality": "clear"
+        },
+        {
+          "id": "sample-006",
+          "name": "Mineral Forecast",
+          "quality": "clear"
+        },
+        {
+          "id": "sample-007",
+          "name": "Nido Robotics",
+          "quality": "clear"
+        },
+        {
+          "id": "sample-055",
+          "name": "KAHU",
+          "quality": "clear"
+        },
+        {
+          "id": "sample-058",
+          "name": "Crewline AI",
+          "quality": "clear"
+        },
+        {
+          "id": "sample-065",
+          "name": "Movel AI",
+          "quality": "clear"
+        },
+        {
+          "id": "sample-075",
+          "name": "Budee Solutions",
+          "quality": "clear"
+        },
+        {
+          "id": "sample-094",
+          "name": "Kav AI (fka Soter AI)",
+          "quality": "clear"
+        },
+        {
+          "id": "sample-099",
+          "name": "Kinta AI",
+          "quality": "partial"
+        }
+      ],
+      "count": 9,
+      "clear_count": 8,
+      "source_count": 5
+    },
+    {
+      "title": "資源效率與永續",
+      "interpretation": "輕量太陽能、農作物氮效率、碳捕集與轉化等不同技術路線。",
+      "status": "candidate_direction_not_temporal_trend",
+      "members": [
+        {
+          "id": "sample-043",
+          "name": "Solarstic",
+          "quality": "clear"
+        },
+        {
+          "id": "sample-070",
+          "name": "Thalya",
+          "quality": "clear"
+        },
+        {
+          "id": "sample-098",
+          "name": "Rushnu",
+          "quality": "clear"
+        }
+      ],
+      "count": 3,
+      "clear_count": 3,
+      "source_count": 3
+    },
+    {
+      "title": "人力與員工服務",
+      "interpretation": "招募、員工投入、心理健康及彈性用工。",
+      "status": "candidate_direction_not_temporal_trend",
+      "members": [
+        {
+          "id": "sample-009",
+          "name": "Dot Team",
+          "quality": "partial"
+        },
+        {
+          "id": "sample-027",
+          "name": "Disclo",
+          "quality": "clear"
+        },
+        {
+          "id": "sample-033",
+          "name": "Slik",
+          "quality": "clear"
+        },
+        {
+          "id": "sample-035",
+          "name": "Guide",
+          "quality": "clear"
+        },
+        {
+          "id": "sample-037",
+          "name": "Simpatico Project",
+          "quality": "clear"
+        },
+        {
+          "id": "sample-056",
+          "name": "MyRobin.ID",
+          "quality": "clear"
+        },
+        {
+          "id": "sample-072",
+          "name": "Geecko",
+          "quality": "clear"
+        }
+      ],
+      "count": 7,
+      "clear_count": 6,
+      "source_count": 5
+    }
+  ]
+}

@@ -1,0 +1,350 @@
+{
+  "created_at_utc": "2026-11-01T15:24:56.247375+00:00",
+  "sample_records": 200,
+  "sampling": {
+    "seed": 42,
+    "population_records": 4085,
+    "sample_records": 200,
+    "method": "source-proportional stratified random sample; largest-remainder allocation; no company deduplication",
+    "input": "data\\processed\\ai-filter\\full-20261101T150331066Z\\explicit.json",
+    "input_sha256": "b9413857f43b2be3da0f6b4a77334be0771022cfcfae85a8e19c76b26ac74aa3",
+    "population_counts": {
+      "500": 232,
+      "alchemist": 152,
+      "antler": 375,
+      "ef": 194,
+      "plugandplay": 712,
+      "techstars": 767,
+      "yc": 1653
+    },
+    "sample_counts": {
+      "500": 11,
+      "alchemist": 7,
+      "antler": 18,
+      "ef": 10,
+      "plugandplay": 35,
+      "techstars": 38,
+      "yc": 81
+    },
+    "sample_ids": [
+      "upstream-12579",
+      "upstream-12772",
+      "upstream-12786",
+      "upstream-12845",
+      "upstream-13044",
+      "upstream-13126",
+      "upstream-13227",
+      "upstream-13931",
+      "upstream-13991",
+      "upstream-14116",
+      "upstream-14133",
+      "upstream-15368",
+      "upstream-15379",
+      "upstream-15427",
+      "upstream-15429",
+      "upstream-15692",
+      "upstream-15803",
+      "upstream-15837",
+      "upstream-11470",
+      "upstream-11498",
+      "upstream-11708",
+      "upstream-11746",
+      "upstream-11770",
+      "upstream-11771",
+      "upstream-11787",
+      "upstream-11883",
+      "upstream-12066",
+      "upstream-12104",
+      "upstream-12190",
+      "upstream-12257",
+      "upstream-12278",
+      "upstream-12319",
+      "upstream-12333",
+      "upstream-12415",
+      "upstream-12498",
+      "upstream-12513",
+      "upstream-14871",
+      "upstream-14884",
+      "upstream-14918",
+      "upstream-14944",
+      "upstream-14982",
+      "upstream-15020",
+      "upstream-15023",
+      "upstream-15052",
+      "upstream-15081",
+      "upstream-15248",
+      "upstream-16443",
+      "upstream-16463",
+      "upstream-16565",
+      "upstream-16629",
+      "upstream-16631",
+      "upstream-16803",
+      "upstream-16813",
+      "upstream-16956",
+      "upstream-17238",
+      "upstream-17766",
+      "upstream-18008",
+      "upstream-18255",
+      "upstream-18289",
+      "upstream-18510",
+      "upstream-18628",
+      "upstream-18739",
+      "upstream-18755",
+      "upstream-19009",
+      "upstream-19031",
+      "upstream-19049",
+      "upstream-19058",
+      "upstream-19069",
+      "upstream-19084",
+      "upstream-19099",
+      "upstream-19112",
+      "upstream-19384",
+      "upstream-19419",
+      "upstream-20138",
+      "upstream-20255",
+      "upstream-20361",
+      "upstream-20465",
+      "upstream-20523",
+      "upstream-20558",
+      "upstream-20585",
+      "upstream-20961",
+      "upstream-00469",
+      "upstream-00642",
+      "upstream-00689",
+      "upstream-00739",
+      "upstream-01429",
+      "upstream-01475",
+      "upstream-01620",
+      "upstream-01621",
+      "upstream-01657",
+      "upstream-01684",
+      "upstream-01733",
+      "upstream-01832",
+      "upstream-01834",
+      "upstream-01845",
+      "upstream-02043",
+      "upstream-02046",
+      "upstream-02075",
+      "upstream-02349",
+      "upstream-02465",
+      "upstream-02507",
+      "upstream-02855",
+      "upstream-03033",
+      "upstream-03184",
+      "upstream-03441",
+      "upstream-03477",
+      "upstream-03660",
+      "upstream-03799",
+      "upstream-03912",
+      "upstream-03968",
+      "upstream-04043",
+      "upstream-04130",
+      "upstream-04270",
+      "upstream-04481",
+      "upstream-04506",
+      "upstream-04518",
+      "upstream-04666",
+      "upstream-04861",
+      "upstream-04944",
+      "upstream-05150",
+      "upstream-05600",
+      "upstream-05924",
+      "upstream-06102",
+      "upstream-06752",
+      "upstream-07102",
+      "upstream-07520",
+      "upstream-07718",
+      "upstream-07760",
+      "upstream-07795",
+      "upstream-07800",
+      "upstream-07839",
+      "upstream-08169",
+      "upstream-08176",
+      "upstream-08242",
+      "upstream-08351",
+      "upstream-08378",
+      "upstream-08397",
+      "upstream-08419",
+      "upstream-08522",
+      "upstream-08724",
+      "upstream-08851",
+      "upstream-08999",
+      "upstream-09026",
+      "upstream-09080",
+      "upstream-09081",
+      "upstream-09087",
+      "upstream-09097",
+      "upstream-09242",
+      "upstream-09257",
+      "upstream-09385",
+      "upstream-09462",
+      "upstream-09554",
+      "upstream-09558",
+      "upstream-09610",
+      "upstream-09645",
+      "upstream-09656",
+      "upstream-09721",
+      "upstream-09818",
+      "upstream-09844",
+      "upstream-09872",
+      "upstream-09962",
+      "upstream-09978",
+      "upstream-10028",
+      "upstream-10099",
+      "upstream-10119",
+      "upstream-10152",
+      "upstream-10179",
+      "upstream-10188",
+      "upstream-10273",
+      "upstream-10277",
+      "upstream-10301",
+      "upstream-10309",
+      "upstream-10311",
+      "upstream-10373",
+      "upstream-10400",
+      "upstream-10488",
+      "upstream-10491",
+      "upstream-10534",
+      "upstream-10535",
+      "upstream-10542",
+      "upstream-10576",
+      "upstream-10634",
+      "upstream-10645",
+      "upstream-10698",
+      "upstream-10711",
+      "upstream-10862",
+      "upstream-10875",
+      "upstream-11043",
+      "upstream-11046",
+      "upstream-11051",
+      "upstream-11145",
+      "upstream-11154",
+      "upstream-11170",
+      "upstream-11200",
+      "upstream-11229",
+      "upstream-11231",
+      "upstream-11252",
+      "upstream-11299",
+      "upstream-11379",
+      "upstream-11460"
+    ]
+  },
+  "annotation_sha256": "a2c206e50da88051132ef521256c65a127f1ba9acfff2e2375c02375d16843da",
+  "scope": "人工閱讀200筆本機有效介紹。tags 以文字直接支持及有限情境歸納為主；不使用外部資料。角色為主要角色，並非互斥商業模式。",
+  "role_definitions": {
+    "use_ai": "以 AI 處理產品或服務任務",
+    "enable_ai": "協助他人建置、運行、管理或使用 AI 的工具與基礎設施",
+    "adjacent_ai": "服務 AI 產業或 AI 人才教育；不代表核心產品本身使用 AI",
+    "unclear": "僅有 AI 定位，角色不足以判定"
+  },
+  "quality_definitions": {
+    "clear": "可辨識具體任務與解法；未外部查證",
+    "partial": "僅部分方向清楚，缺少具體工作或產品形式",
+    "review": "身分描述不一致或核心資訊矛盾，暫不支持方向分群"
+  },
+  "quality_counts": {
+    "partial": 78,
+    "clear": 121,
+    "review": 1
+  },
+  "ai_role_counts": {
+    "use_ai": 155,
+    "enable_ai": 32,
+    "unclear": 9,
+    "adjacent_ai": 4
+  },
+  "by_source": {
+    "500": {
+      "total": 11,
+      "quality": {
+        "partial": 2,
+        "clear": 9
+      }
+    },
+    "alchemist": {
+      "total": 7,
+      "quality": {
+        "clear": 4,
+        "partial": 3
+      }
+    },
+    "antler": {
+      "total": 18,
+      "quality": {
+        "partial": 10,
+        "clear": 8
+      }
+    },
+    "ef": {
+      "total": 10,
+      "quality": {
+        "clear": 10
+      }
+    },
+    "plugandplay": {
+      "total": 35,
+      "quality": {
+        "clear": 18,
+        "partial": 16,
+        "review": 1
+      }
+    },
+    "techstars": {
+      "total": 38,
+      "quality": {
+        "clear": 24,
+        "partial": 14
+      }
+    },
+    "yc": {
+      "total": 81,
+      "quality": {
+        "partial": 33,
+        "clear": 48
+      }
+    }
+  },
+  "empty_dimensions": {
+    "industry_customer": 1,
+    "problem_workflow": 13,
+    "solution": 1
+  },
+  "candidate_duplicates": [],
+  "role_quality_cross_table": {
+    "use_ai": {
+      "partial": 60,
+      "clear": 95
+    },
+    "enable_ai": {
+      "clear": 23,
+      "partial": 9
+    },
+    "adjacent_ai": {
+      "clear": 3,
+      "partial": 1
+    },
+    "unclear": {
+      "partial": 8,
+      "review": 1
+    }
+  },
+  "suspected_filter_boundaries": [
+    {
+      "id": "upstream-19419",
+      "name": "renatus robotics",
+      "notes": "AI 只直接出現在母集團介紹，不能確認此產品使用 AI；疑似第一輪誤收。"
+    },
+    {
+      "id": "upstream-04270",
+      "name": "Sage Hero",
+      "notes": "deep learning 可能指技術，也可能是教學語彙，無法從描述確認；疑似第一輪誤收。"
+    }
+  ],
+  "limitations": [
+    "200 source records, not verified unique companies; possible cross-source duplication remains.",
+    "Source-proportional sample of the explicit keyword group only; excludes the possible group.",
+    "No external validation, revenue, growth or market-demand evidence.",
+    "Draft tags mix broad and specific terms; frequency is not a market popularity ranking.",
+    "Direction memberships are editorial overlapping subsets, not an exhaustive classification."
+  ]
+}

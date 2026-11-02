@@ -1,0 +1,814 @@
+{
+  "scope": "本機100筆；未外部查證。explicit 指描述明確提及 AI、機器學習、LLM、生成式 AI 或 agentic，不代表技術與成效已驗證。RegDoor 只有 agent；Kav AI 的 AI 出現在公司名稱中，另列待確認。未提及不等於非 AI。上游 tag 可能是計畫或寬泛分類。",
+  "source_file_sha256": "62c6f294ac48a44e30baa64e7d3456199babd9acc3fd849735ffb5ef4793baab",
+  "counts": {
+    "explicit_description": 25,
+    "likely_needs_confirmation": 2,
+    "upstream_tag_only": 7,
+    "insufficient_evidence": 66
+  },
+  "groups": {
+    "explicit_description": [
+      {
+        "id": "sample-001",
+        "name": "Derq",
+        "evidence": "MIT spin-off w/ a mission to eliminate road accidents and save lives by using machine learning and V2X technology for both conventional and autonomous vehicles",
+        "original_tags": [
+          "Artificial intelligence and machine learning",
+          "Big Data",
+          "Internet of Things"
+        ]
+      },
+      {
+        "id": "sample-004",
+        "name": "Cronwell",
+        "evidence": "Cronwell prevents costly unplanned shutdowns in chemical plants with AI-driven root cause analysis, reducing diagnosis time from days to hours.",
+        "original_tags": [
+          "Manufacturing"
+        ]
+      },
+      {
+        "id": "sample-006",
+        "name": "Mineral Forecast",
+        "evidence": "Using machine learning to improve drillhole targeting to find the critical metals a greener economy needs.",
+        "original_tags": [
+          "Climate tech",
+          "Industrials"
+        ]
+      },
+      {
+        "id": "sample-016",
+        "name": "Diligent",
+        "evidence": "AI agents for fintech risk and compliance operations",
+        "original_tags": [
+          "Fintech",
+          "Compliance",
+          "Fraud Prevention",
+          "Regtech",
+          "AI"
+        ]
+      },
+      {
+        "id": "sample-019",
+        "name": "Undermind",
+        "evidence": "An AI agent for scientific research",
+        "original_tags": [
+          "Machine Learning",
+          "Biotech",
+          "Search",
+          "AI"
+        ]
+      },
+      {
+        "id": "sample-021",
+        "name": "Voquill",
+        "evidence": "The agentic OS for medical labs",
+        "original_tags": [
+          "Healthcare"
+        ]
+      },
+      {
+        "id": "sample-022",
+        "name": "Fulcrum",
+        "evidence": "The agentic debugger for AI systems",
+        "original_tags": [
+          "Analytics"
+        ]
+      },
+      {
+        "id": "sample-023",
+        "name": "Sila",
+        "evidence": "Agentic Messenger",
+        "original_tags": [
+          "Productivity"
+        ]
+      },
+      {
+        "id": "sample-024",
+        "name": "Sagaland",
+        "evidence": "AI entertainment platform",
+        "original_tags": [
+          "Consumer",
+          "Entertainment",
+          "AI"
+        ]
+      },
+      {
+        "id": "sample-028",
+        "name": "Merlin AI",
+        "evidence": "AI powered ERP for Construction",
+        "original_tags": [
+          "SaaS",
+          "Construction",
+          "Enterprise Software",
+          "AI"
+        ]
+      },
+      {
+        "id": "sample-037",
+        "name": "Simpatico Project",
+        "evidence": "Operator of a B2B mental healthcare platform intended to target the demand for psychological counseling from B2B customers and establish a healthy psychological counseling culture. The company develops a psychological counseling program optimized for the issues faced by executives and employees of companies and organizations in each field, such as executives of large corporations, lawyers and firefighters, enabling employees to match professional counselors in each field to provide corporate counseling through artificial intelligence.",
+        "original_tags": [
+          "Health Tech",
+          "Healthcare",
+          "B2B Marketplaces"
+        ]
+      },
+      {
+        "id": "sample-044",
+        "name": "Machina Sports",
+        "evidence": "Fine-Tuned LLMs and Generative AI tools for the Sports industry",
+        "original_tags": [
+          "Enterprise Software & SaaS"
+        ]
+      },
+      {
+        "id": "sample-050",
+        "name": "NCSpeech",
+        "evidence": "Building Production-Grade Speech AI for Real-World Applications",
+        "original_tags": [
+          "Fintech"
+        ]
+      },
+      {
+        "id": "sample-052",
+        "name": "Hexo",
+        "evidence": "Hexo helps businesses integrate Generative AI into their workflows.",
+        "original_tags": [
+          "DeepTech"
+        ]
+      },
+      {
+        "id": "sample-063",
+        "name": "Kiroku",
+        "evidence": "AI note-taking for dentists.",
+        "original_tags": []
+      },
+      {
+        "id": "sample-064",
+        "name": "DeepSpin",
+        "evidence": "Bringing MRI-scanners into the era of AI.",
+        "original_tags": []
+      },
+      {
+        "id": "sample-065",
+        "name": "Movel AI",
+        "evidence": "AI navigation for indoor robots.",
+        "original_tags": []
+      },
+      {
+        "id": "sample-067",
+        "name": "Repello AI",
+        "evidence": "AI red teaming for GenAI security.",
+        "original_tags": []
+      },
+      {
+        "id": "sample-071",
+        "name": "Rama",
+        "evidence": "AI agents for electronic component distribution.",
+        "original_tags": []
+      },
+      {
+        "id": "sample-074",
+        "name": "Kropply",
+        "evidence": "AI Autocorrect for Software Runtime Errors.",
+        "original_tags": []
+      },
+      {
+        "id": "sample-082",
+        "name": "Bitgrit",
+        "evidence": "Your AI? Built By Many. Your Data? Seen By None",
+        "original_tags": []
+      },
+      {
+        "id": "sample-084",
+        "name": "SupplyAI",
+        "evidence": "AI-Powered platform that helps retailers delivery great post purchase experience, efficiently ",
+        "original_tags": []
+      },
+      {
+        "id": "sample-085",
+        "name": "Slideflow Labs",
+        "evidence": "Empowering next-gen precision oncology with scalable, in-house AI biomarkers from routine pathology slides.",
+        "original_tags": []
+      },
+      {
+        "id": "sample-091",
+        "name": "BCD iLabs",
+        "evidence": "Accelerating product velocity through AI-driven formulations in Food and Beverage R&D.",
+        "original_tags": [
+          "Food & Beverage"
+        ]
+      },
+      {
+        "id": "sample-099",
+        "name": "Kinta AI",
+        "evidence": "Kinta AI is an artificial intelligence platform which empowers the dynamic and digital factory of the future.",
+        "original_tags": [
+          "Mobility & Physical AI"
+        ]
+      }
+    ],
+    "likely_needs_confirmation": [
+      {
+        "id": "sample-048",
+        "name": "RegDoor",
+        "evidence": "RegDoor is building the agent to reinvent how companies navigate regulation and policy worldwide.",
+        "original_tags": [
+          "Enterprise Software & SaaS"
+        ]
+      },
+      {
+        "id": "sample-094",
+        "name": "Kav AI (fka Soter AI)",
+        "evidence": "Soter AI is an IT firm that specializes in anomaly detection and autonomous robotic operation surveillance.",
+        "original_tags": [
+          "Enterprise & AI"
+        ]
+      }
+    ],
+    "upstream_tag_only": [
+      {
+        "id": "sample-000",
+        "name": "Loris",
+        "evidence": "MFlux provides a connected network for industrial job site intelligence using our proprietary battery-powered, IoT light-towers.",
+        "original_tags": [
+          "Artificial intelligence and machine learning",
+          "Internet of Things",
+          "Oil and gas"
+        ]
+      },
+      {
+        "id": "sample-003",
+        "name": "FINDS",
+        "evidence": "The Retouch is a publisher of circular solutions for the fashion and textile industry.",
+        "original_tags": [
+          "Artificial intelligence and machine learning",
+          "Cleantech",
+          "Lifestyles of Health and Sustainability and wellness"
+        ]
+      },
+      {
+        "id": "sample-010",
+        "name": "human",
+        "evidence": "HUMAN is a storytelling and strategy agency that creates media for social impact.",
+        "original_tags": [
+          "Artificial intelligence and machine learning",
+          "Big Data",
+          "Internet of Things",
+          "Mobile"
+        ]
+      },
+      {
+        "id": "sample-017",
+        "name": "HumanLayer",
+        "evidence": "The multiplayer control plane for your software factory",
+        "original_tags": [
+          "Engineering, Product and Design",
+          "Developer Tools",
+          "AI"
+        ]
+      },
+      {
+        "id": "sample-025",
+        "name": "Lovage",
+        "evidence": "Automatically fill empty appointment slots for beauty professionals",
+        "original_tags": [
+          "Marketing",
+          "SaaS",
+          "SMB",
+          "AI"
+        ]
+      },
+      {
+        "id": "sample-088",
+        "name": "Nana Music",
+        "evidence": "Nana Music is a free musical collaboration application that enables its users to share their musical experiences.",
+        "original_tags": [
+          "Mobility & Physical AI"
+        ]
+      },
+      {
+        "id": "sample-096",
+        "name": "Quest",
+        "evidence": "Quest is a platform where Gen Zs can access to earning opportunities by monetising their skills and time.",
+        "original_tags": [
+          "Enterprise & AI"
+        ]
+      }
+    ],
+    "insufficient_evidence": [
+      {
+        "id": "sample-002",
+        "name": "Vessl Prosthetics",
+        "evidence": "Vessl Prosthetics is a prosthetics firm that is driven by the idea of empowering amputees and their champions to overcome challenges.",
+        "original_tags": [
+          "3D printing",
+          "Healthtech",
+          "Lifestyles of Health and Sustainability and wellness"
+        ]
+      },
+      {
+        "id": "sample-005",
+        "name": "PhoneWagon",
+        "evidence": "PhoneWagon is call tracking software that helps businesses and digital marketing agencies attribute phone calls back to specific marketing campaigns.",
+        "original_tags": [
+          "Technology, media and telecommunications"
+        ]
+      },
+      {
+        "id": "sample-007",
+        "name": "Nido Robotics",
+        "evidence": "At Nido Robotics we help shipowners, fish farmers, and similar companies reduce their underwater inspection and maintenance costs through robotics.",
+        "original_tags": [
+          "Industrials",
+          "Infrastructure",
+          "Oil and gas",
+          "Robotics and Drones"
+        ]
+      },
+      {
+        "id": "sample-008",
+        "name": "Wib",
+        "evidence": "Based on a new scientific model, Wenspire is the first to introduce a disruptive secure-by-design solution to protect, insure and safely share data with 3rd parties.",
+        "original_tags": [
+          "Cybersecurity"
+        ]
+      },
+      {
+        "id": "sample-009",
+        "name": "Dot Team",
+        "evidence": "Platform helping employees improve their financial wellbeing through a suite of automated optimizations and tools.",
+        "original_tags": [
+          "Fintech",
+          "HRtech"
+        ]
+      },
+      {
+        "id": "sample-011",
+        "name": "PlayerData",
+        "evidence": "PlayerData bridges the gap between elite and amateur, creating professional level technology that's accessible to everyone.",
+        "original_tags": [
+          "Internet of Things",
+          "Lifestyles of Health and Sustainability and wellness"
+        ]
+      },
+      {
+        "id": "sample-012",
+        "name": "Memrise",
+        "evidence": "Turns learning into a compulsive sport",
+        "original_tags": [
+          "Edtech"
+        ]
+      },
+      {
+        "id": "sample-013",
+        "name": "Modern",
+        "evidence": "My Dealer Service provides software solutions to heavy equipment dealers creating elevated customer experiences, increasing customer retention and revenue.",
+        "original_tags": [
+          "Fintech",
+          "Mobile"
+        ]
+      },
+      {
+        "id": "sample-014",
+        "name": "COVERR",
+        "evidence": "COVERR is revolutionizing working capital and complementary financial services for Gig-Economy workers.",
+        "original_tags": [
+          "Fintech"
+        ]
+      },
+      {
+        "id": "sample-015",
+        "name": "Odeko",
+        "evidence": "Our operations software makes it easier to run--and grow--your cafe",
+        "original_tags": [
+          "Logistics"
+        ]
+      },
+      {
+        "id": "sample-018",
+        "name": "OwnLocal",
+        "evidence": "OwnLocal automates marketing for over 129,000 SMBs through 3,300…",
+        "original_tags": [
+          "Marketing",
+          "SMB"
+        ]
+      },
+      {
+        "id": "sample-020",
+        "name": "Names & Faces",
+        "evidence": "Technology to create fast, visual indexes of people and organizations.",
+        "original_tags": [
+          "Human Resources",
+          "SaaS"
+        ]
+      },
+      {
+        "id": "sample-026",
+        "name": "Skill-lync",
+        "evidence": "Online engineering college for India. Learn technical skills & get…",
+        "original_tags": [
+          "Education",
+          "Income Share Agreements",
+          "eLearning"
+        ]
+      },
+      {
+        "id": "sample-027",
+        "name": "Disclo",
+        "evidence": "Health disclosure and accommodation management platform",
+        "original_tags": [
+          "Human Resources",
+          "Compliance",
+          "HR Tech"
+        ]
+      },
+      {
+        "id": "sample-029",
+        "name": "Jet Admin",
+        "evidence": "No-code business app builder",
+        "original_tags": [
+          "Engineering, Product and Design",
+          "Developer Tools",
+          "SaaS"
+        ]
+      },
+      {
+        "id": "sample-030",
+        "name": "Agfunder",
+        "evidence": "Operator of an investment company intended for founders who are transforming food and agriculture. The company invests in entrepreneurs who are aiming to build the next generation of great agriculture and food technology companies, enabling founders and startups to raise funds for the business.",
+        "original_tags": [
+          "Credit & Lending"
+        ]
+      },
+      {
+        "id": "sample-031",
+        "name": "iCart",
+        "evidence": "Operator of an online grocery service designed for an easy grocery shopping experience. The company helps to shop all products from local grocery stores around the city to deliver a simplified life, enabling customers to purchase groceries without having to worry about their freshness.",
+        "original_tags": [
+          "Mobility"
+        ]
+      },
+      {
+        "id": "sample-032",
+        "name": "WePay",
+        "evidence": "Provider of an online payment platform designed to accept and process instant payments. The company's online payment platform delivers payments-as-a-service APIs for simple onboarding and activation of payments, without impacting the user experience, enabling enterprises to process instant onboarding and payments without friction or fraud.",
+        "original_tags": [
+          "Payments"
+        ]
+      },
+      {
+        "id": "sample-033",
+        "name": "Slik",
+        "evidence": "We provide organizations with cloud-based surveys and analytics to measure and improve employee engagement. ",
+        "original_tags": [
+          "HR Tech"
+        ]
+      },
+      {
+        "id": "sample-034",
+        "name": "Pilotly",
+        "evidence": "Developer of a consumer insight research platform designed to create meaningful engagements between content creators and global audiences. The company's platform offers its customers a quality video viewing service and offers an insight dashboard, enabling content creators to make business decisions by getting real-time data and reports about customer preferences.",
+        "original_tags": [
+          "Data & Analytics"
+        ]
+      },
+      {
+        "id": "sample-035",
+        "name": "Guide",
+        "evidence": "Developer of a recruiting software designed to connect potential employees to employers. The company's platform is a sourcing-as-a-Service-based software tool that automates the candidate sourcing process for growing companies, reducing manual effort and wastage of time, enabling clients to save time with automated contact data.",
+        "original_tags": [
+          "HR Tech"
+        ]
+      },
+      {
+        "id": "sample-036",
+        "name": "LottieFiles",
+        "evidence": "Developer of an animation workflow platform designed to create a new realm of possibilities with interactive design. The company focuses on building an open-source animation file format that is tiny, interactive, and can be manipulated at runtime as well as helps to create interactive motion graphics that make products stand out, enabling motion designers, developers, and marketers to increase engagement by grabbing and holding user attention.",
+        "original_tags": [
+          "Creative Industry"
+        ]
+      },
+      {
+        "id": "sample-038",
+        "name": "East Meet East",
+        "evidence": "Operator of an online dating platform intended to help users find like-minded friends and partners. The company's platform assists users to form real-time connections with members of their own communities, enabling users to find people with mutual backgrounds and interests.",
+        "original_tags": [
+          "Social Impact"
+        ]
+      },
+      {
+        "id": "sample-039",
+        "name": "DealCart",
+        "evidence": "DealCart is Pakistan’s super-app for groceries, consumer goods, and food delivery - delivering unbeatable prices and seamless savings via our in-app wallet.",
+        "original_tags": [
+          "Ecommerce",
+          "FinTech",
+          "Marketplace",
+          "Retail"
+        ]
+      },
+      {
+        "id": "sample-040",
+        "name": "Tripplus",
+        "evidence": "Operator of an online travel service company designed to intended an online meta-search engine for travel-related purposes. The company's platform can be used by users to book flight tickets and make hotel reservations along with an opportunity to earn reward points, enabling travelers to accumulate, redeem points, and get discounts on travel bookings.",
+        "original_tags": [
+          "Travel & Tourism"
+        ]
+      },
+      {
+        "id": "sample-041",
+        "name": "Rainmarket",
+        "evidence": "We are Southeast Asia’s first financial markets infrastructure operator.\nWe are here to structure the unstructured, and to bridge the data and information gap. ",
+        "original_tags": [
+          "Data & Analytics",
+          "FinTech"
+        ]
+      },
+      {
+        "id": "sample-042",
+        "name": "SUSTAINFI",
+        "evidence": "Developer of carbon project finance platform designed to connect investors who want to invest sustainably with the products and services. The company's platform makes environmental, social, and governance (ESG) and sustainable investing simple to understand, enabling investors to find investments that will do well in the climate transition, and companies with strong environmental, social, or governance scores",
+        "original_tags": [
+          "CleanTech",
+          "Climate Tech",
+          "FinTech"
+        ]
+      },
+      {
+        "id": "sample-043",
+        "name": "Solarstic",
+        "evidence": "Developer of ultra-lightweight, design-flexible solar modules for vehicles and industrial rooftops, spun out from Hyundai Motor's internal solar system team. The company operates a proprietary plastic encapsulation and injection molding process that replaces conventional glass solar panels, enabling scalability and carbon-credit alignment across mobility and RE100 manufacturing use cases.",
+        "original_tags": [
+          "Climate Tech",
+          "Sustainability"
+        ]
+      },
+      {
+        "id": "sample-045",
+        "name": "Aurelif",
+        "evidence": "Aurelif is the operating system for care that happens beyond the hospital (off-premise care), turning fragmented care plans and real-world data into coordinated action—starting with seniors.",
+        "original_tags": [
+          "HealthTech & Biotech"
+        ]
+      },
+      {
+        "id": "sample-046",
+        "name": "Talos Innovation",
+        "evidence": "Building a patented numerical engine that accelerates simulations without compromising accuracy.",
+        "original_tags": [
+          "Enterprise Software & SaaS"
+        ]
+      },
+      {
+        "id": "sample-047",
+        "name": "DryLabz",
+        "evidence": "Turning unstructured health data into precision diagnostics so every patient gets the answers they need.",
+        "original_tags": [
+          "HealthTech & Biotech"
+        ]
+      },
+      {
+        "id": "sample-049",
+        "name": "Cellivate",
+        "evidence": "Cell-based solutions using sustainable cell technologies.",
+        "original_tags": [
+          "HealthTech & Biotech"
+        ]
+      },
+      {
+        "id": "sample-051",
+        "name": "Public Bored",
+        "evidence": "Digital billboards across the globe as easy as sending a tweet.",
+        "original_tags": [
+          "Enterprise Software & SaaS"
+        ]
+      },
+      {
+        "id": "sample-053",
+        "name": "CalcTree",
+        "evidence": "Engineers want to optimise their calculations to produce the most efficient designs possible. CalcTree is a platform to help them succeed. We let engineers transform tools they already love into intelligent, trusted calculations.",
+        "original_tags": [
+          "Real Estate & PropTech"
+        ]
+      },
+      {
+        "id": "sample-054",
+        "name": "Auxicare",
+        "evidence": "Enable at-home care for all seniors, thanks to independent caregivers",
+        "original_tags": [
+          "HealthTech & Biotech"
+        ]
+      },
+      {
+        "id": "sample-055",
+        "name": "KAHU",
+        "evidence": "KAHU is crowdsourcing and fusing onboard radar data from vessels into a real-time map of ocean activity, to fill AIS data gaps and enhance maritime safety, transparency and ocean sustainability.",
+        "original_tags": [
+          "Enterprise Software & SaaS"
+        ]
+      },
+      {
+        "id": "sample-056",
+        "name": "MyRobin.ID",
+        "evidence": "On-demand manpower outsourcing service providing a flexible, experienced and reliable workforce.",
+        "original_tags": [
+          "Enterprise Software & SaaS"
+        ]
+      },
+      {
+        "id": "sample-057",
+        "name": "Cenara",
+        "evidence": "Centralizing intelligence for revenue teams to optimize sales efforts and growth",
+        "original_tags": [
+          "Enterprise Software & SaaS"
+        ]
+      },
+      {
+        "id": "sample-058",
+        "name": "Crewline AI",
+        "evidence": "Supervised autonomy for construction vehicles.",
+        "original_tags": []
+      },
+      {
+        "id": "sample-059",
+        "name": "Crypto Quantique",
+        "evidence": "Quantum-secure root of trust for IoT.",
+        "original_tags": []
+      },
+      {
+        "id": "sample-060",
+        "name": "Cheffer",
+        "evidence": "Optimized purchasing for restaurant owners.",
+        "original_tags": []
+      },
+      {
+        "id": "sample-061",
+        "name": "Flynt",
+        "evidence": "Dynamic pricing for restaurant profitability.",
+        "original_tags": []
+      },
+      {
+        "id": "sample-062",
+        "name": "faff",
+        "evidence": "Personal assistants at an affordable price.",
+        "original_tags": []
+      },
+      {
+        "id": "sample-066",
+        "name": "MedPay",
+        "evidence": "Transforming neighborhood pharmacies using technology.",
+        "original_tags": []
+      },
+      {
+        "id": "sample-068",
+        "name": "Truvo",
+        "evidence": "The first autonomous insurance broker.",
+        "original_tags": []
+      },
+      {
+        "id": "sample-069",
+        "name": "Chipiron",
+        "evidence": "Portable low-field MRI for point-of-care.",
+        "original_tags": []
+      },
+      {
+        "id": "sample-070",
+        "name": "Thalya",
+        "evidence": "RNAi spray to enhance crop nitrogen efficiency.",
+        "original_tags": []
+      },
+      {
+        "id": "sample-072",
+        "name": "Geecko",
+        "evidence": "Platform that Automatizes Developers' Relations and Help Companies Hire IT Professionals Using Employer Brand Marketing, 53x More Effective than Hackathons.",
+        "original_tags": []
+      },
+      {
+        "id": "sample-073",
+        "name": "Productive AI",
+        "evidence": "Connecting Phone Calls to Your CRM ",
+        "original_tags": []
+      },
+      {
+        "id": "sample-075",
+        "name": "Budee Solutions",
+        "evidence": "Digital Safety Management for the Industrial Enterprise",
+        "original_tags": []
+      },
+      {
+        "id": "sample-076",
+        "name": "My90",
+        "evidence": "Making equity a competitive advantage",
+        "original_tags": []
+      },
+      {
+        "id": "sample-077",
+        "name": "Rocketbrew",
+        "evidence": "GenAI for personalized sales outbound.",
+        "original_tags": []
+      },
+      {
+        "id": "sample-078",
+        "name": "Perimeter",
+        "evidence": "Perimeter brings real-time, collaborative data visualization to public safety.",
+        "original_tags": []
+      },
+      {
+        "id": "sample-079",
+        "name": "Element42",
+        "evidence": "We Leverage Blockchain to Enable a Democratized Method of Authentication and Exchange of Physical Assets",
+        "original_tags": []
+      },
+      {
+        "id": "sample-080",
+        "name": "Moesif",
+        "evidence": "Build Better APIs with Moesif API Analytics",
+        "original_tags": []
+      },
+      {
+        "id": "sample-081",
+        "name": "Shuttle Technologies",
+        "evidence": "The fastest way to book a flight to space.\n\n",
+        "original_tags": []
+      },
+      {
+        "id": "sample-083",
+        "name": "Wilab",
+        "evidence": "Wilab enables Telcos to have a “5G App Store” and developers to build 5G Apps without having to understand 5G or dealing with a Telco",
+        "original_tags": []
+      },
+      {
+        "id": "sample-086",
+        "name": "DIRO",
+        "evidence": "DIRO provides global document verification to prevent fraud using blockchain and cryptographic sealing.",
+        "original_tags": [
+          "Fintech"
+        ]
+      },
+      {
+        "id": "sample-087",
+        "name": "Edbridg",
+        "evidence": "The most flexible and affordable financing for schools and students, through Income Share Agreements.",
+        "original_tags": [
+          "Fintech"
+        ]
+      },
+      {
+        "id": "sample-089",
+        "name": "Shenzhen TXD Technology",
+        "evidence": "Shenzhen TXD Technology is an electronic manufacturer.",
+        "original_tags": [
+          "Deeptech"
+        ]
+      },
+      {
+        "id": "sample-090",
+        "name": "Helios",
+        "evidence": "The alternative for sustainable banking.",
+        "original_tags": [
+          "Fintech"
+        ]
+      },
+      {
+        "id": "sample-092",
+        "name": "Chili Piper",
+        "evidence": "Chili Piper is a meeting lifecycle automation platform that helps revenue teams to increase their conversion rates.",
+        "original_tags": [
+          "Brand & Retail"
+        ]
+      },
+      {
+        "id": "sample-093",
+        "name": "Samaria Inc Ltd,",
+        "evidence": "JAPANMEDIA brings Japanese Manga to the Metaverse.",
+        "original_tags": [
+          "Brand & Retail"
+        ]
+      },
+      {
+        "id": "sample-095",
+        "name": "TMJ",
+        "evidence": "TMJ is a business process outsourcing organization.",
+        "original_tags": []
+      },
+      {
+        "id": "sample-097",
+        "name": "Kashika",
+        "evidence": "Kashika is a visualization consulting, UI/UX development and software development firm.",
+        "original_tags": [
+          "Brand & Retail"
+        ]
+      },
+      {
+        "id": "sample-098",
+        "name": "Rushnu",
+        "evidence": "Rushnu is a highly cost/ energy efficient technology that capture CO2 from industrial plants and convert it to intermediate chemicals with wide-application across industries.",
+        "original_tags": [
+          "Sustainability"
+        ]
+      }
+    ]
+  }
+}

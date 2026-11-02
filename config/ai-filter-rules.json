@@ -1,0 +1,36 @@
+{
+  "version": "1.0",
+  "explicit": {
+    "ai": "(?<![\\w])(?:AI|A\\.I\\.)(?![\\w])",
+    "artificial_intelligence": "\\bartificial[- ]intelligence\\b|人工智[慧能]",
+    "machine_learning": "\\bmachine[- ]learning\\b|機器學習|机器学习",
+    "deep_learning": "\\bdeep[- ]learning\\b|深度學習|深度学习",
+    "neural_network": "\\bneural[- ]networks?\\b|神經網路|神经网络",
+    "reinforcement_learning": "\\breinforcement[- ]learning\\b|強化學習|强化学习",
+    "llm": "\\bLLMs?\\b|\\blarge[- ]language[- ]models?\\b|大型語言模型|大语言模型",
+    "generative_ai": "\\bgen[- ]?AI\\b|\\bgenerative[- ](?:AI|artificial intelligence|models?)\\b|生成式人工智慧|生成式\\s*AI",
+    "agentic": "\\bagentic\\b",
+    "computer_vision": "\\bcomputer[- ]vision\\b|電腦視覺|计算机视觉",
+    "natural_language_processing": "\\bnatural[- ]language[- ](?:processing|understanding|generation)\\b|自然語言處理|自然语言处理",
+    "named_model": "\\b(?:ChatGPT|GPT(?:[- ]?[2345](?:\\.\\d+)?)?|BERT|Stable Diffusion)\\b"
+  },
+  "possible": {
+    "agent": "\\bagents?\\b",
+    "autonomous": "\\bautonom(?:ous|y)\\b|自主系統|自主系统",
+    "robotics": "\\brobot(?:ics|ic|s)?\\b|機器人|机器人",
+    "anomaly_detection": "\\banomaly[- ]detection\\b|異常偵測|异常检测",
+    "predictive_analytics": "\\bpredictive[- ](?:analytics|maintenance|models?|modeling|modelling)\\b",
+    "recommendation_engine": "\\brecommend(?:ation|er)[- ](?:systems?|engines?)\\b",
+    "abbreviation": "\\b(?:ML|NLP|OCR|ASR)\\b",
+    "recognition": "\\b(?:speech|image|facial|face|voice|optical character)[- ]recognition\\b|語音辨識|影像辨識",
+    "chatbot": "\\bchat[- ]?bots?\\b|聊天機器人"
+  },
+  "policy": [
+    "Explicit requires a strong keyword in the effective product description. Name-only AI mentions are downgraded.",
+    "AI tags, AI names and .ai website domains are weak signals, not proof.",
+    "Only Antler records whose description equals name use location as effective description.",
+    "Automation, smart, algorithms, data analytics and IoT alone do not establish AI relevance.",
+    "Possible signals are recall candidates and may include unrelated travel agents, non-AI robots or medical abbreviations.",
+    "No evidence means no signal in available fields, not proof of being non-AI. No semantic or external verification is performed."
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "rules_version": "1.0",
+  "scope": "Only tags changed in completed rounds 1-2; raw, names, evidence, summaries, notes, IDs and completion counts unchanged.",
+  "changed_records": 9,
+  "changes": [
+    {
+      "id": "upstream-14133",
+      "dimension": "solution",
+      "before": [
+        "AI 資料分析"
+      ],
+      "after": [
+        "AI 分析"
+      ]
+    },
+    {
+      "id": "upstream-12498",
+      "dimension": "solution",
+      "before": [
+        "AI 流程自動化"
+      ],
+      "after": [
+        "AI 自動化"
+      ]
+    },
+    {
+      "id": "upstream-19049",
+      "dimension": "solution",
+      "before": [
+        "AI 資料分析"
+      ],
+      "after": [
+        "AI 分析"
+      ]
+    },
+    {
+      "id": "upstream-19058",
+      "dimension": "solution",
+      "before": [
+        "AI 流程自動化"
+      ],
+      "after": [
+        "AI 自動化"
+      ]
+    },
+    {
+      "id": "upstream-03441",
+      "dimension": "solution",
+      "before": [
+        "AI 資料分析"
+      ],
+      "after": [
+        "AI 分析"
+      ]
+    },
+    {
+      "id": "upstream-01132",
+      "dimension": "solution",
+      "before": [
+        "AI 資料分析"
+      ],
+      "after": [
+        "AI 分析"
+      ]
+    },
+    {
+      "id": "upstream-08600",
+      "dimension": "problem_workflow",
+      "before": [
+        "community management"
+      ],
+      "after": []
+    },
+    {
+      "id": "upstream-08739",
+      "dimension": "problem_workflow",
+      "before": [
+        "詐欺防範",
+        "underwriting"
+      ],
+      "after": [
+        "詐欺防範"
+      ]
+    },
+    {
+      "id": "upstream-09701",
+      "dimension": "problem_workflow",
+      "before": [
+        "collections"
+      ],
+      "after": []
+    }
+  ]
+}

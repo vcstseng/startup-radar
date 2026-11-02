@@ -1,0 +1,870 @@
+[
+  {
+    "theme_id": "payment-follow-up",
+    "id": "upstream-09781",
+    "decision": "adjacent",
+    "reason_zh": "只說應收帳款，未明列提醒、協商或催收。",
+    "review_set": "rows"
+  },
+  {
+    "theme_id": "payment-follow-up",
+    "id": "upstream-09789",
+    "decision": "adjacent",
+    "reason_zh": "只說應收帳款 agent，未列具體催收工作。",
+    "review_set": "rows"
+  },
+  {
+    "theme_id": "payment-follow-up",
+    "id": "upstream-10007",
+    "decision": "supports",
+    "reason_zh": "明列消費債務催收。",
+    "review_set": "rows"
+  },
+  {
+    "theme_id": "payment-follow-up",
+    "id": "upstream-10474",
+    "decision": "supports",
+    "reason_zh": "明列語音 AI 債務催收。",
+    "review_set": "rows"
+  },
+  {
+    "theme_id": "payment-follow-up",
+    "id": "upstream-10576",
+    "decision": "adjacent",
+    "reason_zh": "財務員工從應收帳款切入，但未列具體工作。",
+    "review_set": "rows"
+  },
+  {
+    "theme_id": "payment-follow-up",
+    "id": "upstream-11143",
+    "decision": "supports",
+    "reason_zh": "直接定位為債務催收公司。",
+    "review_set": "rows"
+  },
+  {
+    "theme_id": "payment-follow-up",
+    "id": "upstream-11161",
+    "decision": "unclear",
+    "reason_zh": "collections 與 late stage portfolios 缺乏明確語境，沿用留空。",
+    "review_set": "rows"
+  },
+  {
+    "theme_id": "payment-follow-up",
+    "id": "upstream-11469",
+    "decision": "supports",
+    "reason_zh": "明列逾期發票及電話、簡訊、郵件跟進。",
+    "review_set": "rows"
+  },
+  {
+    "theme_id": "payment-follow-up",
+    "id": "upstream-11957",
+    "decision": "adjacent",
+    "reason_zh": "營建專案管理宣稱縮短應收帳款天數，不等於明列催收流程。",
+    "review_set": "rows"
+  },
+  {
+    "theme_id": "payment-follow-up",
+    "id": "upstream-13516",
+    "decision": "supports",
+    "reason_zh": "明列催收人員分派、溝通及清償決策自動化。",
+    "review_set": "rows"
+  },
+  {
+    "theme_id": "payment-follow-up",
+    "id": "upstream-14551",
+    "decision": "supports",
+    "reason_zh": "明列發票催收、付款溝通及付款行為分析。",
+    "review_set": "rows"
+  },
+  {
+    "theme_id": "payment-follow-up",
+    "id": "upstream-16530",
+    "decision": "exclude",
+    "reason_zh": "透過折價承購應收帳款提供融資，不能當作催收產品案例。",
+    "review_set": "rows"
+  },
+  {
+    "theme_id": "documents-to-action",
+    "id": "upstream-00974",
+    "decision": "adjacent",
+    "reason_zh": "只有讀取及理解合約，未列後續交付。",
+    "review_set": "rows"
+  },
+  {
+    "theme_id": "documents-to-action",
+    "id": "upstream-02947",
+    "decision": "supports",
+    "reason_zh": "回饋款合約轉為款項取得，但流程細節仍未知。",
+    "review_set": "rows"
+  },
+  {
+    "theme_id": "documents-to-action",
+    "id": "upstream-05924",
+    "decision": "adjacent",
+    "reason_zh": "泛稱合約管理，沒有明確工作交付。",
+    "review_set": "rows"
+  },
+  {
+    "theme_id": "documents-to-action",
+    "id": "upstream-08732",
+    "decision": "adjacent",
+    "reason_zh": "表單與問卷助理未說具體生成或回覆功能。",
+    "review_set": "rows"
+  },
+  {
+    "theme_id": "documents-to-action",
+    "id": "upstream-09282",
+    "decision": "adjacent",
+    "reason_zh": "合約儲存庫不能直接作為後續行動證據。",
+    "review_set": "rows"
+  },
+  {
+    "theme_id": "documents-to-action",
+    "id": "upstream-10039",
+    "decision": "adjacent",
+    "reason_zh": "產品文件測試更新是另一條軟體文件工作流程。",
+    "review_set": "rows"
+  },
+  {
+    "theme_id": "documents-to-action",
+    "id": "upstream-11827",
+    "decision": "adjacent",
+    "reason_zh": "文件與流程自動化未列具體文件或交付物。",
+    "review_set": "rows"
+  },
+  {
+    "theme_id": "documents-to-action",
+    "id": "upstream-12424",
+    "decision": "supports",
+    "reason_zh": "草圖或照片轉成製造技術文件並媒合製造商；是另一種輸入與交付。",
+    "review_set": "rows"
+  },
+  {
+    "theme_id": "documents-to-action",
+    "id": "upstream-13400",
+    "decision": "supports",
+    "reason_zh": "明列法律文件擬定及諮詢；兼有服務公司定位，不推定完全自動。",
+    "review_set": "rows"
+  },
+  {
+    "theme_id": "documents-to-action",
+    "id": "upstream-16360",
+    "decision": "exclude",
+    "reason_zh": "smart-contract 是無人機部署脈絡，不是文件處理產品。",
+    "review_set": "rows"
+  },
+  {
+    "theme_id": "documents-to-action",
+    "id": "upstream-19009",
+    "decision": "adjacent",
+    "reason_zh": "房貸文件處理未列具體下游決策或交付。",
+    "review_set": "rows"
+  },
+  {
+    "theme_id": "documents-to-action",
+    "id": "upstream-20567",
+    "decision": "adjacent",
+    "reason_zh": "擷取保險文件並提供對話查詢；不直接等於完成保險決策。",
+    "review_set": "rows"
+  },
+  {
+    "theme_id": "control-ai-actions",
+    "id": "upstream-07205",
+    "decision": "exclude",
+    "reason_zh": "私有 AI 建置不能直接證明授權或核准層。",
+    "review_set": "rows"
+  },
+  {
+    "theme_id": "control-ai-actions",
+    "id": "upstream-09766",
+    "decision": "adjacent",
+    "reason_zh": "說可安全使用工具，但未明列權限控制機制。",
+    "review_set": "rows"
+  },
+  {
+    "theme_id": "control-ai-actions",
+    "id": "upstream-10505",
+    "decision": "adjacent",
+    "reason_zh": "泛稱治理平台，未列授權或覆核工作。",
+    "review_set": "rows"
+  },
+  {
+    "theme_id": "control-ai-actions",
+    "id": "upstream-10581",
+    "decision": "supports",
+    "reason_zh": "明列 AI agents 的身分驗證、授權與稽核。",
+    "review_set": "rows"
+  },
+  {
+    "theme_id": "control-ai-actions",
+    "id": "upstream-11030",
+    "decision": "adjacent",
+    "reason_zh": "AI 資安介紹截斷，不能補具體控制層。",
+    "review_set": "rows"
+  },
+  {
+    "theme_id": "control-ai-actions",
+    "id": "upstream-11443",
+    "decision": "exclude",
+    "reason_zh": "AI 資安工程師是以 AI 做資安工作，不直接等於限制 AI 行動。",
+    "review_set": "rows"
+  },
+  {
+    "theme_id": "control-ai-actions",
+    "id": "upstream-12100",
+    "decision": "adjacent",
+    "reason_zh": "只有 AI 治理定位，未列任務。",
+    "review_set": "rows"
+  },
+  {
+    "theme_id": "control-ai-actions",
+    "id": "upstream-14939",
+    "decision": "exclude",
+    "reason_zh": "用 AI agents 執行資安事故應變，不等於對 agents 本身授權。",
+    "review_set": "rows"
+  },
+  {
+    "theme_id": "control-ai-actions",
+    "id": "upstream-15427",
+    "decision": "adjacent",
+    "reason_zh": "企業 AI 安全與隱私相關，但缺乏具體權限流程。",
+    "review_set": "rows"
+  },
+  {
+    "theme_id": "control-ai-actions",
+    "id": "upstream-15513",
+    "decision": "adjacent",
+    "reason_zh": "治理 gateway 未列具體授權或核准功能。",
+    "review_set": "rows"
+  },
+  {
+    "theme_id": "control-ai-actions",
+    "id": "upstream-16969",
+    "decision": "exclude",
+    "reason_zh": "IT 治理 agent 不直接等於治理 AI agents。",
+    "review_set": "rows"
+  },
+  {
+    "theme_id": "control-ai-actions",
+    "id": "upstream-20361",
+    "decision": "adjacent",
+    "reason_zh": "企業 AI 資料安全相關，未說具體授權與覆核流程。",
+    "review_set": "rows"
+  },
+  {
+    "theme_id": "physical-work-information",
+    "id": "upstream-00844",
+    "decision": "adjacent",
+    "reason_zh": "共享庫存與資金管理，不是現場資料捕捉或維修指導。",
+    "review_set": "rows"
+  },
+  {
+    "theme_id": "physical-work-information",
+    "id": "upstream-01734",
+    "decision": "adjacent",
+    "reason_zh": "製造重複作業自動化未列具體任務。",
+    "review_set": "rows"
+  },
+  {
+    "theme_id": "physical-work-information",
+    "id": "upstream-08793",
+    "decision": "adjacent",
+    "reason_zh": "只稱製造營運助理，無具體資訊流程。",
+    "review_set": "rows"
+  },
+  {
+    "theme_id": "physical-work-information",
+    "id": "upstream-10761",
+    "decision": "adjacent",
+    "reason_zh": "只稱經銷商及製造商 AI 工作團隊。",
+    "review_set": "rows"
+  },
+  {
+    "theme_id": "physical-work-information",
+    "id": "upstream-11378",
+    "decision": "exclude",
+    "reason_zh": "mass manufacturing 是飛彈產品量產定位，不是工廠資訊工具。",
+    "review_set": "rows"
+  },
+  {
+    "theme_id": "physical-work-information",
+    "id": "upstream-12223",
+    "decision": "adjacent",
+    "reason_zh": "只稱製造業 AI 引擎，未列工作。",
+    "review_set": "rows"
+  },
+  {
+    "theme_id": "physical-work-information",
+    "id": "upstream-13325",
+    "decision": "adjacent",
+    "reason_zh": "庫存軟體未列視覺或其他現場資料入口。",
+    "review_set": "rows"
+  },
+  {
+    "theme_id": "physical-work-information",
+    "id": "upstream-15121",
+    "decision": "supports",
+    "reason_zh": "明列商業建築預測維護；屬維護分支，不是知識交接證據。",
+    "review_set": "rows"
+  },
+  {
+    "theme_id": "physical-work-information",
+    "id": "upstream-16341",
+    "decision": "exclude",
+    "reason_zh": "面向製造商的 CRM 是銷售與客戶管理，不是產線現場資訊。",
+    "review_set": "rows"
+  },
+  {
+    "theme_id": "physical-work-information",
+    "id": "upstream-17490",
+    "decision": "adjacent",
+    "reason_zh": "製程最佳化未列現場觀測或知識交接方式。",
+    "review_set": "rows"
+  },
+  {
+    "theme_id": "physical-work-information",
+    "id": "upstream-19161",
+    "decision": "adjacent",
+    "reason_zh": "製造工作團隊宣稱沒有具體任務。",
+    "review_set": "rows"
+  },
+  {
+    "theme_id": "physical-work-information",
+    "id": "upstream-21289",
+    "decision": "adjacent",
+    "reason_zh": "開發自適應機器人，不直接證明現場知識交接。",
+    "review_set": "rows"
+  },
+  {
+    "theme_id": "ai-service-operators",
+    "id": "upstream-01183",
+    "decision": "exclude",
+    "reason_zh": "替代理商整合資料的軟體，不是代理商營運者；另有名稱描述差異。",
+    "review_set": "rows"
+  },
+  {
+    "theme_id": "ai-service-operators",
+    "id": "upstream-07806",
+    "decision": "exclude",
+    "reason_zh": "服務會計師事務所的稅務工具，不是直接提供稅務事務所服務。",
+    "review_set": "rows"
+  },
+  {
+    "theme_id": "ai-service-operators",
+    "id": "upstream-09732",
+    "decision": "exclude",
+    "reason_zh": "自動化居家照護機構作業，不足以判定本身經營照護機構。",
+    "review_set": "rows"
+  },
+  {
+    "theme_id": "ai-service-operators",
+    "id": "upstream-10199",
+    "decision": "exclude",
+    "reason_zh": "面向保險經紀公司的平台，不是經紀公司本身。",
+    "review_set": "rows"
+  },
+  {
+    "theme_id": "ai-service-operators",
+    "id": "upstream-10620",
+    "decision": "supports",
+    "reason_zh": "自述為 AI 原生招募機構。",
+    "review_set": "rows"
+  },
+  {
+    "theme_id": "ai-service-operators",
+    "id": "upstream-10802",
+    "decision": "supports",
+    "reason_zh": "自述為 AI 原生人身傷害律師事務所。",
+    "review_set": "rows"
+  },
+  {
+    "theme_id": "ai-service-operators",
+    "id": "upstream-10953",
+    "decision": "supports",
+    "reason_zh": "自述為 AI 原生稅務事務所。",
+    "review_set": "rows"
+  },
+  {
+    "theme_id": "ai-service-operators",
+    "id": "upstream-11159",
+    "decision": "supports",
+    "reason_zh": "直接提供貨運經紀、報價、預訂與追蹤。",
+    "review_set": "rows"
+  },
+  {
+    "theme_id": "ai-service-operators",
+    "id": "upstream-11353",
+    "decision": "exclude",
+    "reason_zh": "agents 執行律所作業，不足以判定本身為律師事務所。",
+    "review_set": "rows"
+  },
+  {
+    "theme_id": "ai-service-operators",
+    "id": "upstream-11850",
+    "decision": "supports",
+    "reason_zh": "自述為 AI 原生商業保險經紀。",
+    "review_set": "rows"
+  },
+  {
+    "theme_id": "ai-service-operators",
+    "id": "upstream-12639",
+    "decision": "exclude",
+    "reason_zh": "律所使用的仲裁分析工具，不是律所營運者。",
+    "review_set": "rows"
+  },
+  {
+    "theme_id": "ai-service-operators",
+    "id": "upstream-20303",
+    "decision": "exclude",
+    "reason_zh": "提供金融專業人士使用的 AI，不是投資銀行或基金本身。",
+    "review_set": "rows"
+  },
+  {
+    "theme_id": "software-verification",
+    "id": "upstream-01619",
+    "decision": "exclude",
+    "reason_zh": "手機測試眼睛，不是測試手機應用。",
+    "review_set": "rows"
+  },
+  {
+    "theme_id": "software-verification",
+    "id": "upstream-05040",
+    "decision": "supports",
+    "reason_zh": "明列程式碼審查及錯誤日誌，與測試屬不同檢查階段。",
+    "review_set": "rows"
+  },
+  {
+    "theme_id": "software-verification",
+    "id": "upstream-07927",
+    "decision": "unclear",
+    "reason_zh": "複雜營運的 ERP、MES 與測試軟體未明示受測物，不直接算軟體測試。",
+    "review_set": "rows"
+  },
+  {
+    "theme_id": "software-verification",
+    "id": "upstream-09008",
+    "decision": "supports",
+    "reason_zh": "明列 agents 進行端到端測試，未補受測平台。",
+    "review_set": "rows"
+  },
+  {
+    "theme_id": "software-verification",
+    "id": "upstream-09454",
+    "decision": "supports",
+    "reason_zh": "明列程式碼審查。",
+    "review_set": "rows"
+  },
+  {
+    "theme_id": "software-verification",
+    "id": "upstream-09822",
+    "decision": "supports",
+    "reason_zh": "明列執行應用的程式碼審查工具。",
+    "review_set": "rows"
+  },
+  {
+    "theme_id": "software-verification",
+    "id": "upstream-10379",
+    "decision": "supports",
+    "reason_zh": "AI 開發的端到端測試層；不推定工具本身如何使用 AI。",
+    "review_set": "rows"
+  },
+  {
+    "theme_id": "software-verification",
+    "id": "upstream-11722",
+    "decision": "supports",
+    "reason_zh": "明列軟體測試及程式品質。",
+    "review_set": "rows"
+  },
+  {
+    "theme_id": "software-verification",
+    "id": "upstream-12216",
+    "decision": "supports",
+    "reason_zh": "以一句話自動化前端軟體測試。",
+    "review_set": "rows"
+  },
+  {
+    "theme_id": "software-verification",
+    "id": "upstream-14853",
+    "decision": "supports",
+    "reason_zh": "明列 pull request 的程式碼審查。",
+    "review_set": "rows"
+  },
+  {
+    "theme_id": "software-verification",
+    "id": "upstream-15368",
+    "decision": "supports",
+    "reason_zh": "明列網路及行動應用自動測試。",
+    "review_set": "rows"
+  },
+  {
+    "theme_id": "software-verification",
+    "id": "upstream-18307",
+    "decision": "supports",
+    "reason_zh": "單元測試案例與原有另一筆 Ponicode 同名同介紹，不能增加獨立案例權重。",
+    "review_set": "rows"
+  },
+  {
+    "theme_id": "clinic-work-slices",
+    "id": "upstream-00507",
+    "decision": "exclude",
+    "reason_zh": "clinical trials 是臨床試驗，不是牙科診所營運。",
+    "review_set": "rows"
+  },
+  {
+    "theme_id": "clinic-work-slices",
+    "id": "upstream-01613",
+    "decision": "adjacent",
+    "reason_zh": "一般醫療臨床與營運流程，未限定牙科。",
+    "review_set": "rows"
+  },
+  {
+    "theme_id": "clinic-work-slices",
+    "id": "upstream-02657",
+    "decision": "adjacent",
+    "reason_zh": "復健診所，與牙科營運客群不同。",
+    "review_set": "rows"
+  },
+  {
+    "theme_id": "clinic-work-slices",
+    "id": "upstream-04610",
+    "decision": "exclude",
+    "reason_zh": "clinical depression 是診斷情境，不是牙科診所工作。",
+    "review_set": "rows"
+  },
+  {
+    "theme_id": "clinic-work-slices",
+    "id": "upstream-08423",
+    "decision": "adjacent",
+    "reason_zh": "一般診所設施虛擬化，未限定牙科。",
+    "review_set": "rows"
+  },
+  {
+    "theme_id": "clinic-work-slices",
+    "id": "upstream-09911",
+    "decision": "adjacent",
+    "reason_zh": "一般臨床決策支援，不是牙科非治療營運。",
+    "review_set": "rows"
+  },
+  {
+    "theme_id": "clinic-work-slices",
+    "id": "upstream-10984",
+    "decision": "exclude",
+    "reason_zh": "臨床試驗 CRO，不是牙科診所營運。",
+    "review_set": "rows"
+  },
+  {
+    "theme_id": "clinic-work-slices",
+    "id": "upstream-12145",
+    "decision": "adjacent",
+    "reason_zh": "明列牙科後台，但沒有具體作業。",
+    "review_set": "rows"
+  },
+  {
+    "theme_id": "clinic-work-slices",
+    "id": "upstream-14915",
+    "decision": "exclude",
+    "reason_zh": "胎兒超音波決策支援與牙科營運不同。",
+    "review_set": "rows"
+  },
+  {
+    "theme_id": "clinic-work-slices",
+    "id": "upstream-15569",
+    "decision": "supports",
+    "reason_zh": "牙科病患關係及留存，未補具體溝通流程。",
+    "review_set": "rows"
+  },
+  {
+    "theme_id": "clinic-work-slices",
+    "id": "upstream-18522",
+    "decision": "adjacent",
+    "reason_zh": "影像診斷診所非牙科營運案例。",
+    "review_set": "rows"
+  },
+  {
+    "theme_id": "clinic-work-slices",
+    "id": "upstream-21288",
+    "decision": "exclude",
+    "reason_zh": "藥物研發與臨床試驗，不是牙科營運。",
+    "review_set": "rows"
+  },
+  {
+    "theme_id": "payment-follow-up",
+    "id": "upstream-12419",
+    "decision": "supports",
+    "reason_zh": "應收帳款催收及三種聯繫通路有原文明列。",
+    "review_set": "core_rows"
+  },
+  {
+    "theme_id": "payment-follow-up",
+    "id": "upstream-08856",
+    "decision": "supports",
+    "reason_zh": "病患帳單與催收有明確醫療情境。",
+    "review_set": "core_rows"
+  },
+  {
+    "theme_id": "payment-follow-up",
+    "id": "upstream-09323",
+    "decision": "supports",
+    "reason_zh": "B2B 債務催收明確，但細部流程仍未知。",
+    "review_set": "core_rows"
+  },
+  {
+    "theme_id": "payment-follow-up",
+    "id": "upstream-13436",
+    "decision": "supports",
+    "reason_zh": "明列電話、協商及跟進；不把直到收到錢視為成功保證。",
+    "review_set": "core_rows"
+  },
+  {
+    "theme_id": "documents-to-action",
+    "id": "upstream-15557",
+    "decision": "supports",
+    "reason_zh": "原文是合約或支出資料，review 版修正舊角色文字的及，避免誤示兩者皆必要。",
+    "review_set": "core_rows"
+  },
+  {
+    "theme_id": "documents-to-action",
+    "id": "upstream-09879",
+    "decision": "supports",
+    "reason_zh": "明列文件資料擷取、來源引用、風險訊號及審閱分派。",
+    "review_set": "core_rows"
+  },
+  {
+    "theme_id": "documents-to-action",
+    "id": "upstream-09372",
+    "decision": "supports",
+    "reason_zh": "RFP 與問卷回覆自動化有明列；不補準確率或核准流程。",
+    "review_set": "core_rows"
+  },
+  {
+    "theme_id": "control-ai-actions",
+    "id": "upstream-11069",
+    "decision": "supports",
+    "reason_zh": "授權層有明列，細部機制未知。",
+    "review_set": "core_rows"
+  },
+  {
+    "theme_id": "control-ai-actions",
+    "id": "upstream-09227",
+    "decision": "supports",
+    "reason_zh": "核准層有明列，不依名稱補成人工逐步覆核。",
+    "review_set": "core_rows"
+  },
+  {
+    "theme_id": "control-ai-actions",
+    "id": "upstream-19275",
+    "decision": "supports",
+    "reason_zh": "資料存取與權限控制有明列，並不限 AI agents。",
+    "review_set": "core_rows"
+  },
+  {
+    "theme_id": "control-ai-actions",
+    "id": "upstream-11227",
+    "decision": "adjacent",
+    "reason_zh": "失敗分析後訓練模型，不等於執行當下授權或核准；應移至評估改善分支。",
+    "review_set": "core_rows"
+  },
+  {
+    "theme_id": "physical-work-information",
+    "id": "upstream-12373",
+    "decision": "supports",
+    "reason_zh": "店內音訊與營運觀測有明列，不擴成知識交接。",
+    "review_set": "core_rows"
+  },
+  {
+    "theme_id": "physical-work-information",
+    "id": "upstream-12160",
+    "decision": "supports",
+    "reason_zh": "視覺庫存資料層有明列，未說明後續決策或自動補貨。",
+    "review_set": "core_rows"
+  },
+  {
+    "theme_id": "physical-work-information",
+    "id": "upstream-10958",
+    "decision": "adjacent",
+    "reason_zh": "修理機械有明列，但知識擷取與交接沒有證據。",
+    "review_set": "core_rows"
+  },
+  {
+    "theme_id": "physical-work-information",
+    "id": "upstream-15434",
+    "decision": "supports",
+    "reason_zh": "培訓及專家知識保存有明列，但與視覺庫存屬不同工作。",
+    "review_set": "core_rows"
+  },
+  {
+    "theme_id": "ai-service-operators",
+    "id": "upstream-09585",
+    "decision": "supports",
+    "reason_zh": "自述為投資銀行；具體 AI 作業與收費仍未知。",
+    "review_set": "core_rows"
+  },
+  {
+    "theme_id": "ai-service-operators",
+    "id": "upstream-11367",
+    "decision": "supports",
+    "reason_zh": "自述為商業不動產經紀，不能推定完全自主。",
+    "review_set": "core_rows"
+  },
+  {
+    "theme_id": "ai-service-operators",
+    "id": "upstream-09886",
+    "decision": "supports",
+    "reason_zh": "自述為屋主協會管理公司，沒有具體 AI 模組。",
+    "review_set": "core_rows"
+  },
+  {
+    "theme_id": "ai-service-operators",
+    "id": "upstream-11447",
+    "decision": "supports",
+    "reason_zh": "明列代理管理付費廣告，服務營運定位較具體。",
+    "review_set": "core_rows"
+  },
+  {
+    "theme_id": "software-verification",
+    "id": "upstream-19928",
+    "decision": "supports",
+    "reason_zh": "單元測試建立、修改與視覺化有明列。",
+    "review_set": "core_rows"
+  },
+  {
+    "theme_id": "software-verification",
+    "id": "upstream-00503",
+    "decision": "supports",
+    "reason_zh": "軟體測試、修復與驗證有明列。",
+    "review_set": "core_rows"
+  },
+  {
+    "theme_id": "software-verification",
+    "id": "upstream-11444",
+    "decision": "supports",
+    "reason_zh": "行動應用自主測試有明列，不補測試覆蓋率。",
+    "review_set": "core_rows"
+  },
+  {
+    "theme_id": "clinic-work-slices",
+    "id": "upstream-15156",
+    "decision": "supports",
+    "reason_zh": "牙醫筆記客群與任務明確。",
+    "review_set": "core_rows"
+  },
+  {
+    "theme_id": "clinic-work-slices",
+    "id": "upstream-10109",
+    "decision": "supports",
+    "reason_zh": "牙科銷售客群與任務明確，流程細節未知。",
+    "review_set": "core_rows"
+  },
+  {
+    "theme_id": "clinic-work-slices",
+    "id": "upstream-12004",
+    "decision": "adjacent",
+    "reason_zh": "一般醫療診所不等於牙科；在收窄後主題換成牙科專用 Rondah AI。",
+    "review_set": "core_rows"
+  },
+  {
+    "theme_id": "clinic-work-slices",
+    "id": "upstream-09472",
+    "decision": "adjacent",
+    "reason_zh": "牙醫電話平台，未列訂位、催款或轉錄。",
+    "review_set": "dental_rows"
+  },
+  {
+    "theme_id": "clinic-work-slices",
+    "id": "upstream-11441",
+    "decision": "supports",
+    "reason_zh": "牙科 AI 前台；不把 fills every chair 當作已驗證成效。",
+    "review_set": "dental_rows"
+  },
+  {
+    "theme_id": "clinic-work-slices",
+    "id": "upstream-01762",
+    "decision": "adjacent",
+    "reason_zh": "牙醫 3D 技術未列具體臨床或行政工作。",
+    "review_set": "dental_rows"
+  },
+  {
+    "theme_id": "clinic-work-slices",
+    "id": "upstream-10079",
+    "decision": "supports",
+    "reason_zh": "明列牙科保險核驗及帳單。",
+    "review_set": "dental_rows"
+  },
+  {
+    "theme_id": "clinic-work-slices",
+    "id": "upstream-03507",
+    "decision": "supports",
+    "reason_zh": "明列牙科接待員；不補預約或其他功能。",
+    "review_set": "dental_rows"
+  },
+  {
+    "theme_id": "clinic-work-slices",
+    "id": "upstream-12145",
+    "decision": "adjacent",
+    "reason_zh": "牙科後台 agents 未列模組。",
+    "review_set": "dental_rows"
+  },
+  {
+    "theme_id": "clinic-work-slices",
+    "id": "upstream-11552",
+    "decision": "supports",
+    "reason_zh": "明列以沉睡病患名單切入病患留存，不補聯繫通路。",
+    "review_set": "dental_rows"
+  },
+  {
+    "theme_id": "clinic-work-slices",
+    "id": "upstream-12538",
+    "decision": "supports",
+    "reason_zh": "明列牙科診所與專業人員的按需人力媒合。",
+    "review_set": "dental_rows"
+  },
+  {
+    "theme_id": "clinic-work-slices",
+    "id": "upstream-07197",
+    "decision": "exclude",
+    "reason_zh": "自動切削牙齒是治療作業，排除於本次牙科非治療營運主題。",
+    "review_set": "dental_rows"
+  },
+  {
+    "theme_id": "clinic-work-slices",
+    "id": "upstream-10788",
+    "decision": "adjacent",
+    "reason_zh": "只稱牙科前後台 agent，未列具體工作。",
+    "review_set": "dental_rows"
+  },
+  {
+    "theme_id": "clinic-work-slices",
+    "id": "upstream-10109",
+    "decision": "supports",
+    "reason_zh": "明列牙科銷售團隊，不補銷售流程。",
+    "review_set": "dental_rows"
+  },
+  {
+    "theme_id": "clinic-work-slices",
+    "id": "upstream-15156",
+    "decision": "supports",
+    "reason_zh": "明列牙醫筆記。",
+    "review_set": "dental_rows"
+  },
+  {
+    "theme_id": "clinic-work-slices",
+    "id": "upstream-15200",
+    "decision": "adjacent",
+    "reason_zh": "牙科 AI 工作團隊未列任務。",
+    "review_set": "dental_rows"
+  },
+  {
+    "theme_id": "clinic-work-slices",
+    "id": "upstream-01983",
+    "decision": "unclear",
+    "reason_zh": "dental understanding 未說理解對象，不補影像判讀或診斷。",
+    "review_set": "dental_rows"
+  },
+  {
+    "theme_id": "clinic-work-slices",
+    "id": "upstream-15569",
+    "decision": "supports",
+    "reason_zh": "明列牙科病患關係及留存。",
+    "review_set": "dental_rows"
+  }
+]

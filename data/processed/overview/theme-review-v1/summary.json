@@ -1,0 +1,37 @@
+{
+  "scope": "step-1-theme-review-only",
+  "screened_records": 4085,
+  "original_core_case_count": 25,
+  "additional_theme_record_judgments": 84,
+  "dental_record_count": 15,
+  "manual_unique_records": 120,
+  "manual_judgments": 124,
+  "candidate_counts": {
+    "payment-follow-up": 16,
+    "documents-to-action": 94,
+    "control-ai-actions": 24,
+    "physical-work-information": 92,
+    "ai-service-operators": 59,
+    "software-verification": 25,
+    "clinic-work-slices": 84
+  },
+  "judgment_counts": {
+    "adjacent": 42,
+    "supports": 57,
+    "unclear": 3,
+    "exclude": 22
+  },
+  "recommended_theme_ids": [
+    "payment-follow-up",
+    "documents-to-action",
+    "clinic-work-slices"
+  ],
+  "recommended_case_count": 11,
+  "limits": [
+    "關鍵詞可能漏掉不同寫法，也可能誤收，例如 clinical 不等於診所營運。",
+    "檢索命中與人工複核樣本都不是完整主題成員清單。",
+    "原文是名錄自述；人工判定僅評估介紹是否支持主題。",
+    "人工判定包含同一紀錄的不同檢視，不可把判定次數當公司數。",
+    "沒有對 4085 筆全部進行第二次人工語意複核。"
+  ]
+}

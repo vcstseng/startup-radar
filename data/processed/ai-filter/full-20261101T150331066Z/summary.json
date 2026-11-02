@@ -1,0 +1,74 @@
+{
+  "created_at_utc": "2026-11-01T15:08:16.089821+00:00",
+  "source_file": "data\\raw\\snapshots\\full-20261101T150331066Z\\all.json",
+  "source_sha256": "d2af24ed6a509b850d4c462f07d52cad3112a1d9b8f178621867c3c06ef14108",
+  "rules_version": "1.0",
+  "rules_sha256": "06d0d8a59f6d7539138654339a1ca5b134bf265f2c92f1147ca5e2b915fd4b43",
+  "unit": "source records, not deduplicated companies",
+  "total": 21348,
+  "counts": {
+    "explicit": 4085,
+    "possible": 3482,
+    "no_evidence": 13781
+  },
+  "by_source": {
+    "500": {
+      "possible": 174,
+      "no_evidence": 1835,
+      "explicit": 232
+    },
+    "alchemist": {
+      "no_evidence": 328,
+      "possible": 36,
+      "explicit": 152
+    },
+    "antler": {
+      "explicit": 375,
+      "possible": 89,
+      "no_evidence": 612
+    },
+    "ef": {
+      "explicit": 194,
+      "no_evidence": 303,
+      "possible": 44
+    },
+    "plugandplay": {
+      "no_evidence": 4092,
+      "possible": 704,
+      "explicit": 712
+    },
+    "techstars": {
+      "no_evidence": 3255,
+      "possible": 1083,
+      "explicit": 767
+    },
+    "yc": {
+      "no_evidence": 3356,
+      "explicit": 1653,
+      "possible": 1352
+    }
+  },
+  "field_corrections": 1076,
+  "explicit_rule_counts": {
+    "ai": 3554,
+    "machine_learning": 164,
+    "computer_vision": 73,
+    "deep_learning": 51,
+    "artificial_intelligence": 220,
+    "natural_language_processing": 19,
+    "generative_ai": 101,
+    "llm": 59,
+    "agentic": 106,
+    "neural_network": 5,
+    "named_model": 12,
+    "reinforcement_learning": 8
+  },
+  "policy": [
+    "Explicit requires a strong keyword in the effective product description. Name-only AI mentions are downgraded.",
+    "AI tags, AI names and .ai website domains are weak signals, not proof.",
+    "Only Antler records whose description equals name use location as effective description.",
+    "Automation, smart, algorithms, data analytics and IoT alone do not establish AI relevance.",
+    "Possible signals are recall candidates and may include unrelated travel agents, non-AI robots or medical abbreviations.",
+    "No evidence means no signal in available fields, not proof of being non-AI. No semantic or external verification is performed."
+  ]
+}

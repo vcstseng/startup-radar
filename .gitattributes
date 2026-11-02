@@ -1,0 +1,2 @@
+# Preserve exact bytes: dataset manifests verify SHA-256 of data, rules and scripts.
+* -text
