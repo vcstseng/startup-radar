@@ -2,6 +2,8 @@
 
 日期：2026-11-02。使用者授權先完成功能，風格極簡。
 
+公開網站：<https://vcstseng.github.io/startup-radar/>。程式與資料：<https://github.com/vcstseng/startup-radar>。使用者已另行授權新建公開 repository 及部署 GitHub Pages，取代先前僅限本機的範圍；產品功能仍只有 Layer 1。
+
 ## 本輪完成
 
 - 三個平行入口：產業／客群 25 類、問題／工作 22 類、解法 28 類；分類及數量取自既有 catalog。
@@ -30,7 +32,7 @@ npm ci
 npm run dev -- --port 4173 --strictPort
 ```
 
-開啟 http://127.0.0.1:4173/ 。已有相依套件時可直接執行第二行。關閉預覽可在啟動的終端按 Ctrl+C。此次未發布到網路；依使用者需要保留現有本機預覽服務，讓使用者持續 review。
+開啟 http://127.0.0.1:4173/ 。已有相依套件時可直接執行第二行。關閉預覽可在啟動的終端按 Ctrl+C。本機預覽與公開網站分開；預覽可供後續 review，不影響 GitHub Pages。
 
 檢查與建置：
 

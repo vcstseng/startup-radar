@@ -1,5 +1,7 @@
 # Startup Radar：每輪工作指引
 
+GitHub：使用者明確指定在與 99 Problems 相同的 vcstseng 帳號建立公開 repository 並部署網站。專案 https://github.com/vcstseng/startup-radar ，網站 https://vcstseng.github.io/startup-radar/ 。使用 GitHub Pages，部署流程見 .github/workflows/deploy-pages.yml 與 docs/github-repository.md；下文的「不發布」為先前範圍，不否定此授權。產品範圍仍只有 Layer 1，不因此開始 Layer 2／3。
+
 ## 目前網站階段（2026-11-02，優先於下方歷史範圍）
 
 使用者已明確授權建立本機 Layer 1，採極簡三入口 Portal：25 個產業／客群、22 個問題／工作、28 個解法大類，可交叉選取。實作在 `web/src/`（React／TypeScript／Vite），操作與交接見 `docs/layer-one-portal.md`。讀取既有 catalog，不修改 raw、21 輪正式批次或 catalog。下方「不建網站」是先前資料階段的範圍，不能用來否定本次明確授權。

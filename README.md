@@ -1,10 +1,10 @@
 # Startup Radar
 
-專案儲存庫：[vcstseng/startup-radar](https://github.com/vcstseng/startup-radar)（公開）。來源資料與上傳範圍見 [GitHub 說明](docs/github-repository.md)。網站尚未部署，啟動方式見 [Layer 1 操作說明](docs/layer-one-portal.md)。
+網站：[Startup Radar](https://vcstseng.github.io/startup-radar/)（GitHub Pages）。專案儲存庫：[vcstseng/startup-radar](https://github.com/vcstseng/startup-radar)（公開）。來源資料與上傳範圍見 [GitHub 說明](docs/github-repository.md)，本機啟動方式見 [Layer 1 操作說明](docs/layer-one-portal.md)。
 
 從新創公司名錄整理高層次 trends 與 ideas，透過網站探索；使用者查看個別公司時，再按需取得詳細資訊。
 
-目前已完成原始 21,348 筆快照下載、AI 篩選入選 4,085 筆及全部入選紀錄的輕量三維整理。本機 Layer 1 已採 React／TypeScript／Vite 實作極簡三入口 Portal，包含交叉篩選、即時筆數、0 筆選項隱藏、回上一步與網址保存；依最新決定不提供搜尋。啟動與範圍見 `docs/layer-one-portal.md`；尚未部署，Layer 2／3 尚未實作，查看結果入口暫停用。下文的未建網站描述為先前資料階段的歷史狀態。
+目前已完成原始 21,348 筆快照下載、AI 篩選入選 4,085 筆及全部入選紀錄的輕量三維整理。Layer 1 已採 React／TypeScript／Vite 實作極簡三入口 Portal，包含交叉篩選、即時筆數、0 筆選項隱藏、回上一步與網址保存；依最新決定不提供搜尋。GitHub Pages 發布相同的 Layer 1；Layer 2／3 尚未實作，查看結果入口暫停用。下文的未建網站描述為先前資料階段的歷史狀態。
 
 **目前主要成果是完整 4,085 筆的總覽資料**：`docs/catalog-overview.md` 列出全部分類分布；`data/processed/catalog/v1/index.json` 是未來網站讀取入口。包含 25 個產業／客群、22 個工作及 28 個解法大類、三組交叉表、完整分類 ID 索引與 21 份按需詳情 JSON。原始資訊不足與待歸類另列；資料未去重，分類可重疊。讀取約定見 `docs/website-data-contract.md`。
 
