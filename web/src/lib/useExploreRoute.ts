@@ -5,7 +5,7 @@ import { parseRoute, routeQuery, type ExploreRoute } from './route.js';
 
 interface Position { scroll: number; axis: Axis }
 interface Entry extends Position {
-  radar: boolean; previous?: string; previousView?: ExploreRoute['view']; portal?: Position;
+  radar: boolean; previous?: string; previousView?: ExploreRoute['view']; portal?: Position; results?: Position;
 }
 const urlNow = () => window.location.pathname + window.location.search;
 const emptyRoute = (): ExploreRoute => ({ view: 'portal', selected: emptySelection(), page: 1 });
@@ -50,12 +50,13 @@ export function useExploreRoute(taxonomy?: Taxonomy) {
     if (url === urlNow()) return;
     const entry = save();
     const portal = route.view === 'portal' ? { scroll: entry.scroll, axis } : entry.portal;
-    window.history.pushState({ radar: true, scroll, axis, portal, previous: urlNow(), previousView: route.view } satisfies Entry, '', url);
+    const results = route.view === 'results' ? { scroll: entry.scroll, axis } : entry.results;
+    window.history.pushState({ radar: true, scroll, axis, portal, results, previous: urlNow(), previousView: route.view } satisfies Entry, '', url);
     pending.current = scroll; titleFocus.current = next.view !== route.view || next.page !== route.page;
     setRoute(next); setCanUndo(next.view === 'portal' && route.view === 'portal');
   }
   function returnToPortal() {
-    const next: ExploreRoute = { ...route, view: 'portal' };
+    const next: ExploreRoute = { ...route, view: 'portal', id: undefined };
     const query = routeQuery(next);
     const url = window.location.pathname + (query ? `?${query}` : '');
     const entry = save();
@@ -68,6 +69,14 @@ export function useExploreRoute(taxonomy?: Taxonomy) {
       }
     }
   }
+  function returnToResults() {
+    const next: ExploreRoute = { ...route, view: 'results', id: undefined };
+    const query = routeQuery(next);
+    const url = window.location.pathname + (query ? `?${query}` : '');
+    const entry = save();
+    if (entry.previous === url) window.history.back();
+    else navigate(next, entry.results?.scroll ?? 0);
+  }
   function undo() { save(); window.history.back(); }
   function setAxis(next: Axis) {
     setAxisState(next);
@@ -79,7 +88,7 @@ export function useExploreRoute(taxonomy?: Taxonomy) {
     window.history.replaceState(window.history.state, '', window.location.pathname + (query ? `?${query}` : ''));
     setRoute(next);
   }
-  return { route, axis, canUndo, initialized, navigate, returnToPortal, undo, setAxis, replacePage, pending, titleFocus };
+  return { route, axis, canUndo, initialized, navigate, returnToPortal, returnToResults, undo, setAxis, replacePage, pending, titleFocus };
 }
 
 export function useRestorePosition(ready: boolean, routeKey: string, pending: { current: number | null }, titleFocus: { current: boolean }) {

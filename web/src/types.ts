@@ -13,3 +13,7 @@ export interface CatalogRecord {
 }
 export interface ManualSummary { summary_zh: string; source_url: string; updated_at: string }
 export interface Supplements { schema_version: string; dataset_id: string; records_by_id: Record<string, ManualSummary> }
+export interface CompanyDetail {
+  id: string; name: string; summary_zh: string | null; tags: Record<Axis, string[]>;
+  evidence: { field: string; text: string }; notes: string[]; source: string; upstream_position: number;
+}

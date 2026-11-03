@@ -21,7 +21,7 @@ test('results URLs preserve filters and page, while portal URLs contain no resul
   assert.equal(route.view, 'results');
   assert.equal(route.page, 2);
   assert(!routeQuery({ ...route, view: 'portal' }).includes('page='));
-  assert.equal(parseRoute('?view=company&page=NaN', taxonomy).view, 'portal');
+  assert.equal(parseRoute('?view=unknown&page=NaN', taxonomy).view, 'portal');
   for (const value of ['0', '-5', '1.5', 'Infinity', '99999999999999999999']) {
     assert.equal(parseRoute('?view=results&page=' + value, taxonomy).page, 1);
   }

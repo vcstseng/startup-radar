@@ -1,5 +1,6 @@
 import { AXES, type CatalogRecord, type CatalogSummary, type Facets, type Supplements, type Taxonomy } from '../types.js';
 import { validateSupplements } from './supplements.js';
+import { detailFromBatch } from './company.js';
 
 export interface PortalData { taxonomy: Taxonomy; facets: Facets; summary: CatalogSummary; allIds: Set<string> }
 export async function loadPortal(signal: AbortSignal): Promise<PortalData> {
@@ -48,5 +49,20 @@ export async function loadResults(portal: PortalData, signal: AbortSignal): Prom
     supplementWarning = true;
   }
   return { records, supplements, supplementWarning };
+}
+
+const cachedDetails = new Map<string, unknown>();
+export async function loadCompanyDetail(portal: PortalData, record: CatalogRecord, signal: AbortSignal) {
+  if (!/^details\/batch-\d{3}\.json$/.test(record.detail_file)) throw new Error('找不到可讀取的來源資料。');
+  const key = `${portal.summary.build_id}:${record.detail_file}`;
+  let batch = cachedDetails.get(key);
+  if (!batch) {
+    const response = await fetch(`${import.meta.env.BASE_URL}data/catalog/${record.detail_file}`, { signal });
+    if (!response.ok) throw new Error('暫時無法載入來源原文，請稍後重試。');
+    batch = await response.json();
+  }
+  const detail = detailFromBatch(batch, portal.summary.dataset_id, record);
+  cachedDetails.set(key, batch);
+  return detail;
 }
 

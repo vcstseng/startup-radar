@@ -1,5 +1,7 @@
 # Startup Radar
 
+最新功能：已實作獨立的動態 Layer 3，公司名稱與查看詳情可進入共用資料頁，按需讀原文、顯示既有註記及來源，返回保留探索狀態。[Layer 3 說明](docs/layer-three-company.md)。下文較早的「Layer 3 尚未實作」為先前進度。
+
 最新進度：[2026-11-03 紀錄](docs/progress-2026-11-03.md)，包含 Layer 1、篩選決定、分類修正、公開部署及尚未實作的 UI／UX 建議。
 
 接續已實作 Layer 2：從分類入口查看動態結果，單欄列表每頁 20 筆，保留條件／頁次／返回位置，支援獨立的人工摘要補充 JSON。見 [Layer 2 說明](docs/layer-two-results.md)。Layer 3 尚未實作，待 Layer 2 確認後再繼續；下文較早的「只有 Layer 1」為歷史階段狀態。
