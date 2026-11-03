@@ -49,8 +49,6 @@
 
 瀏覽器確認入口及列表同為 4,000；航空＋行銷銷售條件顯示 Flyr 一筆並標示合併 2 筆，原始整理可展開／切換；手機展開後無水平溢出。
 
-## 明確重複群組完整清單
-
 ## 上線驗證
 
 功能版本 `c448032` 已公開部署，[Actions 41641573618](https://github.com/vcstseng/startup-radar/actions/runs/41641573618) 的 23 項測試、建置與部署成功。公開航空＋行銷銷售結果已確認總數與列表同為 1，Flyr 只展示一次並標示已合併 2 筆。
@@ -58,7 +56,7 @@
 - [查看 Flyr 合併展示](https://vcstseng.github.io/startup-radar/?industry=aerospace&work=sales-marketing&view=results)
 - [公開畫面](screenshots/exact-duplicate-flyr.jpg)
 
-## 完整群組表
+## 明確重複群組完整清單
 
 下列差異不直接視為錯誤，也未自動統一措辭。原文逐組完全相同，整理內容在 audit 中原樣保留。
 
