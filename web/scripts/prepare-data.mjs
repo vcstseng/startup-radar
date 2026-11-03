@@ -1,5 +1,7 @@
 import { mkdir, copyFile, readFile } from 'node:fs/promises';
 import { resolve } from 'node:path';
+import { prepareSourceTexts } from './prepare-source-texts.mjs';
+await prepareSourceTexts();
 
 const source = resolve(import.meta.dirname, '../../data/processed/catalog/v1');
 const target = resolve(import.meta.dirname, '../public/data/catalog');

@@ -1,5 +1,7 @@
 # Startup Radar
 
+中英文版：右上角可切換中文／English，三層介面與大分類支援雙語；英文公司介紹沿用來源原文，中文整理註記仍可回查。英文入口：[Startup Radar — English](https://vcstseng.github.io/startup-radar/?lang=en)。詳見 [雙語網站說明](docs/bilingual-website.md) 與 [2026-11-04 進度](docs/progress-2026-11-04.md)。
+
 首頁更新：三個分類入口可直接閱讀整體與選取範圍的分布，顯示筆數及比例條，保留多選、查看結果與返回。見 [首頁分布說明](docs/layer-one-distribution.md)。
 
 明確重複檢查：保留 4,085 筆原始紀錄，網站將 84 組名稱、網址及原文相同的紀錄合併後，展示 **4,000 筆**。其餘相似或同名紀錄仍保留，並非已確認 4,000 家獨立公司。檢查結果與規則見 [重複檢查紀錄](docs/exact-duplicates-2026-11-03.md)。

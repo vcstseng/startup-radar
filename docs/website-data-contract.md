@@ -1,5 +1,9 @@
 # 全量網站資料格式 1.0
 
+## 2026-11-04：雙語顯示補充
+
+分類 ID、篩選及正式資料均不改；翻譯位於前端字典。英文列表主欄位用既有大分類英文名稱，原中文細 tags 可展開。建置及開發啟動從 21 份 detail 批次衍生 `web/public/data/localization/source-texts.json`，以 build_id 及原 ID 連接 4,085 筆完整 evidence.text；不將原文當新驗證或新摘要。英文介紹節錄最多 360 字元（加省略號），完整原文在公司頁。詳見 [雙語規格](bilingual-website.md)。
+
 2026-11-03 展示合併：本契約與 catalog 繼續保存全部 4,085 筆 source_record，不覆寫、不刪除。網站另讀 `data/processed/display/v1/duplicates.json`，先用原始紀錄篩選，再對符合項計算展示群組：目前合併 84 組明確重複，展示總數 4,000。這是展示去重，不是公司身分全量辨識；詳見 `exact-duplicates-2026-11-03.md`。下文計數與分布指原始 catalog，不能直接當作合併後網站筆數。
 
 2026-11-03：Layer 2 已使用既有 records／facets 建立動態列表；手動補充摘要另存 `data/supplements/v1/companies.json`，以 dataset_id＋紀錄 ID 連接，詳見 `layer-two-results.md`。本資料契約、原始批次及 catalog 不因新增頁面而改寫。

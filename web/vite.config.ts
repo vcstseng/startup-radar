@@ -1,6 +1,7 @@
 import { defineConfig } from 'vite';
 import { readFile } from 'node:fs/promises';
 import { resolve, sep } from 'node:path';
+import { prepareSourceTexts } from './scripts/prepare-source-texts.mjs';
 
 // Expose only the catalog to local development; the raw workspace is never served.
 const catalog = resolve(import.meta.dirname, '../data/processed/catalog/v1');
@@ -9,7 +10,8 @@ const display = resolve(import.meta.dirname, '../data/processed/display/v1');
 export default defineConfig({
   plugins: [{
     name: 'local-catalog',
-    configureServer(server) {
+    async configureServer(server) {
+      await prepareSourceTexts();
       for (const [prefix, folder] of [['/data/catalog', catalog], ['/data/supplements', supplements], ['/data/display', display]]) server.middlewares.use(prefix, async (req, res, next) => {
         try {
           const relative = decodeURIComponent((req.url ?? '').split('?')[0]);

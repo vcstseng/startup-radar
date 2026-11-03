@@ -26,7 +26,7 @@ export async function loadPortal(signal: AbortSignal): Promise<PortalData> {
 }
 
 const cachedRecords = new Map<string, CatalogRecord[]>();
-export interface ResultsData { records: CatalogRecord[]; supplements: Supplements | null; supplementWarning: boolean }
+export interface ResultsData { records: CatalogRecord[]; sourceTexts: Record<string, string>; supplements: Supplements | null; supplementWarning: boolean }
 export async function loadResults(portal: PortalData, signal: AbortSignal): Promise<ResultsData> {
   const dataset = portal.summary.dataset_id;
   const key = portal.summary.build_id;
@@ -51,7 +51,12 @@ export async function loadResults(portal: PortalData, signal: AbortSignal): Prom
     if (signal.aborted) throw error;
     supplementWarning = true;
   }
-  return { records, supplements, supplementWarning };
+  const response = await fetch(`${import.meta.env.BASE_URL}data/localization/source-texts.json`, { signal });
+  if (!response.ok) throw new Error('暫時無法讀取紀錄，請重試。');
+  const texts = await response.json() as {build_id: string; records_by_id: Record<string, string>};
+  if (texts.build_id !== key || !texts.records_by_id || Object.keys(texts.records_by_id).length !== portal.allIds.size ||
+      records.some(r => typeof texts.records_by_id[r.id] !== 'string')) throw new Error('紀錄版本不一致，請重新整理頁面。');
+  return { records, sourceTexts: texts.records_by_id, supplements, supplementWarning };
 }
 
 const cachedDetails = new Map<string, unknown>();

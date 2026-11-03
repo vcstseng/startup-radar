@@ -1,3 +1,4 @@
+import { useLanguage } from '../lib/language.js';
 import { useEffect, useState } from 'react';
 import { AXES, type Axis, type Selection, type Taxonomy } from '../types.js';
 import { selectionGroups } from '../lib/selectionGroups.js';
@@ -9,6 +10,7 @@ interface Props {
   onRemove: (axis: Axis, id: string) => void; onClear: () => void; onUndo: () => void; onNext: () => void;
 }
 export function SelectionSummary({ selected, taxonomy, count, results, canUndo, routeKey, onRemove, onClear, onUndo, onNext }: Props) {
+  const { t } = useLanguage();
   const [copyMessage, setCopyMessage] = useState('');
   const [manualLink, setManualLink] = useState('');
   useEffect(() => { setCopyMessage(''); setManualLink(''); }, [routeKey]);
@@ -21,38 +23,38 @@ export function SelectionSummary({ selected, taxonomy, count, results, canUndo, 
     label: taxonomy.dimensions[axis].categories.find(category => category.id === id)?.label_zh ?? id })));
   const groups = selectionGroups(selected, taxonomy);
   async function copyLink() {
-    try { await navigator.clipboard.writeText(window.location.href); setCopyMessage('連結已複製'); }
+    try { await navigator.clipboard.writeText(window.location.href); setCopyMessage("連結已複製"); }
     catch { setManualLink(window.location.href); }
   }
-  return <section className={`selection-panel${results ? ' results-selection' : ''}`} aria-label="目前選擇">
+  return <section className={`selection-panel${results ? ' results-selection' : ''}`} aria-label={t("目前選擇")}>
     <div className="selection-topline">
-      <p className="match-count" role="status" aria-live="polite" aria-atomic="true"><span>{chips.length ? '同時符合目前條件：' : '全部展示紀錄：'}</span><strong>{count.toLocaleString()}</strong> 筆</p>
-      <button className={results ? 'outline-button' : 'primary-button'} disabled={!results && count === 0} onClick={onNext}>{results ? '調整分類' : '查看結果 →'}</button>
+      <p className="match-count" role="status" aria-live="polite" aria-atomic="true"><span>{chips.length ? t("同時符合目前條件：") : t("全部展示紀錄：")}</span><strong>{count.toLocaleString()}</strong> {t("筆")}</p>
+      <button className={results ? 'outline-button' : 'primary-button'} disabled={!results && count === 0} onClick={onNext}>{results ? t("調整分類") : t("查看結果 →")}</button>
     </div>
-    {!results && <p className="selection-label">目前選擇</p>}
-    {results && groups.length > 0 ? <dl className="selection-groups" aria-label="目前選擇，同組任一符合，跨組同時符合">
+    {!results && <p className="selection-label">{t("目前選擇")}</p>}
+    {results && groups.length > 0 ? <dl className="selection-groups" aria-label={t("目前選擇，同組任一符合，跨組同時符合")}>
       {groups.map(group => <div className="selection-group" key={group.axis}>
-        <dt>{GROUP_LABELS[group.axis]}</dt>
+        <dt>{t(GROUP_LABELS[group.axis])}</dt>
         <dd>{group.categories.map((category, index) => <span className="selection-term" key={category.id}>
-          {index > 0 && <span className="selection-or">或</span>}
-          <button className="selected-chip grouped-chip" aria-label={`移除${LABELS[group.axis]}：${category.label_zh}`} onClick={() => onRemove(group.axis, category.id)}>
-            {category.label_zh}<span aria-hidden="true">×</span>
+          {index > 0 && <span className="selection-or">{t("或")}</span>}
+          <button className="selected-chip grouped-chip" aria-label={t("移除{0}：{1}", LABELS[group.axis], category.label_zh)} onClick={() => onRemove(group.axis, category.id)}>
+            {t(category.label_zh)}<span aria-hidden="true">×</span>
           </button>
         </span>)}</dd>
       </div>)}
     </dl> : chips.length > 0 ? <div className="selected-chips">{chips.map(chip =>
-      <button className="selected-chip" key={`${chip.axis}-${chip.id}`} aria-label={`移除${LABELS[chip.axis]}：${chip.label}`} onClick={() => onRemove(chip.axis, chip.id)}>
-        <span>{LABELS[chip.axis]}</span>{chip.label}<span aria-hidden="true">×</span>
+      <button className="selected-chip" key={`${chip.axis}-${chip.id}`} aria-label={t("移除{0}：{1}", LABELS[chip.axis], chip.label)} onClick={() => onRemove(chip.axis, chip.id)}>
+        <span>{t(LABELS[chip.axis])}</span>{t(chip.label)}<span aria-hidden="true">×</span>
       </button>)}</div> : null}
     <div className="selection-bottom">
-      {!results && <p className="selection-hint">同欄選任一項即可，跨欄須同時符合；不必選滿三欄。</p>}
+      {!results && <p className="selection-hint">{t("同欄選任一項即可，跨欄須同時符合；不必選滿三欄。")}</p>}
       <div className="selection-actions">
-        {!results && canUndo && <button className="text-button" onClick={onUndo}>← 撤回上次選擇</button>}
-        {chips.length > 0 && <button className="text-button" onClick={onClear}>清除條件</button>}
-        <button className="text-button" onClick={copyLink}>{copyMessage || '複製連結'}</button>
+        {!results && canUndo && <button className="text-button" onClick={onUndo}>{t("← 撤回上次選擇")}</button>}
+        {chips.length > 0 && <button className="text-button" onClick={onClear}>{t("清除條件")}</button>}
+        <button className="text-button" onClick={copyLink}>{t(copyMessage || "複製連結")}</button>
       </div>
     </div>
-    {count === 0 && <p className="no-matches">目前組合沒有符合的紀錄。移除一個條件，或返回調整分類。</p>}
-    {manualLink && <label className="manual-link">請手動複製此連結<input readOnly value={manualLink} onFocus={event => event.target.select()} /></label>}
+    {count === 0 && <p className="no-matches">{t("目前組合沒有符合的紀錄。移除一個條件，或返回調整分類。")}</p>}
+    {manualLink && <label className="manual-link">{t("請手動複製此連結")}<input readOnly value={manualLink} onFocus={event => event.target.select()} /></label>}
   </section>;
 }
