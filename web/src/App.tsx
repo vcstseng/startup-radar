@@ -77,7 +77,7 @@ export default function App() {
               : !results ? <p className="load-state" role="status">正在載入符合的紀錄…</p>
               : <>
                 {results.supplementWarning && <p className="supplement-warning" role="status">補充介紹暫時無法載入，以下仍顯示原有資料。<button className="text-button" onClick={() => { setResults(undefined); setResultsAttempt(x => x + 1); }}>重試</button></p>}
-                <ResultsList records={filtered} supplements={results.supplements} page={page.page} onPage={next => nav.navigate({ ...route, page: next })} />
+                <ResultsList records={filtered} supplements={results.supplements} selected={route.selected} taxonomy={data.taxonomy} page={page.page} onPage={next => nav.navigate({ ...route, page: next })} />
               </>}
           </div> : <>
             <p className="dataset-note portal-note">{AXES.map(a => `${data.taxonomy.dimensions[a].categories.filter(c => !c.id.startsWith('__')).length} 個${LABELS[a]}`).join('、')}。<span>只顯示可加入的分類；已選條件可隨時取消。</span></p>

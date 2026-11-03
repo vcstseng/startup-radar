@@ -1,7 +1,9 @@
 import { useEffect, useState } from 'react';
 import { AXES, type Axis, type Selection, type Taxonomy } from '../types.js';
+import { selectionGroups } from '../lib/selectionGroups.js';
 
 export const LABELS: Record<Axis, string> = { industry_customer: '產業／客群', problem_workflow: '問題／工作', solution: '解法' };
+export const GROUP_LABELS: Record<Axis, string> = { industry_customer: '服務誰', problem_workflow: '工作', solution: '做法' };
 interface Props {
   selected: Selection; taxonomy: Taxonomy; count: number; results: boolean; canUndo: boolean; routeKey: string;
   onRemove: (axis: Axis, id: string) => void; onClear: () => void; onUndo: () => void; onNext: () => void;
@@ -17,6 +19,7 @@ export function SelectionSummary({ selected, taxonomy, count, results, canUndo, 
   }, [copyMessage]);
   const chips = AXES.flatMap(axis => selected[axis].map(id => ({ axis, id,
     label: taxonomy.dimensions[axis].categories.find(category => category.id === id)?.label_zh ?? id })));
+  const groups = selectionGroups(selected, taxonomy);
   async function copyLink() {
     try { await navigator.clipboard.writeText(window.location.href); setCopyMessage('連結已複製'); }
     catch { setManualLink(window.location.href); }
@@ -27,7 +30,17 @@ export function SelectionSummary({ selected, taxonomy, count, results, canUndo, 
       <button className={results ? 'outline-button' : 'primary-button'} disabled={!results && count === 0} onClick={onNext}>{results ? '調整分類' : '查看結果 →'}</button>
     </div>
     {!results && <p className="selection-label">目前選擇</p>}
-    {chips.length > 0 ? <div className="selected-chips">{chips.map(chip =>
+    {results && groups.length > 0 ? <dl className="selection-groups" aria-label="目前選擇，同組任一符合，跨組同時符合">
+      {groups.map(group => <div className="selection-group" key={group.axis}>
+        <dt>{GROUP_LABELS[group.axis]}</dt>
+        <dd>{group.categories.map((category, index) => <span className="selection-term" key={category.id}>
+          {index > 0 && <span className="selection-or">或</span>}
+          <button className="selected-chip grouped-chip" aria-label={`移除${LABELS[group.axis]}：${category.label_zh}`} onClick={() => onRemove(group.axis, category.id)}>
+            {category.label_zh}<span aria-hidden="true">×</span>
+          </button>
+        </span>)}</dd>
+      </div>)}
+    </dl> : chips.length > 0 ? <div className="selected-chips">{chips.map(chip =>
       <button className="selected-chip" key={`${chip.axis}-${chip.id}`} aria-label={`移除${LABELS[chip.axis]}：${chip.label}`} onClick={() => onRemove(chip.axis, chip.id)}>
         <span>{LABELS[chip.axis]}</span>{chip.label}<span aria-hidden="true">×</span>
       </button>)}</div> : !results && <p className="selection-hint">尚未選擇，從下面任一欄開始。</p>}

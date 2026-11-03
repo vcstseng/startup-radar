@@ -5,6 +5,7 @@ import { resolve } from 'node:path';
 import { paginate, parseRoute, routeQuery } from '../src/lib/route.js';
 import { validateSupplements } from '../src/lib/supplements.js';
 import { matchingIds } from '../src/lib/filter.js';
+import { selectionGroups } from '../src/lib/selectionGroups.js';
 import type { CatalogRecord, Facets, Taxonomy } from '../src/types.js';
 
 const read = (file: string) => JSON.parse(readFileSync(resolve(process.cwd(), '..', file), 'utf8'));
@@ -58,4 +59,40 @@ test('manual summaries require matching dataset, valid record, HTTP source and r
   }
   assert.throws(() => validateSupplements({...valid, dataset_id:'another-snapshot'}, catalog.dataset_id, ids));
   assert.throws(() => validateSupplements({...valid, records_by_id:{unknown:valid.records_by_id[id]}}, catalog.dataset_id, ids));
+});
+
+test('selected conditions group by dimension and company tags include only its actual selected matches', () => {
+  const route = parseRoute('?industry=healthcare&industry=education&solution=voice-conversation&solution=vision-imaging', taxonomy);
+  assert.equal(route.selected.industry_customer.length, 2);
+  assert.equal(route.selected.solution.length, 2);
+  const groups = selectionGroups(route.selected, taxonomy);
+  assert.deepEqual(groups.map(group => group.axis), ['industry_customer', 'solution']);
+  assert.equal(groups[0].categories.length, 2);
+  assert.equal(groups[1].categories.length, 2);
+  const matches = matchingIds(route.selected, facets, ids);
+  assert(matches.size > 0);
+  const matching = catalog.records.filter(record => matches.has(record.id));
+  let excludesSelectedAlternatives = false;
+  for (const record of matching) {
+    const actual = selectionGroups(route.selected, taxonomy, record);
+    assert.equal(actual.length, 2);
+    for (const group of actual) {
+      const expected = taxonomy.dimensions[group.axis].categories.filter(category =>
+        route.selected[group.axis].includes(category.id) && record.categories[group.axis].includes(category.id));
+      assert.deepEqual(group.categories, expected);
+      if (group.categories.length < route.selected[group.axis].length) excludesSelectedAlternatives = true;
+    }
+  }
+  assert(excludesSelectedAlternatives, 'Do not stamp every selected alternative onto every company');
+});
+
+test('unfiltered records show no matching-condition tags and selected system categories retain readable names', () => {
+  const empty = parseRoute('', taxonomy).selected;
+  assert.deepEqual(selectionGroups(empty, taxonomy), []);
+  assert.deepEqual(selectionGroups(empty, taxonomy, catalog.records[0]), []);
+  const missing = parseRoute('?work=__missing', taxonomy).selected;
+  const record = catalog.records.find(record => record.categories.problem_workflow.includes('__missing'))!;
+  const groups = selectionGroups(missing, taxonomy, record);
+  assert.equal(groups.length, 1);
+  assert.equal(groups[0].categories[0].label_zh, '原始資訊不足');
 });
