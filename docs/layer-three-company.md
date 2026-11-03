@@ -51,7 +51,14 @@ view、ID、分類條件與頁次保存在 query；捲動位置存在該瀏覽�
 - Aaron.ai：顯示既有 notes「未說明紀錄、電話或其他任務。」；從醫療＋語音第二頁進入，詳情重新整理後返回，仍為 21–24／24 筆、page=2，捲動位置從 y=432 還原至 y=432。
 - Parsed：無條件直接分享，不顯示命中 tags；沒有可用網址，不顯示外部網站區塊。
 - 無效 ID：顯示找不到紀錄及返回結果操作。
-- 手機 390×844 的 DOM 與尺寸檢查無水平溢出；複製連結顯示成功狀態。手機截圖此次工具擷取失敗，未宣稱完成該尺寸的視覺截圖驗證；桌面畫面另確認。
+- 手機 390×844 的 DOM 與尺寸檢查無水平溢出；複製連結顯示成功狀態。桌面及手機實際畫面均確認，公開版截圖見下。
 - 原始快照、正式批次、catalog、分類規則與補充資料均未改寫。沒有新填寫公司資料。
 
-公開部署紀錄於驗證上線後補充。
+## 公開部署
+
+功能版本 `35bd41d` 已上線，[部署 41638101441](https://github.com/vcstseng/startup-radar/actions/runs/41638101441) 成功。公開公司頁可直接讀取原文，返回結果後可再次從公司名稱進入。
+
+- [10x 公司頁範例](https://vcstseng.github.io/startup-radar/?industry=healthcare&work=sales-marketing&solution=agents&view=company&id=upstream-10109)
+- [公開版手機畫面](screenshots/layer-three-company.jpg)
+
+本輪到此完成，未新增公司資料或外部查證內容。
