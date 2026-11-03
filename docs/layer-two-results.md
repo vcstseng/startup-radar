@@ -14,6 +14,8 @@
 
 瀏覽器確認：醫療／教育 × 行銷銷售／客服 × agents／語音共有 11 筆；10x 僅標示醫療、行銷銷售及 agents，原細 tags 仍為牙科診所／銷售／AI agents。手機檢查無水平溢出；清除後回 4,085 筆且命中列消失。
 
+功能版本 `1f12a9c` 已上線，[部署 41635586268](https://github.com/vcstseng/startup-radar/actions/runs/41635586268) 成功，包含 14 項測試與建置。公開頁面已確認分組條件及 10x 的實際命中 tags 正常顯示；[新版畫面](screenshots/layer-two-match-tags.jpg)。
+
 - Layer 1 的「查看結果」已啟用，單選、多選及未選條件皆可進入；零筆組合停用入口。
 - 共用結果模板以 `facets` 找完整符合 ID，再從 `records` 讀取紀錄，不以 `example_ids` 代替完整結果。
 - 單欄列表，每頁 20 筆；呈現公司名稱、中文摘要、三維原始細 tags 與名錄來源。
