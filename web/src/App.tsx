@@ -1,7 +1,7 @@
 import { useEffect, useMemo, useState } from 'react';
 import { AXES, type CompanyDetail, type Selection } from './types.js';
 import { loadCompanyDetail, loadPortal, loadResults, type PortalData, type ResultsData } from './lib/catalog.js';
-import { categoryCounts, emptySelection, matchingIds, toggleSelection } from './lib/filter.js';
+import { categoryCounts, distributionCounts, emptySelection, matchingIds, toggleSelection } from './lib/filter.js';
 import { paginate, routeQuery } from './lib/route.js';
 import { useExploreRoute, useRestorePosition } from './lib/useExploreRoute.js';
 import { CategoryColumn } from './components/CategoryColumn.js';
@@ -61,6 +61,9 @@ export default function App() {
   const matches = useMemo(() => data ? matchingIds(route.selected, data.facets, data.allIds) : new Set<string>(), [data, route.selected]);
   const matchCount = useMemo(() => uniqueDisplayCount(matches, data?.duplicates), [matches, data]);
   const counts = useMemo(() => data ? categoryCounts(route.selected, data.facets, data.allIds, data.duplicates) : undefined, [data, route.selected]);
+  const distribution = useMemo(() => data ? distributionCounts(matches, data.facets, data.duplicates) : undefined, [data, matches]);
+  const baseline = useMemo(() => data ? distributionCounts(data.allIds, data.facets, data.duplicates) : undefined, [data]);
+  const hasSelection = AXES.some(a => route.selected[a].length > 0);
   const filtered = useMemo(() => results && data ? collapseRecords(results.records.filter(record => matches.has(record.id)), data.duplicates) : [], [results, matches, data]);
   const page = paginate(filtered, route.page);
   useEffect(() => {
@@ -89,10 +92,10 @@ export default function App() {
       <section className={`intro${isResults ? ' results-intro' : ''}${isCompany ? ' company-intro' : ''}`} aria-labelledby="page-title">
         <h1 id="page-title" tabIndex={-1}>{isCompany ? companyRecord?.name ?? '公司資料' : isResults ? '看看有哪些做法。' : 'AI 新創正在解決哪些問題？'}</h1>
         {!isCompany && <p className="intro-text">{isResults ? '依你選擇的分類，閱讀相關新創的產品與解法。' : `這裡整理了 ${data?.summary.record_count.toLocaleString() ?? '4,085'} 筆 AI 相關新創紀錄，展示時已合併明確重複項。選擇你關心的客群、工作或解法，探索相關公司的做法。`}</p>}
-        {!needsRecords && <p className="intro-example">例如，想看醫療領域的語音應用，可以選「醫療、照護與獸醫」＋「語音、對話與通訊」。</p>}
+        {!needsRecords && <p className="intro-example">先看三個面向的分布，再勾選感興趣的分類，看看它們之間的關係。</p>}
       </section>
       {error ? <section className="load-state" role="alert"><h2>暫時無法載入</h2><p>{error}</p><button onClick={() => setAttempt(x => x + 1)}>重新載入</button></section>
-        : !data || !counts || !initialized ? <p className="load-state" role="status">正在載入分類資料…</p>
+        : !data || !counts || !distribution || !baseline || !initialized ? <p className="load-state" role="status">正在載入分類資料…</p>
         : isCompany ? <div id="company-content">
           {resultsError ? <section className="load-state" role="alert"><h2>暫時無法載入公司資料</h2><p>{resultsError}</p><button onClick={() => setResultsAttempt(x => x + 1)}>重新載入</button></section>
             : !results ? <p className="load-state" role="status">正在載入公司資料…</p>
@@ -121,10 +124,14 @@ export default function App() {
                   onCompany={id => nav.navigate({ ...route, view: 'company', page: page.page, id })} />
               </>}
           </div> : <>
-            <p className="dataset-note portal-note">{AXES.map(a => `${data.taxonomy.dimensions[a].categories.filter(c => !c.id.startsWith('__')).length} 個${LABELS[a]}`).join('、')}。<span>只顯示可加入的分類；已選條件可隨時取消。</span></p>
+            <section className="distribution-context" aria-label="分布範圍">
+              <div><h2>{hasSelection ? '目前範圍的分布' : '整體分布'}</h2><p>{hasSelection ? `以下筆數與比例條，來自同時符合目前條件的 ${matchCount.toLocaleString()} 筆紀錄。` : `從 ${matchCount.toLocaleString()} 筆展示紀錄，看 AI 新創服務誰、處理哪些工作、採用哪些做法。`}</p></div>
+              {hasSelection && <button className="text-button" onClick={() => update(emptySelection())}>回到全部</button>}
+              <p className="distribution-note">比例以目前範圍的紀錄數為分母；分類可重疊，不相加為 100%。依全體筆數排序，選取時保持順序。這是名錄分布，不代表市場規模或成長。</p>
+            </section>
             <nav className="mobile-tabs" aria-label="選擇分類維度">{AXES.map(a => <button key={a} aria-pressed={axis === a} onClick={() => nav.setAxis(a)}>{LABELS[a]}{route.selected[a].length > 0 && <span>{route.selected[a].length}</span>}</button>)}</nav>
             <div id="portal" className="portal-grid">{AXES.map((a, i) => <CategoryColumn key={a} axis={a} number={`0${i + 1}`} question={QUESTIONS[a]} label={LABELS[a]}
-              categories={data.taxonomy.dimensions[a].categories} selected={route.selected[a]} counts={counts[a]} active={axis === a}
+              categories={data.taxonomy.dimensions[a].categories} selected={route.selected[a]} counts={counts[a]} distribution={distribution[a]} baseline={baseline[a]} total={matchCount} active={axis === a}
               onToggle={(a, id) => update(toggleSelection(route.selected, a, id))} />)}</div>
           </>}
         </>}

@@ -4,7 +4,7 @@ import { readFileSync } from 'node:fs';
 import { resolve } from 'node:path';
 import { createHash } from 'node:crypto';
 import { duplicateIndex, uniqueDisplayCount, collapseRecords, duplicateIds } from '../src/lib/duplicates.js';
-import { categoryCounts, matchingIds, parseSelection, emptySelection } from '../src/lib/filter.js';
+import { categoryCounts, distributionCounts, matchingIds, parseSelection, emptySelection } from '../src/lib/filter.js';
 import { AXES, type CatalogRecord, type Facets, type Taxonomy } from '../src/types.js';
 import { paginate } from '../src/lib/route.js';
 
@@ -17,6 +17,25 @@ const taxonomy = read('data/processed/catalog/v1/taxonomy.json') as Taxonomy;
 const artifact = read('data/processed/display/v1/duplicates.json');
 const all = new Set(catalog.records.map(record => record.id));
 const index = duplicateIndex(artifact, catalog.dataset_id, source.build_id, all);
+
+test('distribution counts the actual current intersection, grouped only after original-record matching', () => {
+  for (const query of ['', '?industry=healthcare&solution=voice-conversation', '?industry=healthcare&industry=life-sciences&solution=voice-conversation', '?industry=aerospace&work=sales-marketing&solution=software-platforms']) {
+    const selected = parseSelection(query, taxonomy);
+    const matches = matchingIds(selected, facets, all);
+    const distribution = distributionCounts(matches, facets, index);
+    const total = uniqueDisplayCount(matches, index);
+    for (const axis of AXES) for (const c of taxonomy.dimensions[axis].categories) {
+      const sourceMatches = catalog.records.filter(r => matches.has(r.id) && r.categories[axis].includes(c.id));
+      assert.equal(distribution[axis][c.id], collapseRecords(sourceMatches, index).length);
+      assert(distribution[axis][c.id] <= total);
+    }
+    if (query === '?industry=healthcare&solution=voice-conversation') {
+      assert.equal(distribution.solution['ml-prediction'], 0);
+      assert(categoryCounts(selected, facets, all, index).solution['ml-prediction'] > 0);
+    }
+  }
+  assert(AXES.every(axis => Object.values(distributionCounts(new Set(), facets, index)[axis]).every(n => n === 0)));
+});
 
 test('exact duplicate audit covers all source records and contains only complete identical triples', () => {
   const batches = new Map<string, any>();

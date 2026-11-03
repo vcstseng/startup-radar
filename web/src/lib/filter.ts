@@ -44,3 +44,11 @@ export function categoryCounts(selected: Selection, facets: Facets, allIds: Set<
   }
   return counts;
 }
+
+// Distribution uses the complete intersection, unlike candidate counts above.
+export function distributionCounts(matches: Set<string>, facets: Facets, duplicates?: DuplicateIndex): Record<Axis, Record<string, number>> {
+  return Object.fromEntries(AXES.map(axis => [axis, Object.fromEntries(
+    Object.entries(facets.dimensions[axis]).map(([id, bucket]) =>
+      [id, uniqueDisplayCount(bucket.record_ids.filter(id => matches.has(id)), duplicates)])
+  )])) as Record<Axis, Record<string, number>>;
+}
