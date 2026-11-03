@@ -16,3 +16,5 @@ console.log(`Prepared ${files.length} catalog assets.`);
 const supplements = resolve(import.meta.dirname, '../../data/supplements/v1/companies.json');
 await mkdir(resolve(target, '../supplements'), { recursive: true });
 await copyFile(supplements, resolve(target, '../supplements/companies.json'));
+await mkdir(resolve(target, '../display'), { recursive: true });
+await copyFile(resolve(source, '../../display/v1/duplicates.json'), resolve(target, '../display/duplicates.json'));

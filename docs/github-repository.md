@@ -15,6 +15,6 @@
 
 GitHub repository 保存原始碼與資料；網站另以 GitHub Pages 發布。目前已有分類入口、動態結果列表及共用公司資料頁三層，詳見 Layer 2／3 說明。
 
-部署設定在 `.github/workflows/deploy-pages.yml`：推送 main → npm ci → 18 項測試 → 以 `/startup-radar/` 為 base 建置 → 發布 `web/dist`。網站資產只包含準備腳本允許的 catalog 與補充 JSON，不直接發布 repository 的 raw／review 目錄。`.gitattributes` 不改既有 manifest 所驗證的位元組。
+部署設定在 `.github/workflows/deploy-pages.yml`：推送 main → npm ci → 23 項測試 → 以 `/startup-radar/` 為 base 建置 → 發布 `web/dist`。網站資產只包含準備腳本允許的 catalog、明確重複展示對照與補充 JSON，不直接發布 repository 的 raw／review／完整去重 audit 目錄。`.gitattributes` 不改既有 manifest 所驗證的位元組。
 
 前端啟動及檢查方式見 `layer-one-portal.md`。複製儲存庫後，於 `web` 執行 `npm ci`，再執行 `npm run dev -- --port 4173 --strictPort`。`npm run build` 會準備網站所需資料並建置。

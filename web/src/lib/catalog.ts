@@ -1,8 +1,9 @@
 import { AXES, type CatalogRecord, type CatalogSummary, type Facets, type Supplements, type Taxonomy } from '../types.js';
 import { validateSupplements } from './supplements.js';
 import { detailFromBatch } from './company.js';
+import { duplicateIndex, type DuplicateIndex } from './duplicates.js';
 
-export interface PortalData { taxonomy: Taxonomy; facets: Facets; summary: CatalogSummary; allIds: Set<string> }
+export interface PortalData { taxonomy: Taxonomy; facets: Facets; summary: CatalogSummary; allIds: Set<string>; duplicates: DuplicateIndex }
 export async function loadPortal(signal: AbortSignal): Promise<PortalData> {
   const base = `${import.meta.env.BASE_URL}data/catalog/`;
   const get = async <T,>(file: string): Promise<T> => {
@@ -11,15 +12,17 @@ export async function loadPortal(signal: AbortSignal): Promise<PortalData> {
     return response.json() as Promise<T>;
   };
   const index = await get<{ files: Record<string, string>; build_id: string }>('index.json');
-  const [taxonomy, facets, summary] = await Promise.all([
+  const [taxonomy, facets, summary, duplicateData] = await Promise.all([
     get<Taxonomy>(index.files.taxonomy), get<Facets>(index.files.facets), get<CatalogSummary>(index.files.summary),
+    get<unknown>('../display/duplicates.json'),
   ]);
   if (summary.build_id !== index.build_id) throw new Error('資料版本正在更新，請重新載入。');
   const allIds = new Set(Object.values(facets.dimensions.industry_customer).flatMap(bucket => bucket.record_ids));
   if (allIds.size !== summary.record_count || AXES.some(axis => !taxonomy.dimensions[axis])) {
     throw new Error('分類資料不完整，請重新載入。');
   }
-  return { taxonomy, facets, summary, allIds };
+  const duplicates = duplicateIndex(duplicateData, summary.dataset_id, summary.build_id, allIds);
+  return { taxonomy, facets, summary, allIds, duplicates };
 }
 
 const cachedRecords = new Map<string, CatalogRecord[]>();

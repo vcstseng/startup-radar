@@ -3,8 +3,8 @@ import { paginate } from '../lib/route.js';
 import { RecordMatches, RecordFacts, SOURCES } from './RecordContext.js';
 import type { MouseEvent } from 'react';
 
-interface Props { records: CatalogRecord[]; supplements: Supplements | null; selected: Selection; taxonomy: Taxonomy; page: number; onPage: (page: number) => void; companyHref: (id: string) => string; onCompany: (id: string) => void }
-export function ResultsList({ records, supplements, selected, taxonomy, page, onPage, companyHref, onCompany }: Props) {
+interface Props { records: CatalogRecord[]; supplements: Supplements | null; selected: Selection; taxonomy: Taxonomy; page: number; onPage: (page: number) => void; companyHref: (id: string) => string; onCompany: (id: string) => void; memberCount: (id: string) => number }
+export function ResultsList({ records, supplements, selected, taxonomy, page, onPage, companyHref, onCompany, memberCount }: Props) {
   const window = paginate(records, page);
   function openCompany(event: MouseEvent<HTMLAnchorElement>, id: string) {
     if (event.ctrlKey || event.metaKey || event.shiftKey || event.altKey || event.button !== 0) return;
@@ -23,7 +23,7 @@ export function ResultsList({ records, supplements, selected, taxonomy, page, on
           {manual && <p className="manual-source">人工補充介紹 · <a href={manual.source_url} target="_blank" rel="noopener noreferrer">來源 ↗</a> · {manual.updated_at}</p>}
           <RecordMatches record={record} selected={selected} taxonomy={taxonomy} />
           <RecordFacts record={record} />
-          <p className="record-source">名錄來源：{SOURCES[record.source] ?? record.source}</p>
+          <p className="record-source">名錄來源：{SOURCES[record.source] ?? record.source}{memberCount(record.id) > 1 && <span className="duplicate-badge">已合併 {memberCount(record.id)} 筆相同名錄</span>}</p>
         </article>;
       })}</div>
       {window.pages > 1 && <nav className="pagination" aria-label="結果分頁">
@@ -32,6 +32,6 @@ export function ResultsList({ records, supplements, selected, taxonomy, page, on
         <button className="outline-button" disabled={window.page === window.pages} onClick={() => onPage(window.page + 1)}>下一頁 →</button>
       </nav>}
     </> : <p className="empty-results">沒有符合的紀錄。可以移除上方條件，或返回分類選擇。</p>}
-    <p className="results-footnote">筆數為尚未去重的名錄紀錄；內容依既有資料整理，未確認公司與產品的最新狀況。</p>
+    <p className="results-footnote">名稱、網址與原文完全相同的紀錄已合併展示，其他可能重複的紀錄仍保留。內容依既有資料整理，未確認公司與產品的最新狀況。</p>
   </section>;
 }

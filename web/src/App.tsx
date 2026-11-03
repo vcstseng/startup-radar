@@ -8,6 +8,7 @@ import { CategoryColumn } from './components/CategoryColumn.js';
 import { SelectionSummary, LABELS } from './components/SelectionSummary.js';
 import { ResultsList } from './components/ResultsList.js';
 import { CompanyPage } from './components/CompanyPage.js';
+import { collapseRecords, duplicateIds, uniqueDisplayCount } from './lib/duplicates.js';
 
 const QUESTIONS = { industry_customer: '服務誰？', problem_workflow: '解決什麼工作？', solution: '採用什麼做法？' };
 export default function App() {
@@ -42,6 +43,11 @@ export default function App() {
     return () => controller.abort();
   }, [data, needsRecords, results, resultsAttempt]);
   const companyRecord = isCompany ? results?.records.find(record => record.id === route.id) : undefined;
+  const companyVariants = useMemo(() => {
+    if (!companyRecord || !data || !results) return [];
+    const memberIds = new Set(duplicateIds(companyRecord.id, data.duplicates));
+    return results.records.filter(record => memberIds.has(record.id));
+  }, [companyRecord, data, results]);
   const companyState = companyLoad?.id === companyRecord?.id ? companyLoad : undefined;
   useEffect(() => {
     if (!data || !companyRecord) return;
@@ -53,8 +59,9 @@ export default function App() {
     return () => controller.abort();
   }, [data, companyRecord, companyAttempt]);
   const matches = useMemo(() => data ? matchingIds(route.selected, data.facets, data.allIds) : new Set<string>(), [data, route.selected]);
-  const counts = useMemo(() => data ? categoryCounts(route.selected, data.facets, data.allIds) : undefined, [data, route.selected]);
-  const filtered = useMemo(() => results?.records.filter(record => matches.has(record.id)) ?? [], [results, matches]);
+  const matchCount = useMemo(() => uniqueDisplayCount(matches, data?.duplicates), [matches, data]);
+  const counts = useMemo(() => data ? categoryCounts(route.selected, data.facets, data.allIds, data.duplicates) : undefined, [data, route.selected]);
+  const filtered = useMemo(() => results && data ? collapseRecords(results.records.filter(record => matches.has(record.id)), data.duplicates) : [], [results, matches, data]);
   const page = paginate(filtered, route.page);
   useEffect(() => {
     if (isResults && results && page.page !== route.page) nav.replacePage(page.page);
@@ -81,7 +88,7 @@ export default function App() {
       </nav>
       <section className={`intro${isResults ? ' results-intro' : ''}${isCompany ? ' company-intro' : ''}`} aria-labelledby="page-title">
         <h1 id="page-title" tabIndex={-1}>{isCompany ? companyRecord?.name ?? '公司資料' : isResults ? '看看有哪些做法。' : 'AI 新創正在解決哪些問題？'}</h1>
-        {!isCompany && <p className="intro-text">{isResults ? '依你選擇的分類，閱讀相關新創的產品與解法。' : `這裡整理了 ${data?.summary.record_count.toLocaleString() ?? '4,085'} 筆 AI 相關新創紀錄。選擇你關心的客群、工作或解法，探索相關公司的做法。`}</p>}
+        {!isCompany && <p className="intro-text">{isResults ? '依你選擇的分類，閱讀相關新創的產品與解法。' : `這裡整理了 ${data?.summary.record_count.toLocaleString() ?? '4,085'} 筆 AI 相關新創紀錄，展示時已合併明確重複項。選擇你關心的客群、工作或解法，探索相關公司的做法。`}</p>}
         {!needsRecords && <p className="intro-example">例如，想看醫療領域的語音應用，可以選「醫療、照護與獸醫」＋「語音、對話與通訊」。</p>}
       </section>
       {error ? <section className="load-state" role="alert"><h2>暫時無法載入</h2><p>{error}</p><button onClick={() => setAttempt(x => x + 1)}>重新載入</button></section>
@@ -94,10 +101,13 @@ export default function App() {
               {results.supplementWarning && <p className="supplement-warning" role="status">補充介紹暫時無法載入，以下仍顯示原有資料。<button className="text-button" onClick={() => { setResults(undefined); setResultsAttempt(x => x + 1); }}>重試</button></p>}
               <CompanyPage key={companyRecord.id} record={companyRecord} detail={companyState?.value} error={companyState?.error}
                 manual={results.supplements?.records_by_id[companyRecord.id]} selected={route.selected} taxonomy={data.taxonomy}
+                variants={companyVariants} manualSummaries={results.supplements?.records_by_id}
+                variantHref={id => `?${routeQuery({ ...route, view: 'company', id })}`}
+                onVariant={id => nav.navigate({ ...route, view: 'company', id })}
                 onRetry={() => setCompanyAttempt(x => x + 1)} onReturn={nav.returnToResults} />
             </>}
         </div> : <>
-          <SelectionSummary selected={route.selected} taxonomy={data.taxonomy} count={matches.size} results={isResults} canUndo={nav.canUndo} routeKey={routeKey}
+          <SelectionSummary selected={route.selected} taxonomy={data.taxonomy} count={matchCount} results={isResults} canUndo={nav.canUndo} routeKey={routeKey}
             onRemove={(a, id) => update(toggleSelection(route.selected, a, id))} onClear={() => update(emptySelection())} onUndo={nav.undo}
             onNext={() => isResults ? nav.returnToPortal() : nav.navigate({ ...route, view: 'results', page: 1 })} />
           {isResults ? <div id="results-content">
@@ -106,6 +116,7 @@ export default function App() {
               : <>
                 {results.supplementWarning && <p className="supplement-warning" role="status">補充介紹暫時無法載入，以下仍顯示原有資料。<button className="text-button" onClick={() => { setResults(undefined); setResultsAttempt(x => x + 1); }}>重試</button></p>}
                 <ResultsList records={filtered} supplements={results.supplements} selected={route.selected} taxonomy={data.taxonomy} page={page.page} onPage={next => nav.navigate({ ...route, page: next })}
+                  memberCount={id => duplicateIds(id, data.duplicates).length}
                   companyHref={id => `?${routeQuery({ ...route, view: 'company', page: page.page, id })}`}
                   onCompany={id => nav.navigate({ ...route, view: 'company', page: page.page, id })} />
               </>}
@@ -118,6 +129,6 @@ export default function App() {
           </>}
         </>}
     </main>
-    <footer><p>分類可重疊，筆數為尚未去重的名錄紀錄。</p><p>Startup Radar <span>／</span> Explore, connect, discover.</p></footer>
+    <footer><p>分類可重疊；展示已合併明確重複，其他相似紀錄仍保留。</p><p>Startup Radar <span>／</span> Explore, connect, discover.</p></footer>
   </div>;
 }

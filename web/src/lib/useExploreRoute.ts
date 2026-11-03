@@ -52,7 +52,7 @@ export function useExploreRoute(taxonomy?: Taxonomy) {
     const portal = route.view === 'portal' ? { scroll: entry.scroll, axis } : entry.portal;
     const results = route.view === 'results' ? { scroll: entry.scroll, axis } : entry.results;
     window.history.pushState({ radar: true, scroll, axis, portal, results, previous: urlNow(), previousView: route.view } satisfies Entry, '', url);
-    pending.current = scroll; titleFocus.current = next.view !== route.view || next.page !== route.page;
+    pending.current = scroll; titleFocus.current = next.view !== route.view || next.page !== route.page || next.id !== route.id;
     setRoute(next); setCanUndo(next.view === 'portal' && route.view === 'portal');
   }
   function returnToPortal() {

@@ -1,4 +1,5 @@
 import { AXES, type Axis, type Category, type Facets, type Selection, type Taxonomy } from '../types.js';
+import { uniqueDisplayCount, type DuplicateIndex } from './duplicates.js';
 
 export function availableCategories(categories: Category[], selected: string[], counts: Record<string, number>): Category[] {
   return categories.filter(category => selected.includes(category.id) || (counts[category.id] ?? 0) > 0);
@@ -33,13 +34,13 @@ export function matchingIds(selected: Selection, facets: Facets, allIds: Set<str
   }
   return result;
 }
-export function categoryCounts(selected: Selection, facets: Facets, allIds: Set<string>): Record<Axis, Record<string, number>> {
+export function categoryCounts(selected: Selection, facets: Facets, allIds: Set<string>, duplicates?: DuplicateIndex): Record<Axis, Record<string, number>> {
   const counts = {} as Record<Axis, Record<string, number>>;
   for (const axis of AXES) {
     // Ignore this column's selection so users can add OR alternatives in it.
     const context = matchingIds(selected, facets, allIds, axis);
     counts[axis] = Object.fromEntries(Object.entries(facets.dimensions[axis]).map(([id, bucket]) =>
-      [id, bucket.record_ids.filter(record => context.has(record)).length]));
+      [id, uniqueDisplayCount(bucket.record_ids.filter(record => context.has(record)), duplicates)]));
   }
   return counts;
 }

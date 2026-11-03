@@ -26,7 +26,7 @@ export function SelectionSummary({ selected, taxonomy, count, results, canUndo, 
   }
   return <section className={`selection-panel${results ? ' results-selection' : ''}`} aria-label="目前選擇">
     <div className="selection-topline">
-      <p className="match-count" role="status" aria-live="polite" aria-atomic="true"><span>{chips.length ? '同時符合目前條件：' : '全部紀錄：'}</span><strong>{count.toLocaleString()}</strong> 筆</p>
+      <p className="match-count" role="status" aria-live="polite" aria-atomic="true"><span>{chips.length ? '同時符合目前條件：' : '全部展示紀錄：'}</span><strong>{count.toLocaleString()}</strong> 筆</p>
       <button className={results ? 'outline-button' : 'primary-button'} disabled={!results && count === 0} onClick={onNext}>{results ? '調整分類' : '查看結果 →'}</button>
     </div>
     {!results && <p className="selection-label">目前選擇</p>}

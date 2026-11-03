@@ -1,0 +1,10 @@
+{
+  "inputs": {
+    "scripts/analyze/build_exact_duplicates.py": "c951a7b86bf9e295777afa957827e117abc826586e1174f7455c507d940c9d8a",
+    "data/processed/catalog/v1/manifest.json": "8f93e7f5e7850db26f53177245065da3724aed1d2ea9efe9a4f3b701119365fb"
+  },
+  "outputs": {
+    "duplicates.json": "a61fb14b07d55de2fc201934d5c45989e68b6808ccacb49a33f1fd2c15577a30",
+    "audit.json": "bc67f64b107898345c3dab41a8d896693a1a4791a78df73d49efcdd2bbaaa63d"
+  }
+}
