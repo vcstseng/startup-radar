@@ -82,7 +82,10 @@ export default function App() {
   return <div className={`app-shell${!needsRecords ? ' portal-view' : ''}`}>
     <a className="skip-link" href={isCompany ? '#company-content' : isResults ? '#results-content' : '#portal'}>{t("跳到")}{isCompany ? t("公司資料") : isResults ? t("探索結果") : t("分類入口")}</a>
     <header className="masthead">
-      <a href={import.meta.env.BASE_URL} className="wordmark" onClick={event => { event.preventDefault(); needsRecords ? nav.returnToPortal() : window.scrollTo(0, 0); }}>Startup Radar<span className="brand-dot" /></a>
+      <a href={`${import.meta.env.BASE_URL}${lang === 'en' ? '?lang=en' : ''}`} className="wordmark" onClick={event => {
+        if (event.ctrlKey || event.metaKey || event.shiftKey || event.altKey || event.button !== 0) return;
+        event.preventDefault(); needsRecords ? nav.returnToPortal() : window.scrollTo(0, 0);
+      }}>Startup Radar<span className="brand-dot" /></a>
       <div className="masthead-tools"><span className="masthead-note">{t("探索 AI 新創的不同做法")}</span><nav className="language-switch" aria-label="Language"><button aria-pressed={lang === 'zh'} onClick={() => setLanguage('zh')}>{t("中文")}</button><button aria-pressed={lang === 'en'} onClick={() => setLanguage('en')}>English</button></nav></div>
     </header>
     <main>
