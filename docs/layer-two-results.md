@@ -68,3 +68,12 @@ upstream ID 是固定快照內的紀錄參照，不是跨快照永久公司身�
 - 未改 raw、正式批次、catalog 或分類規則；沒有補寫真實公司的介紹。
 
 截圖：`screenshots/layer-two-desktop.jpg`。上線結果以 GitHub Pages／Actions 為準。
+
+## 上線紀錄
+
+已推送功能版本 `b238b9d`，GitHub Actions [41632997678](https://github.com/vcstseng/startup-radar/actions/runs/41632997678) 的 build／12 項測試／deploy 全部成功。公開結果頁已確認載入 24 筆醫療＋語音結果，第一頁 20 筆；補充檔正常，不顯示錯誤提示。
+
+- [公開 Layer 2 範例](https://vcstseng.github.io/startup-radar/?industry=healthcare&solution=voice-conversation&view=results)
+- [公開版截圖](screenshots/layer-two-live.jpg)
+
+本輪完成後停止；Layer 3 等使用者確認後再開始。
