@@ -77,7 +77,7 @@ export default function App() {
   function update(selected: Selection) {
     nav.navigate({ ...route, selected, page: 1, id: undefined }, isResults ? 0 : window.scrollY);
   }
-  return <div className="app-shell">
+  return <div className={`app-shell${!needsRecords ? ' portal-view' : ''}`}>
     <a className="skip-link" href={isCompany ? '#company-content' : isResults ? '#results-content' : '#portal'}>跳到{isCompany ? '公司資料' : isResults ? '探索結果' : '分類入口'}</a>
     <header className="masthead">
       <a href={import.meta.env.BASE_URL} className="wordmark" onClick={event => { event.preventDefault(); needsRecords ? nav.returnToPortal() : window.scrollTo(0, 0); }}>Startup Radar<span className="brand-dot" /></a>
@@ -91,8 +91,7 @@ export default function App() {
       </nav>
       <section className={`intro${isResults ? ' results-intro' : ''}${isCompany ? ' company-intro' : ''}`} aria-labelledby="page-title">
         <h1 id="page-title" tabIndex={-1}>{isCompany ? companyRecord?.name ?? '公司資料' : isResults ? '看看有哪些做法。' : 'AI 新創正在解決哪些問題？'}</h1>
-        {!isCompany && <p className="intro-text">{isResults ? '依你選擇的分類，閱讀相關新創的產品與解法。' : `這裡整理了 ${data?.summary.record_count.toLocaleString() ?? '4,085'} 筆 AI 相關新創紀錄，展示時已合併明確重複項。選擇你關心的客群、工作或解法，探索相關公司的做法。`}</p>}
-        {!needsRecords && <p className="intro-example">先看三個面向的分布，再勾選感興趣的分類，看看它們之間的關係。</p>}
+        {!isCompany && <p className="intro-text">{isResults ? '依你選擇的分類，閱讀相關新創的產品與解法。' : '先看客群、工作與解法的分布，再勾選分類探索相關新創。'}</p>}
       </section>
       {error ? <section className="load-state" role="alert"><h2>暫時無法載入</h2><p>{error}</p><button onClick={() => setAttempt(x => x + 1)}>重新載入</button></section>
         : !data || !counts || !distribution || !baseline || !initialized ? <p className="load-state" role="status">正在載入分類資料…</p>
@@ -125,9 +124,9 @@ export default function App() {
               </>}
           </div> : <>
             <section className="distribution-context" aria-label="分布範圍">
-              <div><h2>{hasSelection ? '目前範圍的分布' : '整體分布'}</h2><p>{hasSelection ? `以下筆數與比例條，來自同時符合目前條件的 ${matchCount.toLocaleString()} 筆紀錄。` : `從 ${matchCount.toLocaleString()} 筆展示紀錄，看 AI 新創服務誰、處理哪些工作、採用哪些做法。`}</p></div>
+              <div><h2>{hasSelection ? '目前範圍的分布' : '整體分布'}</h2><p>筆數與比例條顯示目前紀錄的分布，不是勾選後的預估結果。</p></div>
               {hasSelection && <button className="text-button" onClick={() => update(emptySelection())}>回到全部</button>}
-              <p className="distribution-note">比例以目前範圍的紀錄數為分母；分類可重疊，不相加為 100%。依全體筆數排序，選取時保持順序。這是名錄分布，不代表市場規模或成長。</p>
+              <details className="distribution-help"><summary>資料與計數說明</summary><p>從 {data.summary.record_count.toLocaleString()} 筆來源紀錄合併明確重複後，展示 {data.duplicates.displayRecordCount.toLocaleString()} 筆。比例以目前範圍的 {matchCount.toLocaleString()} 筆為分母；分類可重疊，不相加為 100%。依全體筆數排序，選取時保持順序。名錄分布不代表市場規模或成長。</p></details>
             </section>
             <nav className="mobile-tabs" aria-label="選擇分類維度">{AXES.map(a => <button key={a} aria-pressed={axis === a} onClick={() => nav.setAxis(a)}>{LABELS[a]}{route.selected[a].length > 0 && <span>{route.selected[a].length}</span>}</button>)}</nav>
             <div id="portal" className="portal-grid">{AXES.map((a, i) => <CategoryColumn key={a} axis={a} number={`0${i + 1}`} question={QUESTIONS[a]} label={LABELS[a]}
@@ -136,6 +135,10 @@ export default function App() {
           </>}
         </>}
     </main>
+    {!needsRecords && data && initialized && !error && <nav className="mobile-result-bar" aria-label="查看探索結果">
+      <p>{hasSelection ? '符合條件' : '全部紀錄'}<strong>{matchCount.toLocaleString()} <span>筆</span></strong></p>
+      <button className="primary-button" disabled={matchCount === 0} onClick={() => nav.navigate({ ...route, view: 'results', page: 1 })}>查看結果 →</button>
+    </nav>}
     <footer><p>分類可重疊；展示已合併明確重複，其他相似紀錄仍保留。</p><p>Startup Radar <span>／</span> Explore, connect, discover.</p></footer>
   </div>;
 }

@@ -20,7 +20,7 @@ export function CategoryColumn({ axis, number, question, label, categories, sele
     const percent = total > 0 ? count / total * 100 : 0;
     return <label className={`category-row${checked ? ' is-selected' : ''}${counts[category.id] === 0 && !checked ? ' is-unavailable' : ''}`} key={category.id}
       title={category.description_zh ?? category.label_zh}>
-      <input type="checkbox" aria-label={category.label_zh} aria-describedby={`${axis}-${category.id}-count`} checked={checked} onChange={() => onToggle(axis, category.id)} />
+      <input type="checkbox" aria-label={category.label_zh} aria-describedby={`${axis}-count-label ${axis}-${category.id}-count`} checked={checked} onChange={() => onToggle(axis, category.id)} />
       <span className="category-content"><span className="category-line"><span className="category-name">{category.label_zh}</span>
         <span className="category-count" id={`${axis}-${category.id}-count`}>{alternative ? '可擴選' : `${count.toLocaleString()} 筆`}</span></span>
         {!alternative && <span className="distribution-track" aria-hidden="true"><span style={{ width: `${percent}%` }} /></span>}
@@ -31,8 +31,9 @@ export function CategoryColumn({ axis, number, question, label, categories, sele
     <header className="column-heading">
       <span className="column-number">{number}</span>
       <h2 id={`${axis}-heading`}>{question}</h2>
-      <p>{label} <span aria-hidden="true">·</span> {normal.length} 類<span className="available-count">目前範圍涵蓋 {primary.filter(c => distribution[c.id] > 0).length} 類</span></p>
+      <p>{label} <span aria-hidden="true">·</span> {normal.length} 類<span className="available-count">{selected.length > 0 ? '再選同欄分類可擴大範圍。' : `目前範圍涵蓋 ${primary.filter(c => distribution[c.id] > 0).length} 類`}</span></p>
     </header>
+    <p className="distribution-count-label" id={`${axis}-count-label`}>目前範圍內筆數</p>
     <div className="category-list">{primary.map(c => row(c))}</div>
     {visible.length === 0 && <p className="empty-category">目前沒有可加入的選項。試著移除已選條件，或撤回上次選擇。</p>}
     {alternatives.length > 0 && <details className="system-categories expansion-categories">

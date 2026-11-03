@@ -43,12 +43,12 @@ export function SelectionSummary({ selected, taxonomy, count, results, canUndo, 
     </dl> : chips.length > 0 ? <div className="selected-chips">{chips.map(chip =>
       <button className="selected-chip" key={`${chip.axis}-${chip.id}`} aria-label={`移除${LABELS[chip.axis]}：${chip.label}`} onClick={() => onRemove(chip.axis, chip.id)}>
         <span>{LABELS[chip.axis]}</span>{chip.label}<span aria-hidden="true">×</span>
-      </button>)}</div> : !results && <p className="selection-hint">尚未選擇，從下面任一欄開始。</p>}
+      </button>)}</div> : null}
     <div className="selection-bottom">
-      {!results && <p className="selection-hint">每欄可以多選，符合其中一項即可；不同欄的條件則必須同時符合。不必選滿三欄。</p>}
+      {!results && <p className="selection-hint">同欄選任一項即可，跨欄須同時符合；不必選滿三欄。</p>}
       <div className="selection-actions">
-        {!results && <button className="text-button" disabled={!canUndo} onClick={onUndo}>← 撤回上次選擇</button>}
-        <button className="text-button" disabled={chips.length === 0} onClick={onClear}>清除條件</button>
+        {!results && canUndo && <button className="text-button" onClick={onUndo}>← 撤回上次選擇</button>}
+        {chips.length > 0 && <button className="text-button" onClick={onClear}>清除條件</button>}
         <button className="text-button" onClick={copyLink}>{copyMessage || '複製連結'}</button>
       </div>
     </div>
