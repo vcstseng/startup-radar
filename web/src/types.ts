@@ -11,3 +11,5 @@ export interface CatalogRecord {
   website: string | null; website_status: string;
   tags: Record<Axis, string[]>; categories: Record<Axis, string[]>; detail_file: string;
 }
+export interface ManualSummary { summary_zh: string; source_url: string; updated_at: string }
+export interface Supplements { schema_version: string; dataset_id: string; records_by_id: Record<string, ManualSummary> }

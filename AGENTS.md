@@ -1,5 +1,11 @@
 # Startup Radar：每輪工作指引
 
+## 最新授權：2026-11-03，Layer 2 開發
+
+使用者已授權開發並部署動態 Layer 2，隨即明確收斂為只做 Layer 2，不做 Layer 3。範圍：共用單欄結果列表、每頁 20 筆、名稱／摘要／三維細 tags／來源、移除條件、返回 Layer 1 保留條件與位置、網址與上一頁／下一頁；補充 JSON 以資料集 ID＋紀錄 ID 連接，預留人工摘要讀取接點，不改原始資料。公司詳情頁、詳情按鈕、搜尋、登入、AI 補查、99 Problems 對應皆不在本輪。下文「不開始 Layer 2」是歷史限制，以本段及使用者最新指示為準。已有四項 Layer 1 UX review 不因此整批實作。
+
+Layer 2 實作與驗證見 `docs/layer-two-results.md`。人工摘要檔為 `data/supplements/v1/companies.json`，目前為空；補充不改分類或原始資料。做完更新 docs／GitHub／部署後先停止，等使用者確認 Layer 2，再繼續 Layer 3。
+
 截至 2026-11-03 的進度與交接見 `docs/progress-2026-11-03.md`。網站已公開部署；Layer 1 UX review 的四項精簡建議僅記錄、尚未實作。下一步依使用者指示決定，不能把 review 或進度紀錄當成開始 Layer 2／3 的授權。
 
 GitHub：使用者明確指定在與 99 Problems 相同的 vcstseng 帳號建立公開 repository 並部署網站。專案 https://github.com/vcstseng/startup-radar ，網站 https://vcstseng.github.io/startup-radar/ 。使用 GitHub Pages，部署流程見 .github/workflows/deploy-pages.yml 與 docs/github-repository.md；下文的「不發布」為先前範圍，不否定此授權。產品範圍仍只有 Layer 1，不因此開始 Layer 2／3。

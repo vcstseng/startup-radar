@@ -1,5 +1,7 @@
 # 全量網站資料格式 1.0
 
+2026-11-03：Layer 2 已使用既有 records／facets 建立動態列表；手動補充摘要另存 `data/supplements/v1/companies.json`，以 dataset_id＋紀錄 ID 連接，詳見 `layer-two-results.md`。本資料契約、原始批次及 catalog 不因新增頁面而改寫。
+
 2026-11-02 分類修正：schema 仍為 1.0，taxonomy 更新為 `catalog-1.0.1`。聊天機器人不再因「機器人」子字串被分進實體機器人大類；12 筆移除該衍生分類，原 tags／原文及詳情未改。詳見 `reviews/2026-11-02-robotics-correction.json`。網站目前已有本機 Layer 1，以下資料交付描述保留作契約背景。
 
 目前交付的是本地資料集，不包含網站介面或部署。根目錄：`data/processed/catalog/v1/`。本次新增的是衍生網站格式，既有公司批次 schema 1.0 不變。

@@ -2,6 +2,8 @@
 
 日期：2026-11-02。使用者授權先完成功能，風格極簡。
 
+2026-11-03 接續：已完成 Layer 2，「查看結果」已啟用；結果模板、人工補充與驗證見 `layer-two-results.md`。下文停用按鈕的說明為 Layer 1 單獨開發階段的歷史決定。
+
 公開網站：<https://vcstseng.github.io/startup-radar/>。程式與資料：<https://github.com/vcstseng/startup-radar>。使用者已另行授權新建公開 repository 及部署 GitHub Pages，取代先前僅限本機的範圍；產品功能仍只有 Layer 1。
 
 ## 本輪完成

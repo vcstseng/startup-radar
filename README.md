@@ -2,6 +2,8 @@
 
 最新進度：[2026-11-03 紀錄](docs/progress-2026-11-03.md)，包含 Layer 1、篩選決定、分類修正、公開部署及尚未實作的 UI／UX 建議。
 
+接續已實作 Layer 2：從分類入口查看動態結果，單欄列表每頁 20 筆，保留條件／頁次／返回位置，支援獨立的人工摘要補充 JSON。見 [Layer 2 說明](docs/layer-two-results.md)。Layer 3 尚未實作，待 Layer 2 確認後再繼續；下文較早的「只有 Layer 1」為歷史階段狀態。
+
 網站：[Startup Radar](https://vcstseng.github.io/startup-radar/)（GitHub Pages）。專案儲存庫：[vcstseng/startup-radar](https://github.com/vcstseng/startup-radar)（公開）。來源資料與上傳範圍見 [GitHub 說明](docs/github-repository.md)，本機啟動方式見 [Layer 1 操作說明](docs/layer-one-portal.md)。
 
 從新創公司名錄整理高層次 trends 與 ideas，透過網站探索；使用者查看個別公司時，再按需取得詳細資訊。
